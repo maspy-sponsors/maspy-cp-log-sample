@@ -11,7 +11,7 @@ shared with paid GitHub Sponsors.
 - `index/`: generated indexes covering only the problems included in this sample
 - `full-repository/`: README files, statistics, and recent additions from the full repository
 
-The following files under `full-repository/` will be automatically synchronized
+The following files under `full-repository/` are automatically synchronized
 from the full repository:
 
 - [`full-repository/README.md`](full-repository/README.md)
