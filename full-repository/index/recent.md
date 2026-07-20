@@ -1,0 +1,104 @@
+# Recent
+
+Latest 100 problems.
+
+- 2026-07-20 [codeforces/1773/l](../log/codeforces/1773/l/memo.md): L. Lisa's Sequences `D7`
+- 2026-07-20 [codeforces/1667/f](../log/codeforces/1667/f/memo.md): F. Yin Yang `D9` `構築` `グリッド構築` `平面グラフ`
+- 2026-07-20 [codeforces/1349/e](../log/codeforces/1349/e/memo.md): E. Slime and Hats `D8` `帽子` `論理パズル`
+- 2026-07-19 [codeforces/2247/f](../log/codeforces/2247/f/memo.md): F. Paths on a Grid `D5` `dominator_tree` `ハッシュ`
+- 2026-07-19 [codeforces/2247/e](../log/codeforces/2247/e/memo.md): E. Build a Tree `D4` `構築` `木の構築` `順列の構築`
+- 2026-07-19 [codeforces/2247/d2](../log/codeforces/2247/d2/memo.md): D2. XOR Sorting (Hard Version) `D4`
+- 2026-07-19 [codeforces/2247/c](../log/codeforces/2247/c/memo.md): C. Inversion of a Subsequence `D3`
+- 2026-07-19 [codeforces/2247/b](../log/codeforces/2247/b/memo.md): B. Yet Another Constructive `D3` `構築`
+- 2026-07-19 [codeforces/2247/a](../log/codeforces/2247/a/memo.md): A. Zero Sum `D2` `parity` `不変量`
+- 2026-07-19 [codeforces/2155/f](../log/codeforces/2155/f/memo.md): F. Juan's Colorful Tree `D5` `offline_set_intersection`
+- 2026-07-19 [codeforces/2155/e](../log/codeforces/2155/e/memo.md): E. Mimo & Yuyu `D4` `ゲーム`
+- 2026-07-19 [codeforces/2155/d](../log/codeforces/2155/d/memo.md): D. Batteries `D4` `インタラクティブ`
+- 2026-07-19 [codeforces/2155/c](../log/codeforces/2155/c/memo.md): C. The Ancient Wizards' Capes `D3`
+- 2026-07-19 [codeforces/2155/b](../log/codeforces/2155/b/memo.md): B. Abraham's Great Escape `D3` `構築`
+- 2026-07-19 [codeforces/2155/a](../log/codeforces/2155/a/memo.md): A. El fucho `D1`
+- 2026-07-19 [codeforces/2061/i](../log/codeforces/2061/i/memo.md): I. Kevin and Nivek `D8` `2次元dpの分割統治高速化`
+- 2026-07-19 [codeforces/2061/h2](../log/codeforces/2061/h2/memo.md): H2. Kevin and Stones (Hard Version) `D9` `マッチング` `木上の輸送`
+- 2026-07-19 [codeforces/2061/g](../log/codeforces/2061/g/memo.md): G. Kevin and Teams `D5` `インタラクティブ` `帰納的構成`
+- 2026-07-19 [codeforces/2061/f2](../log/codeforces/2061/f2/memo.md): F2. Kevin and Binary String (Hard Version) `D6`
+- 2026-07-19 [codeforces/2061/e](../log/codeforces/2061/e/memo.md): E. Kevin and And `D4` `min_plus_convolution` `凸性の証明`
+- 2026-07-19 [codeforces/2061/d](../log/codeforces/2061/d/memo.md): D. Kevin and Numbers `D2`
+- 2026-07-19 [codeforces/2061/c](../log/codeforces/2061/c/memo.md): C. Kevin and Puzzle `D3`
+- 2026-07-19 [codeforces/2061/b](../log/codeforces/2061/b/memo.md): B. Kevin and Geometry `D3`
+- 2026-07-19 [codeforces/2061/a](../log/codeforces/2061/a/memo.md): A. Kevin and Arithmetic `D1`
+- 2026-07-19 [atcoder/arc225/e](../log/atcoder/arc225/e/memo.md): E - Gap Swap (hard) `D5` `スワップコスト最小化`
+- 2026-07-19 [atcoder/arc225/d](../log/atcoder/arc225/d/memo.md): D - Gap Swap (easy) `D3` `スワップコスト最小化`
+- 2026-07-19 [atcoder/arc225/c](../log/atcoder/arc225/c/memo.md): C - K Spanning Tree `D3` `最小全域木`
+- 2026-07-19 [atcoder/arc225/b](../log/atcoder/arc225/b/memo.md): B - Independent Nim `D4` `ゲーム` `実験`
+- 2026-07-19 [atcoder/arc225/a](../log/atcoder/arc225/a/memo.md): A - Four Coloring `D2` `構築`
+- 2026-07-19 [atcoder/abc282/h](../log/atcoder/abc282/h/memo.md): Ex - Min + Sum `D4` `分割統治` `Cartesian_Tree`
+- 2026-07-19 [atcoder/abc282/g](../log/atcoder/abc282/g/memo.md): G - Similar Permutation `D4` `挿入dp` `二次元累積和`
+- 2026-07-19 [atcoder/abc282/f](../log/atcoder/abc282/f/memo.md): F - Union of Two Sets `D4` `インタラクティブ` `スパーステーブル`
+- 2026-07-19 [atcoder/abc282/e](../log/atcoder/abc282/e/memo.md): E - Choose Two and Eat One `D3` `MST` `最小有向全域木`
+- 2026-07-19 [atcoder/abc282/d](../log/atcoder/abc282/d/memo.md): D - Make Bipartite 2 `D3` `二部グラフ`
+- 2026-07-19 [atcoder/abc282/c](../log/atcoder/abc282/c/memo.md): C - String Delimiter `D2`
+- 2026-07-19 [atcoder/abc282/b](../log/atcoder/abc282/b/memo.md): B - Let's Get a Perfect Score `D1` `bitmask`
+- 2026-07-19 [atcoder/abc282/a](../log/atcoder/abc282/a/memo.md): A - Generalized ABC `D1`
+- 2026-07-19 [atcoder/abc126/f](../log/atcoder/abc126/f/memo.md): F - XOR Matching `D4` `構築` `2回ずつ現れる列`
+- 2026-07-19 [atcoder/abc126/e](../log/atcoder/abc126/e/memo.md): E - 1 or 2 `D3` `連結成分`
+- 2026-07-19 [atcoder/abc126/d](../log/atcoder/abc126/d/memo.md): D - Even Relation `D2`
+- 2026-07-19 [atcoder/abc126/c](../log/atcoder/abc126/c/memo.md): C - Dice and Coin `D2`
+- 2026-07-19 [atcoder/abc126/b](../log/atcoder/abc126/b/memo.md): B - YYMM or MMYY `D2`
+- 2026-07-19 [atcoder/abc126/a](../log/atcoder/abc126/a/memo.md): A - Changing a Character `D1`
+- 2026-07-18 [nowcoder/133876/k](../log/nowcoder/133876/k/memo.md): K. Geometry Textbook `D7` `幾何` `多角形の面積` `三角形分割` `Minkowski和`
+- 2026-07-18 [nowcoder/133876/h](../log/nowcoder/133876/h/memo.md): H. Rock-Paper-Scissors Master `D6` `マルコフ連鎖` `マルコフ連鎖の収束`
+- 2026-07-18 [nowcoder/133876/f](../log/nowcoder/133876/f/memo.md): F. Permutation Generation `D2`
+- 2026-07-18 [nowcoder/133876/e](../log/nowcoder/133876/e/memo.md): E. Permutation Evaluation `D1`
+- 2026-07-18 [codeforces/1819/f](../log/codeforces/1819/f/memo.md): F. Willy-nilly, Crack, Into Release! `D7` `フラクタル`
+- 2026-07-18 [codeforces/1819/e](../log/codeforces/1819/e/memo.md): E. Roads in E City `D5` `インタラクティブ` `乱択アルゴリズム`
+- 2026-07-18 [codeforces/1819/d](../log/codeforces/1819/d/memo.md): D. Misha and Apples `D5`
+- 2026-07-18 [codeforces/1819/c](../log/codeforces/1819/c/memo.md): C. The Fox and the Complete Tree Traversal `D5` `木の2乗グラフ` `ハミルトンサイクル` `Catapiller`
+- 2026-07-18 [codeforces/1819/b](../log/codeforces/1819/b/memo.md): B. The Butcher `D3`
+- 2026-07-18 [codeforces/1819/a](../log/codeforces/1819/a/memo.md): A. Constructive Problem `D2` `mex`
+- 2026-07-18 [codeforces/600/f](../log/codeforces/600/f/memo.md): F. Edge coloring of bipartite graph `D5` `辺彩色`
+- 2026-07-18 [codeforces/600/e](../log/codeforces/600/e/memo.md): E. Lomsat gelral `D3` `マージテク` `dsu_on_tree`
+- 2026-07-18 [codeforces/600/d](../log/codeforces/600/d/memo.md): D. Area of Two Circles' Intersection `D2` `幾何` `円の共通部分`
+- 2026-07-18 [codeforces/600/c](../log/codeforces/600/c/memo.md): C. Make Palindrome `D2` `回文`
+- 2026-07-18 [codeforces/600/b](../log/codeforces/600/b/memo.md): B. Queries about less or equal elements `D1` `二分探索`
+- 2026-07-18 [codeforces/600/a](../log/codeforces/600/a/memo.md): A. Extract Numbers `D2`
+- 2026-07-18 [atcoder/abc467/g](../log/atcoder/abc467/g/memo.md): G - Many Sweets Problem `D5` `矩形クエリ` `Wavelet_Matrix` `Wavelet_Matrix_二分探索`
+- 2026-07-18 [atcoder/abc467/f](../log/atcoder/abc467/f/memo.md): F - Email Scheduling Optimization `D4` `ソート順の決定` `値をインデックスにする`
+- 2026-07-18 [atcoder/abc467/e](../log/atcoder/abc467/e/memo.md): E - Adjacent Sums (hard) `D4`
+- 2026-07-18 [atcoder/abc467/d](../log/atcoder/abc467/d/memo.md): D - Concentric Circles `D3` `幾何` `垂直二等分線`
+- 2026-07-18 [atcoder/abc467/b](../log/atcoder/abc467/b/memo.md): B - Keep the Change `D1`
+- 2026-07-18 [atcoder/abc467/a](../log/atcoder/abc467/a/memo.md): A - Obesity `D1`
+- 2026-07-18 [atcoder/abc360/g](../log/atcoder/abc360/g/memo.md): G - Suitable Edit for LIS `D4` `LIS`
+- 2026-07-18 [atcoder/abc360/f](../log/atcoder/abc360/f/memo.md): F - InterSections `D3` `座標圧縮` `区間端点_sweep`
+- 2026-07-18 [atcoder/abc360/e](../log/atcoder/abc360/e/memo.md): E - Random Swaps of Balls `D2`
+- 2026-07-18 [atcoder/abc360/d](../log/atcoder/abc360/d/memo.md): D - Ghost Ants `D2`
+- 2026-07-18 [atcoder/abc360/c](../log/atcoder/abc360/c/memo.md): C - Move It `D2`
+- 2026-07-18 [atcoder/abc360/b](../log/atcoder/abc360/b/memo.md): B - Vertical Reading `D2`
+- 2026-07-18 [atcoder/abc360/a](../log/atcoder/abc360/a/memo.md): A - A Healthy Breakfast `D1`
+- 2026-07-17 [yukicoder/3593](../log/yukicoder/3593/memo.md): No.3593 I Love Sudoku `D8` `線形代数` `構築` `群` `数独`
+- 2026-07-17 [codeforces/2245/g](../log/codeforces/2245/g/memo.md): G. NPC Challenge `D7` `インタラクティブ`
+- 2026-07-17 [codeforces/2245/f](../log/codeforces/2245/f/memo.md): F. Familiar? `D7` `区間dp` `Cartesian_Tree`
+- 2026-07-17 [codeforces/2245/e](../log/codeforces/2245/e/memo.md): E. Tom and Jerry `D7` `ゲーム`
+- 2026-07-17 [codeforces/2245/d2](../log/codeforces/2245/d2/memo.md): D2. Construct an Array (Hard Version) `D7` `構築` `potential` `頂点倍加`
+- 2026-07-17 [codeforces/2245/c](../log/codeforces/2245/c/memo.md): C. MEXOR `D4` `構築`
+- 2026-07-17 [codeforces/2245/b](../log/codeforces/2245/b/memo.md): B. Delete and Concatenate `D4`
+- 2026-07-17 [codeforces/2245/a](../log/codeforces/2245/a/memo.md): A. Who Watches the Watchpig? `D3`
+- 2026-07-17 [codeforces/2081/g2](../log/codeforces/2081/g2/memo.md): G2. Hard Formula (Hard Version) `D7` `数論関数` `black_algorithm`
+- 2026-07-17 [codeforces/2081/f](../log/codeforces/2081/f/memo.md): F. Hot Matrix `D7` `構築`
+- 2026-07-17 [codeforces/2081/e](../log/codeforces/2081/e/memo.md): E. Quantifier `D6`
+- 2026-07-17 [codeforces/2081/d](../log/codeforces/2081/d/memo.md): D. MST in Modulo Graph `D4` `MST` `辺の削減`
+- 2026-07-17 [codeforces/2081/c](../log/codeforces/2081/c/memo.md): C. Quaternary Matrix `D6` `貪欲`
+- 2026-07-17 [codeforces/2081/b](../log/codeforces/2081/b/memo.md): B. Balancing `D6`
+- 2026-07-17 [codeforces/2081/a](../log/codeforces/2081/a/memo.md): A. Math Division `D2`
+- 2026-07-17 [codeforces/365/e](../log/codeforces/365/e/memo.md): E. Beautiful Set `D4` `構築` `smooth_number`
+- 2026-07-17 [codeforces/365/d](../log/codeforces/365/d/memo.md): D. Free Market `D3`
+- 2026-07-17 [codeforces/365/c](../log/codeforces/365/c/memo.md): C. Matrix `D2`
+- 2026-07-17 [codeforces/365/b](../log/codeforces/365/b/memo.md): B. The Fibonacci Segment `D2`
+- 2026-07-17 [codeforces/365/a](../log/codeforces/365/a/memo.md): A. Good Number `D1`
+- 2026-07-17 [codeforces/231/e](../log/codeforces/231/e/memo.md): E - Cactus `D4` `cactus` `二重辺連結成分`
+- 2026-07-17 [codeforces/231/d](../log/codeforces/231/d/memo.md): D. Magic Box `D1`
+- 2026-07-17 [codeforces/231/c](../log/codeforces/231/c/memo.md): C. To Add or Not to Add `D2`
+- 2026-07-17 [codeforces/231/b](../log/codeforces/231/b/memo.md): B. Magic, Wizardry and Wonders `D2` `貪欲`
+- 2026-07-17 [codeforces/231/a](../log/codeforces/231/a/memo.md): A. Team `D1`
+- 2026-07-17 [codeforces/4/d](../log/codeforces/4/d/memo.md): D. Mysterious Present `D3` `LIS` `復元`
+- 2026-07-17 [codeforces/4/c](../log/codeforces/4/c/memo.md): C. Registration system `D2`
+- 2026-07-17 [codeforces/4/b](../log/codeforces/4/b/memo.md): B. Before an Exam `D2` `貪欲`
