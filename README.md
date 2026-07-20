@@ -5,6 +5,11 @@ For English Speakers: [README_en.md](README_en.md)
 このレポジトリは、GitHub Sponsors の有料スポンサー向けに限定公開している
 `maspy-cp-log` の公開サンプルです。
 
+## 完全版へのアクセス
+
+有料スポンサーになる場合は、[maspypy の GitHub Sponsors ページ](https://github.com/sponsors/maspypy)
+から登録してください。
+
 ## 内容
 
 - `log/`: 完全版から選んだ問題の提出コードと解法メモ

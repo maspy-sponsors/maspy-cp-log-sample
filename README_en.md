@@ -5,6 +5,11 @@
 This repository is a public sample of `maspy-cp-log`, which is privately
 shared with paid GitHub Sponsors.
 
+## Accessing the full repository
+
+To become a paid sponsor, register through
+[maspypy's GitHub Sponsors page](https://github.com/sponsors/maspypy).
+
 ## Contents
 
 - `log/`: source code and solution notes for selected problems
