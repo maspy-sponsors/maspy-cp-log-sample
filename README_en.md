@@ -7,7 +7,7 @@ shared with paid GitHub Sponsors.
 
 ## Contents
 
-- `log/`: source code and solution notes for about 100 selected problems
+- `log/`: source code and solution notes for selected problems
 - `index/`: generated indexes covering only the problems included in this sample
 - `full-repository/`: README files, statistics, and recent additions from the full repository
 

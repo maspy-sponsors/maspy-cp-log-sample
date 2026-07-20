@@ -1,0 +1,104 @@
+# Recent
+
+Latest 100 problems.
+
+- 2026-07-19 [codeforces/2247/f](../log/codeforces/2247/f/memo.md): F. Paths on a Grid `D5` `dominator_tree` `ハッシュ`
+- 2026-07-19 [codeforces/2247/e](../log/codeforces/2247/e/memo.md): E. Build a Tree `D4` `構築` `木の構築` `順列の構築`
+- 2026-07-19 [codeforces/2247/d2](../log/codeforces/2247/d2/memo.md): D2. XOR Sorting (Hard Version) `D4`
+- 2026-07-19 [codeforces/2247/c](../log/codeforces/2247/c/memo.md): C. Inversion of a Subsequence `D3`
+- 2026-07-19 [codeforces/2247/b](../log/codeforces/2247/b/memo.md): B. Yet Another Constructive `D3` `構築`
+- 2026-07-19 [codeforces/2247/a](../log/codeforces/2247/a/memo.md): A. Zero Sum `D2` `parity` `不変量`
+- 2026-07-19 [codeforces/2061/i](../log/codeforces/2061/i/memo.md): I. Kevin and Nivek `D8` `2次元dpの分割統治高速化`
+- 2026-07-19 [codeforces/2061/h2](../log/codeforces/2061/h2/memo.md): H2. Kevin and Stones (Hard Version) `D9` `マッチング` `木上の輸送`
+- 2026-07-19 [codeforces/2061/g](../log/codeforces/2061/g/memo.md): G. Kevin and Teams `D5` `インタラクティブ` `帰納的構成`
+- 2026-07-19 [codeforces/2061/f2](../log/codeforces/2061/f2/memo.md): F2. Kevin and Binary String (Hard Version) `D6`
+- 2026-07-19 [codeforces/2061/e](../log/codeforces/2061/e/memo.md): E. Kevin and And `D4` `min_plus_convolution` `凸性の証明`
+- 2026-07-19 [codeforces/2061/d](../log/codeforces/2061/d/memo.md): D. Kevin and Numbers `D2`
+- 2026-07-19 [codeforces/2061/c](../log/codeforces/2061/c/memo.md): C. Kevin and Puzzle `D3`
+- 2026-07-19 [codeforces/2061/b](../log/codeforces/2061/b/memo.md): B. Kevin and Geometry `D3`
+- 2026-07-19 [codeforces/2061/a](../log/codeforces/2061/a/memo.md): A. Kevin and Arithmetic `D1`
+- 2026-07-18 [codeforces/600/f](../log/codeforces/600/f/memo.md): F. Edge coloring of bipartite graph `D5` `辺彩色`
+- 2026-07-18 [codeforces/600/e](../log/codeforces/600/e/memo.md): E. Lomsat gelral `D3` `マージテク` `dsu_on_tree`
+- 2026-07-18 [codeforces/600/d](../log/codeforces/600/d/memo.md): D. Area of Two Circles' Intersection `D2` `幾何` `円の共通部分`
+- 2026-07-18 [codeforces/600/c](../log/codeforces/600/c/memo.md): C. Make Palindrome `D2` `回文`
+- 2026-07-18 [codeforces/600/b](../log/codeforces/600/b/memo.md): B. Queries about less or equal elements `D1` `二分探索`
+- 2026-07-18 [codeforces/600/a](../log/codeforces/600/a/memo.md): A. Extract Numbers `D2`
+- 2026-07-18 [atcoder/abc467/g](../log/atcoder/abc467/g/memo.md): G - Many Sweets Problem `D5` `矩形クエリ` `Wavelet_Matrix` `Wavelet_Matrix_二分探索`
+- 2026-07-18 [atcoder/abc467/f](../log/atcoder/abc467/f/memo.md): F - Email Scheduling Optimization `D4` `ソート順の決定` `値をインデックスにする`
+- 2026-07-18 [atcoder/abc467/e](../log/atcoder/abc467/e/memo.md): E - Adjacent Sums (hard) `D4`
+- 2026-07-18 [atcoder/abc467/d](../log/atcoder/abc467/d/memo.md): D - Concentric Circles `D3` `幾何` `垂直二等分線`
+- 2026-07-18 [atcoder/abc467/b](../log/atcoder/abc467/b/memo.md): B - Keep the Change `D1`
+- 2026-07-18 [atcoder/abc467/a](../log/atcoder/abc467/a/memo.md): A - Obesity `D1`
+- 2026-07-17 [yukicoder/3593](../log/yukicoder/3593/memo.md): No.3593 I Love Sudoku `D8` `線形代数` `構築` `群` `数独`
+- 2026-07-17 [codeforces/2245/g](../log/codeforces/2245/g/memo.md): G. NPC Challenge `D7` `インタラクティブ`
+- 2026-07-17 [codeforces/2245/f](../log/codeforces/2245/f/memo.md): F. Familiar? `D7` `区間dp` `Cartesian_Tree`
+- 2026-07-17 [codeforces/2245/e](../log/codeforces/2245/e/memo.md): E. Tom and Jerry `D7` `ゲーム`
+- 2026-07-17 [codeforces/2245/d2](../log/codeforces/2245/d2/memo.md): D2. Construct an Array (Hard Version) `D7` `構築` `potential` `頂点倍加`
+- 2026-07-17 [codeforces/2245/c](../log/codeforces/2245/c/memo.md): C. MEXOR `D4` `構築`
+- 2026-07-17 [codeforces/2245/b](../log/codeforces/2245/b/memo.md): B. Delete and Concatenate `D4`
+- 2026-07-17 [codeforces/2245/a](../log/codeforces/2245/a/memo.md): A. Who Watches the Watchpig? `D3`
+- 2026-07-14 [yukicoder/3554](../log/yukicoder/3554/memo.md): No.3554 Rurumaru Function Problem 2 `D4`
+- 2026-07-14 [yukicoder/3553](../log/yukicoder/3553/memo.md): No.3553 Good Quartet `D4`
+- 2026-07-14 [yukicoder/3552](../log/yukicoder/3552/memo.md): No.3552 Triangular Coloring `D4` `点彩色`
+- 2026-07-14 [yukicoder/3551](../log/yukicoder/3551/memo.md): No.3551 Regions by Random Points 2 `D2`
+- 2026-07-14 [yukicoder/3550](../log/yukicoder/3550/memo.md): No.3550 Another Rurumaru Function Problem `D4`
+- 2026-07-14 [yukicoder/3549](../log/yukicoder/3549/memo.md): No.3549 SigMax Digits (Judge ver.) `D3` `桁dp`
+- 2026-07-14 [yukicoder/3548](../log/yukicoder/3548/memo.md): No.3548 SigMax Digits (Construction ver.) `D2` `構築`
+- 2026-07-14 [yukicoder/3547](../log/yukicoder/3547/memo.md): No.3547 Rurumaru Function Problem `D1`
+- 2026-07-14 [codeforces/1423/n](../log/codeforces/1423/n/memo.md): N. BubbleSquare Tokens `D7` `構築` `帰納的構成`
+- 2026-07-14 [codeforces/1423/m](../log/codeforces/1423/m/memo.md): M. Milutin's Plums `D5` `totally_monotone` `smawk`
+- 2026-07-14 [codeforces/1423/l](../log/codeforces/1423/l/memo.md): L. Light switches `D3` `半分全列挙`
+- 2026-07-14 [codeforces/1423/k](../log/codeforces/1423/k/memo.md): K. Lonely Numbers `D3`
+- 2026-07-14 [codeforces/1423/j](../log/codeforces/1423/j/memo.md): J. Bubble Cup hypothesis `D3` `下から桁dp`
+- 2026-07-14 [codeforces/1423/i](../log/codeforces/1423/i/memo.md): I. Lookup Tables `D5`
+- 2026-07-14 [codeforces/1423/h](../log/codeforces/1423/h/memo.md): H. Virus `D4` `offline_dynamic_connectivity`
+- 2026-07-14 [codeforces/1423/g](../log/codeforces/1423/g/memo.md): G. Growing flowers `D7` `区間種類数` `実装`
+- 2026-07-14 [codeforces/1423/f](../log/codeforces/1423/f/memo.md): F. Coins `D4` `chip_firing_game` `不変量`
+- 2026-07-14 [codeforces/1423/e](../log/codeforces/1423/e/memo.md): E. 5G Antenna Towers `D4` `幾何` `交差判定`
+- 2026-07-14 [codeforces/1423/d](../log/codeforces/1423/d/memo.md): D. Does anyone else hate the wind? `D4`
+- 2026-07-14 [codeforces/1423/c](../log/codeforces/1423/c/memo.md): C. Dušan's Railway `D7` `SQRT_tree`
+- 2026-07-14 [codeforces/1423/b](../log/codeforces/1423/b/memo.md): B. Valuable Paper `D3` `二部マッチング`
+- 2026-07-14 [codeforces/1423/a](../log/codeforces/1423/a/memo.md): A. Wakanda Forever `D6` `stable_roommates` `安定マッチング`
+- 2026-07-13 [codeforces/2246/f](../log/codeforces/2246/f/memo.md): F. Whoname and Unsorted Array `D5` `構築` `ソート手順構築`
+- 2026-07-13 [codeforces/2246/e](../log/codeforces/2246/e/memo.md): E. lce4113 and Security Game `D4` `インタラクティブ`
+- 2026-07-13 [codeforces/2246/d](../log/codeforces/2246/d/memo.md): D. diss_quack and Array Game `D4`
+- 2026-07-13 [codeforces/2246/c](../log/codeforces/2246/c/memo.md): C. 0mar and Alternating Sums `D4`
+- 2026-07-13 [codeforces/2246/b](../log/codeforces/2246/b/memo.md): B. ezraft and Array `D3` `構築` `帰納的構成`
+- 2026-07-13 [codeforces/2246/a](../log/codeforces/2246/a/memo.md): A. farmpiggie and Subset Sum `D2` `構築`
+- 2026-07-12 [atcoder/arc224/f](../log/atcoder/arc224/f/memo.md): F - AND/OR `D5` `二項係数累積和`
+- 2026-07-12 [atcoder/arc224/e](../log/atcoder/arc224/e/memo.md): E - ABC|AB|A `D3`
+- 2026-07-12 [atcoder/arc224/d](../log/atcoder/arc224/d/memo.md): D - Angst for All Pairs `D3`
+- 2026-07-12 [atcoder/arc224/c](../log/atcoder/arc224/c/memo.md): C - Ascending Labels `D2` `DFS木`
+- 2026-07-12 [atcoder/arc224/b](../log/atcoder/arc224/b/memo.md): B - Adjacent Tiles `D3` `bounding_box`
+- 2026-07-12 [atcoder/arc224/a](../log/atcoder/arc224/a/memo.md): A - Attach 00 `D2`
+- 2026-07-11 [atcoder/awtf2026algo/e](../log/atcoder/awtf2026algo/e/memo.md): E - Even Rows `D10` `+-1列の累積和` `マッチング`
+- 2026-07-11 [atcoder/awtf2026algo/d](../log/atcoder/awtf2026algo/d/memo.md): D - Adj Swap Lex Max `D9` `隣接スワップ`
+- 2026-07-10 [atcoder/awtf2026algo/c](../log/atcoder/awtf2026algo/c/memo.md): C - Count by Descents `D9` `Eulerian_Polynomial` `descent`
+- 2026-07-10 [atcoder/awtf2026algo/b](../log/atcoder/awtf2026algo/b/memo.md): B - Window Records `D7` `判定問題解法でdp`
+- 2026-07-10 [atcoder/awtf2026algo/a](../log/atcoder/awtf2026algo/a/memo.md): A - Min Cut of Graph of Min Weight `D6` `最小カット` `マージ過程の木`
+- 2026-07-08 [codeforces/398/e](../log/codeforces/398/e/memo.md): E. Sorting Permutations `D7` `マッチングによるスワップ` `交互パス`
+- 2026-07-08 [codeforces/398/d](../log/codeforces/398/d/memo.md): D. Instant Messanger `D5` `次数による向きづけ` `次数平方分割`
+- 2026-07-08 [codeforces/398/c](../log/codeforces/398/c/memo.md): C. Tree and Array `D7` `帰納的構築`
+- 2026-07-08 [codeforces/398/b](../log/codeforces/398/b/memo.md): B. Painting The Wall `D3`
+- 2026-07-08 [codeforces/398/a](../log/codeforces/398/a/memo.md): A. Cards `D3`
+- 2026-07-08 [atcoder/abc272/h](../log/atcoder/abc272/h/memo.md): Ex - Flipping Coins 2 `D7` `固有関数` `rook_polynomial` `newton_basis` `下降べき`
+- 2026-07-08 [atcoder/abc272/g](../log/atcoder/abc272/g/memo.md): G - Yet Another mod M `D4` `乱択`
+- 2026-07-08 [atcoder/abc272/f](../log/atcoder/abc272/f/memo.md): F - Two Strings `D4`
+- 2026-07-08 [atcoder/abc272/e](../log/atcoder/abc272/e/memo.md): E - Add and Mex `D3` `mex` `調和級数`
+- 2026-07-08 [atcoder/abc272/d](../log/atcoder/abc272/d/memo.md): D - Root M Leaper `D3` `BFS`
+- 2026-07-08 [atcoder/abc272/c](../log/atcoder/abc272/c/memo.md): C - Max Even `D1`
+- 2026-07-08 [atcoder/abc272/b](../log/atcoder/abc272/b/memo.md): B - Everyone is Friends `D1`
+- 2026-07-08 [atcoder/abc272/a](../log/atcoder/abc272/a/memo.md): A - Integer Sum `D1`
+- 2026-07-06 [repovive/15/g](../log/repovive/15/g/memo.md): 15G. Complementary Path `D6` `ハミルトンパス構築`
+- 2026-07-06 [repovive/15/f](../log/repovive/15/f/memo.md): 15F. Magnetic Path `D4`
+- 2026-07-06 [repovive/15/e](../log/repovive/15/e/memo.md): 15E. Synchronized Inversions `D3` `転倒数`
+- 2026-07-06 [repovive/15/d](../log/repovive/15/d/memo.md): 15D. Distant Transfers `D3` `exchange_argument`
+- 2026-07-06 [repovive/15/c](../log/repovive/15/c/memo.md): 15C. Corner Meeting `D2`
+- 2026-07-06 [repovive/15/b](../log/repovive/15/b/memo.md): 15B. Balanced Trio `D1`
+- 2026-07-06 [repovive/15/a](../log/repovive/15/a/memo.md): 15A. Different Parity `D1`
+- 2026-07-04 [atcoder/abc465/g](../log/atcoder/abc465/g/memo.md): G - Sum of Mex of Mod of Linear `D5` `差分更新` `実装`
+- 2026-07-04 [atcoder/abc465/f](../log/atcoder/abc465/f/memo.md): F - Sjeltzer? `D4` `多次元累積和`
+- 2026-07-04 [atcoder/abc465/e](../log/atcoder/abc465/e/memo.md): E - Digit Circus `D3` `桁dp` `実装`
+- 2026-07-04 [atcoder/abc465/d](../log/atcoder/abc465/d/memo.md): D - X to Y `D2` `K進法`
+- 2026-07-04 [atcoder/abc465/c](../log/atcoder/abc465/c/memo.md): C - Reverse Permutation `D3` `deque` `シミュレーション`
+- 2026-07-04 [atcoder/abc465/b](../log/atcoder/abc465/b/memo.md): B - Parking 2 `D1`

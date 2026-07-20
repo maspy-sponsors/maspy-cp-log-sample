@@ -7,7 +7,7 @@ For English Speakers: [README_en.md](README_en.md)
 
 ## 内容
 
-- `log/`: 完全版から選んだ約100問の提出コードと解法メモ
+- `log/`: 完全版から選んだ問題の提出コードと解法メモ
 - `index/`: サンプル収録問題だけを対象に生成した各種index
 - `full-repository/`: 完全版レポジトリのREADME・統計・最近の追加状況
 
