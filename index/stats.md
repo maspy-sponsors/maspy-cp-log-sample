@@ -5,7 +5,7 @@
 - difficulty entries: 159
 - contests/sites: 19
 - AI translations: 159 / 159
-- stale AI translations: 159
+- stale AI translations: 0
 
 ## Monthly additions
 
