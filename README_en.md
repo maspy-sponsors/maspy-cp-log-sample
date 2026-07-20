@@ -24,5 +24,9 @@ from the full repository:
 - [`full-repository/index/recent.md`](full-repository/index/recent.md)
 - [`full-repository/index/stats.md`](full-repository/index/stats.md)
 
+The synchronized files above reproduce the contents of the full repository
+without rewriting their links. Therefore, links to `log/` or unsynchronized
+parts of `index/` in the full repository may not open from this public sample.
+
 The selected sample problems and the indexes generated for them are not
 automatically synchronized.
