@@ -1,7 +1,7 @@
 # Difficulty
 
 Difficulty is maspy's subjective 1-10 scale.
-See [README.md](../README.md#difficulty) for details.
+See [README.md](../full-repository/README.md#difficulty) for details.
 
 | difficulty | problems |
 |---:|---:|
