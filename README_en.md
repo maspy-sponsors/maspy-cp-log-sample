@@ -5,6 +5,9 @@
 This repository is a public sample of `maspy-cp-log`, which is privately
 shared with paid GitHub Sponsors.
 
+For details about the full repository, including its contents, file formats, intended uses, and terms of use, see
+[`full-repository/README_en.md`](full-repository/README_en.md).
+
 ## Accessing the full repository
 
 To become a paid sponsor, register through
