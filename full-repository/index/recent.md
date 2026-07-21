@@ -3,6 +3,13 @@
 Latest 100 problems.
 
 - 2026-07-21 [codeforces/2237/h](../log/codeforces/2237/h/memo.md): H. Slime and Queries `D8` `定数区間管理` `キャッシュ` `区間スケジューリング`
+- 2026-07-21 [codeforces/2237/g](../log/codeforces/2237/g/memo.md): G. Send GCDs `D5` `smooth_number` `インタラクティブ` `情報量` `構築`
+- 2026-07-21 [codeforces/2237/f](../log/codeforces/2237/f/memo.md): F. Paint the Array `D5` `塗りつぶし操作`
+- 2026-07-21 [codeforces/2237/e](../log/codeforces/2237/e/memo.md): E. Permutation Commutation `D5` `順列` `置換群` `可換順列` `サイクル分解`
+- 2026-07-21 [codeforces/2237/d](../log/codeforces/2237/d/memo.md): D. Fullmetal Bitchemist `D4` `mod_3` `不変量` `部分文字列置換`
+- 2026-07-21 [codeforces/2237/c](../log/codeforces/2237/c/memo.md): C. Duck Surplus `D3` `貪欲`
+- 2026-07-21 [codeforces/2237/b](../log/codeforces/2237/b/memo.md): B. Annoying the Ghost `D3` `貪欲` `転倒数`
+- 2026-07-21 [codeforces/2237/a](../log/codeforces/2237/a/memo.md): A. Destroying Towers `D1`
 - 2026-07-20 [codeforces/2239/e](../log/codeforces/2239/e/memo.md): E. The end of this world, `D7` `rollback_dfs` `rollback_dfs_with_lazy_propagation` `dynamic_connectivity` `マージ過程の木`
 - 2026-07-20 [codeforces/1773/l](../log/codeforces/1773/l/memo.md): L. Lisa's Sequences `D7`
 - 2026-07-20 [codeforces/1667/f](../log/codeforces/1667/f/memo.md): F. Yin Yang `D9` `構築` `グリッド構築` `平面グラフ`
@@ -95,10 +102,3 @@ Latest 100 problems.
 - 2026-07-17 [codeforces/365/d](../log/codeforces/365/d/memo.md): D. Free Market `D3`
 - 2026-07-17 [codeforces/365/c](../log/codeforces/365/c/memo.md): C. Matrix `D2`
 - 2026-07-17 [codeforces/365/b](../log/codeforces/365/b/memo.md): B. The Fibonacci Segment `D2`
-- 2026-07-17 [codeforces/365/a](../log/codeforces/365/a/memo.md): A. Good Number `D1`
-- 2026-07-17 [codeforces/231/e](../log/codeforces/231/e/memo.md): E - Cactus `D4` `cactus` `二重辺連結成分`
-- 2026-07-17 [codeforces/231/d](../log/codeforces/231/d/memo.md): D. Magic Box `D1`
-- 2026-07-17 [codeforces/231/c](../log/codeforces/231/c/memo.md): C. To Add or Not to Add `D2`
-- 2026-07-17 [codeforces/231/b](../log/codeforces/231/b/memo.md): B. Magic, Wizardry and Wonders `D2` `貪欲`
-- 2026-07-17 [codeforces/231/a](../log/codeforces/231/a/memo.md): A. Team `D1`
-- 2026-07-17 [codeforces/4/d](../log/codeforces/4/d/memo.md): D. Mysterious Present `D3` `LIS` `復元`
