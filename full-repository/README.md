@@ -3,7 +3,7 @@ For English Speakers: [README_en.md](README_en.md)
 
 # 利用について
 
-このレポジトリは，GitHub Sponsors の有料スポンサー向けに限定公開しているものです．
+このレポジトリは，GitHub Sponsors の月額 $3 以上の有料スポンサー向けに限定公開しているものです．
 
 したがって，レポジトリ全体，または多数の `main.cpp` / `memo.md` / `index` をまとめて，第三者に共有・転載・再配布することは許可していません．
 

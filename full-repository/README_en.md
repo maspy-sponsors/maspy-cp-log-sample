@@ -1,6 +1,6 @@
 # Terms of Use
 
-This repository is privately shared with paid GitHub Sponsors.
+This repository is privately shared with sponsors on eligible GitHub Sponsors tiers of $3 per month or more.
 
 Therefore, sharing, reposting, redistributing, or otherwise providing the whole repository, or a large number of `main.cpp` / `memo.md` / `index` files, to third parties is not permitted.
 
