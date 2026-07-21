@@ -2,7 +2,7 @@ For English Speakers: [README_en.md](README_en.md)
 
 # maspy-cp-log sample
 
-このレポジトリは、GitHub Sponsors の有料スポンサー向けに限定公開している
+このレポジトリは、GitHub Sponsors の月額 $3 以上の有料スポンサー向けに限定公開している
 `maspy-cp-log` の公開サンプルです。
 
 完全版レポジトリの内容、各ファイルの意味、想定用途、利用条件については、

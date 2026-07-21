@@ -3,7 +3,7 @@
 # maspy-cp-log sample
 
 This repository is a public sample of `maspy-cp-log`, which is privately
-shared with paid GitHub Sponsors.
+shared with eligible GitHub Sponsors tiers of $3 per month or more.
 
 For details about the full repository, including its contents, file formats, intended uses, and terms of use, see
 [`full-repository/README_en.md`](full-repository/README_en.md).
