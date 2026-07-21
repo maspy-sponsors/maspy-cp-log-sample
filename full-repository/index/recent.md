@@ -10,6 +10,12 @@ Latest 100 problems.
 - 2026-07-21 [codeforces/2237/c](../log/codeforces/2237/c/memo.md): C. Duck Surplus `D3` `貪欲`
 - 2026-07-21 [codeforces/2237/b](../log/codeforces/2237/b/memo.md): B. Annoying the Ghost `D3` `貪欲` `転倒数`
 - 2026-07-21 [codeforces/2237/a](../log/codeforces/2237/a/memo.md): A. Destroying Towers `D1`
+- 2026-07-21 [codeforces/678/f](../log/codeforces/678/f/memo.md): F. Lena and Queries `D4` `時系列セグメント木` `永続_LiChao` `永続データ構造` `CHT` `クエリ平方分割` `rollback_dfs`
+- 2026-07-21 [codeforces/678/e](../log/codeforces/678/e/memo.md): E. Another Sith Tournament `D3` `bit_dp`
+- 2026-07-21 [codeforces/678/d](../log/codeforces/678/d/memo.md): D. Iterated Linear Function `D3` `C_recursive` `BMBM`
+- 2026-07-21 [codeforces/678/c](../log/codeforces/678/c/memo.md): C. Joty and Chocolate `D2` `包除原理` `最小公倍数`
+- 2026-07-21 [codeforces/678/b](../log/codeforces/678/b/memo.md): B. The Same Calendar `D2` `カレンダー`
+- 2026-07-21 [codeforces/678/a](../log/codeforces/678/a/memo.md): A. Johny Likes Numbers `D1`
 - 2026-07-21 [atcoder/abc397/g](../log/atcoder/abc397/g/memo.md): G - Maximize Distance `D4` `最短路双対` `ポテンシャル` `最小カット` `最小費用流双対`
 - 2026-07-21 [atcoder/abc397/f](../log/atcoder/abc397/f/memo.md): F - Variety Split Hard `D4` `区間端点_sweep` `区間種類数`
 - 2026-07-21 [atcoder/abc397/e](../log/atcoder/abc397/e/memo.md): E - Path Decomposition of a Tree `D3`
@@ -96,9 +102,3 @@ Latest 100 problems.
 - 2026-07-17 [codeforces/2245/e](../log/codeforces/2245/e/memo.md): E. Tom and Jerry `D7` `ゲーム`
 - 2026-07-17 [codeforces/2245/d2](../log/codeforces/2245/d2/memo.md): D2. Construct an Array (Hard Version) `D7` `構築` `potential` `頂点倍加`
 - 2026-07-17 [codeforces/2245/c](../log/codeforces/2245/c/memo.md): C. MEXOR `D4` `構築`
-- 2026-07-17 [codeforces/2245/b](../log/codeforces/2245/b/memo.md): B. Delete and Concatenate `D4`
-- 2026-07-17 [codeforces/2245/a](../log/codeforces/2245/a/memo.md): A. Who Watches the Watchpig? `D3`
-- 2026-07-17 [codeforces/2081/g2](../log/codeforces/2081/g2/memo.md): G2. Hard Formula (Hard Version) `D7` `数論関数` `black_algorithm`
-- 2026-07-17 [codeforces/2081/f](../log/codeforces/2081/f/memo.md): F. Hot Matrix `D7` `構築`
-- 2026-07-17 [codeforces/2081/e](../log/codeforces/2081/e/memo.md): E. Quantifier `D6`
-- 2026-07-17 [codeforces/2081/d](../log/codeforces/2081/d/memo.md): D. MST in Modulo Graph `D4` `MST` `辺の削減`
