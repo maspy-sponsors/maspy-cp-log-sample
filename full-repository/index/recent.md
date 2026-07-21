@@ -2,6 +2,7 @@
 
 Latest 100 problems.
 
+- 2026-07-21 [codeforces/2237/h](../log/codeforces/2237/h/memo.md): H. Slime and Queries `D8` `定数区間管理` `キャッシュ` `区間スケジューリング`
 - 2026-07-20 [codeforces/2239/e](../log/codeforces/2239/e/memo.md): E. The end of this world, `D7` `rollback_dfs` `rollback_dfs_with_lazy_propagation` `dynamic_connectivity` `マージ過程の木`
 - 2026-07-20 [codeforces/1773/l](../log/codeforces/1773/l/memo.md): L. Lisa's Sequences `D7`
 - 2026-07-20 [codeforces/1667/f](../log/codeforces/1667/f/memo.md): F. Yin Yang `D9` `構築` `グリッド構築` `平面グラフ`
@@ -101,4 +102,3 @@ Latest 100 problems.
 - 2026-07-17 [codeforces/231/b](../log/codeforces/231/b/memo.md): B. Magic, Wizardry and Wonders `D2` `貪欲`
 - 2026-07-17 [codeforces/231/a](../log/codeforces/231/a/memo.md): A. Team `D1`
 - 2026-07-17 [codeforces/4/d](../log/codeforces/4/d/memo.md): D. Mysterious Present `D3` `LIS` `復元`
-- 2026-07-17 [codeforces/4/c](../log/codeforces/4/c/memo.md): C. Registration system `D2`
