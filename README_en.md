@@ -13,6 +13,9 @@ For details about the full repository, including its contents, file formats, int
 To become a paid sponsor, register through
 [maspypy's GitHub Sponsors page](https://github.com/sponsors/maspypy).
 
+Sponsors who join an eligible tier of $3 per month or more are automatically granted read-only access to this private repository.
+Access is automatically removed when the sponsor is no longer on an eligible tier.
+
 ## Contents
 
 - `log/`: source code and solution notes for selected problems

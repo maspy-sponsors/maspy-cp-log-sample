@@ -13,6 +13,8 @@ For English Speakers: [README_en.md](README_en.md)
 有料スポンサーになる場合は、[maspypy の GitHub Sponsors ページ](https://github.com/sponsors/maspypy)
 から登録してください。
 
+月額 $3 以上の対象 tier に登録すると、この private repository への読み取り専用アクセスが自動的に付与されます。対象 tier から外れた場合は、repository へのアクセスも自動的に失われます。
+
 ## 内容
 
 - `log/`: 完全版から選んだ問題の提出コードと解法メモ
