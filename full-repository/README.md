@@ -153,8 +153,8 @@ https://github.com/maspypy/library
 
 レポジトリを clone して `grep` したり，`index/problems.tsv` を処理したりすることで，より高度な検索を行うこともできます．例えば，
 
-- `#include "ds/segtree/segtree.hpp"` している `main.cpp` のうち，さらに文字列 `seg.max_right` を含むものを検索する
+- `ds/segtree/segtree.hpp` を `#include` している `main.cpp` のうち，さらに文字列 `seg.max_right` を含むものを検索する
 - 特定のタグがつけられている問題のうち，特定の難易度帯の問題を探す
-- 特定のライブラリを  `#include` している問題のうち，特定の難易度帯の問題を探す
+- 特定のライブラリを `#include` している問題のうち，特定の難易度帯の問題を探す
 
 といったことが可能です．
