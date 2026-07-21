@@ -6,7 +6,7 @@ For English Speakers: [README_en.md](README_en.md)
 `maspy-cp-log` の公開サンプルです。
 
 完全版レポジトリの内容、各ファイルの意味、想定用途、利用条件については、
-full-repository/README.md をご確認ください。
+[`full-repository/README.md`](full-repository/README.md) をご確認ください。
 
 ## 完全版へのアクセス
 
