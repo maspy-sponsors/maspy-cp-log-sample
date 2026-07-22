@@ -2,6 +2,18 @@
 
 Latest 100 problems.
 
+- 2026-07-23 [codeforces/1336/f](../log/codeforces/1336/f/memo.md): F. Journey `D7` `パスの交わり` `木の圧縮`
+- 2026-07-23 [codeforces/1336/e2](../log/codeforces/1336/e2/memo.md): E2. Chiori and Doll Picking (hard version) `D7` `XOR` `ベクトル空間` `popcount` `XOR畳み込み`
+- 2026-07-23 [codeforces/1336/d](../log/codeforces/1336/d/memo.md): D. Yui and Mahjong Set `D6` `インタラクティブ`
+- 2026-07-23 [codeforces/1336/c](../log/codeforces/1336/c/memo.md): C. Kaavi and Magic Spell `D4` `区間dp`
+- 2026-07-23 [codeforces/1336/b](../log/codeforces/1336/b/memo.md): B. Xenia and Colorful Gems `D4`
+- 2026-07-23 [codeforces/1336/a](../log/codeforces/1336/a/memo.md): A. Linova and Kingdom `D4` `貪欲`
+- 2026-07-22 [nowcoder/133877/n](../log/nowcoder/133877/n/memo.md): Narrow to Median `D3`
+- 2026-07-22 [nowcoder/133877/m](../log/nowcoder/133877/m/memo.md): M. Maybe Connected `D2`
+- 2026-07-22 [nowcoder/133877/i](../log/nowcoder/133877/i/memo.md): I. Imperfect Dot Sums and Cross Sums `D5` `代表元による状態削減` `クラスタリング` `幾何` `空間幾何`
+- 2026-07-22 [nowcoder/133877/g](../log/nowcoder/133877/g/memo.md): G. GCD Graph `D4` `prime_gap`
+- 2026-07-22 [nowcoder/133877/f](../log/nowcoder/133877/f/memo.md): Fabulous Tree `D4`
+- 2026-07-22 [nowcoder/133877/c](../log/nowcoder/133877/c/memo.md): C. Competition: Winning Streaks `D5` `場合分け`
 - 2026-07-21 [codeforces/2237/h](../log/codeforces/2237/h/memo.md): H. Slime and Queries `D8` `定数区間管理` `キャッシュ` `区間スケジューリング`
 - 2026-07-21 [codeforces/2237/g](../log/codeforces/2237/g/memo.md): G. Send GCDs `D5` `smooth_number` `インタラクティブ` `情報量` `構築`
 - 2026-07-21 [codeforces/2237/f](../log/codeforces/2237/f/memo.md): F. Paint the Array `D5` `塗りつぶし操作`
@@ -57,7 +69,7 @@ Latest 100 problems.
 - 2026-07-19 [atcoder/arc225/e](../log/atcoder/arc225/e/memo.md): E - Gap Swap (hard) `D5` `スワップコスト最小化`
 - 2026-07-19 [atcoder/arc225/d](../log/atcoder/arc225/d/memo.md): D - Gap Swap (easy) `D3` `スワップコスト最小化`
 - 2026-07-19 [atcoder/arc225/c](../log/atcoder/arc225/c/memo.md): C - K Spanning Tree `D3` `最小全域木`
-- 2026-07-19 [atcoder/arc225/b](../log/atcoder/arc225/b/memo.md): B - Independent Nim `D4` `ゲーム` `実験`
+- 2026-07-19 [atcoder/arc225/b](../log/atcoder/arc225/b/memo.md): B - Independent Nim `D4` `ゲーム` `実験` `selective_sum`
 - 2026-07-19 [atcoder/arc225/a](../log/atcoder/arc225/a/memo.md): A - Four Coloring `D2` `構築`
 - 2026-07-19 [atcoder/abc282/h](../log/atcoder/abc282/h/memo.md): Ex - Min + Sum `D4` `分割統治` `Cartesian_Tree`
 - 2026-07-19 [atcoder/abc282/g](../log/atcoder/abc282/g/memo.md): G - Similar Permutation `D4` `挿入dp` `二次元累積和`
@@ -90,15 +102,3 @@ Latest 100 problems.
 - 2026-07-18 [codeforces/600/b](../log/codeforces/600/b/memo.md): B. Queries about less or equal elements `D1` `二分探索`
 - 2026-07-18 [codeforces/600/a](../log/codeforces/600/a/memo.md): A. Extract Numbers `D2`
 - 2026-07-18 [atcoder/abc467/g](../log/atcoder/abc467/g/memo.md): G - Many Sweets Problem `D5` `矩形クエリ` `Wavelet_Matrix` `Wavelet_Matrix_二分探索`
-- 2026-07-18 [atcoder/abc467/f](../log/atcoder/abc467/f/memo.md): F - Email Scheduling Optimization `D4` `ソート順の決定` `値をインデックスにする`
-- 2026-07-18 [atcoder/abc467/e](../log/atcoder/abc467/e/memo.md): E - Adjacent Sums (hard) `D4`
-- 2026-07-18 [atcoder/abc467/d](../log/atcoder/abc467/d/memo.md): D - Concentric Circles `D3` `幾何` `垂直二等分線`
-- 2026-07-18 [atcoder/abc467/b](../log/atcoder/abc467/b/memo.md): B - Keep the Change `D1`
-- 2026-07-18 [atcoder/abc467/a](../log/atcoder/abc467/a/memo.md): A - Obesity `D1`
-- 2026-07-18 [atcoder/abc360/g](../log/atcoder/abc360/g/memo.md): G - Suitable Edit for LIS `D4` `LIS`
-- 2026-07-18 [atcoder/abc360/f](../log/atcoder/abc360/f/memo.md): F - InterSections `D3` `座標圧縮` `区間端点_sweep`
-- 2026-07-18 [atcoder/abc360/e](../log/atcoder/abc360/e/memo.md): E - Random Swaps of Balls `D2`
-- 2026-07-18 [atcoder/abc360/d](../log/atcoder/abc360/d/memo.md): D - Ghost Ants `D2`
-- 2026-07-18 [atcoder/abc360/c](../log/atcoder/abc360/c/memo.md): C - Move It `D2`
-- 2026-07-18 [atcoder/abc360/b](../log/atcoder/abc360/b/memo.md): B - Vertical Reading `D2`
-- 2026-07-18 [atcoder/abc360/a](../log/atcoder/abc360/a/memo.md): A - A Healthy Breakfast `D1`
