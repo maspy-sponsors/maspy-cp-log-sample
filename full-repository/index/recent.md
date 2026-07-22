@@ -8,6 +8,19 @@ Latest 100 problems.
 - 2026-07-23 [codeforces/1336/c](../log/codeforces/1336/c/memo.md): C. Kaavi and Magic Spell `D4` `区間dp`
 - 2026-07-23 [codeforces/1336/b](../log/codeforces/1336/b/memo.md): B. Xenia and Colorful Gems `D4`
 - 2026-07-23 [codeforces/1336/a](../log/codeforces/1336/a/memo.md): A. Linova and Kingdom `D4` `貪欲`
+- 2026-07-23 [atcoder/arc174/f](../log/atcoder/arc174/f/memo.md): F - Final Stage `D6` `区分定数関数`
+- 2026-07-23 [atcoder/arc174/e](../log/atcoder/arc174/e/memo.md): E - Existence Counting `D5` `辞書順`
+- 2026-07-23 [atcoder/arc174/d](../log/atcoder/arc174/d/memo.md): D - Digit vs Square Root `D3` `実験`
+- 2026-07-23 [atcoder/arc174/c](../log/atcoder/arc174/c/memo.md): C - Catastrophic Roulette `D3`
+- 2026-07-23 [atcoder/arc174/b](../log/atcoder/arc174/b/memo.md): B - Bought Review `D2`
+- 2026-07-23 [atcoder/arc174/a](../log/atcoder/arc174/a/memo.md): A - A Multiply `D2`
+- 2026-07-23 [atcoder/abc419/g](../log/atcoder/abc419/g/memo.md): G - Count Simple Paths 2 `D4` `サイクル空間` `木の圧縮`
+- 2026-07-23 [atcoder/abc419/f](../log/atcoder/abc419/f/memo.md): F - All Included `D4` `Aho_Corasick` `Trie`
+- 2026-07-23 [atcoder/abc419/e](../log/atcoder/abc419/e/memo.md): E - Subarray Sum Divisibility `D3`
+- 2026-07-23 [atcoder/abc419/d](../log/atcoder/abc419/d/memo.md): D - Substr Swap `D2` `imos法`
+- 2026-07-23 [atcoder/abc419/c](../log/atcoder/abc419/c/memo.md): C - King's Summit `D1`
+- 2026-07-23 [atcoder/abc419/b](../log/atcoder/abc419/b/memo.md): B - Get Min `D1` `priority_queue`
+- 2026-07-23 [atcoder/abc419/a](../log/atcoder/abc419/a/memo.md): A - AtCoder Language `D1`
 - 2026-07-22 [nowcoder/133877/n](../log/nowcoder/133877/n/memo.md): Narrow to Median `D3`
 - 2026-07-22 [nowcoder/133877/m](../log/nowcoder/133877/m/memo.md): M. Maybe Connected `D2`
 - 2026-07-22 [nowcoder/133877/i](../log/nowcoder/133877/i/memo.md): I. Imperfect Dot Sums and Cross Sums `D5` `代表元による状態削減` `クラスタリング` `幾何` `空間幾何`
@@ -89,16 +102,3 @@ Latest 100 problems.
 - 2026-07-18 [nowcoder/133876/h](../log/nowcoder/133876/h/memo.md): H. Rock-Paper-Scissors Master `D6` `マルコフ連鎖` `マルコフ連鎖の収束`
 - 2026-07-18 [nowcoder/133876/f](../log/nowcoder/133876/f/memo.md): F. Permutation Generation `D2`
 - 2026-07-18 [nowcoder/133876/e](../log/nowcoder/133876/e/memo.md): E. Permutation Evaluation `D1`
-- 2026-07-18 [codeforces/1819/f](../log/codeforces/1819/f/memo.md): F. Willy-nilly, Crack, Into Release! `D7` `フラクタル`
-- 2026-07-18 [codeforces/1819/e](../log/codeforces/1819/e/memo.md): E. Roads in E City `D5` `インタラクティブ` `乱択アルゴリズム`
-- 2026-07-18 [codeforces/1819/d](../log/codeforces/1819/d/memo.md): D. Misha and Apples `D5`
-- 2026-07-18 [codeforces/1819/c](../log/codeforces/1819/c/memo.md): C. The Fox and the Complete Tree Traversal `D5` `木の2乗グラフ` `ハミルトンサイクル` `Catapiller`
-- 2026-07-18 [codeforces/1819/b](../log/codeforces/1819/b/memo.md): B. The Butcher `D3`
-- 2026-07-18 [codeforces/1819/a](../log/codeforces/1819/a/memo.md): A. Constructive Problem `D2` `mex`
-- 2026-07-18 [codeforces/600/f](../log/codeforces/600/f/memo.md): F. Edge coloring of bipartite graph `D5` `辺彩色`
-- 2026-07-18 [codeforces/600/e](../log/codeforces/600/e/memo.md): E. Lomsat gelral `D3` `マージテク` `dsu_on_tree`
-- 2026-07-18 [codeforces/600/d](../log/codeforces/600/d/memo.md): D. Area of Two Circles' Intersection `D2` `幾何` `円の共通部分`
-- 2026-07-18 [codeforces/600/c](../log/codeforces/600/c/memo.md): C. Make Palindrome `D2` `回文`
-- 2026-07-18 [codeforces/600/b](../log/codeforces/600/b/memo.md): B. Queries about less or equal elements `D1` `二分探索`
-- 2026-07-18 [codeforces/600/a](../log/codeforces/600/a/memo.md): A. Extract Numbers `D2`
-- 2026-07-18 [atcoder/abc467/g](../log/atcoder/abc467/g/memo.md): G - Many Sweets Problem `D5` `矩形クエリ` `Wavelet_Matrix` `Wavelet_Matrix_二分探索`
