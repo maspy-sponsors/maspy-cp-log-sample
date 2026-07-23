@@ -2,6 +2,8 @@
 
 Latest 100 problems.
 
+- 2026-07-23 [yukicoder/3594](../log/yukicoder/3594/memo.md): No.3594 Subset OR `D4` `ゼータ変換` `bit_parallel` `6bitずつ`
+- 2026-07-23 [codeforces/2239/f](../log/codeforces/2239/f/memo.md): F. Colorful Works `D7` `bitset_fps`
 - 2026-07-23 [codeforces/1336/f](../log/codeforces/1336/f/memo.md): F. Journey `D7` `パスの交わり` `木の圧縮`
 - 2026-07-23 [codeforces/1336/e2](../log/codeforces/1336/e2/memo.md): E2. Chiori and Doll Picking (hard version) `D7` `XOR` `ベクトル空間` `popcount` `XOR畳み込み`
 - 2026-07-23 [codeforces/1336/d](../log/codeforces/1336/d/memo.md): D. Yui and Mahjong Set `D6` `インタラクティブ`
@@ -100,5 +102,3 @@ Latest 100 problems.
 - 2026-07-19 [atcoder/abc126/a](../log/atcoder/abc126/a/memo.md): A - Changing a Character `D1`
 - 2026-07-18 [nowcoder/133876/k](../log/nowcoder/133876/k/memo.md): K. Geometry Textbook `D7` `幾何` `多角形の面積` `三角形分割` `Minkowski和`
 - 2026-07-18 [nowcoder/133876/h](../log/nowcoder/133876/h/memo.md): H. Rock-Paper-Scissors Master `D6` `マルコフ連鎖` `マルコフ連鎖の収束`
-- 2026-07-18 [nowcoder/133876/f](../log/nowcoder/133876/f/memo.md): F. Permutation Generation `D2`
-- 2026-07-18 [nowcoder/133876/e](../log/nowcoder/133876/e/memo.md): E. Permutation Evaluation `D1`
