@@ -2,6 +2,7 @@
 
 Latest 100 problems.
 
+- 2026-07-24 [codeforces/2245/h](../log/codeforces/2245/h/memo.md): H. Connect Connect See `D8` `点の個数からペアの個数を引く`
 - 2026-07-23 [yukicoder/3594](../log/yukicoder/3594/memo.md): No.3594 Subset OR `D4` `ゼータ変換` `bit_parallel` `6bitずつ`
 - 2026-07-23 [codeforces/2239/f](../log/codeforces/2239/f/memo.md): F. Colorful Works `D7` `bitset_fps`
 - 2026-07-23 [codeforces/1336/f](../log/codeforces/1336/f/memo.md): F. Journey `D7` `パスの交わり` `木の圧縮`
@@ -101,4 +102,3 @@ Latest 100 problems.
 - 2026-07-19 [atcoder/abc126/b](../log/atcoder/abc126/b/memo.md): B - YYMM or MMYY `D2`
 - 2026-07-19 [atcoder/abc126/a](../log/atcoder/abc126/a/memo.md): A - Changing a Character `D1`
 - 2026-07-18 [nowcoder/133876/k](../log/nowcoder/133876/k/memo.md): K. Geometry Textbook `D7` `幾何` `多角形の面積` `三角形分割` `Minkowski和`
-- 2026-07-18 [nowcoder/133876/h](../log/nowcoder/133876/h/memo.md): H. Rock-Paper-Scissors Master `D6` `マルコフ連鎖` `マルコフ連鎖の収束`
