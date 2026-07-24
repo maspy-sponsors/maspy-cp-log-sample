@@ -2,6 +2,10 @@
 
 Latest 100 problems.
 
+- 2026-07-24 [nowcoder/133878/i](../log/nowcoder/133878/i/memo.md): I. Swap master `D3` `絶対値の和の最大化`
+- 2026-07-24 [nowcoder/133878/h](../log/nowcoder/133878/h/memo.md): H. Season `D7` `円分多項式` `C_recursive` `部分分数分解`
+- 2026-07-24 [nowcoder/133878/g](../log/nowcoder/133878/g/memo.md): G. Matrix Marking `D4`
+- 2026-07-24 [nowcoder/133878/f](../log/nowcoder/133878/f/memo.md): F. Not Aqre 2 `D4` `1マスずつ決めるdp` `C_recursive`
 - 2026-07-24 [codeforces/2245/h](../log/codeforces/2245/h/memo.md): H. Connect Connect See `D8` `点の個数からペアの個数を引く`
 - 2026-07-23 [yukicoder/3594](../log/yukicoder/3594/memo.md): No.3594 Subset OR `D4` `ゼータ変換` `bit_parallel` `6bitずつ`
 - 2026-07-23 [codeforces/2239/f](../log/codeforces/2239/f/memo.md): F. Colorful Works `D7` `bitset_fps`
@@ -98,7 +102,3 @@ Latest 100 problems.
 - 2026-07-19 [atcoder/abc126/f](../log/atcoder/abc126/f/memo.md): F - XOR Matching `D4` `構築` `2回ずつ現れる列`
 - 2026-07-19 [atcoder/abc126/e](../log/atcoder/abc126/e/memo.md): E - 1 or 2 `D3` `連結成分`
 - 2026-07-19 [atcoder/abc126/d](../log/atcoder/abc126/d/memo.md): D - Even Relation `D2`
-- 2026-07-19 [atcoder/abc126/c](../log/atcoder/abc126/c/memo.md): C - Dice and Coin `D2`
-- 2026-07-19 [atcoder/abc126/b](../log/atcoder/abc126/b/memo.md): B - YYMM or MMYY `D2`
-- 2026-07-19 [atcoder/abc126/a](../log/atcoder/abc126/a/memo.md): A - Changing a Character `D1`
-- 2026-07-18 [nowcoder/133876/k](../log/nowcoder/133876/k/memo.md): K. Geometry Textbook `D7` `幾何` `多角形の面積` `三角形分割` `Minkowski和`
