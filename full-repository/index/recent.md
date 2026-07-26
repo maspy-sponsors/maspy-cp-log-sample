@@ -2,7 +2,8 @@
 
 Latest 100 problems.
 
-- 2026-07-25 [codeforces/2237/i2](../log/codeforces/2237/i2/memo.md): I2. DBFS Order (Hard Version) `D9` `標準形を数える`
+- 2026-07-26 [codeforces/2223/e](../log/codeforces/2223/e/memo.md): E. Zhily and Permutation `D9` `単調スタック`
+- 2026-07-25 [codeforces/2237/i2](../log/codeforces/2237/i2/memo.md): I2. DBFS Order (Hard Version) `D10` `標準形を数える`
 - 2026-07-25 [atcoder/abc468/g](../log/atcoder/abc468/g/memo.md): G - Restricted Permutation `D3`
 - 2026-07-25 [atcoder/abc468/f](../log/atcoder/abc468/f/memo.md): F - Chmax `D3`
 - 2026-07-25 [atcoder/abc468/e](../log/atcoder/abc468/e/memo.md): E - Sum of Average `D2`
@@ -101,4 +102,3 @@ Latest 100 problems.
 - 2026-07-19 [atcoder/arc225/a](../log/atcoder/arc225/a/memo.md): A - Four Coloring `D2` `構築`
 - 2026-07-19 [atcoder/abc282/h](../log/atcoder/abc282/h/memo.md): Ex - Min + Sum `D4` `分割統治` `Cartesian_Tree`
 - 2026-07-19 [atcoder/abc282/g](../log/atcoder/abc282/g/memo.md): G - Similar Permutation `D4` `挿入dp` `二次元累積和`
-- 2026-07-19 [atcoder/abc282/f](../log/atcoder/abc282/f/memo.md): F - Union of Two Sets `D4` `インタラクティブ` `スパーステーブル`
