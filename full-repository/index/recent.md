@@ -21,6 +21,11 @@ Latest 100 problems.
 - 2026-07-27 [codeforces/2222/c](../log/codeforces/2222/c/memo.md): C. Median Partition `D3`
 - 2026-07-27 [codeforces/2222/b](../log/codeforces/2222/b/memo.md): B. Artistic Balance Tree `D2`
 - 2026-07-27 [codeforces/2222/a](../log/codeforces/2222/a/memo.md): A. A Wonderful Contest `D3` `部分和`
+- 2026-07-27 [codeforces/77/e](../log/codeforces/77/e/memo.md): E. Martian Food `D4` `幾何` `反転`
+- 2026-07-27 [codeforces/77/d](../log/codeforces/77/d/memo.md): D. Domino Carpet `D4`
+- 2026-07-27 [codeforces/77/c](../log/codeforces/77/c/memo.md): C. Beavermuncher-0xFF `D4` `eulerian_walk` `木上のwalk`
+- 2026-07-27 [codeforces/77/b](../log/codeforces/77/b/memo.md): B. Falling Anvils `D2`
+- 2026-07-27 [codeforces/77/a](../log/codeforces/77/a/memo.md): A. Heroes `D2`
 - 2026-07-26 [nowcoder/133876/a](../log/nowcoder/133876/a/memo.md): A. 2090 Virus `D1`
 - 2026-07-26 [codeforces/2223/e](../log/codeforces/2223/e/memo.md): E. Zhily and Permutation `D9` `単調スタック`
 - 2026-07-26 [codeforces/2/c](../log/codeforces/2/c/memo.md): C. Commentator problem `D4` `幾何` `外心` `アポロニウスの円`
@@ -97,8 +102,3 @@ Latest 100 problems.
 - 2026-07-20 [codeforces/1773/l](../log/codeforces/1773/l/memo.md): L. Lisa's Sequences `D7`
 - 2026-07-20 [codeforces/1667/f](../log/codeforces/1667/f/memo.md): F. Yin Yang `D9` `構築` `グリッド構築` `平面グラフ`
 - 2026-07-20 [codeforces/1349/e](../log/codeforces/1349/e/memo.md): E. Slime and Hats `D8` `帽子` `論理パズル`
-- 2026-07-19 [codeforces/2247/f](../log/codeforces/2247/f/memo.md): F. Paths on a Grid `D5` `dominator_tree` `ハッシュ`
-- 2026-07-19 [codeforces/2247/e](../log/codeforces/2247/e/memo.md): E. Build a Tree `D4` `構築` `木の構築` `順列の構築`
-- 2026-07-19 [codeforces/2247/d2](../log/codeforces/2247/d2/memo.md): D2. XOR Sorting (Hard Version) `D4`
-- 2026-07-19 [codeforces/2247/c](../log/codeforces/2247/c/memo.md): C. Inversion of a Subsequence `D3`
-- 2026-07-19 [codeforces/2247/b](../log/codeforces/2247/b/memo.md): B. Yet Another Constructive `D3` `構築`
