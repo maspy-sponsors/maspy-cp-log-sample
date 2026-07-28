@@ -9,11 +9,11 @@ Latest 100 problems.
 - 2026-07-28 [repovive/18/b](../log/repovive/18/b/memo.md): 18B. Open at Both Ends `D2` `残す要素を決める`
 - 2026-07-28 [repovive/18/a](../log/repovive/18/a/memo.md): 18A. Two VIPs `D2` `制約付き隣接スワップ`
 - 2026-07-28 [qoj/3874/14979](../log/qoj/3874/14979/memo.md): H. Shiratama `D5` `even_odd_sort`
+- 2026-07-28 [qoj/3874/14973](../log/qoj/3874/14973/memo.md): B. Welcome to Math Kingdom! `D6` `構築` `2次体の整数論`
 - 2026-07-28 [qoj/3799/18435](../log/qoj/3799/18435/memo.md): H. Rectangle Cutting `D3`
 - 2026-07-28 [qoj/3799/18434](../log/qoj/3799/18434/memo.md): G. I Will Always Remember You `D6` `reachability` `bit_parallel`
 - 2026-07-28 [qoj/3799/18431](../log/qoj/3799/18431/memo.md): D. Prime Game `D3` `smooth_number`
 - 2026-07-28 [qoj/3799/18429](../log/qoj/3799/18429/memo.md): B. Sequence Operations `D3`
-- 2026-07-28 [contest.ucup.ac/14973](../log/contest.ucup.ac/14973/memo.md): Problem B. Welcome to Math Kingdom! `D6` `構築` `2次体の整数論`
 - 2026-07-28 [codeforces/1055/g](../log/codeforces/1055/g/memo.md): G. Jellyfish Nightmare `D6` `幾何` `Minkowski和` `最小カット`
 - 2026-07-28 [codeforces/1055/f](../log/codeforces/1055/f/memo.md): F. Tree and XOR `D4` `dyadic_interval`
 - 2026-07-28 [codeforces/1055/e](../log/codeforces/1055/e/memo.md): E. Segments on the Line `D4` `alien_trick`
