@@ -8,6 +8,14 @@ Latest 100 problems.
 - 2026-07-28 [repovive/18/c](../log/repovive/18/c/memo.md): 18C. One Cycle Each `D3` `次数列`
 - 2026-07-28 [repovive/18/b](../log/repovive/18/b/memo.md): 18B. Open at Both Ends `D2` `残す要素を決める`
 - 2026-07-28 [repovive/18/a](../log/repovive/18/a/memo.md): 18A. Two VIPs `D2` `制約付き隣接スワップ`
+- 2026-07-28 [qoj/3874/14979](../log/qoj/3874/14979/memo.md): H. Shiratama `D5` `even_odd_sort`
+- 2026-07-28 [codeforces/1055/g](../log/codeforces/1055/g/memo.md): G. Jellyfish Nightmare `D6` `幾何` `Minkowski和` `最小カット`
+- 2026-07-28 [codeforces/1055/f](../log/codeforces/1055/f/memo.md): F. Tree and XOR `D4` `dyadic_interval`
+- 2026-07-28 [codeforces/1055/e](../log/codeforces/1055/e/memo.md): E. Segments on the Line `D4` `alien_trick`
+- 2026-07-28 [codeforces/1055/d](../log/codeforces/1055/d/memo.md): D. Refactoring `D3`
+- 2026-07-28 [codeforces/1055/c](../log/codeforces/1055/c/memo.md): C. Lucky Days `D3` `gcd` `周期性`
+- 2026-07-28 [codeforces/1055/b](../log/codeforces/1055/b/memo.md): B. Alice and Hairdresser `D2` `差分更新`
+- 2026-07-28 [codeforces/1055/a](../log/codeforces/1055/a/memo.md): A. Metro `D1`
 - 2026-07-27 [nowcoder/133876/j](../log/nowcoder/133876/j/memo.md): Show Hand `D2` `poker`
 - 2026-07-27 [nowcoder/133876/g](../log/nowcoder/133876/g/memo.md): Precision Error?! `D3` `空間幾何` `unit_distance_problem`
 - 2026-07-27 [nowcoder/33193/d](../log/nowcoder/33193/d/memo.md): Poker Game: Decision `D2` `poker`
@@ -94,11 +102,3 @@ Latest 100 problems.
 - 2026-07-21 [codeforces/678/f](../log/codeforces/678/f/memo.md): F. Lena and Queries `D4` `時系列セグメント木` `永続_LiChao` `永続データ構造` `CHT` `クエリ平方分割` `rollback_dfs`
 - 2026-07-21 [codeforces/678/e](../log/codeforces/678/e/memo.md): E. Another Sith Tournament `D3` `bit_dp`
 - 2026-07-21 [codeforces/678/d](../log/codeforces/678/d/memo.md): D. Iterated Linear Function `D3` `C_recursive` `BMBM`
-- 2026-07-21 [codeforces/678/c](../log/codeforces/678/c/memo.md): C. Joty and Chocolate `D2` `包除原理` `最小公倍数`
-- 2026-07-21 [codeforces/678/b](../log/codeforces/678/b/memo.md): B. The Same Calendar `D2` `カレンダー`
-- 2026-07-21 [codeforces/678/a](../log/codeforces/678/a/memo.md): A. Johny Likes Numbers `D1`
-- 2026-07-21 [atcoder/abc397/g](../log/atcoder/abc397/g/memo.md): G - Maximize Distance `D4` `最短路双対` `ポテンシャル` `最小カット` `最小費用流双対`
-- 2026-07-21 [atcoder/abc397/f](../log/atcoder/abc397/f/memo.md): F - Variety Split Hard `D4` `区間端点_sweep` `区間種類数`
-- 2026-07-21 [atcoder/abc397/e](../log/atcoder/abc397/e/memo.md): E - Path Decomposition of a Tree `D3`
-- 2026-07-21 [atcoder/abc397/d](../log/atcoder/abc397/d/memo.md): D - Cubes `D2` `因数分解`
-- 2026-07-21 [atcoder/abc397/c](../log/atcoder/abc397/c/memo.md): C - Variety Split Easy `D2`
