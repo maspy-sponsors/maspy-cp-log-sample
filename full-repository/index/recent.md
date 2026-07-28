@@ -21,6 +21,26 @@ Latest 100 problems.
 - 2026-07-28 [codeforces/1055/c](../log/codeforces/1055/c/memo.md): C. Lucky Days `D3` `gcd` `周期性`
 - 2026-07-28 [codeforces/1055/b](../log/codeforces/1055/b/memo.md): B. Alice and Hairdresser `D2` `差分更新`
 - 2026-07-28 [codeforces/1055/a](../log/codeforces/1055/a/memo.md): A. Metro `D1`
+- 2026-07-28 [codeforces/717/i](../log/codeforces/717/i/memo.md): I. Cowboy Beblop at his computer `D6` `空間幾何` `内外判定`
+- 2026-07-28 [codeforces/717/h](../log/codeforces/717/h/memo.md): H. Pokermon League challenge `D3` `構築` `乱択による構築`
+- 2026-07-28 [codeforces/717/g](../log/codeforces/717/g/memo.md): G. Underfail `D4` `最小費用流`
+- 2026-07-28 [codeforces/717/f](../log/codeforces/717/f/memo.md): F. Heroes of Making Magic III `D5` `区間上のwalk`
+- 2026-07-28 [codeforces/717/e](../log/codeforces/717/e/memo.md): E. Paint it really, really dark gray `D3` `木上のwalk`
+- 2026-07-28 [codeforces/717/d](../log/codeforces/717/d/memo.md): D. Dexterina’s Lab `D3` `XOR畳み込み` `Hadamard変換`
+- 2026-07-28 [codeforces/717/c](../log/codeforces/717/c/memo.md): C. Potions Homework `D2` `並べ替え不等式` `貪欲`
+- 2026-07-28 [codeforces/717/b](../log/codeforces/717/b/memo.md): B. R3D3’s Summer Adventure `D4`
+- 2026-07-28 [codeforces/717/a](../log/codeforces/717/a/memo.md): A. Festival Organization `D4` `C_recursive`
+- 2026-07-28 [codeforces/83/e](../log/codeforces/83/e/memo.md): E. Two Subsequences `D6` `文字列の重なり`
+- 2026-07-28 [codeforces/83/d](../log/codeforces/83/d/memo.md): D. Numbers `D5` `解法の使い分け` `素数篩`
+- 2026-07-28 [codeforces/83/c](../log/codeforces/83/c/memo.md): C. Track `D4` `BFS`
+- 2026-07-28 [codeforces/83/b](../log/codeforces/83/b/memo.md): B. Doctor `D3`
+- 2026-07-28 [codeforces/83/a](../log/codeforces/83/a/memo.md): A. Magical Array `D1` `連長圧縮`
+- 2026-07-28 [atcoder/abc386/g](../log/atcoder/abc386/g/memo.md): G - Many MST `D5` `グラフ数え上げ` `連結グラフ数え上げ`
+- 2026-07-28 [atcoder/abc386/f](../log/atcoder/abc386/f/memo.md): F - Operate K `D4` `dp_keyの枝狩り` `編集距離`
+- 2026-07-28 [atcoder/abc386/e](../log/atcoder/abc386/e/memo.md): E - Maximize XOR `D3` `全列挙` `dfsによる列挙`
+- 2026-07-28 [atcoder/abc386/d](../log/atcoder/abc386/d/memo.md): D - Diagonal Separation `D2`
+- 2026-07-28 [atcoder/abc386/b](../log/atcoder/abc386/b/memo.md): B - Calculator `D1` `連長圧縮`
+- 2026-07-28 [atcoder/abc386/a](../log/atcoder/abc386/a/memo.md): A - Full House 2 `D1` `ポーカー`
 - 2026-07-27 [nowcoder/133876/j](../log/nowcoder/133876/j/memo.md): Show Hand `D2` `poker`
 - 2026-07-27 [nowcoder/133876/g](../log/nowcoder/133876/g/memo.md): Precision Error?! `D3` `空間幾何` `unit_distance_problem`
 - 2026-07-27 [nowcoder/33193/d](../log/nowcoder/33193/d/memo.md): Poker Game: Decision `D2` `poker`
@@ -82,23 +102,3 @@ Latest 100 problems.
 - 2026-07-23 [atcoder/abc419/e](../log/atcoder/abc419/e/memo.md): E - Subarray Sum Divisibility `D3`
 - 2026-07-23 [atcoder/abc419/d](../log/atcoder/abc419/d/memo.md): D - Substr Swap `D2` `imos法`
 - 2026-07-23 [atcoder/abc419/c](../log/atcoder/abc419/c/memo.md): C - King's Summit `D1`
-- 2026-07-23 [atcoder/abc419/b](../log/atcoder/abc419/b/memo.md): B - Get Min `D1` `priority_queue`
-- 2026-07-23 [atcoder/abc419/a](../log/atcoder/abc419/a/memo.md): A - AtCoder Language `D1`
-- 2026-07-22 [nowcoder/133877/n](../log/nowcoder/133877/n/memo.md): Narrow to Median `D3`
-- 2026-07-22 [nowcoder/133877/m](../log/nowcoder/133877/m/memo.md): M. Maybe Connected `D2`
-- 2026-07-22 [nowcoder/133877/i](../log/nowcoder/133877/i/memo.md): I. Imperfect Dot Sums and Cross Sums `D5` `代表元による状態削減` `クラスタリング` `幾何` `空間幾何`
-- 2026-07-22 [nowcoder/133877/g](../log/nowcoder/133877/g/memo.md): G. GCD Graph `D4` `prime_gap`
-- 2026-07-22 [nowcoder/133877/f](../log/nowcoder/133877/f/memo.md): Fabulous Tree `D4`
-- 2026-07-22 [nowcoder/133877/c](../log/nowcoder/133877/c/memo.md): C. Competition: Winning Streaks `D5` `場合分け`
-- 2026-07-21 [codeforces/2237/h](../log/codeforces/2237/h/memo.md): H. Slime and Queries `D8` `定数区間管理` `キャッシュ` `区間スケジューリング`
-- 2026-07-21 [codeforces/2237/g](../log/codeforces/2237/g/memo.md): G. Send GCDs `D5` `smooth_number` `インタラクティブ` `情報量` `構築`
-- 2026-07-21 [codeforces/2237/f](../log/codeforces/2237/f/memo.md): F. Paint the Array `D5` `塗りつぶし操作`
-- 2026-07-21 [codeforces/2237/e](../log/codeforces/2237/e/memo.md): E. Permutation Commutation `D5` `順列` `置換群` `可換順列` `サイクル分解`
-- 2026-07-21 [codeforces/2237/d](../log/codeforces/2237/d/memo.md): D. Fullmetal Bitchemist `D4` `mod_3` `不変量` `部分文字列置換`
-- 2026-07-21 [codeforces/2237/c](../log/codeforces/2237/c/memo.md): C. Duck Surplus `D3` `貪欲`
-- 2026-07-21 [codeforces/2237/b](../log/codeforces/2237/b/memo.md): B. Annoying the Ghost `D3` `貪欲` `転倒数`
-- 2026-07-21 [codeforces/2237/a](../log/codeforces/2237/a/memo.md): A. Destroying Towers `D1`
-- 2026-07-21 [codeforces/1200/f](../log/codeforces/1200/f/memo.md): F. Graph Traveler `D3` `functional_graph`
-- 2026-07-21 [codeforces/1200/e](../log/codeforces/1200/e/memo.md): E. Compress Words `D4` `文字列` `Rolling_Hash` `Rolling_Hash_monoid`
-- 2026-07-21 [codeforces/1200/d](../log/codeforces/1200/d/memo.md): D. White Lines `D3` `累積和` `2次元imos`
-- 2026-07-21 [codeforces/1200/c](../log/codeforces/1200/c/memo.md): C. Round Corridor `D2`
