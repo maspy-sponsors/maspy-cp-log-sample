@@ -104,6 +104,7 @@ The `index/` directory contains generated indexes for finding problems.
 - [`index/includes.md`](index/includes.md): problems grouped by direct includes in `main.cpp`
 - [`index/sites.md`](index/sites.md): site / contest navigation
 - [`index/contests/`](index/contests/): contest-level indexes
+- [`index/universal-cup/`](index/universal-cup/): Universal Cup stages and repository coverage
 - [`index/problems.tsv`](index/problems.tsv): machine-readable list of all problems
 
 `index/problems.tsv` contains the problem ID, site, contest, problem, title, difficulty, tags, includes, logged_at, memo_path, source_path, URL, and summary.

@@ -83,6 +83,7 @@ https://github.com/maspypy/library/blob/main/expander.py
 * [`index/includes.md`](index/includes.md): `main.cpp` の direct include ごとの問題一覧
 * [`index/sites.md`](index/sites.md): サイト・コンテスト別の一覧
 * [`index/contests/`](index/contests/): コンテスト単位の一覧
+* [`index/universal-cup/`](index/universal-cup/): Universal Cup の stage 一覧と収録状況
 * [`index/problems.tsv`](index/problems.tsv): 機械処理用の全問題一覧
 
 `index/problems.tsv` には，問題 ID，site，contest，problem，title，difficulty，tags，includes，logged_at，memo_path，source_path，url，summary が含まれています．
