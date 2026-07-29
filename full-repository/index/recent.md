@@ -2,6 +2,10 @@
 
 Latest 100 problems.
 
+- 2026-07-29 [nowcoder/133879/j](../log/nowcoder/133879/j/memo.md): J. Walk `D6`
+- 2026-07-29 [nowcoder/133879/f](../log/nowcoder/133879/f/memo.md): F. 3 Subsequences `D3`
+- 2026-07-29 [nowcoder/133879/b](../log/nowcoder/133879/b/memo.md): B. Quadratic Residue `D5` `平方剰余の相互法則`
+- 2026-07-29 [nowcoder/133879/a](../log/nowcoder/133879/a/memo.md): A. Sixteen `D5` `構築` `det構築` `companion_matrix`
 - 2026-07-29 [nowcoder/133878/m](../log/nowcoder/133878/m/memo.md): M. Wanderer `D4` `期待値の分解` `有向辺ごとの期待値` `木上のランダムウォーク` `木上のウォーク`
 - 2026-07-29 [nowcoder/133878/l](../log/nowcoder/133878/l/memo.md): L. Uphill Duel `D1` `ゲーム`
 - 2026-07-29 [nowcoder/133878/k](../log/nowcoder/133878/k/memo.md): K. Turn-by-Turn Navigation `D1` `幾何` `外積`
@@ -98,7 +102,3 @@ Latest 100 problems.
 - 2026-07-25 [atcoder/abc468/g](../log/atcoder/abc468/g/memo.md): G - Restricted Permutation `D3`
 - 2026-07-25 [atcoder/abc468/f](../log/atcoder/abc468/f/memo.md): F - Chmax `D3`
 - 2026-07-25 [atcoder/abc468/e](../log/atcoder/abc468/e/memo.md): E - Sum of Average `D2`
-- 2026-07-25 [atcoder/abc468/d](../log/atcoder/abc468/d/memo.md): D - Pre-Palindrome `D2` `文字列` `回文`
-- 2026-07-25 [atcoder/abc468/c](../log/atcoder/abc468/c/memo.md): C - Between P and Q `D1`
-- 2026-07-25 [atcoder/abc468/b](../log/atcoder/abc468/b/memo.md): B - Corridor Watch `D1`
-- 2026-07-25 [atcoder/abc468/a](../log/atcoder/abc468/a/memo.md): A - Maximal Value `D1`
