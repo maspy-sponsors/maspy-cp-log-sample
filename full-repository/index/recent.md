@@ -2,6 +2,11 @@
 
 Latest 100 problems.
 
+- 2026-07-29 [nowcoder/133878/m](../log/nowcoder/133878/m/memo.md): M. Wanderer `D4` `期待値の分解` `有向辺ごとの期待値` `木上のランダムウォーク` `木上のウォーク`
+- 2026-07-29 [nowcoder/133878/l](../log/nowcoder/133878/l/memo.md): L. Uphill Duel `D1` `ゲーム`
+- 2026-07-29 [nowcoder/133878/k](../log/nowcoder/133878/k/memo.md): K. Turn-by-Turn Navigation `D1` `幾何` `外積`
+- 2026-07-29 [nowcoder/133878/b](../log/nowcoder/133878/b/memo.md): B. Buy One More `D4` `Cycle_Lemma`
+- 2026-07-29 [nowcoder/133878/a](../log/nowcoder/133878/a/memo.md): A. Bitmask `D2`
 - 2026-07-29 [atcoder/abc378/g](../log/atcoder/abc378/g/memo.md): G - Everlasting LIDS `D7` `hook_length_formula` `RSK対応` `topological_sort数え上げ`
 - 2026-07-29 [atcoder/abc378/f](../log/atcoder/abc378/f/memo.md): F - Add One Edge 2 `D3` `パスを数える木dp`
 - 2026-07-29 [atcoder/abc378/e](../log/atcoder/abc378/e/memo.md): E - Mod Sigma Problem `D3` `転倒数`
@@ -97,8 +102,3 @@ Latest 100 problems.
 - 2026-07-25 [atcoder/abc468/c](../log/atcoder/abc468/c/memo.md): C - Between P and Q `D1`
 - 2026-07-25 [atcoder/abc468/b](../log/atcoder/abc468/b/memo.md): B - Corridor Watch `D1`
 - 2026-07-25 [atcoder/abc468/a](../log/atcoder/abc468/a/memo.md): A - Maximal Value `D1`
-- 2026-07-24 [nowcoder/133878/i](../log/nowcoder/133878/i/memo.md): I. Swap master `D3` `絶対値の和の最大化`
-- 2026-07-24 [nowcoder/133878/h](../log/nowcoder/133878/h/memo.md): H. Season `D7` `円分多項式` `C_recursive` `部分分数分解`
-- 2026-07-24 [nowcoder/133878/g](../log/nowcoder/133878/g/memo.md): G. Matrix Marking `D4`
-- 2026-07-24 [nowcoder/133878/f](../log/nowcoder/133878/f/memo.md): F. Not Aqre 2 `D4` `1マスずつ決めるdp` `C_recursive`
-- 2026-07-24 [codeforces/2245/h](../log/codeforces/2245/h/memo.md): H. Connect Connect See `D8` `点の個数からペアの個数を引く`
