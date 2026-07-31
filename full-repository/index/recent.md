@@ -2,6 +2,13 @@
 
 Latest 100 problems.
 
+- 2026-08-01 [nowcoder/133880/n](../log/nowcoder/133880/n/memo.md): N. Welcome to HIT `D1`
+- 2026-08-01 [nowcoder/133880/k](../log/nowcoder/133880/k/memo.md): K. Sequence（Mex Version） `D3`
+- 2026-08-01 [nowcoder/133880/j](../log/nowcoder/133880/j/memo.md): J. Sequence（Median Version） `D6` `median` `median_pyramid`
+- 2026-08-01 [nowcoder/133880/e](../log/nowcoder/133880/e/memo.md): E. Koishi and Function `D4`
+- 2026-08-01 [nowcoder/133880/c](../log/nowcoder/133880/c/memo.md): C. Number `D6` `構築` `順列の構築` `順列の和の構築`
+- 2026-08-01 [nowcoder/133880/b](../log/nowcoder/133880/b/memo.md): B. Enlarged Badge `D4` `ピックの公式` `Minkowski和` `幾何`
+- 2026-08-01 [atcoder/agc006/d](../log/atcoder/agc006/d/memo.md): D - Median Pyramid Hard `D4` `median` `median_pyramid`
 - 2026-07-31 [nowcoder/133879/k](../log/nowcoder/133879/k/memo.md): K. Decomposition Trees `D5` `elimination_tree`
 - 2026-07-31 [nowcoder/133879/i](../log/nowcoder/133879/i/memo.md): Rounddog II `D2`
 - 2026-07-31 [nowcoder/133879/e](../log/nowcoder/133879/e/memo.md): E. DPRS `D4`
@@ -95,10 +102,3 @@ Latest 100 problems.
 - 2026-07-27 [nowcoder/133876/j](../log/nowcoder/133876/j/memo.md): Show Hand `D2` `poker`
 - 2026-07-27 [nowcoder/133876/g](../log/nowcoder/133876/g/memo.md): Precision Error?! `D3` `空間幾何` `unit_distance_problem`
 - 2026-07-27 [nowcoder/33193/d](../log/nowcoder/33193/d/memo.md): Poker Game: Decision `D2` `poker`
-- 2026-07-27 [codeforces/2227/h](../log/codeforces/2227/h/memo.md): H. Fallen Leaves `D4`
-- 2026-07-27 [codeforces/2227/g](../log/codeforces/2227/g/memo.md): G. Drowning `D4` `不変量`
-- 2026-07-27 [codeforces/2227/f](../log/codeforces/2227/f/memo.md): F. It Just Keeps Going Sideways `D3` `横方向重力`
-- 2026-07-27 [codeforces/2227/e](../log/codeforces/2227/e/memo.md): E. It All Went Sideways `D3` `横方向重力`
-- 2026-07-27 [codeforces/2227/d](../log/codeforces/2227/d/memo.md): D. Palindromex `D3`
-- 2026-07-27 [codeforces/2227/c](../log/codeforces/2227/c/memo.md): C. Snowfall `D2` `貪欲`
-- 2026-07-27 [codeforces/2227/b](../log/codeforces/2227/b/memo.md): B. Party Monster `D2` `カッコ列`
