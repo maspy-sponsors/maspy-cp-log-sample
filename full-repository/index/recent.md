@@ -2,6 +2,29 @@
 
 Latest 100 problems.
 
+- 2026-07-31 [nowcoder/133879/k](../log/nowcoder/133879/k/memo.md): K. Decomposition Trees `D5` `elimination_tree`
+- 2026-07-31 [nowcoder/133879/i](../log/nowcoder/133879/i/memo.md): Rounddog II `D2`
+- 2026-07-31 [nowcoder/133879/e](../log/nowcoder/133879/e/memo.md): E. DPRS `D4`
+- 2026-07-31 [nowcoder/133879/d](../log/nowcoder/133879/d/memo.md): D. The Game `D3`
+- 2026-07-31 [nowcoder/133879/c](../log/nowcoder/133879/c/memo.md): C. Retest Queue `D3`
+- 2026-07-31 [codeforces/2196/f](../log/codeforces/2196/f/memo.md): F. Indivisible `D6` `次数列`
+- 2026-07-31 [codeforces/2196/e2](../log/codeforces/2196/e2/memo.md): E2. Fuzzy Concatenation (Hard version) `D5` `bitset` `bit並列`
+- 2026-07-31 [codeforces/2196/d](../log/codeforces/2196/d/memo.md): D. Double Bracket Sequence `D5` `カッコ列` `マッチング`
+- 2026-07-31 [codeforces/2196/c2](../log/codeforces/2196/c2/memo.md): C2. Interactive Graph (Hard Version) `D4` `インタラクティブ` `DFS`
+- 2026-07-31 [codeforces/2196/b](../log/codeforces/2196/b/memo.md): B. Another Problem about Beautiful Pairs `D3` `次数による向きづけ`
+- 2026-07-31 [codeforces/2196/a](../log/codeforces/2196/a/memo.md): A. Game with a Fraction `D3` `ゲーム` `実験`
+- 2026-07-31 [codeforces/1726/h](../log/codeforces/1726/h/memo.md): H. Mainak and the Bleeding Polygon `D7` `幾何` `積分` `包絡線` `sympy`
+- 2026-07-31 [codeforces/1726/g](../log/codeforces/1726/g/memo.md): G. A Certain Magical Party `D5`
+- 2026-07-31 [codeforces/1726/e](../log/codeforces/1726/e/memo.md): E. Almost Perfect `D5` `サイクル分解` `EGF`
+- 2026-07-31 [codeforces/1726/d](../log/codeforces/1726/d/memo.md): D. Edge Split `D5` `マトロイド` `マトロイドの合併` `マトロイド交差`
+- 2026-07-31 [codeforces/1726/c](../log/codeforces/1726/c/memo.md): C. Jatayu's Balanced Bracket Sequence `D3` `カッコ列`
+- 2026-07-31 [codeforces/1726/b](../log/codeforces/1726/b/memo.md): B. Mainak and Interesting Sequence `D2`
+- 2026-07-31 [codeforces/1726/a](../log/codeforces/1726/a/memo.md): A. Mainak and Array `D1`
+- 2026-07-31 [codeforces/18/e](../log/codeforces/18/e/memo.md): E. Flag 2 `D4` `候補の削減`
+- 2026-07-31 [codeforces/18/d](../log/codeforces/18/d/memo.md): D. Seller Bob `D2` `多倍長整数`
+- 2026-07-31 [codeforces/18/c](../log/codeforces/18/c/memo.md): C. Stripe `D1`
+- 2026-07-31 [codeforces/18/b](../log/codeforces/18/b/memo.md): B. Platforms `D2`
+- 2026-07-31 [codeforces/18/a](../log/codeforces/18/a/memo.md): A. Triangle `D1` `幾何`
 - 2026-07-29 [nowcoder/133879/j](../log/nowcoder/133879/j/memo.md): J. Walk `D6`
 - 2026-07-29 [nowcoder/133879/f](../log/nowcoder/133879/f/memo.md): F. 3 Subsequences `D3`
 - 2026-07-29 [nowcoder/133879/b](../log/nowcoder/133879/b/memo.md): B. Quadratic Residue `D5` `平方剰余の相互法則`
@@ -79,26 +102,3 @@ Latest 100 problems.
 - 2026-07-27 [codeforces/2227/d](../log/codeforces/2227/d/memo.md): D. Palindromex `D3`
 - 2026-07-27 [codeforces/2227/c](../log/codeforces/2227/c/memo.md): C. Snowfall `D2` `貪欲`
 - 2026-07-27 [codeforces/2227/b](../log/codeforces/2227/b/memo.md): B. Party Monster `D2` `カッコ列`
-- 2026-07-27 [codeforces/2227/a](../log/codeforces/2227/a/memo.md): A. Koshary `D1`
-- 2026-07-27 [codeforces/2222/h](../log/codeforces/2222/h/memo.md): H. Counting Sort? `D6` `頻度列への置換` `分割数`
-- 2026-07-27 [codeforces/2222/g](../log/codeforces/2222/g/memo.md): G. Statistics on Tree `D6` `パスの削除` `重心`
-- 2026-07-27 [codeforces/2222/f](../log/codeforces/2222/f/memo.md): F. Building Tree `D6` `rollback_dfs` `dynamic_connectivity`
-- 2026-07-27 [codeforces/2222/e](../log/codeforces/2222/e/memo.md): E. Seek the Truth `D3`
-- 2026-07-27 [codeforces/2222/d](../log/codeforces/2222/d/memo.md): D. Permutation Construction `D4`
-- 2026-07-27 [codeforces/2222/c](../log/codeforces/2222/c/memo.md): C. Median Partition `D3`
-- 2026-07-27 [codeforces/2222/b](../log/codeforces/2222/b/memo.md): B. Artistic Balance Tree `D2`
-- 2026-07-27 [codeforces/2222/a](../log/codeforces/2222/a/memo.md): A. A Wonderful Contest `D3` `部分和`
-- 2026-07-27 [codeforces/77/e](../log/codeforces/77/e/memo.md): E. Martian Food `D4` `幾何` `反転`
-- 2026-07-27 [codeforces/77/d](../log/codeforces/77/d/memo.md): D. Domino Carpet `D4`
-- 2026-07-27 [codeforces/77/c](../log/codeforces/77/c/memo.md): C. Beavermuncher-0xFF `D4` `eulerian_walk` `木上のwalk`
-- 2026-07-27 [codeforces/77/b](../log/codeforces/77/b/memo.md): B. Falling Anvils `D2`
-- 2026-07-27 [codeforces/77/a](../log/codeforces/77/a/memo.md): A. Heroes `D2`
-- 2026-07-26 [nowcoder/133876/a](../log/nowcoder/133876/a/memo.md): A. 2090 Virus `D1`
-- 2026-07-26 [codeforces/2223/e](../log/codeforces/2223/e/memo.md): E. Zhily and Permutation `D9` `単調スタック`
-- 2026-07-26 [codeforces/2/c](../log/codeforces/2/c/memo.md): C. Commentator problem `D4` `幾何` `外心` `アポロニウスの円`
-- 2026-07-26 [codeforces/2/b](../log/codeforces/2/b/memo.md): B. The least round way `D2` `素数ごと`
-- 2026-07-26 [codeforces/2/a](../log/codeforces/2/a/memo.md): A. Winner `D1`
-- 2026-07-25 [codeforces/2237/i2](../log/codeforces/2237/i2/memo.md): I2. DBFS Order (Hard Version) `D10` `標準形を数える`
-- 2026-07-25 [atcoder/abc468/g](../log/atcoder/abc468/g/memo.md): G - Restricted Permutation `D3`
-- 2026-07-25 [atcoder/abc468/f](../log/atcoder/abc468/f/memo.md): F - Chmax `D3`
-- 2026-07-25 [atcoder/abc468/e](../log/atcoder/abc468/e/memo.md): E - Sum of Average `D2`
