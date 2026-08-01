@@ -3,11 +3,16 @@
 Latest 100 problems.
 
 - 2026-08-01 [nowcoder/133880/n](../log/nowcoder/133880/n/memo.md): N. Welcome to HIT `D1`
+- 2026-08-01 [nowcoder/133880/l](../log/nowcoder/133880/l/memo.md): L. Matrix `D3`
 - 2026-08-01 [nowcoder/133880/k](../log/nowcoder/133880/k/memo.md): K. Sequence（Mex Version） `D3`
 - 2026-08-01 [nowcoder/133880/j](../log/nowcoder/133880/j/memo.md): J. Sequence（Median Version） `D6` `median` `median_pyramid`
+- 2026-08-01 [nowcoder/133880/i](../log/nowcoder/133880/i/memo.md): Sequence Operation 2 `D4`
+- 2026-08-01 [nowcoder/133880/g](../log/nowcoder/133880/g/memo.md): Bipartite Graph `D7` `reachability` `最小カット` `最小頂点被覆` `残余グラフ` `bit_parallel`
 - 2026-08-01 [nowcoder/133880/e](../log/nowcoder/133880/e/memo.md): E. Koishi and Function `D4`
+- 2026-08-01 [nowcoder/133880/d](../log/nowcoder/133880/d/memo.md): D. Half-plane Cover `D6` `幾何` `ヘリーの定理` `凸集合分離`
 - 2026-08-01 [nowcoder/133880/c](../log/nowcoder/133880/c/memo.md): C. Number `D6` `構築` `順列の構築` `順列の和の構築`
 - 2026-08-01 [nowcoder/133880/b](../log/nowcoder/133880/b/memo.md): B. Enlarged Badge `D4` `ピックの公式` `Minkowski和` `幾何`
+- 2026-08-01 [nowcoder/133880/a](../log/nowcoder/133880/a/memo.md): A. Echo Prefixes `D4` `suffix_tree`
 - 2026-08-01 [atcoder/agc006/d](../log/atcoder/agc006/d/memo.md): D - Median Pyramid Hard `D4` `median` `median_pyramid`
 - 2026-07-31 [nowcoder/133879/k](../log/nowcoder/133879/k/memo.md): K. Decomposition Trees `D5` `elimination_tree`
 - 2026-07-31 [nowcoder/133879/i](../log/nowcoder/133879/i/memo.md): Rounddog II `D2`
@@ -97,8 +102,3 @@ Latest 100 problems.
 - 2026-07-28 [atcoder/abc386/f](../log/atcoder/abc386/f/memo.md): F - Operate K `D4` `dp_keyの枝狩り` `編集距離`
 - 2026-07-28 [atcoder/abc386/e](../log/atcoder/abc386/e/memo.md): E - Maximize XOR `D3` `全列挙` `dfsによる列挙`
 - 2026-07-28 [atcoder/abc386/d](../log/atcoder/abc386/d/memo.md): D - Diagonal Separation `D2`
-- 2026-07-28 [atcoder/abc386/b](../log/atcoder/abc386/b/memo.md): B - Calculator `D1` `連長圧縮`
-- 2026-07-28 [atcoder/abc386/a](../log/atcoder/abc386/a/memo.md): A - Full House 2 `D1` `ポーカー`
-- 2026-07-27 [nowcoder/133876/j](../log/nowcoder/133876/j/memo.md): Show Hand `D2` `poker`
-- 2026-07-27 [nowcoder/133876/g](../log/nowcoder/133876/g/memo.md): Precision Error?! `D3` `空間幾何` `unit_distance_problem`
-- 2026-07-27 [nowcoder/33193/d](../log/nowcoder/33193/d/memo.md): Poker Game: Decision `D2` `poker`
