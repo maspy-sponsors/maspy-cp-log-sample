@@ -14,6 +14,12 @@ Latest 100 problems.
 - 2026-08-02 [codeforces/2248/c](../log/codeforces/2248/c/memo.md): C. Maximize the Score `D4` `2回ずつ現れる列`
 - 2026-08-02 [codeforces/2248/b](../log/codeforces/2248/b/memo.md): B. Merge to Match `D3` `貪欲`
 - 2026-08-02 [codeforces/2248/a](../log/codeforces/2248/a/memo.md): A. You Delete, I Delete `D1`
+- 2026-08-02 [codeforces/660/f](../log/codeforces/660/f/memo.md): F. Bear and Bowling 4 `D4` `CHT`
+- 2026-08-02 [codeforces/660/e](../log/codeforces/660/e/memo.md): E. Different Subsets For All Tuples `D3`
+- 2026-08-02 [codeforces/660/d](../log/codeforces/660/d/memo.md): D. Number of Parallelograms `D3`
+- 2026-08-02 [codeforces/660/c](../log/codeforces/660/c/memo.md): C. Hard Process `D2`
+- 2026-08-02 [codeforces/660/b](../log/codeforces/660/b/memo.md): B. Seating On Bus `D1`
+- 2026-08-02 [codeforces/660/a](../log/codeforces/660/a/memo.md): A. Co-prime Array `D1`
 - 2026-08-02 [atcoder/abc469/g](../log/atcoder/abc469/g/memo.md): G - K-nacci Operations `D7` `二面体群` `C_recursive` `C_recursiveの周期`
 - 2026-08-02 [atcoder/abc469/f](../log/atcoder/abc469/f/memo.md): F - GCD Maximum Spanning Tree `D3` `最小全域木` `辺の削減`
 - 2026-08-02 [atcoder/abc469/e](../log/atcoder/abc469/e/memo.md): E - Pro Exam Eligibility `D3` `二分探索` `傾き最大化`
@@ -21,6 +27,13 @@ Latest 100 problems.
 - 2026-08-02 [atcoder/abc469/c](../log/atcoder/abc469/c/memo.md): C - Cantrip `D3`
 - 2026-08-02 [atcoder/abc469/b](../log/atcoder/abc469/b/memo.md): B - Isolated Seats `D1`
 - 2026-08-02 [atcoder/abc469/a](../log/atcoder/abc469/a/memo.md): A - Train Car `D1`
+- 2026-08-02 [atcoder/abc449/g](../log/atcoder/abc449/g/memo.md): G - Many Repunit Sum 2 `D4` `repdigit`
+- 2026-08-02 [atcoder/abc449/f](../log/atcoder/abc449/f/memo.md): F - Grid Clipping `D3`
+- 2026-08-02 [atcoder/abc449/e](../log/atcoder/abc449/e/memo.md): E - A += v `D3` `クエリ先読み`
+- 2026-08-02 [atcoder/abc449/d](../log/atcoder/abc449/d/memo.md): D - Make Target 2 `D3`
+- 2026-08-02 [atcoder/abc449/c](../log/atcoder/abc449/c/memo.md): C - Comfortable Distance `D2`
+- 2026-08-02 [atcoder/abc449/b](../log/atcoder/abc449/b/memo.md): B - Deconstruct Chocolate `D1`
+- 2026-08-02 [atcoder/abc449/a](../log/atcoder/abc449/a/memo.md): A - π `D1`
 - 2026-08-01 [nowcoder/133880/n](../log/nowcoder/133880/n/memo.md): N. Welcome to HIT `D1`
 - 2026-08-01 [nowcoder/133880/l](../log/nowcoder/133880/l/memo.md): L. Matrix `D3`
 - 2026-08-01 [nowcoder/133880/k](../log/nowcoder/133880/k/memo.md): K. Sequence（Mex Version） `D3`
@@ -89,16 +102,3 @@ Latest 100 problems.
 - 2026-07-28 [repovive/18/d](../log/repovive/18/d/memo.md): 18D. Successor Swap `D4` `サイクル分解` `残す要素を決める`
 - 2026-07-28 [repovive/18/c](../log/repovive/18/c/memo.md): 18C. One Cycle Each `D3` `次数列`
 - 2026-07-28 [repovive/18/b](../log/repovive/18/b/memo.md): 18B. Open at Both Ends `D2` `残す要素を決める`
-- 2026-07-28 [repovive/18/a](../log/repovive/18/a/memo.md): 18A. Two VIPs `D2` `制約付き隣接スワップ`
-- 2026-07-28 [qoj/3874/14979](../log/qoj/3874/14979/memo.md): H. Shiratama `D5` `even_odd_sort`
-- 2026-07-28 [qoj/3874/14973](../log/qoj/3874/14973/memo.md): B. Welcome to Math Kingdom! `D6` `構築` `2次体の整数論`
-- 2026-07-28 [qoj/3799/18435](../log/qoj/3799/18435/memo.md): H. Rectangle Cutting `D3`
-- 2026-07-28 [qoj/3799/18434](../log/qoj/3799/18434/memo.md): G. I Will Always Remember You `D6` `reachability` `bit_parallel`
-- 2026-07-28 [qoj/3799/18431](../log/qoj/3799/18431/memo.md): D. Prime Game `D3` `smooth_number`
-- 2026-07-28 [qoj/3799/18429](../log/qoj/3799/18429/memo.md): B. Sequence Operations `D3`
-- 2026-07-28 [codeforces/1055/g](../log/codeforces/1055/g/memo.md): G. Jellyfish Nightmare `D6` `幾何` `Minkowski和` `最小カット`
-- 2026-07-28 [codeforces/1055/f](../log/codeforces/1055/f/memo.md): F. Tree and XOR `D4` `dyadic_interval`
-- 2026-07-28 [codeforces/1055/e](../log/codeforces/1055/e/memo.md): E. Segments on the Line `D4` `alien_trick`
-- 2026-07-28 [codeforces/1055/d](../log/codeforces/1055/d/memo.md): D. Refactoring `D3`
-- 2026-07-28 [codeforces/1055/c](../log/codeforces/1055/c/memo.md): C. Lucky Days `D3` `gcd` `周期性`
-- 2026-07-28 [codeforces/1055/b](../log/codeforces/1055/b/memo.md): B. Alice and Hairdresser `D2` `差分更新`
