@@ -2,6 +2,7 @@
 
 Latest 100 problems.
 
+- 2026-08-02 [qoj/1576/8512](../log/qoj/1576/8512/memo.md): H. Harmonic Operations `D4` `二面体群`
 - 2026-08-02 [nowcoder/133878/j](../log/nowcoder/133878/j/memo.md): J. Tree.zip `D5`
 - 2026-08-02 [nowcoder/133877/l](../log/nowcoder/133877/l/memo.md): L. Lazy Shuffling `D4` `転倒距離の三角不等式` `転倒距離`
 - 2026-08-02 [nowcoder/133877/b](../log/nowcoder/133877/b/memo.md): B. Bitwise Maximization `D3` `XORベクトル空間`
@@ -13,6 +14,13 @@ Latest 100 problems.
 - 2026-08-02 [codeforces/2248/c](../log/codeforces/2248/c/memo.md): C. Maximize the Score `D4` `2回ずつ現れる列`
 - 2026-08-02 [codeforces/2248/b](../log/codeforces/2248/b/memo.md): B. Merge to Match `D3` `貪欲`
 - 2026-08-02 [codeforces/2248/a](../log/codeforces/2248/a/memo.md): A. You Delete, I Delete `D1`
+- 2026-08-02 [atcoder/abc469/g](../log/atcoder/abc469/g/memo.md): G - K-nacci Operations `D7` `二面体群` `C_recursive` `C_recursiveの周期`
+- 2026-08-02 [atcoder/abc469/f](../log/atcoder/abc469/f/memo.md): F - GCD Maximum Spanning Tree `D3` `最小全域木` `辺の削減`
+- 2026-08-02 [atcoder/abc469/e](../log/atcoder/abc469/e/memo.md): E - Pro Exam Eligibility `D3` `二分探索` `傾き最大化`
+- 2026-08-02 [atcoder/abc469/d](../log/atcoder/abc469/d/memo.md): D - The Big Two `D3`
+- 2026-08-02 [atcoder/abc469/c](../log/atcoder/abc469/c/memo.md): C - Cantrip `D3`
+- 2026-08-02 [atcoder/abc469/b](../log/atcoder/abc469/b/memo.md): B - Isolated Seats `D1`
+- 2026-08-02 [atcoder/abc469/a](../log/atcoder/abc469/a/memo.md): A - Train Car `D1`
 - 2026-08-01 [nowcoder/133880/n](../log/nowcoder/133880/n/memo.md): N. Welcome to HIT `D1`
 - 2026-08-01 [nowcoder/133880/l](../log/nowcoder/133880/l/memo.md): L. Matrix `D3`
 - 2026-08-01 [nowcoder/133880/k](../log/nowcoder/133880/k/memo.md): K. Sequence（Mex Version） `D3`
@@ -94,11 +102,3 @@ Latest 100 problems.
 - 2026-07-28 [codeforces/1055/d](../log/codeforces/1055/d/memo.md): D. Refactoring `D3`
 - 2026-07-28 [codeforces/1055/c](../log/codeforces/1055/c/memo.md): C. Lucky Days `D3` `gcd` `周期性`
 - 2026-07-28 [codeforces/1055/b](../log/codeforces/1055/b/memo.md): B. Alice and Hairdresser `D2` `差分更新`
-- 2026-07-28 [codeforces/1055/a](../log/codeforces/1055/a/memo.md): A. Metro `D1`
-- 2026-07-28 [codeforces/717/i](../log/codeforces/717/i/memo.md): I. Cowboy Beblop at his computer `D6` `空間幾何` `内外判定`
-- 2026-07-28 [codeforces/717/h](../log/codeforces/717/h/memo.md): H. Pokermon League challenge `D3` `構築` `乱択による構築`
-- 2026-07-28 [codeforces/717/g](../log/codeforces/717/g/memo.md): G. Underfail `D4` `最小費用流`
-- 2026-07-28 [codeforces/717/f](../log/codeforces/717/f/memo.md): F. Heroes of Making Magic III `D5` `区間上のwalk`
-- 2026-07-28 [codeforces/717/e](../log/codeforces/717/e/memo.md): E. Paint it really, really dark gray `D3` `木上のwalk`
-- 2026-07-28 [codeforces/717/d](../log/codeforces/717/d/memo.md): D. Dexterina’s Lab `D3` `XOR畳み込み` `Hadamard変換`
-- 2026-07-28 [codeforces/717/c](../log/codeforces/717/c/memo.md): C. Potions Homework `D2` `並べ替え不等式` `貪欲`
