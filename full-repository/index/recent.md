@@ -2,7 +2,17 @@
 
 Latest 100 problems.
 
+- 2026-08-02 [nowcoder/133878/j](../log/nowcoder/133878/j/memo.md): J. Tree.zip `D5`
+- 2026-08-02 [nowcoder/133877/l](../log/nowcoder/133877/l/memo.md): L. Lazy Shuffling `D4` `転倒距離の三角不等式` `転倒距離`
+- 2026-08-02 [nowcoder/133877/b](../log/nowcoder/133877/b/memo.md): B. Bitwise Maximization `D3` `XORベクトル空間`
+- 2026-08-02 [nowcoder/133876/c](../log/nowcoder/133876/c/memo.md): C. Fish Eating `D5` `双対unionfind`
 - 2026-08-02 [codeforces/2248/g](../log/codeforces/2248/g/memo.md): G. No Balance Left `D5` `高度なグラフ探索` `bitset` `グラフ探索高速化`
+- 2026-08-02 [codeforces/2248/f](../log/codeforces/2248/f/memo.md): F. Matrix Elimination `D5`
+- 2026-08-02 [codeforces/2248/e](../log/codeforces/2248/e/memo.md): E. Excuse for Breaks `D4` `最適解の構造`
+- 2026-08-02 [codeforces/2248/d](../log/codeforces/2248/d/memo.md): D. Good Pair Queries `D4` `貪欲`
+- 2026-08-02 [codeforces/2248/c](../log/codeforces/2248/c/memo.md): C. Maximize the Score `D4` `2回ずつ現れる列`
+- 2026-08-02 [codeforces/2248/b](../log/codeforces/2248/b/memo.md): B. Merge to Match `D3` `貪欲`
+- 2026-08-02 [codeforces/2248/a](../log/codeforces/2248/a/memo.md): A. You Delete, I Delete `D1`
 - 2026-08-01 [nowcoder/133880/n](../log/nowcoder/133880/n/memo.md): N. Welcome to HIT `D1`
 - 2026-08-01 [nowcoder/133880/l](../log/nowcoder/133880/l/memo.md): L. Matrix `D3`
 - 2026-08-01 [nowcoder/133880/k](../log/nowcoder/133880/k/memo.md): K. Sequence（Mex Version） `D3`
@@ -92,13 +102,3 @@ Latest 100 problems.
 - 2026-07-28 [codeforces/717/e](../log/codeforces/717/e/memo.md): E. Paint it really, really dark gray `D3` `木上のwalk`
 - 2026-07-28 [codeforces/717/d](../log/codeforces/717/d/memo.md): D. Dexterina’s Lab `D3` `XOR畳み込み` `Hadamard変換`
 - 2026-07-28 [codeforces/717/c](../log/codeforces/717/c/memo.md): C. Potions Homework `D2` `並べ替え不等式` `貪欲`
-- 2026-07-28 [codeforces/717/b](../log/codeforces/717/b/memo.md): B. R3D3’s Summer Adventure `D4`
-- 2026-07-28 [codeforces/717/a](../log/codeforces/717/a/memo.md): A. Festival Organization `D4` `C_recursive`
-- 2026-07-28 [codeforces/83/e](../log/codeforces/83/e/memo.md): E. Two Subsequences `D6` `文字列の重なり`
-- 2026-07-28 [codeforces/83/d](../log/codeforces/83/d/memo.md): D. Numbers `D5` `解法の使い分け` `素数篩`
-- 2026-07-28 [codeforces/83/c](../log/codeforces/83/c/memo.md): C. Track `D4` `BFS`
-- 2026-07-28 [codeforces/83/b](../log/codeforces/83/b/memo.md): B. Doctor `D3`
-- 2026-07-28 [codeforces/83/a](../log/codeforces/83/a/memo.md): A. Magical Array `D1` `連長圧縮`
-- 2026-07-28 [atcoder/abc386/g](../log/atcoder/abc386/g/memo.md): G - Many MST `D5` `グラフ数え上げ` `連結グラフ数え上げ`
-- 2026-07-28 [atcoder/abc386/f](../log/atcoder/abc386/f/memo.md): F - Operate K `D4` `dp_keyの枝狩り` `編集距離`
-- 2026-07-28 [atcoder/abc386/e](../log/atcoder/abc386/e/memo.md): E - Maximize XOR `D3` `全列挙` `dfsによる列挙`
