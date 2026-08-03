@@ -2,12 +2,25 @@
 
 Latest 100 problems.
 
+- 2026-08-04 [codeforces/2065/h](../log/codeforces/2065/h/memo.md): H. Bro Thinks He's Him `D4` `セグメント木に行列`
+- 2026-08-04 [codeforces/2065/g](../log/codeforces/2065/g/memo.md): G. Skibidus and Capping `D2` `素数篩`
+- 2026-08-04 [codeforces/2065/f](../log/codeforces/2065/f/memo.md): F. Skibidus and Slay `D3` `実は小さい`
+- 2026-08-04 [codeforces/2065/e](../log/codeforces/2065/e/memo.md): E. Skibidus and Rizz `D3` `構築`
+- 2026-08-04 [codeforces/2065/d](../log/codeforces/2065/d/memo.md): D. Skibidus and Sigma `D2` `最適なソート順`
+- 2026-08-04 [codeforces/2065/c2](../log/codeforces/2065/c2/memo.md): C2. Skibidus and Fanum Tax (hard version) `D2`
+- 2026-08-04 [codeforces/2065/b](../log/codeforces/2065/b/memo.md): B. Skibidus and Ohio `D1`
+- 2026-08-04 [codeforces/2065/a](../log/codeforces/2065/a/memo.md): A. Skibidus and Amog'u `D1`
+- 2026-08-04 [codeforces/370/e](../log/codeforces/370/e/memo.md): E. Summer Reading `D4`
+- 2026-08-04 [codeforces/370/d](../log/codeforces/370/d/memo.md): D. Broken Monitor `D4` `bounding_box`
+- 2026-08-04 [codeforces/370/c](../log/codeforces/370/c/memo.md): C. Mittens `D2`
+- 2026-08-04 [codeforces/370/b](../log/codeforces/370/b/memo.md): B. Berland Bingo `D1`
+- 2026-08-04 [codeforces/370/a](../log/codeforces/370/a/memo.md): A. Rook, Bishop and King `D1`
 - 2026-08-03 [qoj/1093/5426](../log/qoj/1093/5426/memo.md): M. Drain the Water Tank `D3` `幾何`
 - 2026-08-03 [qoj/1093/5425](../log/qoj/1093/5425/memo.md): L. Proposition Composition `D7` `橋` `二重辺連結` `マージテクの逆`
 - 2026-08-03 [qoj/1093/5424](../log/qoj/1093/5424/memo.md): Problem K. NaN in a Heap `D5` `heap数え上げ` `topological_sort数え上げ`
 - 2026-08-03 [qoj/1093/5423](../log/qoj/1093/5423/memo.md): J. Perfect Matching `D5` `45度回転` `グリッドを二部グラフと見る` `線グラフ` `線グラフのマッチング` `最大マッチング`
 - 2026-08-03 [qoj/1093/5422](../log/qoj/1093/5422/memo.md): Problem I. Perfect Palindrome `D2`
-- 2026-08-03 [qoj/1093/5421](../log/qoj/1093/5421/memo.md): H. Factories Once More `D8` `等差数列加算` `平衡二分木` `2次関数` `凸関数` `凸畳み込み`
+- 2026-08-03 [qoj/1093/5421](../log/qoj/1093/5421/memo.md): H. Factories Once More `D7` `等差数列加算` `平衡二分木` `2次関数` `凸関数` `凸畳み込み`
 - 2026-08-03 [qoj/1093/5420](../log/qoj/1093/5420/memo.md): G. Inscryption `D3`
 - 2026-08-03 [qoj/1093/5419](../log/qoj/1093/5419/memo.md): F. Triangles `D6` `幾何` `構築` `帰納的構成`
 - 2026-08-03 [qoj/1093/5418](../log/qoj/1093/5418/memo.md): E. Color the Tree `D5` `木の圧縮` `bfs_numbering` `最小費用区間被覆` `区間を置いていくdp`
@@ -89,16 +102,3 @@ Latest 100 problems.
 - 2026-07-31 [codeforces/1726/c](../log/codeforces/1726/c/memo.md): C. Jatayu's Balanced Bracket Sequence `D3` `カッコ列`
 - 2026-07-31 [codeforces/1726/b](../log/codeforces/1726/b/memo.md): B. Mainak and Interesting Sequence `D2`
 - 2026-07-31 [codeforces/1726/a](../log/codeforces/1726/a/memo.md): A. Mainak and Array `D1`
-- 2026-07-31 [codeforces/18/e](../log/codeforces/18/e/memo.md): E. Flag 2 `D4` `候補の削減`
-- 2026-07-31 [codeforces/18/d](../log/codeforces/18/d/memo.md): D. Seller Bob `D2` `多倍長整数`
-- 2026-07-31 [codeforces/18/c](../log/codeforces/18/c/memo.md): C. Stripe `D1`
-- 2026-07-31 [codeforces/18/b](../log/codeforces/18/b/memo.md): B. Platforms `D2`
-- 2026-07-31 [codeforces/18/a](../log/codeforces/18/a/memo.md): A. Triangle `D1` `幾何`
-- 2026-07-29 [nowcoder/133879/j](../log/nowcoder/133879/j/memo.md): J. Walk `D6`
-- 2026-07-29 [nowcoder/133879/f](../log/nowcoder/133879/f/memo.md): F. 3 Subsequences `D3`
-- 2026-07-29 [nowcoder/133879/b](../log/nowcoder/133879/b/memo.md): B. Quadratic Residue `D5` `平方剰余の相互法則`
-- 2026-07-29 [nowcoder/133879/a](../log/nowcoder/133879/a/memo.md): A. Sixteen `D5` `構築` `det構築` `companion_matrix`
-- 2026-07-29 [nowcoder/133878/m](../log/nowcoder/133878/m/memo.md): M. Wanderer `D4` `期待値の分解` `有向辺ごとの期待値` `木上のランダムウォーク` `木上のウォーク`
-- 2026-07-29 [nowcoder/133878/l](../log/nowcoder/133878/l/memo.md): L. Uphill Duel `D1` `ゲーム`
-- 2026-07-29 [nowcoder/133878/k](../log/nowcoder/133878/k/memo.md): K. Turn-by-Turn Navigation `D1` `幾何` `外積`
-- 2026-07-29 [nowcoder/133878/b](../log/nowcoder/133878/b/memo.md): B. Buy One More `D4` `Cycle_Lemma`
