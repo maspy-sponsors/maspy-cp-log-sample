@@ -1,7 +1,7 @@
 # Stats
 
 - problems: 787
-- tagged problems: 505
+- tagged problems: 506
 - difficulty entries: 787
 - contests/sites: 121
 - AI translations: 787 / 787

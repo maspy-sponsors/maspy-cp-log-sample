@@ -2,7 +2,7 @@
 
 Latest 100 problems.
 
-- 2026-08-05 [codeforces/2254/g](../log/codeforces/2254/g/memo.md): G. Nightcrawler `D5`
+- 2026-08-05 [codeforces/2254/g](../log/codeforces/2254/g/memo.md): G. Nightcrawler `D5` `マッチング` `マトロイド` `Hallの定理`
 - 2026-08-05 [codeforces/2254/f](../log/codeforces/2254/f/memo.md): F. Whiplash `D4` `XORによる数列操作`
 - 2026-08-05 [codeforces/2254/e](../log/codeforces/2254/e/memo.md): E. Chronostasis `D2`
 - 2026-08-05 [codeforces/2254/d](../log/codeforces/2254/d/memo.md): D. Silhouette `D3`
