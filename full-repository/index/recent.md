@@ -2,6 +2,8 @@
 
 Latest 100 problems.
 
+- 2026-08-04 [qoj/3799/18432](../log/qoj/3799/18432/memo.md): E. Rook `D6` `グリッド数え上げ` `包除原理` `スターリング数`
+- 2026-08-04 [qoj/3799/18430](../log/qoj/3799/18430/memo.md): C. Believe in You `D2`
 - 2026-08-04 [nowcoder/133879/h](../log/nowcoder/133879/h/memo.md): H. String `D6` `無限反復辞書順`
 - 2026-08-04 [nowcoder/133876/l](../log/nowcoder/133876/l/memo.md): Substrings of Substrings `D5` `Aho_Corasick` `大きさで平方分割`
 - 2026-08-04 [nowcoder/133876/i](../log/nowcoder/133876/i/memo.md): I. Combination of Two Nice Problems `D5` `辺の向きづけ` `構築`
@@ -21,6 +23,13 @@ Latest 100 problems.
 - 2026-08-04 [codeforces/2065/c2](../log/codeforces/2065/c2/memo.md): C2. Skibidus and Fanum Tax (hard version) `D2`
 - 2026-08-04 [codeforces/2065/b](../log/codeforces/2065/b/memo.md): B. Skibidus and Ohio `D1`
 - 2026-08-04 [codeforces/2065/a](../log/codeforces/2065/a/memo.md): A. Skibidus and Amog'u `D1`
+- 2026-08-04 [codeforces/1874/g](../log/codeforces/1874/g/memo.md): G. Jellyfish and Miku `D8`
+- 2026-08-04 [codeforces/1874/f](../log/codeforces/1874/f/memo.md): F. Jellyfish and OEIS `D8` `包除原理` `区間dp` `connected_interval`
+- 2026-08-04 [codeforces/1874/e](../log/codeforces/1874/e/memo.md): E. Jellyfish and Hack `D6` `多項式補間によるdp高速化`
+- 2026-08-04 [codeforces/1874/d](../log/codeforces/1874/d/memo.md): D. Jellyfish and Miku `D6` `dpの枝狩り`
+- 2026-08-04 [codeforces/1874/c](../log/codeforces/1874/c/memo.md): C. Jellyfish and EVA `D4`
+- 2026-08-04 [codeforces/1874/b](../log/codeforces/1874/b/memo.md): B. Jellyfish and Math `D5`
+- 2026-08-04 [codeforces/1874/a](../log/codeforces/1874/a/memo.md): A. Jellyfish and Game `D3` `ゲーム`
 - 2026-08-04 [codeforces/370/e](../log/codeforces/370/e/memo.md): E. Summer Reading `D4`
 - 2026-08-04 [codeforces/370/d](../log/codeforces/370/d/memo.md): D. Broken Monitor `D4` `bounding_box`
 - 2026-08-04 [codeforces/370/c](../log/codeforces/370/c/memo.md): C. Mittens `D2`
@@ -93,12 +102,3 @@ Latest 100 problems.
 - 2026-08-01 [nowcoder/133880/d](../log/nowcoder/133880/d/memo.md): D. Half-plane Cover `D6` `幾何` `ヘリーの定理` `凸集合分離`
 - 2026-08-01 [nowcoder/133880/c](../log/nowcoder/133880/c/memo.md): C. Number `D6` `構築` `順列の構築` `順列の和の構築`
 - 2026-08-01 [nowcoder/133880/b](../log/nowcoder/133880/b/memo.md): B. Enlarged Badge `D4` `ピックの公式` `Minkowski和` `幾何`
-- 2026-08-01 [nowcoder/133880/a](../log/nowcoder/133880/a/memo.md): A. Echo Prefixes `D4` `suffix_tree`
-- 2026-08-01 [atcoder/agc006/d](../log/atcoder/agc006/d/memo.md): D - Median Pyramid Hard `D4` `median` `median_pyramid`
-- 2026-07-31 [nowcoder/133879/k](../log/nowcoder/133879/k/memo.md): K. Decomposition Trees `D5` `elimination_tree`
-- 2026-07-31 [nowcoder/133879/i](../log/nowcoder/133879/i/memo.md): Rounddog II `D2`
-- 2026-07-31 [nowcoder/133879/e](../log/nowcoder/133879/e/memo.md): E. DPRS `D4`
-- 2026-07-31 [nowcoder/133879/d](../log/nowcoder/133879/d/memo.md): D. The Game `D3`
-- 2026-07-31 [nowcoder/133879/c](../log/nowcoder/133879/c/memo.md): C. Retest Queue `D3`
-- 2026-07-31 [codeforces/2196/f](../log/codeforces/2196/f/memo.md): F. Indivisible `D6` `次数列`
-- 2026-07-31 [codeforces/2196/e2](../log/codeforces/2196/e2/memo.md): E2. Fuzzy Concatenation (Hard version) `D5` `bitset` `bit並列`
