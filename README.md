@@ -28,8 +28,10 @@ For English Speakers: [README_en.md](README_en.md)
 - [`full-repository/index/recent.md`](full-repository/index/recent.md)
 - [`full-repository/index/stats.md`](full-repository/index/stats.md)
 
-上記の自動同期ファイルは、完全版レポジトリの内容をそのまま掲載しています。
-そのため、完全版レポジトリ内の `log/` や同期対象外の `index/` へ向かうリンクは、
+`README.md`、`README_en.md`、`index/stats.md` は、完全版レポジトリの内容をそのまま掲載しています。
+`index/recent.md` は、完全版レポジトリの最近の追加状況から difficulty・解法タグ・解法メモへのリンクを除いた公開用一覧で、追加日・問題ID・問題名のみを掲載しています。difficulty と解法タグを含む完全な一覧は、有料版レポジトリでのみ閲覧できます。
+
+完全版レポジトリ内の `log/` や同期対象外の `index/` へ向かうリンクは、
 この公開サンプルでは開けない場合があります。
 
 サンプルとして収録する問題と、その問題を対象にした `index/` は自動同期しません。

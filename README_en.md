@@ -30,9 +30,10 @@ from the full repository:
 - [`full-repository/index/recent.md`](full-repository/index/recent.md)
 - [`full-repository/index/stats.md`](full-repository/index/stats.md)
 
-The synchronized files above reproduce the contents of the full repository
-without rewriting their links. Therefore, links to `log/` or unsynchronized
-parts of `index/` in the full repository may not open from this public sample.
+`README.md`, `README_en.md`, and `index/stats.md` reproduce the corresponding files from the full repository without modification.
+`index/recent.md` is a public version of the recent additions list from the full repository. It includes only the addition date, problem ID, and problem title; difficulty ratings, solution tags, and links to solution notes are omitted. The complete list, including difficulty ratings and solution tags, is available only in the paid full repository.
+
+Links to `log/` or unsynchronized parts of `index/` in the full repository may not open from this public sample.
 
 The selected sample problems and the indexes generated for them are not
 automatically synchronized.

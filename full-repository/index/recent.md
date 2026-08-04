@@ -2,6 +2,7 @@
 
 Latest 100 problems.
 
+<<<<<<< HEAD
 - 2026-08-05 [codeforces/2254/g](../log/codeforces/2254/g/memo.md): G. Nightcrawler `D5` `マッチング` `マトロイド` `Hallの定理` `横断マトロイド`
 - 2026-08-05 [codeforces/2254/f](../log/codeforces/2254/f/memo.md): F. Whiplash `D4` `XORによる数列操作`
 - 2026-08-05 [codeforces/2254/e](../log/codeforces/2254/e/memo.md): E. Chronostasis `D2`
@@ -102,3 +103,109 @@ Latest 100 problems.
 - 2026-08-01 [nowcoder/133880/n](../log/nowcoder/133880/n/memo.md): N. Welcome to HIT `D1`
 - 2026-08-01 [nowcoder/133880/l](../log/nowcoder/133880/l/memo.md): L. Matrix `D3`
 - 2026-08-01 [nowcoder/133880/k](../log/nowcoder/133880/k/memo.md): K. Sequence（Mex Version） `D3`
+=======
+This public list is generated from the full repository and includes only the addition date, problem ID, and problem title.
+Difficulty ratings, solution tags, and links to solution notes are omitted.
+The complete list is available only in the full repository for eligible paid sponsors.
+
+- 2026-08-05 `codeforces/2254/g`: G. Nightcrawler
+- 2026-08-05 `codeforces/2254/f`: F. Whiplash
+- 2026-08-05 `codeforces/2254/e`: E. Chronostasis
+- 2026-08-05 `codeforces/2254/d`: D. Silhouette
+- 2026-08-05 `codeforces/2254/c2`: C2. Marenol (hard version)
+- 2026-08-05 `codeforces/2254/b`: B. Evanescent
+- 2026-08-05 `codeforces/2254/a`: A. Riptide
+- 2026-08-04 `qoj/3799/18432`: E. Rook
+- 2026-08-04 `qoj/3799/18430`: C. Believe in You
+- 2026-08-04 `nowcoder/133879/h`: H. String
+- 2026-08-04 `nowcoder/133876/l`: Substrings of Substrings
+- 2026-08-04 `nowcoder/133876/i`: I. Combination of Two Nice Problems
+- 2026-08-04 `nowcoder/133876/d`: D. Something Different
+- 2026-08-04 `nowcoder/133876/b`: B. Cast off as Cast
+- 2026-08-04 `codeforces/2140/f`: F. Sum Minimisation
+- 2026-08-04 `codeforces/2140/e2`: E2. Prime Gaming (Hard Version)
+- 2026-08-04 `codeforces/2140/d`: D. A Cruel Segment's Thesis
+- 2026-08-04 `codeforces/2140/c`: C. Ultimate Value
+- 2026-08-04 `codeforces/2140/b`: B. Another Divisibility Problem
+- 2026-08-04 `codeforces/2140/a`: A. Shift Sort
+- 2026-08-04 `codeforces/2065/h`: H. Bro Thinks He's Him
+- 2026-08-04 `codeforces/2065/g`: G. Skibidus and Capping
+- 2026-08-04 `codeforces/2065/f`: F. Skibidus and Slay
+- 2026-08-04 `codeforces/2065/e`: E. Skibidus and Rizz
+- 2026-08-04 `codeforces/2065/d`: D. Skibidus and Sigma
+- 2026-08-04 `codeforces/2065/c2`: C2. Skibidus and Fanum Tax (hard version)
+- 2026-08-04 `codeforces/2065/b`: B. Skibidus and Ohio
+- 2026-08-04 `codeforces/2065/a`: A. Skibidus and Amog'u
+- 2026-08-04 `codeforces/1874/g`: G. Jellyfish and Miku
+- 2026-08-04 `codeforces/1874/f`: F. Jellyfish and OEIS
+- 2026-08-04 `codeforces/1874/e`: E. Jellyfish and Hack
+- 2026-08-04 `codeforces/1874/d`: D. Jellyfish and Miku
+- 2026-08-04 `codeforces/1874/c`: C. Jellyfish and EVA
+- 2026-08-04 `codeforces/1874/b`: B. Jellyfish and Math
+- 2026-08-04 `codeforces/1874/a`: A. Jellyfish and Game
+- 2026-08-04 `codeforces/370/e`: E. Summer Reading
+- 2026-08-04 `codeforces/370/d`: D. Broken Monitor
+- 2026-08-04 `codeforces/370/c`: C. Mittens
+- 2026-08-04 `codeforces/370/b`: B. Berland Bingo
+- 2026-08-04 `codeforces/370/a`: A. Rook, Bishop and King
+- 2026-08-03 `qoj/1093/5426`: M. Drain the Water Tank
+- 2026-08-03 `qoj/1093/5425`: L. Proposition Composition
+- 2026-08-03 `qoj/1093/5424`: Problem K. NaN in a Heap
+- 2026-08-03 `qoj/1093/5423`: J. Perfect Matching
+- 2026-08-03 `qoj/1093/5422`: Problem I. Perfect Palindrome
+- 2026-08-03 `qoj/1093/5421`: H. Factories Once More
+- 2026-08-03 `qoj/1093/5420`: G. Inscryption
+- 2026-08-03 `qoj/1093/5419`: F. Triangles
+- 2026-08-03 `qoj/1093/5418`: E. Color the Tree
+- 2026-08-03 `qoj/1093/5417`: D. Chat Program
+- 2026-08-03 `qoj/1093/5416`: C. Fabulous Fungus Frenzy
+- 2026-08-03 `qoj/1093/5415`: B. Ropeway
+- 2026-08-03 `qoj/1093/5414`: A. Stop, Yesterday Please No More
+- 2026-08-03 `codeforces/809/e`: E. Surprise me!
+- 2026-08-03 `codeforces/809/d`: D. Hitchhiking in the Baltic States
+- 2026-08-03 `codeforces/809/c`: C. Find a car
+- 2026-08-03 `codeforces/809/b`: B. Glad to see you!
+- 2026-08-03 `codeforces/809/a`: A. Do you want a date?
+- 2026-08-03 `atcoder/abc432/g`: G - Sum of Binom(A, B)
+- 2026-08-03 `atcoder/abc432/f`: F - Candy Redistribution
+- 2026-08-03 `atcoder/abc432/e`: E - Clamp
+- 2026-08-03 `atcoder/abc432/d`: D - Suddenly, A Tempest
+- 2026-08-03 `atcoder/abc432/c`: C - Candy Tribulation
+- 2026-08-03 `atcoder/abc432/b`: B - Permute to Minimize
+- 2026-08-03 `atcoder/abc432/a`: A - Permute to Maximize
+- 2026-08-02 `qoj/1576/8512`: H. Harmonic Operations
+- 2026-08-02 `nowcoder/133878/j`: J. Tree.zip
+- 2026-08-02 `nowcoder/133877/l`: L. Lazy Shuffling
+- 2026-08-02 `nowcoder/133877/b`: B. Bitwise Maximization
+- 2026-08-02 `nowcoder/133876/c`: C. Fish Eating
+- 2026-08-02 `codeforces/2248/g`: G. No Balance Left
+- 2026-08-02 `codeforces/2248/f`: F. Matrix Elimination
+- 2026-08-02 `codeforces/2248/e`: E. Excuse for Breaks
+- 2026-08-02 `codeforces/2248/d`: D. Good Pair Queries
+- 2026-08-02 `codeforces/2248/c`: C. Maximize the Score
+- 2026-08-02 `codeforces/2248/b`: B. Merge to Match
+- 2026-08-02 `codeforces/2248/a`: A. You Delete, I Delete
+- 2026-08-02 `codeforces/660/f`: F. Bear and Bowling 4
+- 2026-08-02 `codeforces/660/e`: E. Different Subsets For All Tuples
+- 2026-08-02 `codeforces/660/d`: D. Number of Parallelograms
+- 2026-08-02 `codeforces/660/c`: C. Hard Process
+- 2026-08-02 `codeforces/660/b`: B. Seating On Bus
+- 2026-08-02 `codeforces/660/a`: A. Co-prime Array
+- 2026-08-02 `atcoder/abc469/g`: G - K-nacci Operations
+- 2026-08-02 `atcoder/abc469/f`: F - GCD Maximum Spanning Tree
+- 2026-08-02 `atcoder/abc469/e`: E - Pro Exam Eligibility
+- 2026-08-02 `atcoder/abc469/d`: D - The Big Two
+- 2026-08-02 `atcoder/abc469/c`: C - Cantrip
+- 2026-08-02 `atcoder/abc469/b`: B - Isolated Seats
+- 2026-08-02 `atcoder/abc469/a`: A - Train Car
+- 2026-08-02 `atcoder/abc449/g`: G - Many Repunit Sum 2
+- 2026-08-02 `atcoder/abc449/f`: F - Grid Clipping
+- 2026-08-02 `atcoder/abc449/e`: E - A += v
+- 2026-08-02 `atcoder/abc449/d`: D - Make Target 2
+- 2026-08-02 `atcoder/abc449/c`: C - Comfortable Distance
+- 2026-08-02 `atcoder/abc449/b`: B - Deconstruct Chocolate
+- 2026-08-02 `atcoder/abc449/a`: A - π
+- 2026-08-01 `nowcoder/133880/n`: N. Welcome to HIT
+- 2026-08-01 `nowcoder/133880/l`: L. Matrix
+- 2026-08-01 `nowcoder/133880/k`: K. Sequence（Mex Version）
+>>>>>>> 86b8f8b (a)
