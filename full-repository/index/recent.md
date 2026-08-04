@@ -2,6 +2,17 @@
 
 Latest 100 problems.
 
+- 2026-08-04 [nowcoder/133879/h](../log/nowcoder/133879/h/memo.md): H. String `D6` `無限反復辞書順`
+- 2026-08-04 [nowcoder/133876/l](../log/nowcoder/133876/l/memo.md): Substrings of Substrings `D5` `Aho_Corasick` `大きさで平方分割`
+- 2026-08-04 [nowcoder/133876/i](../log/nowcoder/133876/i/memo.md): I. Combination of Two Nice Problems `D5` `辺の向きづけ` `構築`
+- 2026-08-04 [nowcoder/133876/d](../log/nowcoder/133876/d/memo.md): D. Something Different `D5`
+- 2026-08-04 [nowcoder/133876/b](../log/nowcoder/133876/b/memo.md): B. Cast off as Cast `D5`
+- 2026-08-04 [codeforces/2140/f](../log/codeforces/2140/f/memo.md): F. Sum Minimisation `D6`
+- 2026-08-04 [codeforces/2140/e2](../log/codeforces/2140/e2/memo.md): E2. Prime Gaming (Hard Version) `D4` `01_principle`
+- 2026-08-04 [codeforces/2140/d](../log/codeforces/2140/d/memo.md): D. A Cruel Segment's Thesis `D3` `緩和`
+- 2026-08-04 [codeforces/2140/c](../log/codeforces/2140/c/memo.md): C. Ultimate Value `D2` `ゲーム`
+- 2026-08-04 [codeforces/2140/b](../log/codeforces/2140/b/memo.md): B. Another Divisibility Problem `D1`
+- 2026-08-04 [codeforces/2140/a](../log/codeforces/2140/a/memo.md): A. Shift Sort `D2`
 - 2026-08-04 [codeforces/2065/h](../log/codeforces/2065/h/memo.md): H. Bro Thinks He's Him `D4` `セグメント木に行列`
 - 2026-08-04 [codeforces/2065/g](../log/codeforces/2065/g/memo.md): G. Skibidus and Capping `D2` `素数篩`
 - 2026-08-04 [codeforces/2065/f](../log/codeforces/2065/f/memo.md): F. Skibidus and Slay `D3` `実は小さい`
@@ -91,14 +102,3 @@ Latest 100 problems.
 - 2026-07-31 [nowcoder/133879/c](../log/nowcoder/133879/c/memo.md): C. Retest Queue `D3`
 - 2026-07-31 [codeforces/2196/f](../log/codeforces/2196/f/memo.md): F. Indivisible `D6` `次数列`
 - 2026-07-31 [codeforces/2196/e2](../log/codeforces/2196/e2/memo.md): E2. Fuzzy Concatenation (Hard version) `D5` `bitset` `bit並列`
-- 2026-07-31 [codeforces/2196/d](../log/codeforces/2196/d/memo.md): D. Double Bracket Sequence `D5` `カッコ列` `マッチング`
-- 2026-07-31 [codeforces/2196/c2](../log/codeforces/2196/c2/memo.md): C2. Interactive Graph (Hard Version) `D4` `インタラクティブ` `DFS`
-- 2026-07-31 [codeforces/2196/b](../log/codeforces/2196/b/memo.md): B. Another Problem about Beautiful Pairs `D3` `次数による向きづけ`
-- 2026-07-31 [codeforces/2196/a](../log/codeforces/2196/a/memo.md): A. Game with a Fraction `D3` `ゲーム` `実験`
-- 2026-07-31 [codeforces/1726/h](../log/codeforces/1726/h/memo.md): H. Mainak and the Bleeding Polygon `D7` `幾何` `積分` `包絡線` `sympy`
-- 2026-07-31 [codeforces/1726/g](../log/codeforces/1726/g/memo.md): G. A Certain Magical Party `D5`
-- 2026-07-31 [codeforces/1726/e](../log/codeforces/1726/e/memo.md): E. Almost Perfect `D5` `サイクル分解` `EGF`
-- 2026-07-31 [codeforces/1726/d](../log/codeforces/1726/d/memo.md): D. Edge Split `D5` `マトロイド` `マトロイドの合併` `マトロイド交差`
-- 2026-07-31 [codeforces/1726/c](../log/codeforces/1726/c/memo.md): C. Jatayu's Balanced Bracket Sequence `D3` `カッコ列`
-- 2026-07-31 [codeforces/1726/b](../log/codeforces/1726/b/memo.md): B. Mainak and Interesting Sequence `D2`
-- 2026-07-31 [codeforces/1726/a](../log/codeforces/1726/a/memo.md): A. Mainak and Array `D1`
