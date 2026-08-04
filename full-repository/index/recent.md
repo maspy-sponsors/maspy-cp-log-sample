@@ -2,6 +2,13 @@
 
 Latest 100 problems.
 
+- 2026-08-05 [codeforces/2254/g](../log/codeforces/2254/g/memo.md): G. Nightcrawler `D5`
+- 2026-08-05 [codeforces/2254/f](../log/codeforces/2254/f/memo.md): F. Whiplash `D4` `XORによる数列操作`
+- 2026-08-05 [codeforces/2254/e](../log/codeforces/2254/e/memo.md): E. Chronostasis `D2`
+- 2026-08-05 [codeforces/2254/d](../log/codeforces/2254/d/memo.md): D. Silhouette `D3`
+- 2026-08-05 [codeforces/2254/c2](../log/codeforces/2254/c2/memo.md): C2. Marenol (hard version) `D3` `転倒数`
+- 2026-08-05 [codeforces/2254/b](../log/codeforces/2254/b/memo.md): B. Evanescent `D2`
+- 2026-08-05 [codeforces/2254/a](../log/codeforces/2254/a/memo.md): A. Riptide `D1`
 - 2026-08-04 [qoj/3799/18432](../log/qoj/3799/18432/memo.md): E. Rook `D6` `グリッド数え上げ` `包除原理` `スターリング数`
 - 2026-08-04 [qoj/3799/18430](../log/qoj/3799/18430/memo.md): C. Believe in You `D2`
 - 2026-08-04 [nowcoder/133879/h](../log/nowcoder/133879/h/memo.md): H. String `D6` `無限反復辞書順`
@@ -95,10 +102,3 @@ Latest 100 problems.
 - 2026-08-01 [nowcoder/133880/n](../log/nowcoder/133880/n/memo.md): N. Welcome to HIT `D1`
 - 2026-08-01 [nowcoder/133880/l](../log/nowcoder/133880/l/memo.md): L. Matrix `D3`
 - 2026-08-01 [nowcoder/133880/k](../log/nowcoder/133880/k/memo.md): K. Sequence（Mex Version） `D3`
-- 2026-08-01 [nowcoder/133880/j](../log/nowcoder/133880/j/memo.md): J. Sequence（Median Version） `D6` `median` `median_pyramid`
-- 2026-08-01 [nowcoder/133880/i](../log/nowcoder/133880/i/memo.md): Sequence Operation 2 `D4`
-- 2026-08-01 [nowcoder/133880/g](../log/nowcoder/133880/g/memo.md): Bipartite Graph `D7` `reachability` `最小カット` `最小頂点被覆` `残余グラフ` `bit_parallel`
-- 2026-08-01 [nowcoder/133880/e](../log/nowcoder/133880/e/memo.md): E. Koishi and Function `D4`
-- 2026-08-01 [nowcoder/133880/d](../log/nowcoder/133880/d/memo.md): D. Half-plane Cover `D6` `幾何` `ヘリーの定理` `凸集合分離`
-- 2026-08-01 [nowcoder/133880/c](../log/nowcoder/133880/c/memo.md): C. Number `D6` `構築` `順列の構築` `順列の和の構築`
-- 2026-08-01 [nowcoder/133880/b](../log/nowcoder/133880/b/memo.md): B. Enlarged Badge `D4` `ピックの公式` `Minkowski和` `幾何`
