@@ -1,12 +1,15 @@
 # Recent
 
-Latest 563 problems.
+Latest 566 problems.
 Selection rule: all problems added within 30 days of the latest addition, or the latest 100 problems, whichever is larger.
 
 This public list is generated from the full repository and includes only the addition date, problem ID, and problem title.
 Difficulty ratings, solution tags, and links to solution notes are omitted.
 The complete list is available only in the full repository for eligible paid sponsors.
 
+- 2026-08-05 `nowcoder/133877/k`: K. Kindergarten
+- 2026-08-05 `nowcoder/133877/h`: H. Hyperspace Pairing
+- 2026-08-05 `nowcoder/133877/e`: E. Easy Puzzle
 - 2026-08-05 `codeforces/2254/g`: G. Nightcrawler
 - 2026-08-05 `codeforces/2254/f`: F. Whiplash
 - 2026-08-05 `codeforces/2254/e`: E. Chronostasis
