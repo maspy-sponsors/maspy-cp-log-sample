@@ -1,12 +1,13 @@
 # Recent
 
-Latest 569 problems.
+Latest 570 problems.
 Selection rule: all problems added within 30 days of the latest addition, or the latest 100 problems, whichever is larger.
 
 This public list is generated from the full repository and includes only the addition date, problem ID, and problem title.
 Difficulty ratings, solution tags, and links to solution notes are omitted.
 The complete list is available only in the full repository for eligible paid sponsors.
 
+- 2026-08-06 `nowcoder/133881/l`: L. Longest Palindromic Substring Queries
 - 2026-08-06 `nowcoder/133881/j`: J. Just Add and Divide
 - 2026-08-06 `nowcoder/133881/i`: I. Integer Function
 - 2026-08-06 `nowcoder/133881/h`: H. Hard Problem
