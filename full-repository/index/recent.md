@@ -1,16 +1,18 @@
 # Recent
 
-Latest 570 problems.
+Latest 566 problems.
 Selection rule: all problems added within 30 days of the latest addition, or the latest 100 problems, whichever is larger.
 
 This public list is generated from the full repository and includes only the addition date, problem ID, and problem title.
 Difficulty ratings, solution tags, and links to solution notes are omitted.
 The complete list is available only in the full repository for eligible paid sponsors.
 
+- 2026-08-06 `nowcoder/133881/j`: J. Just Add and Divide
 - 2026-08-05 `nowcoder/133881/g`: G. Game on a Graph
 - 2026-08-05 `nowcoder/133881/f`: F. Full Alphabet
 - 2026-08-05 `nowcoder/133881/c`: C. Cutting Trees
 - 2026-08-05 `nowcoder/133881/a`: A Permutation Problem
+- 2026-08-05 `nowcoder/133878/d`: D. Longest Run of Ones
 - 2026-08-05 `nowcoder/133877/k`: K. Kindergarten
 - 2026-08-05 `nowcoder/133877/h`: H. Hyperspace Pairing
 - 2026-08-05 `nowcoder/133877/e`: E. Easy Puzzle
@@ -571,9 +573,3 @@ The complete list is available only in the full repository for eligible paid spo
 - 2026-07-08 `atcoder/abc272/c`: C - Max Even
 - 2026-07-08 `atcoder/abc272/b`: B - Everyone is Friends
 - 2026-07-08 `atcoder/abc272/a`: A - Integer Sum
-- 2026-07-07 `codeforces/2242/f`: F. Summer Vacation
-- 2026-07-07 `codeforces/2242/e`: E. Product of Closures
-- 2026-07-07 `codeforces/2242/d`: D. Two Digit Strings
-- 2026-07-07 `codeforces/2242/c`: C. Unstable Elements
-- 2026-07-07 `codeforces/2242/b`: B. Predominant Frequency Division
-- 2026-07-07 `codeforces/2242/a`: A. Bigrams
