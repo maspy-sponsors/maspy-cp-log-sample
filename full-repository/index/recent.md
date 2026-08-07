@@ -1,17 +1,37 @@
 # Recent
 
-Latest 570 problems.
+Latest 569 problems.
 Selection rule: all problems added within 30 days of the latest addition, or the latest 100 problems, whichever is larger.
 
 This public list is generated from the full repository and includes only the addition date, problem ID, and problem title.
 Difficulty ratings, solution tags, and links to solution notes are omitted.
 The complete list is available only in the full repository for eligible paid sponsors.
 
+- 2026-08-08 `nowcoder/133882/h`: H. Modulo Triples
+- 2026-08-08 `nowcoder/133882/g`: G. Both of You, Dance Like You Want to Win!
+- 2026-08-08 `nowcoder/133882/b`: B. Simple Math 5
+- 2026-08-07 `yukicoder/13`: No.13 囲みたい！
+- 2026-08-07 `yukicoder/12`: No.12 限定された素数
+- 2026-08-07 `yukicoder/11`: No.11 カードマッチ
+- 2026-08-07 `qoj/1096/5444`: L. Tavern Chess
+- 2026-08-07 `qoj/1096/5443`: K. Security at Museums
+- 2026-08-07 `qoj/1096/5440`: H. P-P-Palindrome
+- 2026-08-07 `qoj/1096/5438`: F. Half Mixed
+- 2026-08-07 `qoj/1096/5437`: E. Graph Completing
+- 2026-08-07 `qoj/1096/5436`: D. DRX vs. T1
+- 2026-08-07 `qoj/1096/5435`: C. Clamped Sequence
+- 2026-08-07 `qoj/1096/5433`: A. Absolute Difference
+- 2026-08-07 `codeforces/2252/f`: F. Spectral Components
+- 2026-08-07 `codeforces/2252/e`: E. Generational Triplets
+- 2026-08-07 `codeforces/2252/d`: D. Array Replacement
+- 2026-08-07 `codeforces/2252/c`: C. Risky Tower
+- 2026-08-07 `codeforces/2252/b`: B. Always Changing
+- 2026-08-07 `codeforces/2252/a`: A. Boss Fight
 - 2026-08-06 `nowcoder/133881/l`: L. Longest Palindromic Substring Queries
 - 2026-08-06 `nowcoder/133881/j`: J. Just Add and Divide
 - 2026-08-06 `nowcoder/133881/i`: I. Integer Function
 - 2026-08-06 `nowcoder/133881/h`: H. Hard Problem
-- 2026-08-06 `nowcoder/133881/d`: Divisibility
+- 2026-08-06 `nowcoder/133881/d`: D. Divisibility
 - 2026-08-05 `nowcoder/133881/g`: G. Game on a Graph
 - 2026-08-05 `nowcoder/133881/f`: F. Full Alphabet
 - 2026-08-05 `nowcoder/133881/c`: C. Cutting Trees
@@ -556,24 +576,3 @@ The complete list is available only in the full repository for eligible paid spo
 - 2026-07-10 `atcoder/awtf2026algo/c`: C - Count by Descents
 - 2026-07-10 `atcoder/awtf2026algo/b`: B - Window Records
 - 2026-07-10 `atcoder/awtf2026algo/a`: A - Min Cut of Graph of Min Weight
-- 2026-07-08 `codeforces/2200/h`: H. Six Seven
-- 2026-07-08 `codeforces/2200/g`: G. Operation Permutation
-- 2026-07-08 `codeforces/2200/f`: F. Mooclear Reactor 2
-- 2026-07-08 `codeforces/2200/e`: E. Divisive Battle
-- 2026-07-08 `codeforces/2200/d`: D. Portal
-- 2026-07-08 `codeforces/2200/c`: C. Specialty String
-- 2026-07-08 `codeforces/2200/b`: B. Deletion Sort
-- 2026-07-08 `codeforces/2200/a`: A. Eating Game
-- 2026-07-08 `codeforces/398/e`: E. Sorting Permutations
-- 2026-07-08 `codeforces/398/d`: D. Instant Messanger
-- 2026-07-08 `codeforces/398/c`: C. Tree and Array
-- 2026-07-08 `codeforces/398/b`: B. Painting The Wall
-- 2026-07-08 `codeforces/398/a`: A. Cards
-- 2026-07-08 `atcoder/abc272/h`: Ex - Flipping Coins 2
-- 2026-07-08 `atcoder/abc272/g`: G - Yet Another mod M
-- 2026-07-08 `atcoder/abc272/f`: F - Two Strings
-- 2026-07-08 `atcoder/abc272/e`: E - Add and Mex
-- 2026-07-08 `atcoder/abc272/d`: D - Root M Leaper
-- 2026-07-08 `atcoder/abc272/c`: C - Max Even
-- 2026-07-08 `atcoder/abc272/b`: B - Everyone is Friends
-- 2026-07-08 `atcoder/abc272/a`: A - Integer Sum
