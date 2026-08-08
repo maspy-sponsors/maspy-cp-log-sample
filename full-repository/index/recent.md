@@ -1,15 +1,20 @@
 # Recent
 
-Latest 569 problems.
+Latest 574 problems.
 Selection rule: all problems added within 30 days of the latest addition, or the latest 100 problems, whichever is larger.
 
 This public list is generated from the full repository and includes only the addition date, problem ID, and problem title.
 Difficulty ratings, solution tags, and links to solution notes are omitted.
 The complete list is available only in the full repository for eligible paid sponsors.
 
+- 2026-08-08 `qoj/1096/5439`: G. Meet in the Middle
 - 2026-08-08 `nowcoder/133882/h`: H. Modulo Triples
 - 2026-08-08 `nowcoder/133882/g`: G. Both of You, Dance Like You Want to Win!
 - 2026-08-08 `nowcoder/133882/b`: B. Simple Math 5
+- 2026-08-08 `codeforces/3/d`: D. Least Cost Bracket Sequence
+- 2026-08-08 `codeforces/3/c`: C. Tic-tac-toe
+- 2026-08-08 `codeforces/3/b`: B. Lorry
+- 2026-08-08 `codeforces/3/a`: A. Shortest path of the king
 - 2026-08-07 `yukicoder/13`: No.13 囲みたい！
 - 2026-08-07 `yukicoder/12`: No.12 限定された素数
 - 2026-08-07 `yukicoder/11`: No.11 カードマッチ
