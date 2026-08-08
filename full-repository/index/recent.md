@@ -1,6 +1,6 @@
 # Recent
 
-Latest 595 problems.
+Latest 600 problems.
 Selection rule: all problems added within 30 days of the latest addition, or the latest 100 problems, whichever is larger.
 
 This public list is generated from the full repository and includes only the addition date, problem ID, and problem title.
@@ -11,6 +11,11 @@ The complete list is available only in the full repository for eligible paid spo
 - 2026-08-09 `qoj/1096/5442`: J. Referee Without Red
 - 2026-08-09 `qoj/1096/5441`: I. Quartz Collection
 - 2026-08-09 `qoj/1096/5434`: B. Binary Substrings
+- 2026-08-09 `codeforces/1254/e`: E. Send Tree to Charlie
+- 2026-08-09 `codeforces/1254/d`: D. Tree Queries
+- 2026-08-09 `codeforces/1254/c`: C. Point Ordering
+- 2026-08-09 `codeforces/1254/b2`: B2. Send Boxes to Alice (Hard Version)
+- 2026-08-09 `codeforces/1254/a`: A. Feeding Chicken
 - 2026-08-08 `yukicoder/1526`: No.1526 Sum of Mex 2
 - 2026-08-08 `qoj/1096/5439`: G. Meet in the Middle
 - 2026-08-08 `nowcoder/133882/h`: H. Modulo Triples
