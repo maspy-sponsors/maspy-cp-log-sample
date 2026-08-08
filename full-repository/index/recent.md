@@ -1,6 +1,6 @@
 # Recent
 
-Latest 574 problems.
+Latest 586 problems.
 Selection rule: all problems added within 30 days of the latest addition, or the latest 100 problems, whichever is larger.
 
 This public list is generated from the full repository and includes only the addition date, problem ID, and problem title.
@@ -11,10 +11,22 @@ The complete list is available only in the full repository for eligible paid spo
 - 2026-08-08 `nowcoder/133882/h`: H. Modulo Triples
 - 2026-08-08 `nowcoder/133882/g`: G. Both of You, Dance Like You Want to Win!
 - 2026-08-08 `nowcoder/133882/b`: B. Simple Math 5
+- 2026-08-08 `codeforces/250/e`: E. Mad Joe
+- 2026-08-08 `codeforces/250/d`: D. Building Bridge
+- 2026-08-08 `codeforces/250/c`: C. Movie Critics
+- 2026-08-08 `codeforces/250/b`: B. Restoring IPv6
+- 2026-08-08 `codeforces/250/a`: A. Paper Work
 - 2026-08-08 `codeforces/3/d`: D. Least Cost Bracket Sequence
 - 2026-08-08 `codeforces/3/c`: C. Tic-tac-toe
 - 2026-08-08 `codeforces/3/b`: B. Lorry
 - 2026-08-08 `codeforces/3/a`: A. Shortest path of the king
+- 2026-08-08 `atcoder/abc439/g`: G - Sugoroku 6
+- 2026-08-08 `atcoder/abc439/f`: F - Beautiful Kadomatsu
+- 2026-08-08 `atcoder/abc439/e`: E - Kite
+- 2026-08-08 `atcoder/abc439/d`: D - Kadomatsu Subsequence
+- 2026-08-08 `atcoder/abc439/c`: C - 2026
+- 2026-08-08 `atcoder/abc439/b`: B - Happy Number
+- 2026-08-08 `atcoder/abc439/a`: A - 2^n - 2*n
 - 2026-08-07 `yukicoder/13`: No.13 囲みたい！
 - 2026-08-07 `yukicoder/12`: No.12 限定された素数
 - 2026-08-07 `yukicoder/11`: No.11 カードマッチ
