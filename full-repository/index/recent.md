@@ -1,6 +1,6 @@
 # Recent
 
-Latest 586 problems.
+Latest 593 problems.
 Selection rule: all problems added within 30 days of the latest addition, or the latest 100 problems, whichever is larger.
 
 This public list is generated from the full repository and includes only the addition date, problem ID, and problem title.
@@ -20,6 +20,13 @@ The complete list is available only in the full repository for eligible paid spo
 - 2026-08-08 `codeforces/3/c`: C. Tic-tac-toe
 - 2026-08-08 `codeforces/3/b`: B. Lorry
 - 2026-08-08 `codeforces/3/a`: A. Shortest path of the king
+- 2026-08-08 `atcoder/abc470/g`: G - Σex
+- 2026-08-08 `atcoder/abc470/f`: F - Googol Swaps
+- 2026-08-08 `atcoder/abc470/e`: E - Concentration
+- 2026-08-08 `atcoder/abc470/d`: D - Inverse and Swap
+- 2026-08-08 `atcoder/abc470/c`: C - Inc, Dec, Xor
+- 2026-08-08 `atcoder/abc470/b`: B - Monocolor
+- 2026-08-08 `atcoder/abc470/a`: A - Fizz
 - 2026-08-08 `atcoder/abc439/g`: G - Sugoroku 6
 - 2026-08-08 `atcoder/abc439/f`: F - Beautiful Kadomatsu
 - 2026-08-08 `atcoder/abc439/e`: E - Kite
