@@ -1,12 +1,13 @@
 # Recent
 
-Latest 593 problems.
+Latest 594 problems.
 Selection rule: all problems added within 30 days of the latest addition, or the latest 100 problems, whichever is larger.
 
 This public list is generated from the full repository and includes only the addition date, problem ID, and problem title.
 Difficulty ratings, solution tags, and links to solution notes are omitted.
 The complete list is available only in the full repository for eligible paid sponsors.
 
+- 2026-08-08 `yukicoder/1526`: No.1526 Sum of Mex 2
 - 2026-08-08 `qoj/1096/5439`: G. Meet in the Middle
 - 2026-08-08 `nowcoder/133882/h`: H. Modulo Triples
 - 2026-08-08 `nowcoder/133882/g`: G. Both of You, Dance Like You Want to Win!
