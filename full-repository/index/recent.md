@@ -1,6 +1,6 @@
 # Recent
 
-Latest 603 problems.
+Latest 614 problems.
 Selection rule: all problems added within 30 days of the latest addition, or the latest 100 problems, whichever is larger.
 
 This public list is generated from the full repository and includes only the addition date, problem ID, and problem title.
@@ -14,11 +14,22 @@ The complete list is available only in the full repository for eligible paid spo
 - 2026-08-09 `nowcoder/133877/j`: J. Just Round It
 - 2026-08-09 `nowcoder/133877/d`: D. Delivering Newspapers
 - 2026-08-09 `nowcoder/133877/a`: A. Annoying Traffic
+- 2026-08-09 `codeforces/2253/f`: F. 4-beauty
+- 2026-08-09 `codeforces/2253/e`: E. Diameter Intersections
+- 2026-08-09 `codeforces/2253/d`: D. Hypercarp and Interdimensional Jumps
+- 2026-08-09 `codeforces/2253/c`: C. Sum of Distinct Values in a Matrix
+- 2026-08-09 `codeforces/2253/b`: B. Hypercarp and the Control Panel
+- 2026-08-09 `codeforces/2253/a`: A. The Best Card
 - 2026-08-09 `codeforces/1254/e`: E. Send Tree to Charlie
 - 2026-08-09 `codeforces/1254/d`: D. Tree Queries
 - 2026-08-09 `codeforces/1254/c`: C. Point Ordering
 - 2026-08-09 `codeforces/1254/b2`: B2. Send Boxes to Alice (Hard Version)
 - 2026-08-09 `codeforces/1254/a`: A. Feeding Chicken
+- 2026-08-09 `atcoder/arc226/e`: E - Cellular Messenger
+- 2026-08-09 `atcoder/arc226/d`: D - Penta-Queue
+- 2026-08-09 `atcoder/arc226/c`: C - Square Corner Packing
+- 2026-08-09 `atcoder/arc226/b`: B - Bin-ary Packing
+- 2026-08-09 `atcoder/arc226/a`: A - Meeting Division
 - 2026-08-08 `yukicoder/1526`: No.1526 Sum of Mex 2
 - 2026-08-08 `qoj/1096/5439`: G. Meet in the Middle
 - 2026-08-08 `nowcoder/133882/h`: H. Modulo Triples
