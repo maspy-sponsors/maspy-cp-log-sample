@@ -1,6 +1,6 @@
 # Recent
 
-Latest 600 problems.
+Latest 603 problems.
 Selection rule: all problems added within 30 days of the latest addition, or the latest 100 problems, whichever is larger.
 
 This public list is generated from the full repository and includes only the addition date, problem ID, and problem title.
@@ -11,6 +11,9 @@ The complete list is available only in the full repository for eligible paid spo
 - 2026-08-09 `qoj/1096/5442`: J. Referee Without Red
 - 2026-08-09 `qoj/1096/5441`: I. Quartz Collection
 - 2026-08-09 `qoj/1096/5434`: B. Binary Substrings
+- 2026-08-09 `nowcoder/133877/j`: J. Just Round It
+- 2026-08-09 `nowcoder/133877/d`: D. Delivering Newspapers
+- 2026-08-09 `nowcoder/133877/a`: A. Annoying Traffic
 - 2026-08-09 `codeforces/1254/e`: E. Send Tree to Charlie
 - 2026-08-09 `codeforces/1254/d`: D. Tree Queries
 - 2026-08-09 `codeforces/1254/c`: C. Point Ordering
