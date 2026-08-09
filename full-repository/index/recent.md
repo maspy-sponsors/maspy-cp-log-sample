@@ -1,12 +1,17 @@
 # Recent
 
-Latest 614 problems.
+Latest 617 problems.
 Selection rule: all problems added within 30 days of the latest addition, or the latest 100 problems, whichever is larger.
 
 This public list is generated from the full repository and includes only the addition date, problem ID, and problem title.
 Difficulty ratings, solution tags, and links to solution notes are omitted.
 The complete list is available only in the full repository for eligible paid sponsors.
 
+- 2026-08-10 `codeforces/2255/e2`: E2. What Will Remain at the End? (Hard Version)
+- 2026-08-10 `codeforces/2255/d`: D. How Long Until Nothing Remains?
+- 2026-08-10 `codeforces/2255/c`: C. Even If the World Turns
+- 2026-08-10 `codeforces/2255/b`: B. A Ribbon for Tomorrow
+- 2026-08-10 `codeforces/2255/a`: A. Hot Potatoes at the Fairy Warehouse
 - 2026-08-09 `qoj/1096/5445`: M. Vulpecula
 - 2026-08-09 `qoj/1096/5442`: J. Referee Without Red
 - 2026-08-09 `qoj/1096/5441`: I. Quartz Collection
@@ -619,5 +624,3 @@ The complete list is available only in the full repository for eligible paid spo
 - 2026-07-12 `atcoder/arc153/c`: C - ± Increasing Sequence
 - 2026-07-12 `atcoder/arc153/b`: B - Grid Rotations
 - 2026-07-12 `atcoder/arc153/a`: A - AABCDDEFE
-- 2026-07-11 `atcoder/awtf2026algo/e`: E - Even Rows
-- 2026-07-11 `atcoder/awtf2026algo/d`: D - Adj Swap Lex Max
