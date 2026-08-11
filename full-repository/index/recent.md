@@ -1,12 +1,32 @@
 # Recent
 
-Latest 617 problems.
+Latest 613 problems.
 Selection rule: all problems added within 30 days of the latest addition, or the latest 100 problems, whichever is larger.
 
 This public list is generated from the full repository and includes only the addition date, problem ID, and problem title.
 Difficulty ratings, solution tags, and links to solution notes are omitted.
 The complete list is available only in the full repository for eligible paid sponsors.
 
+- 2026-08-11 `yukicoder/3621`: No.3621 Find Schröder Coordinate in Nonresonant Case
+- 2026-08-11 `yukicoder/3620`: No.3620 Compositional Power with Schröder Coordinate 2
+- 2026-08-11 `yukicoder/3619`: No.3619 Compositional Power with Schröder Coordinate
+- 2026-08-11 `qoj/1099/5466`: L. Permutation Compression
+- 2026-08-11 `qoj/1099/5465`: K. Maximum GCD
+- 2026-08-11 `qoj/1099/5462`: H. Another Goose Goose Duck Problem
+- 2026-08-11 `qoj/1099/5461`: G. Paddle Star
+- 2026-08-11 `qoj/1099/5460`: Problem F. Sum of Numbers
+- 2026-08-11 `qoj/1099/5459`: E. Goose, goose, DUCK?
+- 2026-08-11 `qoj/1099/5458`: D. Shortest Path Query
+- 2026-08-11 `qoj/1099/5457`: Problem C. Painting Grid
+- 2026-08-11 `qoj/1099/5456`: B. Big Picture
+- 2026-08-11 `qoj/1099/5455`: A. TreeScript
+- 2026-08-11 `nowcoder/133878/e`: E. Minesweeper
+- 2026-08-11 `nowcoder/133878/c`: C. Cakeshop
+- 2026-08-11 `codeforces/512/e`: E. Fox And Polygon
+- 2026-08-11 `codeforces/512/d`: D. Fox And Travelling
+- 2026-08-11 `codeforces/512/c`: C. Fox And Dinner
+- 2026-08-11 `codeforces/512/b`: B. Fox And Jumping
+- 2026-08-11 `codeforces/512/a`: A. Fox And Names
 - 2026-08-10 `codeforces/2255/e2`: E2. What Will Remain at the End? (Hard Version)
 - 2026-08-10 `codeforces/2255/d`: D. How Long Until Nothing Remains?
 - 2026-08-10 `codeforces/2255/c`: C. Even If the World Turns
@@ -600,27 +620,3 @@ The complete list is available only in the full repository for eligible paid spo
 - 2026-07-13 `atcoder/arc176/c`: C - Max Permutation
 - 2026-07-13 `atcoder/arc176/b`: B - Simple Math 4
 - 2026-07-13 `atcoder/arc176/a`: A - 01 Matrix Again
-- 2026-07-12 `repovive/16/g`: 16G. Divisor Chain
-- 2026-07-12 `repovive/16/f`: 16F. Secret Trail
-- 2026-07-12 `repovive/16/e`: 16E. Prefix Maximum Counting
-- 2026-07-12 `repovive/16/d`: 16D. Diagonal Shuffle
-- 2026-07-12 `repovive/16/c`: 16C. Subset Maxima
-- 2026-07-12 `repovive/16/b`: 16B. Smallest Mex String
-- 2026-07-12 `repovive/16/a`: 16A. Equal-Sum Partition
-- 2026-07-12 `atcoder/arc224/f`: F - AND/OR
-- 2026-07-12 `atcoder/arc224/e`: E - ABC|AB|A
-- 2026-07-12 `atcoder/arc224/d`: D - Angst for All Pairs
-- 2026-07-12 `atcoder/arc224/c`: C - Ascending Labels
-- 2026-07-12 `atcoder/arc224/b`: B - Adjacent Tiles
-- 2026-07-12 `atcoder/arc224/a`: A - Attach 00
-- 2026-07-12 `atcoder/arc191/e`: E - Unfair Game
-- 2026-07-12 `atcoder/arc191/d`: D - Moving Pieces on Graph
-- 2026-07-12 `atcoder/arc191/c`: C - A^n - 1
-- 2026-07-12 `atcoder/arc191/b`: B - XOR = MOD
-- 2026-07-12 `atcoder/arc191/a`: A - Replace Digits
-- 2026-07-12 `atcoder/arc153/f`: F - Tri-Colored Paths
-- 2026-07-12 `atcoder/arc153/e`: E - Deque Minimization
-- 2026-07-12 `atcoder/arc153/d`: D - Sum of Sum of Digits
-- 2026-07-12 `atcoder/arc153/c`: C - ± Increasing Sequence
-- 2026-07-12 `atcoder/arc153/b`: B - Grid Rotations
-- 2026-07-12 `atcoder/arc153/a`: A - AABCDDEFE
