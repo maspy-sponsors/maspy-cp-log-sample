@@ -1,12 +1,15 @@
 # Recent
 
-Latest 613 problems.
+Latest 611 problems.
 Selection rule: all problems added within 30 days of the latest addition, or the latest 100 problems, whichever is larger.
 
 This public list is generated from the full repository and includes only the addition date, problem ID, and problem title.
 Difficulty ratings, solution tags, and links to solution notes are omitted.
 The complete list is available only in the full repository for eligible paid sponsors.
 
+- 2026-08-12 `qoj/3799/18436`: I. Nailoong vs. Bombloong 2
+- 2026-08-12 `qoj/3799/18433`: F. Lottery
+- 2026-08-12 `nowcoder/133879/g`: G. Fading Memories
 - 2026-08-11 `yukicoder/3621`: No.3621 Find Schröder Coordinate in Nonresonant Case
 - 2026-08-11 `yukicoder/3620`: No.3620 Compositional Power with Schröder Coordinate 2
 - 2026-08-11 `yukicoder/3619`: No.3619 Compositional Power with Schröder Coordinate
@@ -22,6 +25,11 @@ The complete list is available only in the full repository for eligible paid spo
 - 2026-08-11 `qoj/1099/5455`: A. TreeScript
 - 2026-08-11 `nowcoder/133878/e`: E. Minesweeper
 - 2026-08-11 `nowcoder/133878/c`: C. Cakeshop
+- 2026-08-11 `codeforces/821/e`: E. Okabe and El Psy Kongroo
+- 2026-08-11 `codeforces/821/d`: D. Okabe and City
+- 2026-08-11 `codeforces/821/c`: C. Okabe and Boxes
+- 2026-08-11 `codeforces/821/b`: B. Okabe and Banana Trees
+- 2026-08-11 `codeforces/821/a`: A. Okabe and Future Gadget Laboratory
 - 2026-08-11 `codeforces/512/e`: E. Fox And Polygon
 - 2026-08-11 `codeforces/512/d`: D. Fox And Travelling
 - 2026-08-11 `codeforces/512/c`: C. Fox And Dinner
@@ -610,13 +618,3 @@ The complete list is available only in the full repository for eligible paid spo
 - 2026-07-14 `atcoder/abc402/c`: C - Dislike Foods
 - 2026-07-14 `atcoder/abc402/b`: B - Restaurant Queue
 - 2026-07-14 `atcoder/abc402/a`: A - CBC
-- 2026-07-13 `codeforces/2246/f`: F. Whoname and Unsorted Array
-- 2026-07-13 `codeforces/2246/e`: E. lce4113 and Security Game
-- 2026-07-13 `codeforces/2246/d`: D. diss_quack and Array Game
-- 2026-07-13 `codeforces/2246/c`: C. 0mar and Alternating Sums
-- 2026-07-13 `codeforces/2246/b`: B. ezraft and Array
-- 2026-07-13 `codeforces/2246/a`: A. farmpiggie and Subset Sum
-- 2026-07-13 `atcoder/arc176/d`: D - Swap Permutation
-- 2026-07-13 `atcoder/arc176/c`: C - Max Permutation
-- 2026-07-13 `atcoder/arc176/b`: B - Simple Math 4
-- 2026-07-13 `atcoder/arc176/a`: A - 01 Matrix Again
