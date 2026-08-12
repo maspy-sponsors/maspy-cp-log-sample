@@ -1,6 +1,6 @@
 # Recent
 
-Latest 611 problems.
+Latest 612 problems.
 Selection rule: all problems added within 30 days of the latest addition, or the latest 100 problems, whichever is larger.
 
 This public list is generated from the full repository and includes only the addition date, problem ID, and problem title.
@@ -9,6 +9,7 @@ The complete list is available only in the full repository for eligible paid spo
 
 - 2026-08-12 `qoj/3799/18436`: I. Nailoong vs. Bombloong 2
 - 2026-08-12 `qoj/3799/18433`: F. Lottery
+- 2026-08-12 `nowcoder/133879/l`: L. Geometry
 - 2026-08-12 `nowcoder/133879/g`: G. Fading Memories
 - 2026-08-11 `yukicoder/3621`: No.3621 Find Schröder Coordinate in Nonresonant Case
 - 2026-08-11 `yukicoder/3620`: No.3620 Compositional Power with Schröder Coordinate 2
