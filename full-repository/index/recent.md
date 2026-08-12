@@ -1,14 +1,16 @@
 # Recent
 
-Latest 612 problems.
+Latest 578 problems.
 Selection rule: all problems added within 30 days of the latest addition, or the latest 100 problems, whichever is larger.
 
 This public list is generated from the full repository and includes only the addition date, problem ID, and problem title.
 Difficulty ratings, solution tags, and links to solution notes are omitted.
 The complete list is available only in the full repository for eligible paid sponsors.
 
+- 2026-08-13 `qoj/1099/5463`: I. Range Closest Pair of Points Query
 - 2026-08-12 `qoj/3799/18436`: I. Nailoong vs. Bombloong 2
 - 2026-08-12 `qoj/3799/18433`: F. Lottery
+- 2026-08-12 `qoj/1099/5464`: J. Dice Game
 - 2026-08-12 `nowcoder/133879/l`: L. Geometry
 - 2026-08-12 `nowcoder/133879/g`: G. Fading Memories
 - 2026-08-11 `yukicoder/3621`: No.3621 Find Schröder Coordinate in Nonresonant Case
@@ -583,39 +585,3 @@ The complete list is available only in the full repository for eligible paid spo
 - 2026-07-15 `atcoder/abc462/c`: C - Not Covered Points
 - 2026-07-15 `atcoder/abc462/b`: B - Gift
 - 2026-07-15 `atcoder/abc462/a`: A - Secret Numbers
-- 2026-07-14 `yukicoder/3554`: No.3554 Rurumaru Function Problem 2
-- 2026-07-14 `yukicoder/3553`: No.3553 Good Quartet
-- 2026-07-14 `yukicoder/3552`: No.3552 Triangular Coloring
-- 2026-07-14 `yukicoder/3551`: No.3551 Regions by Random Points 2
-- 2026-07-14 `yukicoder/3550`: No.3550 Another Rurumaru Function Problem
-- 2026-07-14 `yukicoder/3549`: No.3549 SigMax Digits (Judge ver.)
-- 2026-07-14 `yukicoder/3548`: No.3548 SigMax Digits (Construction ver.)
-- 2026-07-14 `yukicoder/3547`: No.3547 Rurumaru Function Problem
-- 2026-07-14 `yukicoder/5`: No.5 数字のブロック
-- 2026-07-14 `yukicoder/4`: No.4 おもりと天秤
-- 2026-07-14 `yukicoder/3`: No.3 ビットすごろく
-- 2026-07-14 `yukicoder/2`: No.2 素因数ゲーム
-- 2026-07-14 `yukicoder/1`: No.1 道のショートカット
-- 2026-07-14 `codeforces/1423/n`: N. BubbleSquare Tokens
-- 2026-07-14 `codeforces/1423/m`: M. Milutin's Plums
-- 2026-07-14 `codeforces/1423/l`: L. Light switches
-- 2026-07-14 `codeforces/1423/k`: K. Lonely Numbers
-- 2026-07-14 `codeforces/1423/j`: J. Bubble Cup hypothesis
-- 2026-07-14 `codeforces/1423/i`: I. Lookup Tables
-- 2026-07-14 `codeforces/1423/h`: H. Virus
-- 2026-07-14 `codeforces/1423/g`: G. Growing flowers
-- 2026-07-14 `codeforces/1423/f`: F. Coins
-- 2026-07-14 `codeforces/1423/e`: E. 5G Antenna Towers
-- 2026-07-14 `codeforces/1423/d`: D. Does anyone else hate the wind?
-- 2026-07-14 `codeforces/1423/c`: C. Dušan's Railway
-- 2026-07-14 `codeforces/1423/b`: B. Valuable Paper
-- 2026-07-14 `codeforces/1423/a`: A. Wakanda Forever
-- 2026-07-14 `atcoder/arc176/f`: F - Colorful Star
-- 2026-07-14 `atcoder/arc176/e`: E - Max Vector
-- 2026-07-14 `atcoder/abc402/g`: G - Sum of Prod of Mod of Linear
-- 2026-07-14 `atcoder/abc402/f`: F - Path to Integer
-- 2026-07-14 `atcoder/abc402/e`: E - Payment Required
-- 2026-07-14 `atcoder/abc402/d`: D - Line Crossing
-- 2026-07-14 `atcoder/abc402/c`: C - Dislike Foods
-- 2026-07-14 `atcoder/abc402/b`: B - Restaurant Queue
-- 2026-07-14 `atcoder/abc402/a`: A - CBC
