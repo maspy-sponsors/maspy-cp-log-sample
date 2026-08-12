@@ -1,13 +1,24 @@
 # Recent
 
-Latest 578 problems.
+Latest 589 problems.
 Selection rule: all problems added within 30 days of the latest addition, or the latest 100 problems, whichever is larger.
 
 This public list is generated from the full repository and includes only the addition date, problem ID, and problem title.
 Difficulty ratings, solution tags, and links to solution notes are omitted.
 The complete list is available only in the full repository for eligible paid sponsors.
 
+- 2026-08-13 `qoj/1103/5505`: G. Great Chase
+- 2026-08-13 `qoj/1103/5501`: C. Ctrl+C Ctrl+V
 - 2026-08-13 `qoj/1099/5463`: I. Range Closest Pair of Points Query
+- 2026-08-13 `codeforces/2141/i`: I. Color the Tree
+- 2026-08-13 `codeforces/2141/h`: H. Merging Vertices in a Graph
+- 2026-08-13 `codeforces/2141/g`: G. Good Robot Paths
+- 2026-08-13 `codeforces/2141/f`: F. Array Reduction
+- 2026-08-13 `codeforces/2141/e`: E. Perfect Cut
+- 2026-08-13 `codeforces/2141/d`: D. Avoid Minimums
+- 2026-08-13 `codeforces/2141/c`: C. Minimum on Subarrays
+- 2026-08-13 `codeforces/2141/b`: B. Games
+- 2026-08-13 `codeforces/2141/a`: A. Furniture Store
 - 2026-08-12 `qoj/3799/18436`: I. Nailoong vs. Bombloong 2
 - 2026-08-12 `qoj/3799/18433`: F. Lottery
 - 2026-08-12 `qoj/1099/5464`: J. Dice Game
