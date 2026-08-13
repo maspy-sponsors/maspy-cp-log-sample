@@ -1,14 +1,15 @@
 # Recent
 
-Latest 575 problems.
+Latest 576 problems.
 Selection rule: all problems added within 30 days of the latest addition, or the latest 100 problems, whichever is larger.
 
 This public list is generated from the full repository and includes only the addition date, problem ID, and problem title.
-Difficulty ratings, solution tags, and links to solution notes are omitted.
+Difficulty ratings, favorite ratings, solution tags, and links to solution notes are omitted.
 The complete list is available only in the full repository for eligible paid sponsors.
 
 - 2026-08-14 `qoj/1103/5511`: M. Minor Evil
 - 2026-08-14 `qoj/1103/5510`: L. Line Replacements
+- 2026-08-14 `qoj/1103/5504`: F. Flower Garden
 - 2026-08-14 `qoj/1103/5502`: D. Dazzling Mountain
 - 2026-08-14 `qoj/1103/5500`: B. Bars
 - 2026-08-14 `qoj/1103/5499`: A. Aliases
@@ -49,10 +50,10 @@ The complete list is available only in the full repository for eligible paid spo
 - 2026-08-11 `qoj/1099/5465`: K. Maximum GCD
 - 2026-08-11 `qoj/1099/5462`: H. Another Goose Goose Duck Problem
 - 2026-08-11 `qoj/1099/5461`: G. Paddle Star
-- 2026-08-11 `qoj/1099/5460`: Problem F. Sum of Numbers
+- 2026-08-11 `qoj/1099/5460`: F. Sum of Numbers
 - 2026-08-11 `qoj/1099/5459`: E. Goose, goose, DUCK?
 - 2026-08-11 `qoj/1099/5458`: D. Shortest Path Query
-- 2026-08-11 `qoj/1099/5457`: Problem C. Painting Grid
+- 2026-08-11 `qoj/1099/5457`: C. Painting Grid
 - 2026-08-11 `qoj/1099/5456`: B. Big Picture
 - 2026-08-11 `qoj/1099/5455`: A. TreeScript
 - 2026-08-11 `nowcoder/133878/e`: E. Minesweeper
@@ -195,9 +196,9 @@ The complete list is available only in the full repository for eligible paid spo
 - 2026-08-04 `codeforces/370/a`: A. Rook, Bishop and King
 - 2026-08-03 `qoj/1093/5426`: M. Drain the Water Tank
 - 2026-08-03 `qoj/1093/5425`: L. Proposition Composition
-- 2026-08-03 `qoj/1093/5424`: Problem K. NaN in a Heap
+- 2026-08-03 `qoj/1093/5424`: K. NaN in a Heap
 - 2026-08-03 `qoj/1093/5423`: J. Perfect Matching
-- 2026-08-03 `qoj/1093/5422`: Problem I. Perfect Palindrome
+- 2026-08-03 `qoj/1093/5422`: I. Perfect Palindrome
 - 2026-08-03 `qoj/1093/5421`: H. Factories Once More
 - 2026-08-03 `qoj/1093/5420`: G. Inscryption
 - 2026-08-03 `qoj/1093/5419`: F. Triangles

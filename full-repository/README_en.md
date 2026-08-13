@@ -75,6 +75,12 @@ A very rough guideline is that multiplying the rating by about 150, or roughly 1
 
 This rating is not very rigorous. The scale may vary somewhat over time. It also does not reflect the contest author's difficulty estimate or the contest standings. It can be strongly affected by whether I personally happened to struggle with a problem or happened to solve it quickly.
 
+## fav
+
+`fav` is an integer representing maspy's personal favorite rating for a problem. Its value is one of `0`, `1`, `2`, or `3`.
+
+There are no precise criteria, but I expect the large majority of problems to have `0`.
+
 ## tag
 
 Some problems have tags. These are intended to make it easier to find related problems or collect practice problems for a specific topic.
@@ -97,9 +103,10 @@ This is a machine-generated English translation of the Japanese tags. It is only
 
 The `index/` directory contains generated indexes for finding problems.
 
-- [`index/stats.md`](index/stats.md): problem counts, monthly additions, and difficulty distribution
+- [`index/stats.md`](index/stats.md): problem counts, monthly additions, and difficulty / favorite distributions
 - [`index/recent.md`](index/recent.md): recently added problems
 - [`index/difficulty.md`](index/difficulty.md): difficulty distribution and D7-D10 problems
+- [`index/favorites.md`](index/favorites.md): problems with `fav >= 1`
 - [`index/tags.md`](index/tags.md): problems grouped by tags
 - [`index/includes.md`](index/includes.md): problems grouped by direct includes in `main.cpp`
 - [`index/sites.md`](index/sites.md): site / contest navigation
@@ -107,7 +114,7 @@ The `index/` directory contains generated indexes for finding problems.
 - [`index/universal-cup/`](index/universal-cup/): Universal Cup stages and repository coverage
 - [`index/problems.tsv`](index/problems.tsv): machine-readable list of all problems
 
-`index/problems.tsv` contains the problem ID, site, contest, problem, title, difficulty, tags, includes, logged_at, memo_path, source_path, URL, and summary.
+`index/problems.tsv` contains the problem ID, site, contest, problem, title, difficulty, fav, tags, includes, logged_at, memo_path, source_path, URL, and summary.
 
 This file is useful for searching or aggregating the data with `grep`, scripts, or spreadsheet software.
 

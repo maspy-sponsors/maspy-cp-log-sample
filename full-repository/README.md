@@ -60,6 +60,12 @@ https://github.com/maspypy/library/blob/main/expander.py
 
 正直そんなにきちんとしていません．時期によっても多少相場は変動していると思います．また，コンテスト開催者の難易度評価や順位表情報などを反映しない数値となっているので，たまたま私が苦戦した，たまたま私がすぐに解けた，といった事象に大きく左右されます．
 
+## fav
+
+`fav` は，maspy 個人の問題に対するお気に入り度を表す整数です．これは `0`, `1`, `2`, `3` の整数で表されます．
+
+特に明確な基準はありませんが，大多数の問題には `0` がつくと思います．
+
 ## tag
 
 いくつかの問題にはタグ付けを行っています．類題を検索しやすくしたり，特定分野の練習問題を集める目的です．
@@ -76,9 +82,10 @@ https://github.com/maspypy/library/blob/main/expander.py
 
 `index/` 以下に，問題を探すための一覧を生成しています．
 
-* [`index/stats.md`](index/stats.md): 収録数・月次追加数・difficulty 分布
+* [`index/stats.md`](index/stats.md): 収録数・月次追加数・difficulty・fav 分布
 * [`index/recent.md`](index/recent.md): 最近追加した問題
 * [`index/difficulty.md`](index/difficulty.md): difficulty 別の収録数と D7 以上の問題一覧
+* [`index/favorites.md`](index/favorites.md): `fav` が1以上の問題一覧
 * [`index/tags.md`](index/tags.md): タグ別の問題一覧
 * [`index/includes.md`](index/includes.md): `main.cpp` の direct include ごとの問題一覧
 * [`index/sites.md`](index/sites.md): サイト・コンテスト別の一覧
@@ -86,7 +93,7 @@ https://github.com/maspypy/library/blob/main/expander.py
 * [`index/universal-cup/`](index/universal-cup/): Universal Cup の stage 一覧と収録状況
 * [`index/problems.tsv`](index/problems.tsv): 機械処理用の全問題一覧
 
-`index/problems.tsv` には，問題 ID，site，contest，problem，title，difficulty，tags，includes，logged_at，memo_path，source_path，url，summary が含まれています．
+`index/problems.tsv` には，問題 ID，site，contest，problem，title，difficulty，fav，tags，includes，logged_at，memo_path，source_path，url，summary が含まれています．
 grep や表計算ソフトなどで検索・集計する場合にはこれが便利だと思います．
 
 特定のサイトやコンテストに収録されている問題をまとめて確認する場合には，[`index/sites.md`](index/sites.md) または [`index/contests/`](index/contests/) から探すことができます．
