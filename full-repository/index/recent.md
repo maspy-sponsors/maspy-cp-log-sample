@@ -1,15 +1,28 @@
 # Recent
 
-Latest 589 problems.
+Latest 575 problems.
 Selection rule: all problems added within 30 days of the latest addition, or the latest 100 problems, whichever is larger.
 
 This public list is generated from the full repository and includes only the addition date, problem ID, and problem title.
 Difficulty ratings, solution tags, and links to solution notes are omitted.
 The complete list is available only in the full repository for eligible paid sponsors.
 
+- 2026-08-14 `qoj/1103/5511`: M. Minor Evil
+- 2026-08-14 `qoj/1103/5510`: L. Line Replacements
+- 2026-08-14 `qoj/1103/5502`: D. Dazzling Mountain
+- 2026-08-14 `qoj/1103/5500`: B. Bars
+- 2026-08-14 `qoj/1103/5499`: A. Aliases
+- 2026-08-13 `qoj/1103/5509`: K. Kooky Tic-Tac-Toe
+- 2026-08-13 `qoj/1103/5507`: I. Investors
 - 2026-08-13 `qoj/1103/5505`: G. Great Chase
+- 2026-08-13 `qoj/1103/5503`: E. Euclidean Algorithm
 - 2026-08-13 `qoj/1103/5501`: C. Ctrl+C Ctrl+V
 - 2026-08-13 `qoj/1099/5463`: I. Range Closest Pair of Points Query
+- 2026-08-13 `nowcoder/133882/l`: L. Bobo's Lucky Modulo
+- 2026-08-13 `nowcoder/133882/k`: K. D-Mail Institution Codes
+- 2026-08-13 `nowcoder/133882/d`: Tenkaichi Budōkai
+- 2026-08-13 `nowcoder/133882/c`: C. Pokémon GET daze!
+- 2026-08-13 `nowcoder/133882/a`: A. Infiltrate Angel's Domain
 - 2026-08-13 `codeforces/2141/i`: I. Color the Tree
 - 2026-08-13 `codeforces/2141/h`: H. Merging Vertices in a Graph
 - 2026-08-13 `codeforces/2141/g`: G. Good Robot Paths
@@ -19,6 +32,11 @@ The complete list is available only in the full repository for eligible paid spo
 - 2026-08-13 `codeforces/2141/c`: C. Minimum on Subarrays
 - 2026-08-13 `codeforces/2141/b`: B. Games
 - 2026-08-13 `codeforces/2141/a`: A. Furniture Store
+- 2026-08-13 `codeforces/14/e`: E. Camels
+- 2026-08-13 `codeforces/14/d`: D. Two Paths
+- 2026-08-13 `codeforces/14/c`: C. Four Segments
+- 2026-08-13 `codeforces/14/b`: B. Young Photographer
+- 2026-08-13 `codeforces/14/a`: A. Letter
 - 2026-08-12 `qoj/3799/18436`: I. Nailoong vs. Bombloong 2
 - 2026-08-12 `qoj/3799/18433`: F. Lottery
 - 2026-08-12 `qoj/1099/5464`: J. Dice Game
@@ -564,35 +582,3 @@ The complete list is available only in the full repository for eligible paid spo
 - 2026-07-16 `atcoder/past23-open/past23_c`: C - 会議の延期
 - 2026-07-16 `atcoder/past23-open/past23_b`: B - 前後
 - 2026-07-16 `atcoder/past23-open/past23_a`: A - 買い物
-- 2026-07-15 `codeforces/2244/g`: G. Yura and Deadlines
-- 2026-07-15 `codeforces/2244/f`: F. Anya Loves Trees!
-- 2026-07-15 `codeforces/2244/e`: E. Masha and the Garland
-- 2026-07-15 `codeforces/2244/d`: D. Yaroslav and Productivity
-- 2026-07-15 `codeforces/2244/c`: C. Stepan and Permutation
-- 2026-07-15 `codeforces/2244/b`: B. Nikita and Books
-- 2026-07-15 `codeforces/2244/a`: A. Iskander and Drawings
-- 2026-07-15 `codeforces/977/f`: F. Consecutive Subsequence
-- 2026-07-15 `codeforces/977/e`: E. Cyclic Components
-- 2026-07-15 `codeforces/977/d`: D. Divide by three, multiply by two
-- 2026-07-15 `codeforces/977/c`: C. Less or Equal
-- 2026-07-15 `codeforces/977/b`: B. Two-gram
-- 2026-07-15 `codeforces/977/a`: A. Wrong Subtraction
-- 2026-07-15 `codeforces/804/f`: F. Fake bullions
-- 2026-07-15 `codeforces/804/e`: E. The same permutation
-- 2026-07-15 `codeforces/804/d`: D. Expected diameter of a tree
-- 2026-07-15 `codeforces/804/c`: C. Ice cream coloring
-- 2026-07-15 `codeforces/804/b`: B. Minimum number of steps
-- 2026-07-15 `codeforces/804/a`: A. Find Amir
-- 2026-07-15 `atcoder/arc108/f`: F - Paint Tree
-- 2026-07-15 `atcoder/arc108/e`: E - Random IS
-- 2026-07-15 `atcoder/arc108/d`: D - AB
-- 2026-07-15 `atcoder/arc108/c`: C - Keep Graph Connected
-- 2026-07-15 `atcoder/arc108/b`: B - Abbreviate Fox
-- 2026-07-15 `atcoder/arc108/a`: A - Sum and Product
-- 2026-07-15 `atcoder/abc462/g`: G - Completely Wrong
-- 2026-07-15 `atcoder/abc462/f`: F - More ABC
-- 2026-07-15 `atcoder/abc462/e`: E - Alternating Costs
-- 2026-07-15 `atcoder/abc462/d`: D - Accomplice
-- 2026-07-15 `atcoder/abc462/c`: C - Not Covered Points
-- 2026-07-15 `atcoder/abc462/b`: B - Gift
-- 2026-07-15 `atcoder/abc462/a`: A - Secret Numbers
