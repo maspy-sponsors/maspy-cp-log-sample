@@ -4,8 +4,8 @@
 - tagged problems: 606
 - difficulty entries: 934
 - contests/sites: 139
-- AI translations: 933 / 934
-- stale AI translations: 437
+- AI translations: 934 / 934
+- stale AI translations: 0
 
 ## Monthly additions
 
