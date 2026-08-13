@@ -7,6 +7,7 @@
 - Problem: [atcoder/awtf2026algo/b](https://atcoder.jp/contests/awtf2026algo/tasks/awtf2026algo_b)
 - Problem Name: B - Window Records
 - difficulty: `7`
+- fav: `0`
 - tags: `判定問題解法でdp`
 - tag_en: `DP by solving a decision problem`
 - id: `atcoder/awtf2026algo/b`

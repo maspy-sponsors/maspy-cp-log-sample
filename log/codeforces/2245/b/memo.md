@@ -3,6 +3,7 @@
 - 問題: [codeforces/2245/b](https://codeforces.com/contest/2245/problem/B)
 - 問題名: B. Delete and Concatenate
 - difficulty: `4`
+- fav: `0`
 - tags: []
 - id: `codeforces/2245/b`
 - logged_at: `2026-07-17`

@@ -3,6 +3,7 @@
 - 問題: [repovive/15/a](https://repovive.com/contests/15/problems/A)
 - 問題名: 15A. Different Parity
 - difficulty: `1`
+- fav: `0`
 - tags: []
 - id: `repovive/15/a`
 - logged_at: `2026-07-06`

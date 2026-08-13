@@ -3,6 +3,7 @@
 - 問題: [codeforces/1423/d](https://codeforces.com/contest/1423/problem/D)
 - 問題名: D. Does anyone else hate the wind?
 - difficulty: `4`
+- fav: `0`
 - tags: []
 - id: `codeforces/1423/d`
 - logged_at: `2026-07-14`

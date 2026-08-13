@@ -3,6 +3,7 @@
 - 問題: [repovive/14/c](https://repovive.com/contests/14/problems/C)
 - 問題名: 14C. Range Reversal
 - difficulty: `4`
+- fav: `0`
 - tags: `区間反転`
 - id: `repovive/14/c`
 - logged_at: `2026-06-30`

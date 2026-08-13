@@ -4,6 +4,7 @@
 - 問題名: N - 株価の補正
 - tags: `Slope_Trick`
 - difficulty: `4`
+- fav: `0`
 - id: `atcoder/awc0100/n`
 - logged_at: `2026-06-28`
 

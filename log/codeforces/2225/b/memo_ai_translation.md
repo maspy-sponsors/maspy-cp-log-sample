@@ -7,6 +7,7 @@
 - Problem: [codeforces/2225/b](https://codeforces.com/contest/2225/problem/B)
 - Problem Name: B. Alternating String
 - difficulty: `3`
+- fav: `0`
 - tags: []
 - tag_en: []
 - id: `codeforces/2225/b`

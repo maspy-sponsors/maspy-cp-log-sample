@@ -3,6 +3,7 @@
 - 問題: [codeforces/600/c](https://codeforces.com/contest/600/problem/C)
 - 問題名: C. Make Palindrome
 - difficulty: `2`
+- fav: `0`
 - tags: `回文`
 - id: `codeforces/600/c`
 - logged_at: `2026-07-18`

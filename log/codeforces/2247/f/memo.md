@@ -3,6 +3,7 @@
 - 問題: [codeforces/2247/f](https://codeforces.com/contest/2247/problem/F)
 - 問題名: F. Paths on a Grid
 - difficulty: `5`
+- fav: `1`
 - tags: `dominator_tree` `ハッシュ`
 - id: `codeforces/2247/f`
 - logged_at: `2026-07-19`

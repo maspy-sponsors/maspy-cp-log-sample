@@ -7,6 +7,7 @@
 - Problem: [atcoder/awc0100/j](https://atcoder.jp/contests/awc0100/tasks/awc0100_j)
 - Problem Name: J - 道路ネットワークの整備
 - difficulty: `4`
+- fav: `0`
 - tags: `HLD` `パスクエリ`
 - tag_en: `HLD` `path query`
 - id: `atcoder/awc0100/j`

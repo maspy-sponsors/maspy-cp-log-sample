@@ -3,6 +3,7 @@
 - 問題: [codeforces/1423/h](https://codeforces.com/contest/1423/problem/H)
 - 問題名: H. Virus
 - difficulty: `4`
+- fav: `0`
 - tags: `offline_dynamic_connectivity`
 - id: `codeforces/1423/h`
 - logged_at: `2026-07-14`

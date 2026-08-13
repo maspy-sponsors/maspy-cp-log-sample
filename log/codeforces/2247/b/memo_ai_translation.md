@@ -7,6 +7,7 @@
 - Problem: [codeforces/2247/b](https://codeforces.com/contest/2247/problem/B)
 - Problem Name: B. Yet Another Constructive
 - difficulty: `3`
+- fav: `0`
 - tags: `構築`
 - tag_en: `construction`
 - id: `codeforces/2247/b`

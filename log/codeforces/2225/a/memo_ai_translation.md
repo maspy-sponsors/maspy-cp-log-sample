@@ -7,6 +7,7 @@
 - Problem: [codeforces/2225/a](https://codeforces.com/contest/2225/problem/A)
 - Problem Name: A. A Number Between Two Others
 - difficulty: `2`
+- fav: `0`
 - tags: `整数論計算量`
 - tag_en: `integer theory` `complexity`
 - id: `codeforces/2225/a`

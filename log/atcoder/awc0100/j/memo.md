@@ -4,6 +4,7 @@
 - 問題名: J - 道路ネットワークの整備
 - tags: `HLD` `パスクエリ`
 - difficulty: `4`
+- fav: `0`
 - id: `atcoder/awc0100/j`
 - logged_at: `2026-06-28`
 

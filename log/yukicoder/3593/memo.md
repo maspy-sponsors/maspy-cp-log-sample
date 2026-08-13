@@ -3,6 +3,7 @@
 - 問題: [yukicoder/3593](https://yukicoder.me/problems/no/3593)
 - 問題名: No.3593 I Love Sudoku
 - difficulty: `8`
+- fav: `3`
 - tags: `線形代数` `構築` `群` `数独`
 - id: `yukicoder/3593`
 - logged_at: `2026-07-17`

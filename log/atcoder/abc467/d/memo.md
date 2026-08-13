@@ -3,6 +3,7 @@
 - 問題: [atcoder/abc467/d](https://atcoder.jp/contests/abc467/tasks/abc467_d)
 - 問題名: D - Concentric Circles
 - difficulty: `3`
+- fav: `0`
 - tags: `幾何` `垂直二等分線`
 - id: `atcoder/abc467/d`
 - logged_at: `2026-07-18`

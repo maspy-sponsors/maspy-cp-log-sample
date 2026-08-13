@@ -7,6 +7,7 @@
 - Problem: [codeforces/398/c](https://codeforces.com/contest/398/problem/C)
 - Problem Name: C. Tree and Array
 - difficulty: `7`
+- fav: `1`
 - tags: `帰納的構築`
 - tag_en: `inductive construction`
 - id: `codeforces/398/c`

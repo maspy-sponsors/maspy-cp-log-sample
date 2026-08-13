@@ -3,6 +3,7 @@
 - 問題: [atcoder/awtf2026algo/b](https://atcoder.jp/contests/awtf2026algo/tasks/awtf2026algo_b)
 - 問題名: B - Window Records
 - difficulty: `7`
+- fav: `0`
 - tags: `判定問題解法でdp`
 - id: `atcoder/awtf2026algo/b`
 - logged_at: `2026-07-10`

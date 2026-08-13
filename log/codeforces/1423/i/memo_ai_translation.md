@@ -7,6 +7,7 @@
 - Problem: [codeforces/1423/i](https://codeforces.com/contest/1423/problem/I)
 - Problem Name: I. Lookup Tables
 - difficulty: `5`
+- fav: `0`
 - tags: []
 - tag_en: []
 - id: `codeforces/1423/i`

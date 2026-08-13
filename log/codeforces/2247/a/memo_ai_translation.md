@@ -7,6 +7,7 @@
 - Problem: [codeforces/2247/a](https://codeforces.com/contest/2247/problem/A)
 - Problem Name: A. Zero Sum
 - difficulty: `2`
+- fav: `0`
 - tags: `parity` `不変量`
 - tag_en: `parity` `invariant`
 - id: `codeforces/2247/a`

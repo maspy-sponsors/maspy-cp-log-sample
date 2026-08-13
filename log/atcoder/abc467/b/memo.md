@@ -3,6 +3,7 @@
 - 問題: [atcoder/abc467/b](https://atcoder.jp/contests/abc467/tasks/abc467_b)
 - 問題名: B - Keep the Change
 - difficulty: `1`
+- fav: `0`
 - tags: []
 - id: `atcoder/abc467/b`
 - logged_at: `2026-07-18`

@@ -7,6 +7,7 @@
 - Problem: [atcoder/abc272/f](https://atcoder.jp/contests/abc272/tasks/abc272_f)
 - Problem Name: F - Two Strings
 - difficulty: `4`
+- fav: `0`
 - tags: []
 - tag_en: []
 - id: `atcoder/abc272/f`

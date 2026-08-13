@@ -7,6 +7,7 @@
 - Problem: [yukicoder/3553](https://yukicoder.me/problems/no/3553)
 - Problem Name: No.3553 Good Quartet
 - difficulty: `4`
+- fav: `0`
 - tags: []
 - tag_en: []
 - id: `yukicoder/3553`

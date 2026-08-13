@@ -7,6 +7,7 @@
 - Problem: [codeforces/2245/c](https://codeforces.com/contest/2245/problem/C)
 - Problem Name: C. MEXOR
 - difficulty: `4`
+- fav: `0`
 - tags: `構築`
 - tag_en: `construction`
 - id: `codeforces/2245/c`

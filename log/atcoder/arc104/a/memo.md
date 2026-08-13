@@ -3,6 +3,7 @@
 - 問題: [atcoder/arc104/a](https://atcoder.jp/contests/arc104/tasks/arc104_a)
 - 問題名: A - Plus Minus
 - difficulty: `1`
+- fav: `0`
 - tags: []
 - id: `atcoder/arc104/a`
 - logged_at: `2026-07-03`

@@ -7,6 +7,7 @@
 - Problem: [atcoder/fps-24/fps_24_f](https://atcoder.jp/contests/fps-24/tasks/fps_24_f)
 - Problem Name: F - 色紙
 - difficulty: `4`
+- fav: `0`
 - tags: `C-recursive` `BMBM`
 - tag_en: `C-recursive` `BMBM`
 - id: `atcoder/fps-24/fps_24_f`

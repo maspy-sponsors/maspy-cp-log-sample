@@ -7,6 +7,7 @@
 - Problem: [atcoder/abc272/a](https://atcoder.jp/contests/abc272/tasks/abc272_a)
 - Problem Name: A - Integer Sum
 - difficulty: `1`
+- fav: `0`
 - tags: []
 - tag_en: []
 - id: `atcoder/abc272/a`

@@ -5,7 +5,7 @@
 - difficulty entries: 159
 - contests/sites: 19
 - AI translations: 159 / 159
-- stale AI translations: 0
+- stale AI translations: 159
 
 ## Monthly additions
 
@@ -31,3 +31,12 @@ Based on `logged_at` in `memo.md`.
 | D9 | 3 |
 | D10 | 1 |
 | missing | 0 |
+
+## Favorite distribution
+
+| favorite | problems |
+|---:|---:|
+| F0 | 138 |
+| F1 | 13 |
+| F2 | 4 |
+| F3 | 4 |

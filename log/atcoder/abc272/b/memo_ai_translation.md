@@ -7,6 +7,7 @@
 - Problem: [atcoder/abc272/b](https://atcoder.jp/contests/abc272/tasks/abc272_b)
 - Problem Name: B - Everyone is Friends
 - difficulty: `1`
+- fav: `0`
 - tags: []
 - tag_en: []
 - id: `atcoder/abc272/b`

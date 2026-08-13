@@ -7,6 +7,7 @@
 - Problem: [yukicoder/3551](https://yukicoder.me/problems/no/3551)
 - Problem Name: No.3551 Regions by Random Points 2
 - difficulty: `2`
+- fav: `0`
 - tags: []
 - tag_en: []
 - id: `yukicoder/3551`

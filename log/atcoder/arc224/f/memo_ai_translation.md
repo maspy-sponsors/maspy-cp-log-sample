@@ -7,6 +7,7 @@
 - Problem: [atcoder/arc224/f](https://atcoder.jp/contests/arc224/tasks/arc224_f)
 - Problem Name: F - AND/OR
 - difficulty: `5`
+- fav: `0`
 - tags: `二項係数累積和`
 - tag_en: `binomial coefficient prefix sums`
 - id: `atcoder/arc224/f`

@@ -7,6 +7,7 @@
 - Problem: [atcoder/arc224/b](https://atcoder.jp/contests/arc224/tasks/arc224_b)
 - Problem Name: B - Adjacent Tiles
 - difficulty: `3`
+- fav: `0`
 - tags: `bounding_box`
 - tag_en: `bounding box`
 - id: `atcoder/arc224/b`

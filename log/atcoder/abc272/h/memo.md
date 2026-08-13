@@ -3,6 +3,7 @@
 - 問題: [atcoder/abc272/h](https://atcoder.jp/contests/abc272/tasks/abc272_h)
 - 問題名: Ex - Flipping Coins 2
 - difficulty: `7`
+- fav: `1`
 - tags: `固有関数` `rook_polynomial` `newton_basis` `下降べき`
 - id: `atcoder/abc272/h`
 - logged_at: `2026-07-08`

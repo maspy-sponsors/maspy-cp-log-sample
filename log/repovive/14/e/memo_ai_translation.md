@@ -7,6 +7,7 @@
 - Problem: [repovive/14/e](https://repovive.com/contests/14/problems/E)
 - Problem Name: 14E. Palindromic Not
 - difficulty: `5`
+- fav: `0`
 - tags: `最短路問題` `最短路復元` `実験` `帰納的構成`
 - tag_en: `shortest path problem` `shortest path reconstruction` `experiment` `inductive construction`
 - id: `repovive/14/e`

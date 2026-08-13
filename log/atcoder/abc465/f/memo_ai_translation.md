@@ -7,6 +7,7 @@
 - Problem: [atcoder/abc465/f](https://atcoder.jp/contests/abc465/tasks/abc465_f)
 - Problem Name: F - Sjeltzer?
 - difficulty: `4`
+- fav: `0`
 - tags: `多次元累積和`
 - tag_en: `multidimensional prefix sum`
 - id: `atcoder/abc465/f`

@@ -3,6 +3,7 @@
 - 問題: [atcoder/fps-24/fps_24_l](https://atcoder.jp/contests/fps-24/tasks/fps_24_l)
 - 問題名: L - 順列 2
 - difficulty: `4`
+- fav: `0`
 - tags: `サイクル分解` `グラフ数え上げ` `FPS_exp`
 - id: `atcoder/fps-24/fps_24_l`
 - logged_at: `2026-07-02`

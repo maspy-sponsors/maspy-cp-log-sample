@@ -4,6 +4,7 @@
 - 問題名: M - 秘密の数列と分岐するノート
 - tags: `Rollback_UnionFind` `ポテンシャル付きUnionFind`
 - difficulty: `5`
+- fav: `0`
 - id: `atcoder/awc0100/m`
 - logged_at: `2026-06-28`
 

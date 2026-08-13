@@ -3,6 +3,7 @@
 - 問題: [atcoder/fps-24/fps_24_t](https://atcoder.jp/contests/fps-24/tasks/fps_24_t)
 - 問題名: T - カラフル
 - difficulty: `6`
+- fav: `0`
 - tags: `包除原理`
 - id: `atcoder/fps-24/fps_24_t`
 - logged_at: `2026-07-02`

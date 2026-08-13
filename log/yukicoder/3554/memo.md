@@ -3,6 +3,7 @@
 - 問題: [yukicoder/3554](https://yukicoder.me/problems/no/3554)
 - 問題名: No.3554 Rurumaru Function Problem 2
 - difficulty: `4`
+- fav: `0`
 - tags: []
 - id: `yukicoder/3554`
 - logged_at: `2026-07-14`

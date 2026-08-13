@@ -3,6 +3,7 @@
 - 問題: [codeforces/398/d](https://codeforces.com/contest/398/problem/D)
 - 問題名: D. Instant Messanger
 - difficulty: `5`
+- fav: `0`
 - tags: `次数による向きづけ` `次数平方分割`
 - id: `codeforces/398/d`
 - logged_at: `2026-07-08`

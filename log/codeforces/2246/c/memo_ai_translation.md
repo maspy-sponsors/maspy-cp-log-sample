@@ -7,6 +7,7 @@
 - Problem: [codeforces/2246/c](https://codeforces.com/contest/2246/problem/C)
 - Problem Name: C. 0mar and Alternating Sums
 - difficulty: `4`
+- fav: `0`
 - tags: []
 - tag_en: []
 - id: `codeforces/2246/c`

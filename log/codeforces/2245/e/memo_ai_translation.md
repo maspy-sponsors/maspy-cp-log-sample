@@ -7,6 +7,7 @@
 - Problem: [codeforces/2245/e](https://codeforces.com/contest/2245/problem/E)
 - Problem Name: E. Tom and Jerry
 - difficulty: `7`
+- fav: `1`
 - tags: `ゲーム`
 - tag_en: `game`
 - id: `codeforces/2245/e`

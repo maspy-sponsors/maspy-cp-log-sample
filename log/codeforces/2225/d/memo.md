@@ -3,6 +3,7 @@
 - 問題: [codeforces/2225/d](https://codeforces.com/contest/2225/problem/D)
 - 問題名: D. Exceptional Segments
 - difficulty: `4`
+- fav: `0`
 - tags: `区間XORが0`
 - id: `codeforces/2225/d`
 - logged_at: `2026-07-01`

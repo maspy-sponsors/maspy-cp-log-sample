@@ -7,6 +7,7 @@
 - Problem: [codeforces/1423/a](https://codeforces.com/contest/1423/problem/A)
 - Problem Name: A. Wakanda Forever
 - difficulty: `6`
+- fav: `0`
 - tags: `stable_roommates` `安定マッチング`
 - tag_en: `stable roommates` `stable matching`
 - id: `codeforces/1423/a`

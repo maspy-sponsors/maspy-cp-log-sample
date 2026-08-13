@@ -7,6 +7,7 @@
 - Problem: [atcoder/abc465/g](https://atcoder.jp/contests/abc465/tasks/abc465_g)
 - Problem Name: G - Sum of Mex of Mod of Linear
 - difficulty: `5`
+- fav: `0`
 - tags: `差分更新` `実装`
 - tag_en: `difference update` `implementation`
 - id: `atcoder/abc465/g`

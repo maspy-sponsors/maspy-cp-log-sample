@@ -7,6 +7,7 @@
 - Problem: [codeforces/2245/f](https://codeforces.com/contest/2245/problem/F)
 - Problem Name: F. Familiar?
 - difficulty: `7`
+- fav: `0`
 - tags: `区間dp` `Cartesian_Tree`
 - tag_en: `interval DP` `Cartesian Tree`
 - id: `codeforces/2245/f`

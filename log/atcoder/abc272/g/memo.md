@@ -3,6 +3,7 @@
 - 問題: [atcoder/abc272/g](https://atcoder.jp/contests/abc272/tasks/abc272_g)
 - 問題名: G - Yet Another mod M
 - difficulty: `4`
+- fav: `0`
 - tags: `乱択`
 - id: `atcoder/abc272/g`
 - logged_at: `2026-07-08`

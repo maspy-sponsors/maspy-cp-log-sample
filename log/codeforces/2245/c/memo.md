@@ -3,6 +3,7 @@
 - 問題: [codeforces/2245/c](https://codeforces.com/contest/2245/problem/C)
 - 問題名: C. MEXOR
 - difficulty: `4`
+- fav: `0`
 - tags: `構築`
 - id: `codeforces/2245/c`
 - logged_at: `2026-07-17`

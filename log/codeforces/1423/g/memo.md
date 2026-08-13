@@ -3,6 +3,7 @@
 - 問題: [codeforces/1423/g](https://codeforces.com/contest/1423/problem/G)
 - 問題名: G. Growing flowers
 - difficulty: `7`
+- fav: `1`
 - tags: `区間種類数` `実装`
 - id: `codeforces/1423/g`
 - logged_at: `2026-07-14`

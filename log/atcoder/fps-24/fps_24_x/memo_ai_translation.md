@@ -7,6 +7,7 @@
 - Problem: [atcoder/fps-24/fps_24_x](https://atcoder.jp/contests/fps-24/tasks/fps_24_x)
 - Problem Name: X - 関数的平方根
 - difficulty: `8`
+- fav: `2`
 - tags: `FPS合成` `合成べき`
 - tag_en: `FPS composition` `composition power`
 - id: `atcoder/fps-24/fps_24_x`

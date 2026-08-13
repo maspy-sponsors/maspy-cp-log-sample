@@ -3,6 +3,7 @@
 - 問題: [atcoder/fps-24/fps_24_r](https://atcoder.jp/contests/fps-24/tasks/fps_24_r)
 - 問題名: R - ランダムウォーク
 - difficulty: `5`
+- fav: `0`
 - tags: `パス上のwalk` `walkの母関数` `巡回畳み込み`
 - id: `atcoder/fps-24/fps_24_r`
 - logged_at: `2026-07-02`

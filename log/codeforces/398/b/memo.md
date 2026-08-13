@@ -3,6 +3,7 @@
 - 問題: [codeforces/398/b](https://codeforces.com/contest/398/problem/B)
 - 問題名: B. Painting The Wall
 - difficulty: `3`
+- fav: `0`
 - tags: []
 - id: `codeforces/398/b`
 - logged_at: `2026-07-08`

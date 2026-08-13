@@ -3,6 +3,7 @@
 - 問題: [codeforces/2225/c](https://codeforces.com/contest/2225/problem/C)
 - 問題名: C. Red-Black Pairs
 - difficulty: `2`
+- fav: `0`
 - tags: `dp`
 - id: `codeforces/2225/c`
 - logged_at: `2026-07-01`

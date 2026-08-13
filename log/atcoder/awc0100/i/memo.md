@@ -4,6 +4,7 @@
 - 問題名: I - 円陣パスゲーム
 - tags: `Fenwick_Tree` `セグメント木`
 - difficulty: `3`
+- fav: `0`
 - id: `atcoder/awc0100/i`
 - logged_at: `2026-06-28`
 

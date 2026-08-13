@@ -7,6 +7,7 @@
 - Problem: [yukicoder/3547](https://yukicoder.me/problems/no/3547)
 - Problem Name: No.3547 Rurumaru Function Problem
 - difficulty: `1`
+- fav: `0`
 - tags: []
 - tag_en: []
 - id: `yukicoder/3547`

@@ -3,6 +3,7 @@
 - 問題: [codeforces/2225/a](https://codeforces.com/contest/2225/problem/A)
 - 問題名: A. A Number Between Two Others
 - difficulty: `2`
+- fav: `0`
 - tags: `整数論計算量`
 - id: `codeforces/2225/a`
 - logged_at: `2026-07-01`

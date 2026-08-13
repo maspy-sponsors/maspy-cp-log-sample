@@ -3,6 +3,7 @@
 - 問題: [yukicoder/3553](https://yukicoder.me/problems/no/3553)
 - 問題名: No.3553 Good Quartet
 - difficulty: `4`
+- fav: `0`
 - tags: []
 - id: `yukicoder/3553`
 - logged_at: `2026-07-14`

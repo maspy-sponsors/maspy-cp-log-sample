@@ -3,6 +3,7 @@
 - 問題: [atcoder/abc467/e](https://atcoder.jp/contests/abc467/tasks/abc467_e)
 - 問題名: E - Adjacent Sums (hard)
 - difficulty: `4`
+- fav: `0`
 - tags: []
 - id: `atcoder/abc467/e`
 - logged_at: `2026-07-18`

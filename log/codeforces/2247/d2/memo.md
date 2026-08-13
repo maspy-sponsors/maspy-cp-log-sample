@@ -3,6 +3,7 @@
 - 問題: [codeforces/2247/d2](https://codeforces.com/contest/2247/problem/D2)
 - 問題名: D2. XOR Sorting (Hard Version)
 - difficulty: `4`
+- fav: `0`
 - tags: []
 - id: `codeforces/2247/d2`
 - logged_at: `2026-07-19`

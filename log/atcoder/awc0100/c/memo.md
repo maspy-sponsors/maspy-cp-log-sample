@@ -4,6 +4,7 @@
 - 問題名: C - 権限管理システム
 - tags: []
 - difficulty: `2`
+- fav: `0`
 - id: `atcoder/awc0100/c`
 - logged_at: `2026-06-28`
 

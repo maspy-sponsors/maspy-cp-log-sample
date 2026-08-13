@@ -3,6 +3,7 @@
 - 問題: [codeforces/2246/b](https://codeforces.com/contest/2246/problem/B)
 - 問題名: B. ezraft and Array
 - difficulty: `3`
+- fav: `0`
 - tags: `構築` `帰納的構成`
 - id: `codeforces/2246/b`
 - logged_at: `2026-07-13`

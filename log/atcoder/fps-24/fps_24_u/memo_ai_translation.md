@@ -7,6 +7,7 @@
 - Problem: [atcoder/fps-24/fps_24_u](https://atcoder.jp/contests/fps-24/tasks/fps_24_u)
 - Problem Name: U - 録画機
 - difficulty: `7`
+- fav: `1`
 - tags: `多項式行列積`
 - tag_en: `polynomial matrix multiplication`
 - id: `atcoder/fps-24/fps_24_u`

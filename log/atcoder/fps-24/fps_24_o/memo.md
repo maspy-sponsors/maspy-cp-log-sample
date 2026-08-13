@@ -3,6 +3,7 @@
 - 問題: [atcoder/fps-24/fps_24_o](https://atcoder.jp/contests/fps-24/tasks/fps_24_o)
 - 問題名: O - 根付き木
 - difficulty: `5`
+- fav: `0`
 - tags: `グラフ数え上げ` `ラグランジュ反転`
 - id: `atcoder/fps-24/fps_24_o`
 - logged_at: `2026-07-02`

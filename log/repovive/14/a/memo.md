@@ -3,6 +3,7 @@
 - 問題: [repovive/14/a](https://repovive.com/contests/14/problems/A)
 - 問題名: 14A. Odd Sum Game
 - difficulty: `1`
+- fav: `0`
 - tags: []
 - id: `repovive/14/a`
 - logged_at: `2026-06-30`

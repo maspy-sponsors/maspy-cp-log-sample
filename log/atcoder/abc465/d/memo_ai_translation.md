@@ -7,6 +7,7 @@
 - Problem: [atcoder/abc465/d](https://atcoder.jp/contests/abc465/tasks/abc465_d)
 - Problem Name: D - X to Y
 - difficulty: `2`
+- fav: `0`
 - tags: `K進法`
 - tag_en: `K-ary notation`
 - id: `atcoder/abc465/d`

@@ -7,6 +7,7 @@
 - Problem: [atcoder/fps-24/fps_24_m](https://atcoder.jp/contests/fps-24/tasks/fps_24_m)
 - Problem Name: M - 連結グラフ
 - difficulty: `4`
+- fav: `0`
 - tags: `グラフ数え上げ` `FPS_exp`
 - tag_en: `graph counting` `formal power series exponential`
 - id: `atcoder/fps-24/fps_24_m`

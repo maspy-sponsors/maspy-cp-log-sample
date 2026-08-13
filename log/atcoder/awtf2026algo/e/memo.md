@@ -3,6 +3,7 @@
 - 問題: [atcoder/awtf2026algo/e](https://atcoder.jp/contests/awtf2026algo/tasks/awtf2026algo_e)
 - 問題名: E - Even Rows
 - difficulty: `10`
+- fav: `1`
 - tags: `+-1列の累積和` `マッチング`
 - id: `atcoder/awtf2026algo/e`
 - logged_at: `2026-07-11`

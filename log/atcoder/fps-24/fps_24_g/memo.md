@@ -3,6 +3,7 @@
 - 問題: [atcoder/fps-24/fps_24_g](https://atcoder.jp/contests/fps-24/tasks/fps_24_g)
 - 問題名: G - 硬貨
 - difficulty: `4`
+- fav: `0`
 - tags: `戻すdp`
 - id: `atcoder/fps-24/fps_24_g`
 - logged_at: `2026-07-02`

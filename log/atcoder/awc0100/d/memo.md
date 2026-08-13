@@ -4,6 +4,7 @@
 - 問題名: D - チームの分割
 - tags: `累積和`
 - difficulty: `2`
+- fav: `0`
 - id: `atcoder/awc0100/d`
 - logged_at: `2026-06-28`
 

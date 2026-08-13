@@ -7,6 +7,7 @@
 - Problem: [atcoder/awc0100/o](https://atcoder.jp/contests/awc0100/tasks/awc0100_o)
 - Problem Name: O - 円環石板の結合
 - difficulty: `6`
+- fav: `0`
 - tags: `monge` `Knuth_Yao_SpeedUp`
 - tag_en: `monge` `Knuth_Yao_SpeedUp`
 - id: `atcoder/awc0100/o`

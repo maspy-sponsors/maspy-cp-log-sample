@@ -7,6 +7,7 @@
 - Problem: [codeforces/2061/i](https://codeforces.com/contest/2061/problem/I)
 - Problem Name: I. Kevin and Nivek
 - difficulty: `8`
+- fav: `2`
 - tags: `2次元dpの分割統治高速化`
 - tag_en: `divide and conquer optimization for 2D dp`
 - id: `codeforces/2061/i`

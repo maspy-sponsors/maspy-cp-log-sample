@@ -7,6 +7,7 @@
 - Problem: [codeforces/1423/g](https://codeforces.com/contest/1423/problem/G)
 - Problem Name: G. Growing flowers
 - difficulty: `7`
+- fav: `1`
 - tags: `区間種類数` `実装`
 - tag_en: `number of distinct values in a range` `implementation`
 - id: `codeforces/1423/g`

@@ -7,6 +7,7 @@
 - Problem: [repovive/15/c](https://repovive.com/contests/15/problems/C)
 - Problem Name: 15C. Corner Meeting
 - difficulty: `2`
+- fav: `0`
 - tags: []
 - tag_en: []
 - id: `repovive/15/c`

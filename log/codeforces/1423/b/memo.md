@@ -3,6 +3,7 @@
 - 問題: [codeforces/1423/b](https://codeforces.com/contest/1423/problem/B)
 - 問題名: B. Valuable Paper
 - difficulty: `3`
+- fav: `0`
 - tags: `二部マッチング`
 - id: `codeforces/1423/b`
 - logged_at: `2026-07-14`

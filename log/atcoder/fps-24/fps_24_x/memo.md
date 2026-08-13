@@ -3,6 +3,7 @@
 - 問題: [atcoder/fps-24/fps_24_x](https://atcoder.jp/contests/fps-24/tasks/fps_24_x)
 - 問題名: X - 関数的平方根
 - difficulty: `8`
+- fav: `2`
 - tags: `FPS合成` `合成べき`
 - id: `atcoder/fps-24/fps_24_x`
 - logged_at: `2026-07-03`

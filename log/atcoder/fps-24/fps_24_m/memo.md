@@ -3,6 +3,7 @@
 - 問題: [atcoder/fps-24/fps_24_m](https://atcoder.jp/contests/fps-24/tasks/fps_24_m)
 - 問題名: M - 連結グラフ
 - difficulty: `4`
+- fav: `0`
 - tags: `グラフ数え上げ` `FPS_exp`
 - id: `atcoder/fps-24/fps_24_m`
 - logged_at: `2026-07-02`

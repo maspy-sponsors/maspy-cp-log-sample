@@ -3,6 +3,7 @@
 - 問題: [atcoder/arc224/f](https://atcoder.jp/contests/arc224/tasks/arc224_f)
 - 問題名: F - AND/OR
 - difficulty: `5`
+- fav: `0`
 - tags: `二項係数累積和`
 - id: `atcoder/arc224/f`
 - logged_at: `2026-07-12`

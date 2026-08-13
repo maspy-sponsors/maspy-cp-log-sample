@@ -7,6 +7,7 @@
 - Problem: [codeforces/600/d](https://codeforces.com/contest/600/problem/D)
 - Problem Name: D. Area of Two Circles' Intersection
 - difficulty: `2`
+- fav: `0`
 - tags: `幾何` `円の共通部分`
 - tag_en: `geometry` `circle intersection`
 - id: `codeforces/600/d`

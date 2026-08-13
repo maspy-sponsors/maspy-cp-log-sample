@@ -7,6 +7,7 @@
 - Problem: [atcoder/abc467/g](https://atcoder.jp/contests/abc467/tasks/abc467_g)
 - Problem Name: G - Many Sweets Problem
 - difficulty: `5`
+- fav: `0`
 - tags: `矩形クエリ` `Wavelet_Matrix` `Wavelet_Matrix_二分探索`
 - tag_en: `rectangle query` `Wavelet Matrix` `Wavelet Matrix binary search`
 - id: `atcoder/abc467/g`

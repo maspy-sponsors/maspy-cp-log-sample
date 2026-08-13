@@ -3,6 +3,7 @@
 - 問題: [codeforces/2225/e](https://codeforces.com/contest/2225/problem/E)
 - 問題名: E. Covering Points with Circles
 - difficulty: `4`
+- fav: `0`
 - tags: `乱択アルゴリズム` `最密充填` `幾何構築`
 - id: `codeforces/2225/e`
 - logged_at: `2026-07-01`

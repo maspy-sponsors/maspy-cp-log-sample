@@ -7,6 +7,7 @@
 - Problem: [codeforces/2225/c](https://codeforces.com/contest/2225/problem/C)
 - Problem Name: C. Red-Black Pairs
 - difficulty: `2`
+- fav: `0`
 - tags: `dp`
 - tag_en: `dp`
 - id: `codeforces/2225/c`

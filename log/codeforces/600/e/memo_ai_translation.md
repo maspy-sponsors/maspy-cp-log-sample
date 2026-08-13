@@ -7,6 +7,7 @@
 - Problem: [codeforces/600/e](https://codeforces.com/contest/600/problem/E)
 - Problem Name: E. Lomsat gelral
 - difficulty: `3`
+- fav: `0`
 - tags: `マージテク` `dsu_on_tree`
 - tag_en: `merge technique` `dsu on tree`
 - id: `codeforces/600/e`

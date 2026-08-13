@@ -7,6 +7,7 @@
 - Problem: [atcoder/abc465/c](https://atcoder.jp/contests/abc465/tasks/abc465_c)
 - Problem Name: C - Reverse Permutation
 - difficulty: `3`
+- fav: `0`
 - tags: `deque` `シミュレーション`
 - tag_en: `deque` `simulation`
 - id: `atcoder/abc465/c`

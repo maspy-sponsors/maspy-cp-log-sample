@@ -7,6 +7,7 @@
 - Problem: [atcoder/awc0100/l](https://atcoder.jp/contests/awc0100/tasks/awc0100_l)
 - Problem Name: L - スケジュール調整
 - difficulty: `4`
+- fav: `0`
 - tags: `two_sat` `reachability` `transitive_closure`
 - tag_en: `two sat` `reachability` `transitive closure`
 - id: `atcoder/awc0100/l`

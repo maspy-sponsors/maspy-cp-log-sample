@@ -3,6 +3,7 @@
 - 問題: [repovive/14/f](https://repovive.com/contests/14/problems/F)
 - 問題名: 14F. Connected Interval Prefixes
 - difficulty: `7`
+- fav: `1`
 - tags: `区間dp` `区間を置いていくdp`
 - id: `repovive/14/f`
 - logged_at: `2026-06-30`

@@ -7,6 +7,7 @@
 - Problem: [yukicoder/3549](https://yukicoder.me/problems/no/3549)
 - Problem Name: No.3549 SigMax Digits (Judge ver.)
 - difficulty: `3`
+- fav: `0`
 - tags: `桁dp`
 - tag_en: `digit DP`
 - id: `yukicoder/3549`

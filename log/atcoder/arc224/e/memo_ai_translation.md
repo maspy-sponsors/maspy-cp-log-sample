@@ -7,6 +7,7 @@
 - Problem: [atcoder/arc224/e](https://atcoder.jp/contests/arc224/tasks/arc224_e)
 - Problem Name: E - ABC|AB|A
 - difficulty: `3`
+- fav: `0`
 - tags: []
 - tag_en: []
 - id: `atcoder/arc224/e`

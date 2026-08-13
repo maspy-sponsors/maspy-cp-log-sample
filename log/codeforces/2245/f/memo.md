@@ -3,6 +3,7 @@
 - 問題: [codeforces/2245/f](https://codeforces.com/contest/2245/problem/F)
 - 問題名: F. Familiar?
 - difficulty: `7`
+- fav: `0`
 - tags: `区間dp` `Cartesian_Tree`
 - id: `codeforces/2245/f`
 - logged_at: `2026-07-17`

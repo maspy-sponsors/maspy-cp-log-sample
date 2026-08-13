@@ -3,6 +3,7 @@
 - 問題: [atcoder/fps-24/fps_24_i](https://atcoder.jp/contests/fps-24/tasks/fps_24_i)
 - 問題名: I - スコア
 - difficulty: `4`
+- fav: `0`
 - tags: `多項式総積`
 - id: `atcoder/fps-24/fps_24_i`
 - logged_at: `2026-07-02`

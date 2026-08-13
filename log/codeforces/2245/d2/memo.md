@@ -3,6 +3,7 @@
 - 問題: [codeforces/2245/d2](https://codeforces.com/contest/2245/problem/D2)
 - 問題名: D2. Construct an Array (Hard Version)
 - difficulty: `7`
+- fav: `0`
 - tags: `構築` `potential` `頂点倍加`
 - id: `codeforces/2245/d2`
 - logged_at: `2026-07-17`

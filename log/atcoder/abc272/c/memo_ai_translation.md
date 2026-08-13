@@ -7,6 +7,7 @@
 - Problem: [atcoder/abc272/c](https://atcoder.jp/contests/abc272/tasks/abc272_c)
 - Problem Name: C - Max Even
 - difficulty: `1`
+- fav: `0`
 - tags: []
 - tag_en: []
 - id: `atcoder/abc272/c`

@@ -4,6 +4,7 @@
 - 問題名: F - 連続区間の売上目標
 - tags: `尺取り`
 - difficulty: `2`
+- fav: `0`
 - id: `atcoder/awc0100/f`
 - logged_at: `2026-06-28`
 

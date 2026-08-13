@@ -3,6 +3,7 @@
 - 問題: [atcoder/abc272/f](https://atcoder.jp/contests/abc272/tasks/abc272_f)
 - 問題名: F - Two Strings
 - difficulty: `4`
+- fav: `0`
 - tags: []
 - id: `atcoder/abc272/f`
 - logged_at: `2026-07-08`

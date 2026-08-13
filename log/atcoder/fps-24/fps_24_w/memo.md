@@ -3,6 +3,7 @@
 - 問題: [atcoder/fps-24/fps_24_w](https://atcoder.jp/contests/fps-24/tasks/fps_24_w)
 - 問題名: W - 閉路
 - difficulty: `6`
+- fav: `0`
 - tags: `部分グラフ数え上げ` `SPS` `二重連結グラフ数え上げ` `SPS_exp`
 - id: `atcoder/fps-24/fps_24_w`
 - logged_at: `2026-07-02`

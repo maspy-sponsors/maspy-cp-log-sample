@@ -7,6 +7,7 @@
 - Problem: [codeforces/2225/g](https://codeforces.com/contest/2225/problem/G)
 - Problem Name: G. Simple Problem
 - difficulty: `6`
+- fav: `0`
 - tags: `整数論` `構築`
 - tag_en: `number theory` `construction`
 - id: `codeforces/2225/g`

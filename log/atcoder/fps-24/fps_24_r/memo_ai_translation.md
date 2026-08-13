@@ -7,6 +7,7 @@
 - Problem: [atcoder/fps-24/fps_24_r](https://atcoder.jp/contests/fps-24/tasks/fps_24_r)
 - Problem Name: R - ランダムウォーク
 - difficulty: `5`
+- fav: `0`
 - tags: `パス上のwalk` `walkの母関数` `巡回畳み込み`
 - tag_en: `walk on a path` `generating function of walks` `cyclic convolution`
 - id: `atcoder/fps-24/fps_24_r`

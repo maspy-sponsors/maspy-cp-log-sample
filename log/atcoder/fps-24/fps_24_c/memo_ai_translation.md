@@ -7,6 +7,7 @@
 - Problem: [atcoder/fps-24/fps_24_c](https://atcoder.jp/contests/fps-24/tasks/fps_24_c)
 - Problem Name: C - 数列
 - difficulty: `3`
+- fav: `0`
 - tags: []
 - tag_en: []
 - id: `atcoder/fps-24/fps_24_c`

@@ -3,6 +3,7 @@
 - 問題: [codeforces/2061/b](https://codeforces.com/contest/2061/problem/B)
 - 問題名: B. Kevin and Geometry
 - difficulty: `3`
+- fav: `0`
 - tags: []
 - id: `codeforces/2061/b`
 - logged_at: `2026-07-19`

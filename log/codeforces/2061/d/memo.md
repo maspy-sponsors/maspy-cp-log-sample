@@ -3,6 +3,7 @@
 - 問題: [codeforces/2061/d](https://codeforces.com/contest/2061/problem/D)
 - 問題名: D. Kevin and Numbers
 - difficulty: `2`
+- fav: `0`
 - tags: []
 - id: `codeforces/2061/d`
 - logged_at: `2026-07-19`

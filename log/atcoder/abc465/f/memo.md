@@ -3,6 +3,7 @@
 - 問題: [atcoder/abc465/f](https://atcoder.jp/contests/abc465/tasks/abc465_f)
 - 問題名: F - Sjeltzer?
 - difficulty: `4`
+- fav: `0`
 - tags: `多次元累積和`
 - id: `atcoder/abc465/f`
 - logged_at: `2026-07-04`

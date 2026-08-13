@@ -7,6 +7,7 @@
 - Problem: [repovive/14/d](https://repovive.com/contests/14/problems/D)
 - Problem Name: 14D. Sleeping Journey
 - difficulty: `4`
+- fav: `0`
 - tags: `BFS`
 - tag_en: `BFS`
 - id: `repovive/14/d`

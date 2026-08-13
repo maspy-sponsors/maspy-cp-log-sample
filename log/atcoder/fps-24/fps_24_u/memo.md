@@ -3,6 +3,7 @@
 - 問題: [atcoder/fps-24/fps_24_u](https://atcoder.jp/contests/fps-24/tasks/fps_24_u)
 - 問題名: U - 録画機
 - difficulty: `7`
+- fav: `1`
 - tags: `多項式行列積`
 - id: `atcoder/fps-24/fps_24_u`
 - logged_at: `2026-07-02`

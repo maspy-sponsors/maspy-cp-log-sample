@@ -7,6 +7,7 @@
 - Problem: [codeforces/398/a](https://codeforces.com/contest/398/problem/A)
 - Problem Name: A. Cards
 - difficulty: `3`
+- fav: `0`
 - tags: []
 - tag_en: []
 - id: `codeforces/398/a`

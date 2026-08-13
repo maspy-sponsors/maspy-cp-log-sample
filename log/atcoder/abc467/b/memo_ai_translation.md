@@ -7,6 +7,7 @@
 - Problem: [atcoder/abc467/b](https://atcoder.jp/contests/abc467/tasks/abc467_b)
 - Problem Name: B - Keep the Change
 - difficulty: `1`
+- fav: `0`
 - tags: []
 - tag_en: []
 - id: `atcoder/abc467/b`

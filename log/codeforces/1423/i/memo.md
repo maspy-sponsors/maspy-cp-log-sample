@@ -3,6 +3,7 @@
 - 問題: [codeforces/1423/i](https://codeforces.com/contest/1423/problem/I)
 - 問題名: I. Lookup Tables
 - difficulty: `5`
+- fav: `0`
 - tags: []
 - id: `codeforces/1423/i`
 - logged_at: `2026-07-14`

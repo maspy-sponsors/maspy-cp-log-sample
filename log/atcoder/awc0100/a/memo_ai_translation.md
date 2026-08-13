@@ -7,6 +7,7 @@
 - Problem: [atcoder/awc0100/a](https://atcoder.jp/contests/awc0100/tasks/awc0100_a)
 - Problem Name: A - アルバイトの給料計算
 - difficulty: `1`
+- fav: `0`
 - tags: []
 - tag_en: []
 - id: `atcoder/awc0100/a`

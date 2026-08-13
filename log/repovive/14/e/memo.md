@@ -3,6 +3,7 @@
 - 問題: [repovive/14/e](https://repovive.com/contests/14/problems/E)
 - 問題名: 14E. Palindromic Not
 - difficulty: `5`
+- fav: `0`
 - tags: `最短路問題` `最短路復元` `実験` `帰納的構成`
 - id: `repovive/14/e`
 - logged_at: `2026-06-30`

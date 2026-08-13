@@ -3,6 +3,7 @@
 - 問題: [codeforces/2225/f](https://codeforces.com/contest/2225/problem/F)
 - 問題名: F. String Cutting
 - difficulty: `4`
+- fav: `0`
 - tags: `文字列` `文字列比較`
 - id: `codeforces/2225/f`
 - logged_at: `2026-07-02`

@@ -7,6 +7,7 @@
 - Problem: [atcoder/abc465/a](https://atcoder.jp/contests/abc465/tasks/abc465_a)
 - Problem Name: A - Supermajority
 - difficulty: `1`
+- fav: `0`
 - tags: []
 - tag_en: []
 - id: `atcoder/abc465/a`

@@ -7,6 +7,7 @@
 - Problem: [codeforces/2061/h2](https://codeforces.com/contest/2061/problem/H2)
 - Problem Name: H2. Kevin and Stones (Hard Version)
 - difficulty: `9`
+- fav: `3`
 - tags: `マッチング` `木上の輸送`
 - tag_en: `matching` `transport on trees`
 - id: `codeforces/2061/h2`

@@ -7,6 +7,7 @@
 - Problem: [repovive/14/b](https://repovive.com/contests/14/problems/B)
 - Problem Name: 14B. Queue Fronts
 - difficulty: `3`
+- fav: `0`
 - tags: `連長圧縮` `貪欲`
 - tag_en: `run-length compression` `greedy`
 - id: `repovive/14/b`

@@ -7,6 +7,7 @@
 - Problem: [codeforces/600/b](https://codeforces.com/contest/600/problem/B)
 - Problem Name: B. Queries about less or equal elements
 - difficulty: `1`
+- fav: `0`
 - tags: `二分探索`
 - tag_en: `binary search`
 - id: `codeforces/600/b`

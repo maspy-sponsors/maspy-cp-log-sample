@@ -4,6 +4,7 @@
 - 問題名: A - アルバイトの給料計算
 - tags: []
 - difficulty: `1`
+- fav: `0`
 - id: `atcoder/awc0100/a`
 - logged_at: `2026-06-28`
 

@@ -7,6 +7,7 @@
 - Problem: [atcoder/arc224/c](https://atcoder.jp/contests/arc224/tasks/arc224_c)
 - Problem Name: C - Ascending Labels
 - difficulty: `2`
+- fav: `0`
 - tags: `DFS木`
 - tag_en: `DFS tree`
 - id: `atcoder/arc224/c`

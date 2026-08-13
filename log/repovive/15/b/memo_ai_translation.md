@@ -7,6 +7,7 @@
 - Problem: [repovive/15/b](https://repovive.com/contests/15/problems/B)
 - Problem Name: 15B. Balanced Trio
 - difficulty: `1`
+- fav: `0`
 - tags: []
 - tag_en: []
 - id: `repovive/15/b`

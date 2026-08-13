@@ -3,6 +3,7 @@
 - 問題: [atcoder/abc467/a](https://atcoder.jp/contests/abc467/tasks/abc467_a)
 - 問題名: A - Obesity
 - difficulty: `1`
+- fav: `0`
 - tags: []
 - id: `atcoder/abc467/a`
 - logged_at: `2026-07-18`

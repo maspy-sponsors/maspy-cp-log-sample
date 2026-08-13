@@ -3,6 +3,7 @@
 - 問題: [atcoder/fps-24/fps_24_j](https://atcoder.jp/contests/fps-24/tasks/fps_24_j)
 - 問題名: J - スゴロク
 - difficulty: `5`
+- fav: `0`
 - tags: `分割統治dp`
 - id: `atcoder/fps-24/fps_24_j`
 - logged_at: `2026-07-02`

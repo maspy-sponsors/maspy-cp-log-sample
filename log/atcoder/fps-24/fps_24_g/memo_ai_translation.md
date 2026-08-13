@@ -7,6 +7,7 @@
 - Problem: [atcoder/fps-24/fps_24_g](https://atcoder.jp/contests/fps-24/tasks/fps_24_g)
 - Problem Name: G - 硬貨
 - difficulty: `4`
+- fav: `0`
 - tags: `戻すdp`
 - tag_en: `rollback dp`
 - id: `atcoder/fps-24/fps_24_g`

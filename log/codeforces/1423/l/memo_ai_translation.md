@@ -7,6 +7,7 @@
 - Problem: [codeforces/1423/l](https://codeforces.com/contest/1423/problem/L)
 - Problem Name: L. Light switches
 - difficulty: `3`
+- fav: `0`
 - tags: `半分全列挙`
 - tag_en: `meet-in-the-middle`
 - id: `codeforces/1423/l`

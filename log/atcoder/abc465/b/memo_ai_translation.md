@@ -7,6 +7,7 @@
 - Problem: [atcoder/abc465/b](https://atcoder.jp/contests/abc465/tasks/abc465_b)
 - Problem Name: B - Parking 2
 - difficulty: `1`
+- fav: `0`
 - tags: []
 - tag_en: []
 - id: `atcoder/abc465/b`

@@ -7,6 +7,7 @@
 - Problem: [atcoder/awc0100/d](https://atcoder.jp/contests/awc0100/tasks/awc0100_d)
 - Problem Name: D - チームの分割
 - difficulty: `2`
+- fav: `0`
 - tags: `累積和`
 - tag_en: `prefix sums`
 - id: `atcoder/awc0100/d`

@@ -3,6 +3,7 @@
 - 問題: [atcoder/arc224/e](https://atcoder.jp/contests/arc224/tasks/arc224_e)
 - 問題名: E - ABC|AB|A
 - difficulty: `3`
+- fav: `0`
 - tags: []
 - id: `atcoder/arc224/e`
 - logged_at: `2026-07-12`

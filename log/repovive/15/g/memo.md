@@ -3,6 +3,7 @@
 - 問題: [repovive/15/g](https://repovive.com/contests/15/problems/G)
 - 問題名: 15G. Complementary Path
 - difficulty: `6`
+- fav: `2`
 - tags: `ハミルトンパス構築`
 - id: `repovive/15/g`
 - logged_at: `2026-07-06`

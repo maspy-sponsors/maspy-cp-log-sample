@@ -3,6 +3,7 @@
 - 問題: [codeforces/398/c](https://codeforces.com/contest/398/problem/C)
 - 問題名: C. Tree and Array
 - difficulty: `7`
+- fav: `1`
 - tags: `帰納的構築`
 - id: `codeforces/398/c`
 - logged_at: `2026-07-08`

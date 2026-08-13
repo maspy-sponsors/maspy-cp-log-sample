@@ -3,6 +3,7 @@
 - 問題: [codeforces/1423/f](https://codeforces.com/contest/1423/problem/F)
 - 問題名: F. Coins
 - difficulty: `4`
+- fav: `0`
 - tags: `chip_firing_game` `不変量`
 - id: `codeforces/1423/f`
 - logged_at: `2026-07-14`

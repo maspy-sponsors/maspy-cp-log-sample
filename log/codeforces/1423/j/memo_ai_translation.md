@@ -7,6 +7,7 @@
 - Problem: [codeforces/1423/j](https://codeforces.com/contest/1423/problem/J)
 - Problem Name: J. Bubble Cup hypothesis
 - difficulty: `3`
+- fav: `0`
 - tags: `下から桁dp`
 - tag_en: `digit dp from the lowest digit`
 - id: `codeforces/1423/j`

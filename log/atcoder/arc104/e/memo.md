@@ -3,6 +3,7 @@
 - 問題: [atcoder/arc104/e](https://atcoder.jp/contests/arc104/tasks/arc104_e)
 - 問題名: E - Random LIS
 - difficulty: `5`
+- fav: `0`
 - tags: `N<=6` `lis数え上げ`
 - id: `atcoder/arc104/e`
 - logged_at: `2026-07-03`

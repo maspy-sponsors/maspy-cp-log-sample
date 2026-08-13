@@ -7,6 +7,7 @@
 - Problem: [atcoder/awc0100/f](https://atcoder.jp/contests/awc0100/tasks/awc0100_f)
 - Problem Name: F - 連続区間の売上目標
 - difficulty: `2`
+- fav: `0`
 - tags: `尺取り`
 - tag_en: `two pointers`
 - id: `atcoder/awc0100/f`

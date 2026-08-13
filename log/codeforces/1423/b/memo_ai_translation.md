@@ -7,6 +7,7 @@
 - Problem: [codeforces/1423/b](https://codeforces.com/contest/1423/problem/B)
 - Problem Name: B. Valuable Paper
 - difficulty: `3`
+- fav: `0`
 - tags: `二部マッチング`
 - tag_en: `bipartite matching`
 - id: `codeforces/1423/b`

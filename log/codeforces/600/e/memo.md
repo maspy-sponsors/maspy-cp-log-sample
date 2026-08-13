@@ -3,6 +3,7 @@
 - 問題: [codeforces/600/e](https://codeforces.com/contest/600/problem/E)
 - 問題名: E. Lomsat gelral
 - difficulty: `3`
+- fav: `0`
 - tags: `マージテク` `dsu_on_tree`
 - id: `codeforces/600/e`
 - logged_at: `2026-07-18`

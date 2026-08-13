@@ -7,6 +7,7 @@
 - Problem: [codeforces/1423/n](https://codeforces.com/contest/1423/problem/N)
 - Problem Name: N. BubbleSquare Tokens
 - difficulty: `7`
+- fav: `3`
 - tags: `構築` `帰納的構成`
 - tag_en: `construction` `inductive construction`
 - id: `codeforces/1423/n`

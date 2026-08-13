@@ -3,6 +3,7 @@
 - 問題: [codeforces/2061/g](https://codeforces.com/contest/2061/problem/G)
 - 問題名: G. Kevin and Teams
 - difficulty: `5`
+- fav: `1`
 - tags: `インタラクティブ` `帰納的構成`
 - id: `codeforces/2061/g`
 - logged_at: `2026-07-19`

@@ -7,6 +7,7 @@
 - Problem: [codeforces/2246/e](https://codeforces.com/contest/2246/problem/E)
 - Problem Name: E. lce4113 and Security Game
 - difficulty: `4`
+- fav: `0`
 - tags: `インタラクティブ`
 - tag_en: `interactive`
 - id: `codeforces/2246/e`

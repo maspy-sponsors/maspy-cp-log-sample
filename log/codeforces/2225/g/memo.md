@@ -3,6 +3,7 @@
 - 問題: [codeforces/2225/g](https://codeforces.com/contest/2225/problem/G)
 - 問題名: G. Simple Problem
 - difficulty: `6`
+- fav: `0`
 - tags: `整数論` `構築`
 - id: `codeforces/2225/g`
 - logged_at: `2026-07-02`

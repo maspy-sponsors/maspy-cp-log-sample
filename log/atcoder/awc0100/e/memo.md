@@ -4,6 +4,7 @@
 - 問題名: E - 山の見晴らし
 - tags: []
 - difficulty: `2`
+- fav: `0`
 - id: `atcoder/awc0100/e`
 - logged_at: `2026-06-28`
 

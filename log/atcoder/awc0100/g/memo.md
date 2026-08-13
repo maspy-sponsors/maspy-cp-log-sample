@@ -4,6 +4,7 @@
 - 問題名: G - 友達の輪
 - tags: `連結成分` `UnionFind`
 - difficulty: `2`
+- fav: `0`
 - id: `atcoder/awc0100/g`
 - logged_at: `2026-06-28`
 

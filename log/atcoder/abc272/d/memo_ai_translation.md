@@ -7,6 +7,7 @@
 - Problem: [atcoder/abc272/d](https://atcoder.jp/contests/abc272/tasks/abc272_d)
 - Problem Name: D - Root M Leaper
 - difficulty: `3`
+- fav: `0`
 - tags: `BFS`
 - tag_en: `BFS`
 - id: `atcoder/abc272/d`

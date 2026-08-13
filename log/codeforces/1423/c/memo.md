@@ -3,6 +3,7 @@
 - 問題: [codeforces/1423/c](https://codeforces.com/contest/1423/problem/C)
 - 問題名: C. Dušan's Railway
 - difficulty: `7`
+- fav: `1`
 - tags: `SQRT_tree`
 - id: `codeforces/1423/c`
 - logged_at: `2026-07-14`

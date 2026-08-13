@@ -7,6 +7,7 @@
 - Problem: [atcoder/abc272/g](https://atcoder.jp/contests/abc272/tasks/abc272_g)
 - Problem Name: G - Yet Another mod M
 - difficulty: `4`
+- fav: `0`
 - tags: `乱択`
 - tag_en: `randomized`
 - id: `atcoder/abc272/g`

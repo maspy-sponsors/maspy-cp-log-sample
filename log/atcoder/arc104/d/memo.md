@@ -3,6 +3,7 @@
 - 問題: [atcoder/arc104/d](https://atcoder.jp/contests/arc104/tasks/arc104_d)
 - 問題名: D - Multiset Mean
 - difficulty: `4`
+- fav: `0`
 - tags: `戻すdp`
 - id: `atcoder/arc104/d`
 - logged_at: `2026-07-03`

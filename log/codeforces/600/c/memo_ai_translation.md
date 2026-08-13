@@ -7,6 +7,7 @@
 - Problem: [codeforces/600/c](https://codeforces.com/contest/600/problem/C)
 - Problem Name: C. Make Palindrome
 - difficulty: `2`
+- fav: `0`
 - tags: `回文`
 - tag_en: `palindrome`
 - id: `codeforces/600/c`

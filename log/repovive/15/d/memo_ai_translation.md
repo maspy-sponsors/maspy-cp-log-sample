@@ -7,6 +7,7 @@
 - Problem: [repovive/15/d](https://repovive.com/contests/15/problems/D)
 - Problem Name: 15D. Distant Transfers
 - difficulty: `3`
+- fav: `0`
 - tags: `exchange_argument`
 - tag_en: `exchange argument`
 - id: `repovive/15/d`

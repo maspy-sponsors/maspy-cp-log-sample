@@ -3,6 +3,7 @@
 - 問題: [codeforces/1423/k](https://codeforces.com/contest/1423/problem/K)
 - 問題名: K. Lonely Numbers
 - difficulty: `3`
+- fav: `0`
 - tags: []
 - id: `codeforces/1423/k`
 - logged_at: `2026-07-14`

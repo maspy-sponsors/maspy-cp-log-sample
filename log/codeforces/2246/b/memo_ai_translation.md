@@ -7,6 +7,7 @@
 - Problem: [codeforces/2246/b](https://codeforces.com/contest/2246/problem/B)
 - Problem Name: B. ezraft and Array
 - difficulty: `3`
+- fav: `0`
 - tags: `構築` `帰納的構成`
 - tag_en: `construction` `inductive construction`
 - id: `codeforces/2246/b`

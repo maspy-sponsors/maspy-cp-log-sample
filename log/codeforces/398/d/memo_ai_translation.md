@@ -7,6 +7,7 @@
 - Problem: [codeforces/398/d](https://codeforces.com/contest/398/problem/D)
 - Problem Name: D. Instant Messanger
 - difficulty: `5`
+- fav: `0`
 - tags: `次数による向きづけ` `次数平方分割`
 - tag_en: `degree-based orientation` `degree square decomposition`
 - id: `codeforces/398/d`

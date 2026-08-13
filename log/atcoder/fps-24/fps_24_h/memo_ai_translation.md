@@ -7,6 +7,7 @@
 - Problem: [atcoder/fps-24/fps_24_h](https://atcoder.jp/contests/fps-24/tasks/fps_24_h)
 - Problem Name: H - ジャンプ
 - difficulty: `5`
+- fav: `0`
 - tags: `包除原理` `EGF`
 - tag_en: `inclusion-exclusion principle` `EGF`
 - id: `atcoder/fps-24/fps_24_h`

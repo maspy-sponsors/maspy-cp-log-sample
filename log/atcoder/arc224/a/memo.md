@@ -3,6 +3,7 @@
 - 問題: [atcoder/arc224/a](https://atcoder.jp/contests/arc224/tasks/arc224_a)
 - 問題名: A - Attach 00
 - difficulty: `2`
+- fav: `0`
 - tags: []
 - id: `atcoder/arc224/a`
 - logged_at: `2026-07-12`

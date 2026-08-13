@@ -3,6 +3,7 @@
 - 問題: [atcoder/abc465/a](https://atcoder.jp/contests/abc465/tasks/abc465_a)
 - 問題名: A - Supermajority
 - difficulty: `1`
+- fav: `0`
 - tags: []
 - id: `atcoder/abc465/a`
 - logged_at: `2026-07-04`

@@ -7,6 +7,7 @@
 - Problem: [codeforces/2247/e](https://codeforces.com/contest/2247/problem/E)
 - Problem Name: E. Build a Tree
 - difficulty: `4`
+- fav: `0`
 - tags: `構築` `木の構築` `順列の構築`
 - tag_en: `construction` `tree construction` `permutation construction`
 - id: `codeforces/2247/e`

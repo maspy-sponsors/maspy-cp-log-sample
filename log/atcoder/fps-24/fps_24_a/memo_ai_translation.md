@@ -7,6 +7,7 @@
 - Problem: [atcoder/fps-24/fps_24_a](https://atcoder.jp/contests/fps-24/tasks/fps_24_a)
 - Problem Name: A - お菓子
 - difficulty: `3`
+- fav: `0`
 - tags: `疎なFPS`
 - tag_en: `sparse FPS`
 - id: `atcoder/fps-24/fps_24_a`

@@ -7,6 +7,7 @@
 - Problem: [codeforces/2247/d2](https://codeforces.com/contest/2247/problem/D2)
 - Problem Name: D2. XOR Sorting (Hard Version)
 - difficulty: `4`
+- fav: `0`
 - tags: []
 - tag_en: []
 - id: `codeforces/2247/d2`

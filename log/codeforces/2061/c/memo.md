@@ -3,6 +3,7 @@
 - 問題: [codeforces/2061/c](https://codeforces.com/contest/2061/problem/C)
 - 問題名: C. Kevin and Puzzle
 - difficulty: `3`
+- fav: `0`
 - tags: []
 - id: `codeforces/2061/c`
 - logged_at: `2026-07-19`

@@ -7,6 +7,7 @@
 - Problem: [atcoder/arc104/b](https://atcoder.jp/contests/arc104/tasks/arc104_b)
 - Problem Name: B - DNA Sequence
 - difficulty: `2`
+- fav: `0`
 - tags: []
 - tag_en: []
 - id: `atcoder/arc104/b`

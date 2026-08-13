@@ -7,6 +7,7 @@
 - Problem: [codeforces/1423/e](https://codeforces.com/contest/1423/problem/E)
 - Problem Name: E. 5G Antenna Towers
 - difficulty: `4`
+- fav: `0`
 - tags: `幾何` `交差判定`
 - tag_en: `geometry` `intersection test`
 - id: `codeforces/1423/e`

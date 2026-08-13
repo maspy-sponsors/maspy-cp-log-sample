@@ -3,6 +3,7 @@
 - 問題: [codeforces/2246/d](https://codeforces.com/contest/2246/problem/D)
 - 問題名: D. diss_quack and Array Game
 - difficulty: `4`
+- fav: `0`
 - tags: []
 - id: `codeforces/2246/d`
 - logged_at: `2026-07-13`

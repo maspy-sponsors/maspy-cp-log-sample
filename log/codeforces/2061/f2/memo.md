@@ -3,6 +3,7 @@
 - 問題: [codeforces/2061/f2](https://codeforces.com/contest/2061/problem/F2)
 - 問題名: F2. Kevin and Binary String (Hard Version)
 - difficulty: `6`
+- fav: `0`
 - tags: []
 - id: `codeforces/2061/f2`
 - logged_at: `2026-07-19`

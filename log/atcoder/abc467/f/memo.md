@@ -3,6 +3,7 @@
 - 問題: [atcoder/abc467/f](https://atcoder.jp/contests/abc467/tasks/abc467_f)
 - 問題名: F - Email Scheduling Optimization
 - difficulty: `4`
+- fav: `0`
 - tags: `ソート順の決定` `値をインデックスにする`
 - id: `atcoder/abc467/f`
 - logged_at: `2026-07-18`

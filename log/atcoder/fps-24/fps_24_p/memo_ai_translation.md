@@ -7,6 +7,7 @@
 - Problem: [atcoder/fps-24/fps_24_p](https://atcoder.jp/contests/fps-24/tasks/fps_24_p)
 - Problem Name: P - ボール
 - difficulty: `4`
+- fav: `0`
 - tags: `EGF` `多点評価`
 - tag_en: `EGF` `multiple-point evaluation`
 - id: `atcoder/fps-24/fps_24_p`

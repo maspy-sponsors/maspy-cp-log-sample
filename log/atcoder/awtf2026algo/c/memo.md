@@ -3,6 +3,7 @@
 - 問題: [atcoder/awtf2026algo/c](https://atcoder.jp/contests/awtf2026algo/tasks/awtf2026algo_c)
 - 問題名: C - Count by Descents
 - difficulty: `9`
+- fav: `3`
 - tags: `Eulerian_Polynomial` `descent`
 - id: `atcoder/awtf2026algo/c`
 - logged_at: `2026-07-10`

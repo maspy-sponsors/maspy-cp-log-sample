@@ -3,6 +3,7 @@
 - 問題: [codeforces/398/e](https://codeforces.com/contest/398/problem/E)
 - 問題名: E. Sorting Permutations
 - difficulty: `7`
+- fav: `1`
 - tags: `マッチングによるスワップ` `交互パス`
 - id: `codeforces/398/e`
 - logged_at: `2026-07-08`

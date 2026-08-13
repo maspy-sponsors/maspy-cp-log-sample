@@ -7,6 +7,7 @@
 - Problem: [codeforces/2245/a](https://codeforces.com/contest/2245/problem/A)
 - Problem Name: A. Who Watches the Watchpig?
 - difficulty: `3`
+- fav: `1`
 - tags: []
 - tag_en: []
 - id: `codeforces/2245/a`

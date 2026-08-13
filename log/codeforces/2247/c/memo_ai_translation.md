@@ -7,6 +7,7 @@
 - Problem: [codeforces/2247/c](https://codeforces.com/contest/2247/problem/C)
 - Problem Name: C. Inversion of a Subsequence
 - difficulty: `3`
+- fav: `0`
 - tags: []
 - tag_en: []
 - id: `codeforces/2247/c`

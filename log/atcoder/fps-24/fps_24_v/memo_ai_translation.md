@@ -7,6 +7,7 @@
 - Problem: [atcoder/fps-24/fps_24_v](https://atcoder.jp/contests/fps-24/tasks/fps_24_v)
 - Problem Name: V - 12 方向
 - difficulty: `7`
+- fav: `1`
 - tags: `2変数FPS`
 - tag_en: `two-variable FPS`
 - id: `atcoder/fps-24/fps_24_v`

@@ -7,6 +7,7 @@
 - Problem: [codeforces/2061/a](https://codeforces.com/contest/2061/problem/A)
 - Problem Name: A. Kevin and Arithmetic
 - difficulty: `1`
+- fav: `0`
 - tags: []
 - tag_en: []
 - id: `codeforces/2061/a`

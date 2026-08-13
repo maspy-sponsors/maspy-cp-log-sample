@@ -7,6 +7,7 @@
 - Problem: [atcoder/arc104/d](https://atcoder.jp/contests/arc104/tasks/arc104_d)
 - Problem Name: D - Multiset Mean
 - difficulty: `4`
+- fav: `0`
 - tags: `戻すdp`
 - tag_en: `rerooting dp`
 - id: `atcoder/arc104/d`

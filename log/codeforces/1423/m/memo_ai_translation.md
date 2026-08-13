@@ -7,6 +7,7 @@
 - Problem: [codeforces/1423/m](https://codeforces.com/contest/1423/problem/M)
 - Problem Name: M. Milutin's Plums
 - difficulty: `5`
+- fav: `0`
 - tags: `totally_monotone` `smawk`
 - tag_en: `totally monotone` `smawk`
 - id: `codeforces/1423/m`

@@ -7,6 +7,7 @@
 - Problem: [yukicoder/3552](https://yukicoder.me/problems/no/3552)
 - Problem Name: No.3552 Triangular Coloring
 - difficulty: `4`
+- fav: `0`
 - tags: `点彩色`
 - tag_en: `vertex coloring`
 - id: `yukicoder/3552`

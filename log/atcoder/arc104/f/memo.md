@@ -3,6 +3,7 @@
 - 問題: [atcoder/arc104/f](https://atcoder.jp/contests/arc104/tasks/arc104_f)
 - 問題名: F - Visibility Sequence
 - difficulty: `5`
+- fav: `0`
 - tags: `Cartesian_Tree` `タイブレイク` `区間dp`
 - id: `atcoder/arc104/f`
 - logged_at: `2026-07-03`

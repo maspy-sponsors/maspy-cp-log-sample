@@ -7,6 +7,7 @@
 - Problem: [codeforces/2246/a](https://codeforces.com/contest/2246/problem/A)
 - Problem Name: A. farmpiggie and Subset Sum
 - difficulty: `2`
+- fav: `0`
 - tags: `構築`
 - tag_en: `construction`
 - id: `codeforces/2246/a`

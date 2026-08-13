@@ -3,6 +3,7 @@
 - 問題: [codeforces/2061/a](https://codeforces.com/contest/2061/problem/A)
 - 問題名: A. Kevin and Arithmetic
 - difficulty: `1`
+- fav: `0`
 - tags: []
 - id: `codeforces/2061/a`
 - logged_at: `2026-07-19`

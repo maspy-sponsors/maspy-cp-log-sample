@@ -7,6 +7,7 @@
 - Problem: [atcoder/awtf2026algo/d](https://atcoder.jp/contests/awtf2026algo/tasks/awtf2026algo_d)
 - Problem Name: D - Adj Swap Lex Max
 - difficulty: `9`
+- fav: `2`
 - tags: `隣接スワップ`
 - tag_en: `adjacent swap`
 - id: `atcoder/awtf2026algo/d`

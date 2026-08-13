@@ -3,6 +3,7 @@
 - 問題: [atcoder/abc465/c](https://atcoder.jp/contests/abc465/tasks/abc465_c)
 - 問題名: C - Reverse Permutation
 - difficulty: `3`
+- fav: `0`
 - tags: `deque` `シミュレーション`
 - id: `atcoder/abc465/c`
 - logged_at: `2026-07-04`

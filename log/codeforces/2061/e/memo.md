@@ -3,6 +3,7 @@
 - 問題: [codeforces/2061/e](https://codeforces.com/contest/2061/problem/E)
 - 問題名: E. Kevin and And
 - difficulty: `4`
+- fav: `0`
 - tags: `min_plus_convolution` `凸性の証明`
 - id: `codeforces/2061/e`
 - logged_at: `2026-07-19`

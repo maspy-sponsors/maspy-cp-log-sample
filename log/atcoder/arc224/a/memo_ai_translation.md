@@ -7,6 +7,7 @@
 - Problem: [atcoder/arc224/a](https://atcoder.jp/contests/arc224/tasks/arc224_a)
 - Problem Name: A - Attach 00
 - difficulty: `2`
+- fav: `0`
 - tags: []
 - tag_en: []
 - id: `atcoder/arc224/a`

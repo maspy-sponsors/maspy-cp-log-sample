@@ -7,6 +7,7 @@
 - Problem: [repovive/15/g](https://repovive.com/contests/15/problems/G)
 - Problem Name: 15G. Complementary Path
 - difficulty: `6`
+- fav: `2`
 - tags: `ハミルトンパス構築`
 - tag_en: `Hamiltonian path construction`
 - id: `repovive/15/g`

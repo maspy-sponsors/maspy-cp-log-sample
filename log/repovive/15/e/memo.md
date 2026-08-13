@@ -3,6 +3,7 @@
 - 問題: [repovive/15/e](https://repovive.com/contests/15/problems/E)
 - 問題名: 15E. Synchronized Inversions
 - difficulty: `3`
+- fav: `0`
 - tags: `転倒数`
 - id: `repovive/15/e`
 - logged_at: `2026-07-06`

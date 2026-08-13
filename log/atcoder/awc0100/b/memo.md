@@ -4,6 +4,7 @@
 - 問題名: B - 料理コンテスト
 - tags: []
 - difficulty: `1`
+- fav: `0`
 - id: `atcoder/awc0100/b`
 - logged_at: `2026-06-28`
 

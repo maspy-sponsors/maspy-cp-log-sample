@@ -7,6 +7,7 @@
 - Problem: [codeforces/2061/b](https://codeforces.com/contest/2061/problem/B)
 - Problem Name: B. Kevin and Geometry
 - difficulty: `3`
+- fav: `0`
 - tags: []
 - tag_en: []
 - id: `codeforces/2061/b`

@@ -3,6 +3,7 @@
 - 問題: [yukicoder/3551](https://yukicoder.me/problems/no/3551)
 - 問題名: No.3551 Regions by Random Points 2
 - difficulty: `2`
+- fav: `0`
 - tags: []
 - id: `yukicoder/3551`
 - logged_at: `2026-07-14`

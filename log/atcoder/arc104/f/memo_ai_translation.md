@@ -7,6 +7,7 @@
 - Problem: [atcoder/arc104/f](https://atcoder.jp/contests/arc104/tasks/arc104_f)
 - Problem Name: F - Visibility Sequence
 - difficulty: `5`
+- fav: `0`
 - tags: `Cartesian_Tree` `タイブレイク` `区間dp`
 - tag_en: `Cartesian Tree` `tiebreak` `interval DP`
 - id: `atcoder/arc104/f`

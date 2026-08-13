@@ -3,6 +3,7 @@
 - 問題: [codeforces/1423/n](https://codeforces.com/contest/1423/problem/N)
 - 問題名: N. BubbleSquare Tokens
 - difficulty: `7`
+- fav: `3`
 - tags: `構築` `帰納的構成`
 - id: `codeforces/1423/n`
 - logged_at: `2026-07-14`

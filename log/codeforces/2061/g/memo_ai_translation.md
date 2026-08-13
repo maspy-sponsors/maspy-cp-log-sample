@@ -7,6 +7,7 @@
 - Problem: [codeforces/2061/g](https://codeforces.com/contest/2061/problem/G)
 - Problem Name: G. Kevin and Teams
 - difficulty: `5`
+- fav: `1`
 - tags: `インタラクティブ` `帰納的構成`
 - tag_en: `interactive` `inductive construction`
 - id: `codeforces/2061/g`

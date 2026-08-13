@@ -7,6 +7,7 @@
 - Problem: [codeforces/1423/k](https://codeforces.com/contest/1423/problem/K)
 - Problem Name: K. Lonely Numbers
 - difficulty: `3`
+- fav: `0`
 - tags: []
 - tag_en: []
 - id: `codeforces/1423/k`

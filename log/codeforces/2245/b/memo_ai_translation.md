@@ -7,6 +7,7 @@
 - Problem: [codeforces/2245/b](https://codeforces.com/contest/2245/problem/B)
 - Problem Name: B. Delete and Concatenate
 - difficulty: `4`
+- fav: `0`
 - tags: []
 - tag_en: []
 - id: `codeforces/2245/b`

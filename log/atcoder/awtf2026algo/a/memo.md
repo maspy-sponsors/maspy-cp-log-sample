@@ -3,6 +3,7 @@
 - 問題: [atcoder/awtf2026algo/a](https://atcoder.jp/contests/awtf2026algo/tasks/awtf2026algo_a)
 - 問題名: A - Min Cut of Graph of Min Weight
 - difficulty: `6`
+- fav: `0`
 - tags: `最小カット` `マージ過程の木`
 - id: `atcoder/awtf2026algo/a`
 - logged_at: `2026-07-10`

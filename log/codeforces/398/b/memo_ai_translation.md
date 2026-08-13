@@ -7,6 +7,7 @@
 - Problem: [codeforces/398/b](https://codeforces.com/contest/398/problem/B)
 - Problem Name: B. Painting The Wall
 - difficulty: `3`
+- fav: `0`
 - tags: []
 - tag_en: []
 - id: `codeforces/398/b`

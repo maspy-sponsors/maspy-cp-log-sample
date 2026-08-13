@@ -7,6 +7,7 @@
 - Problem: [atcoder/abc467/d](https://atcoder.jp/contests/abc467/tasks/abc467_d)
 - Problem Name: D - Concentric Circles
 - difficulty: `3`
+- fav: `0`
 - tags: `幾何` `垂直二等分線`
 - tag_en: `geometry` `perpendicular bisector`
 - id: `atcoder/abc467/d`

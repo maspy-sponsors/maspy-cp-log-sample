@@ -7,6 +7,7 @@
 - Problem: [atcoder/arc224/d](https://atcoder.jp/contests/arc224/tasks/arc224_d)
 - Problem Name: D - Angst for All Pairs
 - difficulty: `3`
+- fav: `0`
 - tags: []
 - tag_en: []
 - id: `atcoder/arc224/d`

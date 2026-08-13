@@ -7,6 +7,7 @@
 - Problem: [codeforces/2061/e](https://codeforces.com/contest/2061/problem/E)
 - Problem Name: E. Kevin and And
 - difficulty: `4`
+- fav: `0`
 - tags: `min_plus_convolution` `凸性の証明`
 - tag_en: `min-plus convolution` `proof of convexity`
 - id: `codeforces/2061/e`

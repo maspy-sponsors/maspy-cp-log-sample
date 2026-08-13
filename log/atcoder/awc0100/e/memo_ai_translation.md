@@ -7,6 +7,7 @@
 - Problem: [atcoder/awc0100/e](https://atcoder.jp/contests/awc0100/tasks/awc0100_e)
 - Problem Name: E - 山の見晴らし
 - difficulty: `2`
+- fav: `0`
 - tags: []
 - tag_en: []
 - id: `atcoder/awc0100/e`

@@ -7,6 +7,7 @@
 - Problem: [atcoder/arc104/a](https://atcoder.jp/contests/arc104/tasks/arc104_a)
 - Problem Name: A - Plus Minus
 - difficulty: `1`
+- fav: `0`
 - tags: []
 - tag_en: []
 - id: `atcoder/arc104/a`

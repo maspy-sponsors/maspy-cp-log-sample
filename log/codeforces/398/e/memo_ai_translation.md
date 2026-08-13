@@ -7,6 +7,7 @@
 - Problem: [codeforces/398/e](https://codeforces.com/contest/398/problem/E)
 - Problem Name: E. Sorting Permutations
 - difficulty: `7`
+- fav: `1`
 - tags: `マッチングによるスワップ` `交互パス`
 - tag_en: `swap by matching` `alternating path`
 - id: `codeforces/398/e`

@@ -7,6 +7,7 @@
 - Problem: [codeforces/600/f](https://codeforces.com/contest/600/problem/F)
 - Problem Name: F. Edge coloring of bipartite graph
 - difficulty: `5`
+- fav: `0`
 - tags: `辺彩色`
 - tag_en: `edge coloring`
 - id: `codeforces/600/f`

@@ -7,6 +7,7 @@
 - Problem: [atcoder/abc272/e](https://atcoder.jp/contests/abc272/tasks/abc272_e)
 - Problem Name: E - Add and Mex
 - difficulty: `3`
+- fav: `0`
 - tags: `mex` `調和級数`
 - tag_en: `mex` `harmonic series`
 - id: `atcoder/abc272/e`

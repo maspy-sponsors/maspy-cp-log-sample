@@ -3,6 +3,7 @@
 - 問題: [atcoder/abc465/d](https://atcoder.jp/contests/abc465/tasks/abc465_d)
 - 問題名: D - X to Y
 - difficulty: `2`
+- fav: `0`
 - tags: `K進法`
 - id: `atcoder/abc465/d`
 - logged_at: `2026-07-04`

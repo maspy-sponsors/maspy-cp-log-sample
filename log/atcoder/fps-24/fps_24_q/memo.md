@@ -3,6 +3,7 @@
 - 問題: [atcoder/fps-24/fps_24_q](https://atcoder.jp/contests/fps-24/tasks/fps_24_q)
 - 問題名: Q - サイコロ
 - difficulty: `5`
+- fav: `0`
 - tags: `k乗和列挙`
 - id: `atcoder/fps-24/fps_24_q`
 - logged_at: `2026-07-02`

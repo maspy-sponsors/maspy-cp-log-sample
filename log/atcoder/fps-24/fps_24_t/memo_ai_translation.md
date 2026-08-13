@@ -7,6 +7,7 @@
 - Problem: [atcoder/fps-24/fps_24_t](https://atcoder.jp/contests/fps-24/tasks/fps_24_t)
 - Problem Name: T - カラフル
 - difficulty: `6`
+- fav: `0`
 - tags: `包除原理`
 - tag_en: `inclusion-exclusion principle`
 - id: `atcoder/fps-24/fps_24_t`

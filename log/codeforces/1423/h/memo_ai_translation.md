@@ -7,6 +7,7 @@
 - Problem: [codeforces/1423/h](https://codeforces.com/contest/1423/problem/H)
 - Problem Name: H. Virus
 - difficulty: `4`
+- fav: `0`
 - tags: `offline_dynamic_connectivity`
 - tag_en: `offline dynamic connectivity`
 - id: `codeforces/1423/h`

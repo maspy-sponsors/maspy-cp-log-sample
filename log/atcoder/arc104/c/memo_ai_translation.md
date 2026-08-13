@@ -7,6 +7,7 @@
 - Problem: [atcoder/arc104/c](https://atcoder.jp/contests/arc104/tasks/arc104_c)
 - Problem Name: C - Fair Elevator
 - difficulty: `4`
+- fav: `0`
 - tags: []
 - tag_en: []
 - id: `atcoder/arc104/c`

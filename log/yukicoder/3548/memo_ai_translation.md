@@ -7,6 +7,7 @@
 - Problem: [yukicoder/3548](https://yukicoder.me/problems/no/3548)
 - Problem Name: No.3548 SigMax Digits (Construction ver.)
 - difficulty: `2`
+- fav: `0`
 - tags: `構築`
 - tag_en: `construction`
 - id: `yukicoder/3548`

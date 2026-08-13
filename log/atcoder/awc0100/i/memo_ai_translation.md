@@ -7,6 +7,7 @@
 - Problem: [atcoder/awc0100/i](https://atcoder.jp/contests/awc0100/tasks/awc0100_i)
 - Problem Name: I - 円陣パスゲーム
 - difficulty: `3`
+- fav: `0`
 - tags: `Fenwick_Tree` `セグメント木`
 - tag_en: `Fenwick Tree` `Segment Tree`
 - id: `atcoder/awc0100/i`

@@ -4,6 +4,7 @@
 - 問題名: K - 商店街の区画選び
 - tags: `平方分割` `KD_tree`
 - difficulty: `4`
+- fav: `0`
 - id: `atcoder/awc0100/k`
 - logged_at: `2026-06-28`
 

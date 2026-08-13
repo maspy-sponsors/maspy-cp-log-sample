@@ -7,6 +7,7 @@
 - Problem: [atcoder/arc104/e](https://atcoder.jp/contests/arc104/tasks/arc104_e)
 - Problem Name: E - Random LIS
 - difficulty: `5`
+- fav: `0`
 - tags: `N<=6` `lis数え上げ`
 - tag_en: `N<=6` `counting LIS`
 - id: `atcoder/arc104/e`

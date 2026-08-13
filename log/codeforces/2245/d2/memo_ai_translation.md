@@ -7,6 +7,7 @@
 - Problem: [codeforces/2245/d2](https://codeforces.com/contest/2245/problem/D2)
 - Problem Name: D2. Construct an Array (Hard Version)
 - difficulty: `7`
+- fav: `0`
 - tags: `構築` `potential` `頂点倍加`
 - tag_en: `construction` `potential` `vertex doubling`
 - id: `codeforces/2245/d2`

@@ -7,6 +7,7 @@
 - Problem: [atcoder/awc0100/m](https://atcoder.jp/contests/awc0100/tasks/awc0100_m)
 - Problem Name: M - 秘密の数列と分岐するノート
 - difficulty: `5`
+- fav: `0`
 - tags: `Rollback_UnionFind` `ポテンシャル付きUnionFind`
 - tag_en: `Rollback_UnionFind` `Weighted UnionFind`
 - id: `atcoder/awc0100/m`

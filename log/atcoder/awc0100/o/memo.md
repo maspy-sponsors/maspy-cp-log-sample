@@ -4,6 +4,7 @@
 - 問題名: O - 円環石板の結合
 - tags: `monge` `Knuth_Yao_SpeedUp`
 - difficulty: `6`
+- fav: `0`
 - id: `atcoder/awc0100/o`
 - logged_at: `2026-06-28`
 

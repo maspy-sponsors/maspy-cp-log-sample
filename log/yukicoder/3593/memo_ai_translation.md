@@ -7,6 +7,7 @@
 - Problem: [yukicoder/3593](https://yukicoder.me/problems/no/3593)
 - Problem Name: No.3593 I Love Sudoku
 - difficulty: `8`
+- fav: `3`
 - tags: `線形代数` `構築` `群` `数独`
 - tag_en: `linear algebra` `construction` `group` `sudoku`
 - id: `yukicoder/3593`

@@ -3,6 +3,7 @@
 - 問題: [codeforces/2245/g](https://codeforces.com/contest/2245/problem/G)
 - 問題名: G. NPC Challenge
 - difficulty: `7`
+- fav: `0`
 - tags: `インタラクティブ`
 - id: `codeforces/2245/g`
 - logged_at: `2026-07-17`

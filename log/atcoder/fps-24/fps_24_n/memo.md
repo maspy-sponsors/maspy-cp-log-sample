@@ -3,6 +3,7 @@
 - 問題: [atcoder/fps-24/fps_24_n](https://atcoder.jp/contests/fps-24/tasks/fps_24_n)
 - 問題名: N - 硬貨 2
 - difficulty: `4`
+- fav: `0`
 - tags: `FPS_log`
 - id: `atcoder/fps-24/fps_24_n`
 - logged_at: `2026-07-02`

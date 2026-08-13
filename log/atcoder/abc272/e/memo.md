@@ -3,6 +3,7 @@
 - 問題: [atcoder/abc272/e](https://atcoder.jp/contests/abc272/tasks/abc272_e)
 - 問題名: E - Add and Mex
 - difficulty: `3`
+- fav: `0`
 - tags: `mex` `調和級数`
 - id: `atcoder/abc272/e`
 - logged_at: `2026-07-08`

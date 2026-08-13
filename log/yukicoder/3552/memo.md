@@ -3,6 +3,7 @@
 - 問題: [yukicoder/3552](https://yukicoder.me/problems/no/3552)
 - 問題名: No.3552 Triangular Coloring
 - difficulty: `4`
+- fav: `0`
 - tags: `点彩色`
 - id: `yukicoder/3552`
 - logged_at: `2026-07-14`

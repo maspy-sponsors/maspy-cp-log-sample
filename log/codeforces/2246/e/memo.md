@@ -3,6 +3,7 @@
 - 問題: [codeforces/2246/e](https://codeforces.com/contest/2246/problem/E)
 - 問題名: E. lce4113 and Security Game
 - difficulty: `4`
+- fav: `0`
 - tags: `インタラクティブ`
 - id: `codeforces/2246/e`
 - logged_at: `2026-07-13`

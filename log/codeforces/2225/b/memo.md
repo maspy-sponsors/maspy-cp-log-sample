@@ -3,6 +3,7 @@
 - 問題: [codeforces/2225/b](https://codeforces.com/contest/2225/problem/B)
 - 問題名: B. Alternating String
 - difficulty: `3`
+- fav: `0`
 - tags: []
 - id: `codeforces/2225/b`
 - logged_at: `2026-07-01`

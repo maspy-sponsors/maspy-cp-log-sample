@@ -7,6 +7,7 @@
 - Problem: [atcoder/fps-24/fps_24_b](https://atcoder.jp/contests/fps-24/tasks/fps_24_b)
 - Problem Name: B - 整数の組
 - difficulty: `3`
+- fav: `0`
 - tags: `C-recursive`
 - tag_en: `C-recursive`
 - id: `atcoder/fps-24/fps_24_b`

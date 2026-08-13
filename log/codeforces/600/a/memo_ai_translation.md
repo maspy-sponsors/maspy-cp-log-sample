@@ -7,6 +7,7 @@
 - Problem: [codeforces/600/a](https://codeforces.com/contest/600/problem/A)
 - Problem Name: A. Extract Numbers
 - difficulty: `2`
+- fav: `0`
 - tags: []
 - tag_en: []
 - id: `codeforces/600/a`

@@ -7,6 +7,7 @@
 - Problem: [codeforces/2245/g](https://codeforces.com/contest/2245/problem/G)
 - Problem Name: G. NPC Challenge
 - difficulty: `7`
+- fav: `0`
 - tags: `インタラクティブ`
 - tag_en: `interactive`
 - id: `codeforces/2245/g`

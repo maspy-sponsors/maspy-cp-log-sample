@@ -4,6 +4,7 @@
 - 問題名: L - スケジュール調整
 - tags: `two_sat` `reachability` `transitive_closure`
 - difficulty: `4`
+- fav: `0`
 - id: `atcoder/awc0100/l`
 - logged_at: `2026-06-28`
 

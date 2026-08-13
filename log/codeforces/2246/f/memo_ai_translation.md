@@ -7,6 +7,7 @@
 - Problem: [codeforces/2246/f](https://codeforces.com/contest/2246/problem/F)
 - Problem Name: F. Whoname and Unsorted Array
 - difficulty: `5`
+- fav: `0`
 - tags: `構築` `ソート手順構築`
 - tag_en: `construction` `sorting-procedure-construction`
 - id: `codeforces/2246/f`

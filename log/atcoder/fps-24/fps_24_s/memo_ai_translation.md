@@ -7,6 +7,7 @@
 - Problem: [atcoder/fps-24/fps_24_s](https://atcoder.jp/contests/fps-24/tasks/fps_24_s)
 - Problem Name: S - ゲーム
 - difficulty: `6`
+- fav: `0`
 - tags: `Unvisited_Vertex_Geography` `最大マッチング` `オンライン畳み込み`
 - tag_en: `Unvisited Vertex Geography` `maximum matching` `online convolution`
 - id: `atcoder/fps-24/fps_24_s`

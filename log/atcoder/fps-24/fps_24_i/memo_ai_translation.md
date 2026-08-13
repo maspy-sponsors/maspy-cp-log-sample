@@ -7,6 +7,7 @@
 - Problem: [atcoder/fps-24/fps_24_i](https://atcoder.jp/contests/fps-24/tasks/fps_24_i)
 - Problem Name: I - スコア
 - difficulty: `4`
+- fav: `0`
 - tags: `多項式総積`
 - tag_en: `polynomial product`
 - id: `atcoder/fps-24/fps_24_i`

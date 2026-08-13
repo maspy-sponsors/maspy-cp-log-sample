@@ -7,6 +7,7 @@
 - Problem: [codeforces/1423/f](https://codeforces.com/contest/1423/problem/F)
 - Problem Name: F. Coins
 - difficulty: `4`
+- fav: `0`
 - tags: `chip_firing_game` `不変量`
 - tag_en: `chip firing game` `invariant`
 - id: `codeforces/1423/f`

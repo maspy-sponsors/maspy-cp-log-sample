@@ -7,6 +7,7 @@
 - Problem: [codeforces/2061/d](https://codeforces.com/contest/2061/problem/D)
 - Problem Name: D. Kevin and Numbers
 - difficulty: `2`
+- fav: `0`
 - tags: []
 - tag_en: []
 - id: `codeforces/2061/d`

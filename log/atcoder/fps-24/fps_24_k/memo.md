@@ -3,6 +3,7 @@
 - 問題: [atcoder/fps-24/fps_24_k](https://atcoder.jp/contests/fps-24/tasks/fps_24_k)
 - 問題名: K - 順列
 - difficulty: `4`
+- fav: `0`
 - tags: `indecomposable_permutations`
 - id: `atcoder/fps-24/fps_24_k`
 - logged_at: `2026-07-02`

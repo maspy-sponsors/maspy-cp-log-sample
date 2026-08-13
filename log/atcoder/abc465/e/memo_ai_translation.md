@@ -7,6 +7,7 @@
 - Problem: [atcoder/abc465/e](https://atcoder.jp/contests/abc465/tasks/abc465_e)
 - Problem Name: E - Digit Circus
 - difficulty: `3`
+- fav: `0`
 - tags: `桁dp` `実装`
 - tag_en: `digit dp` `implementation`
 - id: `atcoder/abc465/e`

@@ -3,6 +3,7 @@
 - 問題: [repovive/15/f](https://repovive.com/contests/15/problems/F)
 - 問題名: 15F. Magnetic Path
 - difficulty: `4`
+- fav: `0`
 - tags: []
 - id: `repovive/15/f`
 - logged_at: `2026-07-06`

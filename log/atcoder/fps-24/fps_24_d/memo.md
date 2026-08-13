@@ -3,6 +3,7 @@
 - 問題: [atcoder/fps-24/fps_24_d](https://atcoder.jp/contests/fps-24/tasks/fps_24_d)
 - 問題名: D - 数列 2
 - difficulty: `4`
+- fav: `0`
 - tags: []
 - id: `atcoder/fps-24/fps_24_d`
 - logged_at: `2026-07-02`

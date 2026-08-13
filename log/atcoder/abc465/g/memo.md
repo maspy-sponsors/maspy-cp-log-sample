@@ -3,6 +3,7 @@
 - 問題: [atcoder/abc465/g](https://atcoder.jp/contests/abc465/tasks/abc465_g)
 - 問題名: G - Sum of Mex of Mod of Linear
 - difficulty: `5`
+- fav: `0`
 - tags: `差分更新` `実装`
 - id: `atcoder/abc465/g`
 - logged_at: `2026-07-04`

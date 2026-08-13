@@ -7,6 +7,7 @@
 - Problem: [codeforces/2061/c](https://codeforces.com/contest/2061/problem/C)
 - Problem Name: C. Kevin and Puzzle
 - difficulty: `3`
+- fav: `0`
 - tags: []
 - tag_en: []
 - id: `codeforces/2061/c`

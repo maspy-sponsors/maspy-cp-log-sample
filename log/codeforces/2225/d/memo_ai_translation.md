@@ -7,6 +7,7 @@
 - Problem: [codeforces/2225/d](https://codeforces.com/contest/2225/problem/D)
 - Problem Name: D. Exceptional Segments
 - difficulty: `4`
+- fav: `0`
 - tags: `区間XORが0`
 - tag_en: `interval xor = 0`
 - id: `codeforces/2225/d`

@@ -7,6 +7,7 @@
 - Problem: [atcoder/fps-24/fps_24_q](https://atcoder.jp/contests/fps-24/tasks/fps_24_q)
 - Problem Name: Q - サイコロ
 - difficulty: `5`
+- fav: `0`
 - tags: `k乗和列挙`
 - tag_en: `k-th power sum enumeration`
 - id: `atcoder/fps-24/fps_24_q`

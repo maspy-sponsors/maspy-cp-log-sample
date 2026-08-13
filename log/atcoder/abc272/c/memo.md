@@ -3,6 +3,7 @@
 - 問題: [atcoder/abc272/c](https://atcoder.jp/contests/abc272/tasks/abc272_c)
 - 問題名: C - Max Even
 - difficulty: `1`
+- fav: `0`
 - tags: []
 - id: `atcoder/abc272/c`
 - logged_at: `2026-07-08`

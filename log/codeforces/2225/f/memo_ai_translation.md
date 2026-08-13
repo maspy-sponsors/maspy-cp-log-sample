@@ -7,6 +7,7 @@
 - Problem: [codeforces/2225/f](https://codeforces.com/contest/2225/problem/F)
 - Problem Name: F. String Cutting
 - difficulty: `4`
+- fav: `0`
 - tags: `文字列` `文字列比較`
 - tag_en: `string` `string comparison`
 - id: `codeforces/2225/f`

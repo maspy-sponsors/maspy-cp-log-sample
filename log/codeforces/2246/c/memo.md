@@ -3,6 +3,7 @@
 - 問題: [codeforces/2246/c](https://codeforces.com/contest/2246/problem/C)
 - 問題名: C. 0mar and Alternating Sums
 - difficulty: `4`
+- fav: `0`
 - tags: []
 - id: `codeforces/2246/c`
 - logged_at: `2026-07-13`

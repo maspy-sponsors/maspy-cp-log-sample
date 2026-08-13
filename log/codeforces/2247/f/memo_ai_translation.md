@@ -7,6 +7,7 @@
 - Problem: [codeforces/2247/f](https://codeforces.com/contest/2247/problem/F)
 - Problem Name: F. Paths on a Grid
 - difficulty: `5`
+- fav: `1`
 - tags: `dominator_tree` `ハッシュ`
 - tag_en: `dominator_tree` `hash`
 - id: `codeforces/2247/f`

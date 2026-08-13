@@ -7,6 +7,7 @@
 - Problem: [repovive/14/a](https://repovive.com/contests/14/problems/A)
 - Problem Name: 14A. Odd Sum Game
 - difficulty: `1`
+- fav: `0`
 - tags: []
 - tag_en: []
 - id: `repovive/14/a`

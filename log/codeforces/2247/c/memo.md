@@ -3,6 +3,7 @@
 - 問題: [codeforces/2247/c](https://codeforces.com/contest/2247/problem/C)
 - 問題名: C. Inversion of a Subsequence
 - difficulty: `3`
+- fav: `0`
 - tags: []
 - id: `codeforces/2247/c`
 - logged_at: `2026-07-19`

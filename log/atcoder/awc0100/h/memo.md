@@ -4,6 +4,7 @@
 - 問題名: H - 都市の巡回調査
 - tags: `シミュレーション`
 - difficulty: `2`
+- fav: `0`
 - id: `atcoder/awc0100/h`
 - logged_at: `2026-06-28`
 

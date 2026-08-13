@@ -7,6 +7,7 @@
 - Problem: [codeforces/1423/d](https://codeforces.com/contest/1423/problem/D)
 - Problem Name: D. Does anyone else hate the wind?
 - difficulty: `4`
+- fav: `0`
 - tags: []
 - tag_en: []
 - id: `codeforces/1423/d`

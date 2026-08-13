@@ -7,6 +7,7 @@
 - Problem: [atcoder/fps-24/fps_24_e](https://atcoder.jp/contests/fps-24/tasks/fps_24_e)
 - Problem Name: E - 数列 3
 - difficulty: `4`
+- fav: `0`
 - tags: `EGF`
 - tag_en: `EGF`
 - id: `atcoder/fps-24/fps_24_e`

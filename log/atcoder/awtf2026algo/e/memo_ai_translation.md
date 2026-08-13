@@ -7,6 +7,7 @@
 - Problem: [atcoder/awtf2026algo/e](https://atcoder.jp/contests/awtf2026algo/tasks/awtf2026algo_e)
 - Problem Name: E - Even Rows
 - difficulty: `10`
+- fav: `1`
 - tags: `+-1列の累積和` `マッチング`
 - tag_en: `+-1 column prefix sums` `matching`
 - id: `atcoder/awtf2026algo/e`

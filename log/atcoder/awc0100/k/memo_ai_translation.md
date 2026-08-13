@@ -7,6 +7,7 @@
 - Problem: [atcoder/awc0100/k](https://atcoder.jp/contests/awc0100/tasks/awc0100_k)
 - Problem Name: K - 商店街の区画選び
 - difficulty: `4`
+- fav: `0`
 - tags: `平方分割` `KD_tree`
 - tag_en: `square root decomposition` `KD tree`
 - id: `atcoder/awc0100/k`

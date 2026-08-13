@@ -7,6 +7,7 @@
 - Problem: [atcoder/awc0100/h](https://atcoder.jp/contests/awc0100/tasks/awc0100_h)
 - Problem Name: H - 都市の巡回調査
 - difficulty: `2`
+- fav: `0`
 - tags: `シミュレーション`
 - tag_en: `simulation`
 - id: `atcoder/awc0100/h`

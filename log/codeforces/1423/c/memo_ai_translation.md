@@ -7,6 +7,7 @@
 - Problem: [codeforces/1423/c](https://codeforces.com/contest/1423/problem/C)
 - Problem Name: C. Dušan's Railway
 - difficulty: `7`
+- fav: `1`
 - tags: `SQRT_tree`
 - tag_en: `SQRT tree`
 - id: `codeforces/1423/c`
