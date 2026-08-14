@@ -1,12 +1,24 @@
 # Recent
 
-Latest 578 problems.
+Latest 590 problems.
 Selection rule: all problems added within 30 days of the latest addition, or the latest 100 problems, whichever is larger.
 
 This public list is generated from the full repository and includes only the addition date, problem ID, and problem title.
 Difficulty ratings, favorite ratings, solution tags, and links to solution notes are omitted.
 The complete list is available only in the full repository for eligible paid sponsors.
 
+- 2026-08-14 `yukicoder/3629`: No.3629 Maximize Subsequense Mex
+- 2026-08-14 `yukicoder/3628`: No.3628 Sum of Superfibonacci Numbers
+- 2026-08-14 `yukicoder/3627`: No.3627 Share the Median
+- 2026-08-14 `yukicoder/3626`: No.3626 Not a Prefix
+- 2026-08-14 `yukicoder/3625`: No.3625 Find Superfibonacci Number
+- 2026-08-14 `yukicoder/3624`: No.3624 Product
+- 2026-08-14 `yukicoder/3623`: No.3623 2-Letter Shiritori 2
+- 2026-08-14 `yukicoder/3622`: No.3622 Perfect Matching of Crab
+- 2026-08-14 `qoj/1106/5525`: I. Increasing Grid
+- 2026-08-14 `qoj/1106/5521`: E. Excellent XOR Problem
+- 2026-08-14 `qoj/1106/5518`: B. Binary Arrays and Sliding Sums
+- 2026-08-14 `qoj/1106/5517`: A. Adjacent Product Sum
 - 2026-08-14 `qoj/1103/5511`: M. Minor Evil
 - 2026-08-14 `qoj/1103/5510`: L. Line Replacements
 - 2026-08-14 `qoj/1103/5508`: J. Job for a Hobbit
