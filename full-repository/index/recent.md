@@ -1,6 +1,6 @@
 # Recent
 
-Latest 576 problems.
+Latest 578 problems.
 Selection rule: all problems added within 30 days of the latest addition, or the latest 100 problems, whichever is larger.
 
 This public list is generated from the full repository and includes only the addition date, problem ID, and problem title.
@@ -9,6 +9,8 @@ The complete list is available only in the full repository for eligible paid spo
 
 - 2026-08-14 `qoj/1103/5511`: M. Minor Evil
 - 2026-08-14 `qoj/1103/5510`: L. Line Replacements
+- 2026-08-14 `qoj/1103/5508`: J. Job for a Hobbit
+- 2026-08-14 `qoj/1103/5506`: H. Hyperloop
 - 2026-08-14 `qoj/1103/5504`: F. Flower Garden
 - 2026-08-14 `qoj/1103/5502`: D. Dazzling Mountain
 - 2026-08-14 `qoj/1103/5500`: B. Bars
