@@ -1,12 +1,16 @@
 # Recent
 
-Latest 570 problems.
+Latest 574 problems.
 Selection rule: all problems added within 30 days of the latest addition, or the latest 100 problems, whichever is larger.
 
 This public list is generated from the full repository and includes only the addition date, problem ID, and problem title.
 Difficulty ratings, favorite ratings, solution tags, and links to solution notes are omitted.
 The complete list is available only in the full repository for eligible paid sponsors.
 
+- 2026-08-15 `qoj/1106/5527`: Problem K. King of Swapping
+- 2026-08-15 `qoj/1106/5526`: J. Jewel of Data Structure Problems
+- 2026-08-15 `qoj/1106/5522`: F. F*** 3-Colorable Graphs
+- 2026-08-15 `qoj/1106/5520`: D. Distance Parities
 - 2026-08-15 `nowcoder/133880/f`: F. Four
 - 2026-08-15 `codeforces/713/e`: E. Sonya Partymaker
 - 2026-08-15 `codeforces/713/d`: D. Animals and Puzzle
