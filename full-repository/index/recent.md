@@ -1,12 +1,23 @@
 # Recent
 
-Latest 582 problems.
+Latest 564 problems.
 Selection rule: all problems added within 30 days of the latest addition, or the latest 100 problems, whichever is larger.
 
 This public list is generated from the full repository and includes only the addition date, problem ID, and problem title.
 Difficulty ratings, favorite ratings, solution tags, and links to solution notes are omitted.
 The complete list is available only in the full repository for eligible paid sponsors.
 
+- 2026-08-16 `qoj/1111/5575`: J. Knight’s Tour Redux
+- 2026-08-16 `qoj/1111/5574`: Problem I. Julienne the Deck
+- 2026-08-16 `qoj/1111/5572`: G. Gridlandia
+- 2026-08-16 `qoj/1111/5571`: F. Five Letter Warning
+- 2026-08-16 `qoj/1111/5569`: D. Distinct Subsequences
+- 2026-08-16 `qoj/1111/5568`: C. Cyclic Shifts
+- 2026-08-16 `qoj/1111/5566`: A. And Xor Tree
+- 2026-08-16 `qoj/1106/5530`: N. No Zero-Sum Subsegment
+- 2026-08-16 `qoj/1106/5528`: Problem L. Least Annoying Constructive Problem
+- 2026-08-16 `qoj/1106/5524`: H. Help Me to Get This Published
+- 2026-08-16 `qoj/1106/5519`: Problem C. Count Hamiltonian Cycles
 - 2026-08-15 `qoj/1106/5527`: Problem K. King of Swapping
 - 2026-08-15 `qoj/1106/5526`: J. Jewel of Data Structure Problems
 - 2026-08-15 `qoj/1106/5523`: G. Graph Problem With Small n
@@ -560,32 +571,3 @@ The complete list is available only in the full repository for eligible paid spo
 - 2026-07-18 `atcoder/abc360/c`: C - Move It
 - 2026-07-18 `atcoder/abc360/b`: B - Vertical Reading
 - 2026-07-18 `atcoder/abc360/a`: A - A Healthy Breakfast
-- 2026-07-17 `yukicoder/3593`: No.3593 I Love Sudoku
-- 2026-07-17 `codeforces/2245/g`: G. NPC Challenge
-- 2026-07-17 `codeforces/2245/f`: F. Familiar?
-- 2026-07-17 `codeforces/2245/e`: E. Tom and Jerry
-- 2026-07-17 `codeforces/2245/d2`: D2. Construct an Array (Hard Version)
-- 2026-07-17 `codeforces/2245/c`: C. MEXOR
-- 2026-07-17 `codeforces/2245/b`: B. Delete and Concatenate
-- 2026-07-17 `codeforces/2245/a`: A. Who Watches the Watchpig?
-- 2026-07-17 `codeforces/2081/g2`: G2. Hard Formula (Hard Version)
-- 2026-07-17 `codeforces/2081/f`: F. Hot Matrix
-- 2026-07-17 `codeforces/2081/e`: E. Quantifier
-- 2026-07-17 `codeforces/2081/d`: D. MST in Modulo Graph
-- 2026-07-17 `codeforces/2081/c`: C. Quaternary Matrix
-- 2026-07-17 `codeforces/2081/b`: B. Balancing
-- 2026-07-17 `codeforces/2081/a`: A. Math Division
-- 2026-07-17 `codeforces/365/e`: E. Beautiful Set
-- 2026-07-17 `codeforces/365/d`: D. Free Market
-- 2026-07-17 `codeforces/365/c`: C. Matrix
-- 2026-07-17 `codeforces/365/b`: B. The Fibonacci Segment
-- 2026-07-17 `codeforces/365/a`: A. Good Number
-- 2026-07-17 `codeforces/231/e`: E - Cactus
-- 2026-07-17 `codeforces/231/d`: D. Magic Box
-- 2026-07-17 `codeforces/231/c`: C. To Add or Not to Add
-- 2026-07-17 `codeforces/231/b`: B. Magic, Wizardry and Wonders
-- 2026-07-17 `codeforces/231/a`: A. Team
-- 2026-07-17 `codeforces/4/d`: D. Mysterious Present
-- 2026-07-17 `codeforces/4/c`: C. Registration system
-- 2026-07-17 `codeforces/4/b`: B. Before an Exam
-- 2026-07-17 `codeforces/4/a`: A. Watermelon
