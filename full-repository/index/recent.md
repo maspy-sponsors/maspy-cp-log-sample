@@ -1,6 +1,6 @@
 # Recent
 
-Latest 574 problems.
+Latest 582 problems.
 Selection rule: all problems added within 30 days of the latest addition, or the latest 100 problems, whichever is larger.
 
 This public list is generated from the full repository and includes only the addition date, problem ID, and problem title.
@@ -9,6 +9,7 @@ The complete list is available only in the full repository for eligible paid spo
 
 - 2026-08-15 `qoj/1106/5527`: Problem K. King of Swapping
 - 2026-08-15 `qoj/1106/5526`: J. Jewel of Data Structure Problems
+- 2026-08-15 `qoj/1106/5523`: G. Graph Problem With Small n
 - 2026-08-15 `qoj/1106/5522`: F. F*** 3-Colorable Graphs
 - 2026-08-15 `qoj/1106/5520`: D. Distance Parities
 - 2026-08-15 `nowcoder/133880/f`: F. Four
@@ -23,6 +24,13 @@ The complete list is available only in the full repository for eligible paid spo
 - 2026-08-15 `codeforces/585/c`: C. Alice, Bob, Oranges and Apples
 - 2026-08-15 `codeforces/585/b`: B. Phillip and Trains
 - 2026-08-15 `codeforces/585/a`: A. Gennady the Dentist
+- 2026-08-15 `atcoder/abc471/g`: G - Caeser Syllables
+- 2026-08-15 `atcoder/abc471/f`: F - Concat (maximize)
+- 2026-08-15 `atcoder/abc471/e`: E - Sum of Square of Sum
+- 2026-08-15 `atcoder/abc471/d`: D - Chargers
+- 2026-08-15 `atcoder/abc471/c`: C - Cookies and Greedy Takahashi
+- 2026-08-15 `atcoder/abc471/b`: B - Survey Tabulation
+- 2026-08-15 `atcoder/abc471/a`: A - Nine or Nein
 - 2026-08-14 `yukicoder/3629`: No.3629 Maximize Subsequense Mex
 - 2026-08-14 `yukicoder/3628`: No.3628 Sum of Superfibonacci Numbers
 - 2026-08-14 `yukicoder/3627`: No.3627 Share the Median
