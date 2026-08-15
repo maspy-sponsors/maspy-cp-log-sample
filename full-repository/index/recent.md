@@ -1,12 +1,24 @@
 # Recent
 
-Latest 590 problems.
+Latest 570 problems.
 Selection rule: all problems added within 30 days of the latest addition, or the latest 100 problems, whichever is larger.
 
 This public list is generated from the full repository and includes only the addition date, problem ID, and problem title.
 Difficulty ratings, favorite ratings, solution tags, and links to solution notes are omitted.
 The complete list is available only in the full repository for eligible paid sponsors.
 
+- 2026-08-15 `nowcoder/133880/f`: F. Four
+- 2026-08-15 `codeforces/713/e`: E. Sonya Partymaker
+- 2026-08-15 `codeforces/713/d`: D. Animals and Puzzle
+- 2026-08-15 `codeforces/713/c`: C. Sonya and Problem Without a Legend
+- 2026-08-15 `codeforces/713/b`: B. Searching Rectangles
+- 2026-08-15 `codeforces/713/a`: A. Sonya and Queries
+- 2026-08-15 `codeforces/585/f`: F. Digits of Number Pi
+- 2026-08-15 `codeforces/585/e`: E. Present for Vitalik the Philatelist
+- 2026-08-15 `codeforces/585/d`: D. Lizard Era: Beginning
+- 2026-08-15 `codeforces/585/c`: C. Alice, Bob, Oranges and Apples
+- 2026-08-15 `codeforces/585/b`: B. Phillip and Trains
+- 2026-08-15 `codeforces/585/a`: A. Gennady the Dentist
 - 2026-08-14 `yukicoder/3629`: No.3629 Maximize Subsequense Mex
 - 2026-08-14 `yukicoder/3628`: No.3628 Sum of Superfibonacci Numbers
 - 2026-08-14 `yukicoder/3627`: No.3627 Share the Median
@@ -565,35 +577,3 @@ The complete list is available only in the full repository for eligible paid spo
 - 2026-07-17 `codeforces/4/c`: C. Registration system
 - 2026-07-17 `codeforces/4/b`: B. Before an Exam
 - 2026-07-17 `codeforces/4/a`: A. Watermelon
-- 2026-07-16 `codeforces/2229/i`: I. The Endians
-- 2026-07-16 `codeforces/2229/h`: H. Wowee Binary String
-- 2026-07-16 `codeforces/2229/g`: G. Roadworks
-- 2026-07-16 `codeforces/2229/f`: F. Load Unbalancing
-- 2026-07-16 `codeforces/2229/e`: E. Deconstruction Tree
-- 2026-07-16 `codeforces/2229/d`: D. Me When Median Problem
-- 2026-07-16 `codeforces/2229/c2`: C2. We Be Flipping (Hard Version)
-- 2026-07-16 `codeforces/2229/c1`: C1. We Be Flipping (Easy Version)
-- 2026-07-16 `codeforces/2229/b`: B. Absolute Cinema
-- 2026-07-16 `codeforces/2229/a`: A. Slimes on a Line
-- 2026-07-16 `codeforces/2205/g`: G. Simons and Diophantus Equation
-- 2026-07-16 `codeforces/2205/f`: F. Simons and Dividing the Rhythm
-- 2026-07-16 `codeforces/2205/e`: E. Simons and Dividing the Rhythm
-- 2026-07-16 `codeforces/2205/d`: D. Simons and Beating Peaks
-- 2026-07-16 `codeforces/2205/c`: C. Simons and Posting Blogs
-- 2026-07-16 `codeforces/2205/b`: B. Simons and Cakes for Success
-- 2026-07-16 `codeforces/2205/a`: A. Simons and Making It Beautiful
-- 2026-07-16 `atcoder/past23-open/past23_o`: O - グリッド最大化
-- 2026-07-16 `atcoder/past23-open/past23_n`: N - 部分文字列のソート
-- 2026-07-16 `atcoder/past23-open/past23_m`: M - 素早い高橋君
-- 2026-07-16 `atcoder/past23-open/past23_l`: L - 回転寿司
-- 2026-07-16 `atcoder/past23-open/past23_k`: K - 最頻文字クエリ
-- 2026-07-16 `atcoder/past23-open/past23_j`: J - オフィス
-- 2026-07-16 `atcoder/past23-open/past23_i`: I - 文字種数
-- 2026-07-16 `atcoder/past23-open/past23_h`: H - サンドイッチな組
-- 2026-07-16 `atcoder/past23-open/past23_g`: G - 長い足し算
-- 2026-07-16 `atcoder/past23-open/past23_f`: F - 三角関係
-- 2026-07-16 `atcoder/past23-open/past23_e`: E - 分数のソート
-- 2026-07-16 `atcoder/past23-open/past23_d`: D - 隣り合う文字
-- 2026-07-16 `atcoder/past23-open/past23_c`: C - 会議の延期
-- 2026-07-16 `atcoder/past23-open/past23_b`: B - 前後
-- 2026-07-16 `atcoder/past23-open/past23_a`: A - 買い物
