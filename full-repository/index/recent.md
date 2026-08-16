@@ -1,12 +1,15 @@
 # Recent
 
-Latest 576 problems.
+Latest 553 problems.
 Selection rule: all problems added within 30 days of the latest addition, or the latest 100 problems, whichever is larger.
 
 This public list is generated from the full repository and includes only the addition date, problem ID, and problem title.
 Difficulty ratings, favorite ratings, solution tags, and links to solution notes are omitted.
 The complete list is available only in the full repository for eligible paid sponsors.
 
+- 2026-08-17 `atcoder/arc227/f`: F - Erase and Raise
+- 2026-08-17 `atcoder/arc227/e`: E - Shift and XOR Switches
+- 2026-08-17 `atcoder/arc227/d`: D - Median of Binary Strings
 - 2026-08-16 `qoj/1124/5672`: M. Connectivity Problem
 - 2026-08-16 `qoj/1124/5669`: J. Traveling in Jade City
 - 2026-08-16 `qoj/1124/5668`: I. Cell Nuclei Detection
@@ -30,6 +33,9 @@ The complete list is available only in the full repository for eligible paid spo
 - 2026-08-16 `qoj/1106/5524`: H. Help Me to Get This Published
 - 2026-08-16 `qoj/1106/5519`: Problem C. Count Hamiltonian Cycles
 - 2026-08-16 `nowcoder/133880/h`: H. Count it
+- 2026-08-16 `atcoder/arc227/c`: C - Follow the Letters
+- 2026-08-16 `atcoder/arc227/b`: B - Know Your Place
+- 2026-08-16 `atcoder/arc227/a`: A - Fermat Point of Binary Strings
 - 2026-08-15 `qoj/1106/5527`: Problem K. King of Swapping
 - 2026-08-15 `qoj/1106/5526`: J. Jewel of Data Structure Problems
 - 2026-08-15 `qoj/1106/5523`: G. Graph Problem With Small n
@@ -554,32 +560,3 @@ The complete list is available only in the full repository for eligible paid spo
 - 2026-07-19 `atcoder/abc126/c`: C - Dice and Coin
 - 2026-07-19 `atcoder/abc126/b`: B - YYMM or MMYY
 - 2026-07-19 `atcoder/abc126/a`: A - Changing a Character
-- 2026-07-18 `nowcoder/133876/k`: K. Geometry Textbook
-- 2026-07-18 `nowcoder/133876/h`: H. Rock-Paper-Scissors Master
-- 2026-07-18 `nowcoder/133876/f`: F. Permutation Generation
-- 2026-07-18 `nowcoder/133876/e`: E. Permutation Evaluation
-- 2026-07-18 `codeforces/1819/f`: F. Willy-nilly, Crack, Into Release!
-- 2026-07-18 `codeforces/1819/e`: E. Roads in E City
-- 2026-07-18 `codeforces/1819/d`: D. Misha and Apples
-- 2026-07-18 `codeforces/1819/c`: C. The Fox and the Complete Tree Traversal
-- 2026-07-18 `codeforces/1819/b`: B. The Butcher
-- 2026-07-18 `codeforces/1819/a`: A. Constructive Problem
-- 2026-07-18 `codeforces/600/f`: F. Edge coloring of bipartite graph
-- 2026-07-18 `codeforces/600/e`: E. Lomsat gelral
-- 2026-07-18 `codeforces/600/d`: D. Area of Two Circles' Intersection
-- 2026-07-18 `codeforces/600/c`: C. Make Palindrome
-- 2026-07-18 `codeforces/600/b`: B. Queries about less or equal elements
-- 2026-07-18 `codeforces/600/a`: A. Extract Numbers
-- 2026-07-18 `atcoder/abc467/g`: G - Many Sweets Problem
-- 2026-07-18 `atcoder/abc467/f`: F - Email Scheduling Optimization
-- 2026-07-18 `atcoder/abc467/e`: E - Adjacent Sums (hard)
-- 2026-07-18 `atcoder/abc467/d`: D - Concentric Circles
-- 2026-07-18 `atcoder/abc467/b`: B - Keep the Change
-- 2026-07-18 `atcoder/abc467/a`: A - Obesity
-- 2026-07-18 `atcoder/abc360/g`: G - Suitable Edit for LIS
-- 2026-07-18 `atcoder/abc360/f`: F - InterSections
-- 2026-07-18 `atcoder/abc360/e`: E - Random Swaps of Balls
-- 2026-07-18 `atcoder/abc360/d`: D - Ghost Ants
-- 2026-07-18 `atcoder/abc360/c`: C - Move It
-- 2026-07-18 `atcoder/abc360/b`: B - Vertical Reading
-- 2026-07-18 `atcoder/abc360/a`: A - A Healthy Breakfast
