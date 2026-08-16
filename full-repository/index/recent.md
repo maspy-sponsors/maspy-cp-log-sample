@@ -1,12 +1,23 @@
 # Recent
 
-Latest 564 problems.
+Latest 576 problems.
 Selection rule: all problems added within 30 days of the latest addition, or the latest 100 problems, whichever is larger.
 
 This public list is generated from the full repository and includes only the addition date, problem ID, and problem title.
 Difficulty ratings, favorite ratings, solution tags, and links to solution notes are omitted.
 The complete list is available only in the full repository for eligible paid sponsors.
 
+- 2026-08-16 `qoj/1124/5672`: M. Connectivity Problem
+- 2026-08-16 `qoj/1124/5669`: J. Traveling in Jade City
+- 2026-08-16 `qoj/1124/5668`: I. Cell Nuclei Detection
+- 2026-08-16 `qoj/1124/5667`: H. Meeting Places
+- 2026-08-16 `qoj/1124/5666`: G. Repetitive Elements
+- 2026-08-16 `qoj/1124/5665`: F. AA Country and King Dreamoon
+- 2026-08-16 `qoj/1124/5664`: E. Printing Stickers
+- 2026-08-16 `qoj/1124/5663`: D. Tangle: A DAG for storing transactions
+- 2026-08-16 `qoj/1124/5662`: C. Distance Calculator
+- 2026-08-16 `qoj/1124/5661`: B. Multi-Ladders
+- 2026-08-16 `qoj/1124/5660`: A. Simplified Genome Translation
 - 2026-08-16 `qoj/1111/5575`: J. Knight’s Tour Redux
 - 2026-08-16 `qoj/1111/5574`: Problem I. Julienne the Deck
 - 2026-08-16 `qoj/1111/5572`: G. Gridlandia
@@ -18,6 +29,7 @@ The complete list is available only in the full repository for eligible paid spo
 - 2026-08-16 `qoj/1106/5528`: Problem L. Least Annoying Constructive Problem
 - 2026-08-16 `qoj/1106/5524`: H. Help Me to Get This Published
 - 2026-08-16 `qoj/1106/5519`: Problem C. Count Hamiltonian Cycles
+- 2026-08-16 `nowcoder/133880/h`: H. Count it
 - 2026-08-15 `qoj/1106/5527`: Problem K. King of Swapping
 - 2026-08-15 `qoj/1106/5526`: J. Jewel of Data Structure Problems
 - 2026-08-15 `qoj/1106/5523`: G. Graph Problem With Small n
