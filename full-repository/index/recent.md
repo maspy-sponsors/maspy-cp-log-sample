@@ -1,6 +1,6 @@
 # Recent
 
-Latest 554 problems.
+Latest 560 problems.
 Selection rule: all problems added within 30 days of the latest addition, or the latest 100 problems, whichever is larger.
 
 This public list is generated from the full repository and includes only the addition date, problem ID, and problem title.
@@ -8,6 +8,12 @@ Difficulty ratings, favorite ratings, solution tags, and links to solution notes
 The complete list is available only in the full repository for eligible paid sponsors.
 
 - 2026-08-17 `qoj/1124/5671`: L. Programmable Virus
+- 2026-08-17 `codeforces/2170/f`: F. Build XOR on a Segment
+- 2026-08-17 `codeforces/2170/e`: E. Binary Strings and Blocks
+- 2026-08-17 `codeforces/2170/d`: D. Almost Roman
+- 2026-08-17 `codeforces/2170/c`: C. Quotient and Remainder
+- 2026-08-17 `codeforces/2170/b`: B. Addition on a Segment
+- 2026-08-17 `codeforces/2170/a`: A. Maximum Neighborhood
 - 2026-08-17 `atcoder/arc227/f`: F - Erase and Raise
 - 2026-08-17 `atcoder/arc227/e`: E - Shift and XOR Switches
 - 2026-08-17 `atcoder/arc227/d`: D - Median of Binary Strings
