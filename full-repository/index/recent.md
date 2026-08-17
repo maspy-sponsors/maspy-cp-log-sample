@@ -1,12 +1,13 @@
 # Recent
 
-Latest 553 problems.
+Latest 554 problems.
 Selection rule: all problems added within 30 days of the latest addition, or the latest 100 problems, whichever is larger.
 
 This public list is generated from the full repository and includes only the addition date, problem ID, and problem title.
 Difficulty ratings, favorite ratings, solution tags, and links to solution notes are omitted.
 The complete list is available only in the full repository for eligible paid sponsors.
 
+- 2026-08-17 `qoj/1124/5671`: L. Programmable Virus
 - 2026-08-17 `atcoder/arc227/f`: F - Erase and Raise
 - 2026-08-17 `atcoder/arc227/e`: E - Shift and XOR Switches
 - 2026-08-17 `atcoder/arc227/d`: D - Median of Binary Strings
