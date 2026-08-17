@@ -1,12 +1,18 @@
 # Recent
 
-Latest 560 problems.
+Latest 526 problems.
 Selection rule: all problems added within 30 days of the latest addition, or the latest 100 problems, whichever is larger.
 
 This public list is generated from the full repository and includes only the addition date, problem ID, and problem title.
 Difficulty ratings, favorite ratings, solution tags, and links to solution notes are omitted.
 The complete list is available only in the full repository for eligible paid sponsors.
 
+- 2026-08-18 `codeforces/2257/f2`: F2. Beaver's Jumping Track (Hard Version)
+- 2026-08-18 `codeforces/2257/e`: E. Busy Beaver
+- 2026-08-18 `codeforces/2257/d`: D. Bermuda Rectangle
+- 2026-08-18 `codeforces/2257/c`: C. Spying on the Beaver
+- 2026-08-18 `codeforces/2257/b`: B. Gigantomachy
+- 2026-08-18 `codeforces/2257/a`: A. Creating Abbreviations
 - 2026-08-17 `qoj/1124/5671`: L. Programmable Virus
 - 2026-08-17 `codeforces/2170/f`: F. Build XOR on a Segment
 - 2026-08-17 `codeforces/2170/e`: E. Binary Strings and Blocks
@@ -527,43 +533,3 @@ The complete list is available only in the full repository for eligible paid spo
 - 2026-07-20 `codeforces/1773/l`: L. Lisa's Sequences
 - 2026-07-20 `codeforces/1667/f`: F. Yin Yang
 - 2026-07-20 `codeforces/1349/e`: E. Slime and Hats
-- 2026-07-19 `codeforces/2247/f`: F. Paths on a Grid
-- 2026-07-19 `codeforces/2247/e`: E. Build a Tree
-- 2026-07-19 `codeforces/2247/d2`: D2. XOR Sorting (Hard Version)
-- 2026-07-19 `codeforces/2247/c`: C. Inversion of a Subsequence
-- 2026-07-19 `codeforces/2247/b`: B. Yet Another Constructive
-- 2026-07-19 `codeforces/2247/a`: A. Zero Sum
-- 2026-07-19 `codeforces/2155/f`: F. Juan's Colorful Tree
-- 2026-07-19 `codeforces/2155/e`: E. Mimo & Yuyu
-- 2026-07-19 `codeforces/2155/d`: D. Batteries
-- 2026-07-19 `codeforces/2155/c`: C. The Ancient Wizards' Capes
-- 2026-07-19 `codeforces/2155/b`: B. Abraham's Great Escape
-- 2026-07-19 `codeforces/2155/a`: A. El fucho
-- 2026-07-19 `codeforces/2061/i`: I. Kevin and Nivek
-- 2026-07-19 `codeforces/2061/h2`: H2. Kevin and Stones (Hard Version)
-- 2026-07-19 `codeforces/2061/g`: G. Kevin and Teams
-- 2026-07-19 `codeforces/2061/f2`: F2. Kevin and Binary String (Hard Version)
-- 2026-07-19 `codeforces/2061/e`: E. Kevin and And
-- 2026-07-19 `codeforces/2061/d`: D. Kevin and Numbers
-- 2026-07-19 `codeforces/2061/c`: C. Kevin and Puzzle
-- 2026-07-19 `codeforces/2061/b`: B. Kevin and Geometry
-- 2026-07-19 `codeforces/2061/a`: A. Kevin and Arithmetic
-- 2026-07-19 `atcoder/arc225/e`: E - Gap Swap (hard)
-- 2026-07-19 `atcoder/arc225/d`: D - Gap Swap (easy)
-- 2026-07-19 `atcoder/arc225/c`: C - K Spanning Tree
-- 2026-07-19 `atcoder/arc225/b`: B - Independent Nim
-- 2026-07-19 `atcoder/arc225/a`: A - Four Coloring
-- 2026-07-19 `atcoder/abc282/h`: Ex - Min + Sum
-- 2026-07-19 `atcoder/abc282/g`: G - Similar Permutation
-- 2026-07-19 `atcoder/abc282/f`: F - Union of Two Sets
-- 2026-07-19 `atcoder/abc282/e`: E - Choose Two and Eat One
-- 2026-07-19 `atcoder/abc282/d`: D - Make Bipartite 2
-- 2026-07-19 `atcoder/abc282/c`: C - String Delimiter
-- 2026-07-19 `atcoder/abc282/b`: B - Let's Get a Perfect Score
-- 2026-07-19 `atcoder/abc282/a`: A - Generalized ABC
-- 2026-07-19 `atcoder/abc126/f`: F - XOR Matching
-- 2026-07-19 `atcoder/abc126/e`: E - 1 or 2
-- 2026-07-19 `atcoder/abc126/d`: D - Even Relation
-- 2026-07-19 `atcoder/abc126/c`: C - Dice and Coin
-- 2026-07-19 `atcoder/abc126/b`: B - YYMM or MMYY
-- 2026-07-19 `atcoder/abc126/a`: A - Changing a Character
