@@ -1,12 +1,13 @@
 # Recent
 
-Latest 526 problems.
+Latest 527 problems.
 Selection rule: all problems added within 30 days of the latest addition, or the latest 100 problems, whichever is larger.
 
 This public list is generated from the full repository and includes only the addition date, problem ID, and problem title.
 Difficulty ratings, favorite ratings, solution tags, and links to solution notes are omitted.
 The complete list is available only in the full repository for eligible paid sponsors.
 
+- 2026-08-18 `nowcoder/133880/m`: M. Je t'aime encore
 - 2026-08-18 `codeforces/2257/f2`: F2. Beaver's Jumping Track (Hard Version)
 - 2026-08-18 `codeforces/2257/e`: E. Busy Beaver
 - 2026-08-18 `codeforces/2257/d`: D. Bermuda Rectangle
