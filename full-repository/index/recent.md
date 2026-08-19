@@ -1,12 +1,16 @@
 # Recent
 
-Latest 538 problems.
+Latest 542 problems.
 Selection rule: all problems added within 30 days of the latest addition, or the latest 100 problems, whichever is larger.
 
 This public list is generated from the full repository and includes only the addition date, problem ID, and problem title.
 Difficulty ratings, favorite ratings, solution tags, and links to solution notes are omitted.
 The complete list is available only in the full repository for eligible paid sponsors.
 
+- 2026-08-19 `nowcoder/133885/i`: I. Choose a Name
+- 2026-08-19 `nowcoder/133885/h`: H. Closing the Gap... Approximately
+- 2026-08-19 `nowcoder/133885/g`: G. Yet Another A Plus B Problem
+- 2026-08-19 `nowcoder/133885/e`: F. Splendor
 - 2026-08-19 `codeforces/1039/e`: E. Summer Oenothera Exhibition
 - 2026-08-19 `codeforces/1039/d`: D. You Are Given a Tree
 - 2026-08-19 `codeforces/1039/c`: C. Network Safety
