@@ -1,12 +1,27 @@
 # Recent
 
-Latest 527 problems.
+Latest 538 problems.
 Selection rule: all problems added within 30 days of the latest addition, or the latest 100 problems, whichever is larger.
 
 This public list is generated from the full repository and includes only the addition date, problem ID, and problem title.
 Difficulty ratings, favorite ratings, solution tags, and links to solution notes are omitted.
 The complete list is available only in the full repository for eligible paid sponsors.
 
+- 2026-08-19 `codeforces/1039/e`: E. Summer Oenothera Exhibition
+- 2026-08-19 `codeforces/1039/d`: D. You Are Given a Tree
+- 2026-08-19 `codeforces/1039/c`: C. Network Safety
+- 2026-08-19 `codeforces/1039/b`: B. Subway Pursuit
+- 2026-08-19 `codeforces/1039/a`: A. Timetable
+- 2026-08-19 `codeforces/413/e`: E. Maze 2D
+- 2026-08-19 `codeforces/413/d`: D. 2048
+- 2026-08-19 `codeforces/413/c`: C. Jeopardy!
+- 2026-08-19 `codeforces/413/b`: B. Spyke Chatting
+- 2026-08-19 `codeforces/413/a`: A. Data Recovery
+- 2026-08-19 `codeforces/333/e`: E. Summer Earnings
+- 2026-08-19 `codeforces/333/d`: D. Characteristics of Rectangles
+- 2026-08-19 `codeforces/333/c`: C. Lucky Tickets
+- 2026-08-19 `codeforces/333/b`: B. Chips
+- 2026-08-19 `codeforces/333/a`: A. Secrets
 - 2026-08-18 `nowcoder/133880/m`: M. Je t'aime encore
 - 2026-08-18 `codeforces/2257/f2`: F2. Beaver's Jumping Track (Hard Version)
 - 2026-08-18 `codeforces/2257/e`: E. Busy Beaver
@@ -530,7 +545,3 @@ The complete list is available only in the full repository for eligible paid spo
 - 2026-07-21 `atcoder/abc397/c`: C - Variety Split Easy
 - 2026-07-21 `atcoder/abc397/b`: B - Ticket Gate Log
 - 2026-07-21 `atcoder/abc397/a`: A - Thermometer
-- 2026-07-20 `codeforces/2239/e`: E. The end of this world,
-- 2026-07-20 `codeforces/1773/l`: L. Lisa's Sequences
-- 2026-07-20 `codeforces/1667/f`: F. Yin Yang
-- 2026-07-20 `codeforces/1349/e`: E. Slime and Hats
