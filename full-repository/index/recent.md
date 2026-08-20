@@ -1,12 +1,45 @@
 # Recent
 
-Latest 542 problems.
+Latest 548 problems.
 Selection rule: all problems added within 30 days of the latest addition, or the latest 100 problems, whichever is larger.
 
 This public list is generated from the full repository and includes only the addition date, problem ID, and problem title.
 Difficulty ratings, favorite ratings, solution tags, and links to solution notes are omitted.
 The complete list is available only in the full repository for eligible paid sponsors.
 
+- 2026-08-20 `nowcoder/133885/l`: L. Reaper
+- 2026-08-20 `nowcoder/133885/k`: K. Team Formation
+- 2026-08-20 `nowcoder/133885/j`: J. Joyride
+- 2026-08-20 `nowcoder/133885/f`: F. Occurrences
+- 2026-08-20 `nowcoder/133885/d`: D. Strict Majority
+- 2026-08-20 `nowcoder/133885/c`: C. Slot Machine 2
+- 2026-08-20 `nowcoder/133885/b`: B. Slot Machine
+- 2026-08-20 `nowcoder/133885/a`: A. Natsuhikage
+- 2026-08-20 `codeforces/2184/g`: G. Nastiness of Segments
+- 2026-08-20 `codeforces/2184/f`: F. Cherry Tree
+- 2026-08-20 `codeforces/2184/e`: E. Exquisite Array
+- 2026-08-20 `codeforces/2184/d`: D. Unfair Game
+- 2026-08-20 `codeforces/2184/c`: C. Huge Pile
+- 2026-08-20 `codeforces/2184/b`: B. Hourglass
+- 2026-08-20 `codeforces/2184/a`: A. Social Experiment
+- 2026-08-20 `codeforces/1403/c`: C. Chess Rush
+- 2026-08-20 `codeforces/1403/b`: B. Spring cleaning
+- 2026-08-20 `codeforces/1403/a`: A. The Potion of Great Power
+- 2026-08-20 `codeforces/1402/c`: C. Star Trek
+- 2026-08-20 `codeforces/1402/b`: B. Roads
+- 2026-08-20 `codeforces/1402/a`: A. Fancy Fence
+- 2026-08-20 `codeforces/1176/f`: F. Destroy it!
+- 2026-08-20 `codeforces/1176/e`: E. Cover it!
+- 2026-08-20 `codeforces/1176/d`: D. Recover it!
+- 2026-08-20 `codeforces/1176/c`: C. Lose it!
+- 2026-08-20 `codeforces/1176/b`: B. Merge it!
+- 2026-08-20 `codeforces/1176/a`: A. Divide it!
+- 2026-08-20 `codeforces/884/f`: F. Anti-Palindromize
+- 2026-08-20 `codeforces/884/e`: E. Binary Matrix
+- 2026-08-20 `codeforces/884/d`: D. Boxes And Balls
+- 2026-08-20 `codeforces/884/c`: C. Bertown Subway
+- 2026-08-20 `codeforces/884/b`: B. Japanese Crosswords Strike Back
+- 2026-08-20 `codeforces/884/a`: A. Book Reading
 - 2026-08-19 `nowcoder/133885/i`: I. Choose a Name
 - 2026-08-19 `nowcoder/133885/h`: H. Closing the Gap... Approximately
 - 2026-08-19 `nowcoder/133885/g`: G. Yet Another A Plus B Problem
@@ -522,30 +555,3 @@ The complete list is available only in the full repository for eligible paid spo
 - 2026-07-22 `nowcoder/133877/g`: G. GCD Graph
 - 2026-07-22 `nowcoder/133877/f`: Fabulous Tree
 - 2026-07-22 `nowcoder/133877/c`: C. Competition: Winning Streaks
-- 2026-07-21 `codeforces/2237/h`: H. Slime and Queries
-- 2026-07-21 `codeforces/2237/g`: G. Send GCDs
-- 2026-07-21 `codeforces/2237/f`: F. Paint the Array
-- 2026-07-21 `codeforces/2237/e`: E. Permutation Commutation
-- 2026-07-21 `codeforces/2237/d`: D. Fullmetal Bitchemist
-- 2026-07-21 `codeforces/2237/c`: C. Duck Surplus
-- 2026-07-21 `codeforces/2237/b`: B. Annoying the Ghost
-- 2026-07-21 `codeforces/2237/a`: A. Destroying Towers
-- 2026-07-21 `codeforces/1200/f`: F. Graph Traveler
-- 2026-07-21 `codeforces/1200/e`: E. Compress Words
-- 2026-07-21 `codeforces/1200/d`: D. White Lines
-- 2026-07-21 `codeforces/1200/c`: C. Round Corridor
-- 2026-07-21 `codeforces/1200/b`: B. Block Adventure
-- 2026-07-21 `codeforces/1200/a`: A. Hotelier
-- 2026-07-21 `codeforces/678/f`: F. Lena and Queries
-- 2026-07-21 `codeforces/678/e`: E. Another Sith Tournament
-- 2026-07-21 `codeforces/678/d`: D. Iterated Linear Function
-- 2026-07-21 `codeforces/678/c`: C. Joty and Chocolate
-- 2026-07-21 `codeforces/678/b`: B. The Same Calendar
-- 2026-07-21 `codeforces/678/a`: A. Johny Likes Numbers
-- 2026-07-21 `atcoder/abc397/g`: G - Maximize Distance
-- 2026-07-21 `atcoder/abc397/f`: F - Variety Split Hard
-- 2026-07-21 `atcoder/abc397/e`: E - Path Decomposition of a Tree
-- 2026-07-21 `atcoder/abc397/d`: D - Cubes
-- 2026-07-21 `atcoder/abc397/c`: C - Variety Split Easy
-- 2026-07-21 `atcoder/abc397/b`: B - Ticket Gate Log
-- 2026-07-21 `atcoder/abc397/a`: A - Thermometer
