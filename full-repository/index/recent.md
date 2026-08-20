@@ -1,12 +1,13 @@
 # Recent
 
-Latest 548 problems.
+Latest 549 problems.
 Selection rule: all problems added within 30 days of the latest addition, or the latest 100 problems, whichever is larger.
 
 This public list is generated from the full repository and includes only the addition date, problem ID, and problem title.
 Difficulty ratings, favorite ratings, solution tags, and links to solution notes are omitted.
 The complete list is available only in the full repository for eligible paid sponsors.
 
+- 2026-08-20 `qoj/1124/5670`: K. Group Guests
 - 2026-08-20 `nowcoder/133885/l`: L. Reaper
 - 2026-08-20 `nowcoder/133885/k`: K. Team Formation
 - 2026-08-20 `nowcoder/133885/j`: J. Joyride
