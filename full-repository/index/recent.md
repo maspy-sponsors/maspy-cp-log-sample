@@ -1,12 +1,26 @@
 # Recent
 
-Latest 549 problems.
+Latest 543 problems.
 Selection rule: all problems added within 30 days of the latest addition, or the latest 100 problems, whichever is larger.
 
 This public list is generated from the full repository and includes only the addition date, problem ID, and problem title.
 Difficulty ratings, favorite ratings, solution tags, and links to solution notes are omitted.
 The complete list is available only in the full repository for eligible paid sponsors.
 
+- 2026-08-22 `qoj/2041/11368`: M. This Is Sparta!
+- 2026-08-22 `qoj/2041/11365`: J. Popping Balloons
+- 2026-08-22 `qoj/2041/11361`: F. Mob Grinder
+- 2026-08-22 `nowcoder/133883/g`: G. Multiplication
+- 2026-08-22 `nowcoder/133883/f`: F. Tree shifts there
+- 2026-08-22 `nowcoder/133883/d`: D. Sea, you & copriMe II
+- 2026-08-22 `nowcoder/133883/c`: C. Fraction on a Ring
+- 2026-08-21 `qoj/2041/11363`: H. Ornaments on a Tree
+- 2026-08-21 `qoj/2041/11359`: D. Geometry Rush
+- 2026-08-21 `qoj/2041/11356`: A. A Totient Quotient
+- 2026-08-21 `nowcoder/133881/b`: B1702FC
+- 2026-08-20 `qoj/2041/11366`: K. SLA Tomography
+- 2026-08-20 `qoj/2041/11360`: E. Humans vs AI
+- 2026-08-20 `qoj/2041/11357`: B. Circle of Leaf
 - 2026-08-20 `qoj/1124/5670`: K. Group Guests
 - 2026-08-20 `nowcoder/133885/l`: L. Reaper
 - 2026-08-20 `nowcoder/133885/k`: K. Team Formation
@@ -23,6 +37,13 @@ The complete list is available only in the full repository for eligible paid spo
 - 2026-08-20 `codeforces/2184/c`: C. Huge Pile
 - 2026-08-20 `codeforces/2184/b`: B. Hourglass
 - 2026-08-20 `codeforces/2184/a`: A. Social Experiment
+- 2026-08-20 `codeforces/2145/g`: G. Cost of Coloring
+- 2026-08-20 `codeforces/2145/f`: F. Long Journey
+- 2026-08-20 `codeforces/2145/e`: E. Predicting Popularity
+- 2026-08-20 `codeforces/2145/d`: D. Inversion Value of a Permutation
+- 2026-08-20 `codeforces/2145/c`: C. Monocarp's String
+- 2026-08-20 `codeforces/2145/b`: B. Deck of Cards
+- 2026-08-20 `codeforces/2145/a`: A. Candies for Nephews
 - 2026-08-20 `codeforces/1403/c`: C. Chess Rush
 - 2026-08-20 `codeforces/1403/b`: B. Spring cleaning
 - 2026-08-20 `codeforces/1403/a`: A. The Potion of Great Power
@@ -529,30 +550,3 @@ The complete list is available only in the full repository for eligible paid spo
 - 2026-07-24 `nowcoder/133878/g`: G. Matrix Marking
 - 2026-07-24 `nowcoder/133878/f`: F. Not Aqre 2
 - 2026-07-24 `codeforces/2245/h`: H. Connect Connect See
-- 2026-07-23 `yukicoder/3594`: No.3594 Subset OR
-- 2026-07-23 `codeforces/2239/f`: F. Colorful Works
-- 2026-07-23 `codeforces/1336/f`: F. Journey
-- 2026-07-23 `codeforces/1336/e2`: E2. Chiori and Doll Picking (hard version)
-- 2026-07-23 `codeforces/1336/d`: D. Yui and Mahjong Set
-- 2026-07-23 `codeforces/1336/c`: C. Kaavi and Magic Spell
-- 2026-07-23 `codeforces/1336/b`: B. Xenia and Colorful Gems
-- 2026-07-23 `codeforces/1336/a`: A. Linova and Kingdom
-- 2026-07-23 `atcoder/arc174/f`: F - Final Stage
-- 2026-07-23 `atcoder/arc174/e`: E - Existence Counting
-- 2026-07-23 `atcoder/arc174/d`: D - Digit vs Square Root
-- 2026-07-23 `atcoder/arc174/c`: C - Catastrophic Roulette
-- 2026-07-23 `atcoder/arc174/b`: B - Bought Review
-- 2026-07-23 `atcoder/arc174/a`: A - A Multiply
-- 2026-07-23 `atcoder/abc419/g`: G - Count Simple Paths 2
-- 2026-07-23 `atcoder/abc419/f`: F - All Included
-- 2026-07-23 `atcoder/abc419/e`: E - Subarray Sum Divisibility
-- 2026-07-23 `atcoder/abc419/d`: D - Substr Swap
-- 2026-07-23 `atcoder/abc419/c`: C - King's Summit
-- 2026-07-23 `atcoder/abc419/b`: B - Get Min
-- 2026-07-23 `atcoder/abc419/a`: A - AtCoder Language
-- 2026-07-22 `nowcoder/133877/n`: Narrow to Median
-- 2026-07-22 `nowcoder/133877/m`: M. Maybe Connected
-- 2026-07-22 `nowcoder/133877/i`: I. Imperfect Dot Sums and Cross Sums
-- 2026-07-22 `nowcoder/133877/g`: G. GCD Graph
-- 2026-07-22 `nowcoder/133877/f`: Fabulous Tree
-- 2026-07-22 `nowcoder/133877/c`: C. Competition: Winning Streaks
