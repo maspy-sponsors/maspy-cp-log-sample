@@ -1,6 +1,6 @@
 # Recent
 
-Latest 543 problems.
+Latest 550 problems.
 Selection rule: all problems added within 30 days of the latest addition, or the latest 100 problems, whichever is larger.
 
 This public list is generated from the full repository and includes only the addition date, problem ID, and problem title.
@@ -14,6 +14,13 @@ The complete list is available only in the full repository for eligible paid spo
 - 2026-08-22 `nowcoder/133883/f`: F. Tree shifts there
 - 2026-08-22 `nowcoder/133883/d`: D. Sea, you & copriMe II
 - 2026-08-22 `nowcoder/133883/c`: C. Fraction on a Ring
+- 2026-08-22 `atcoder/abc472/g`: G - Cascading Grid
+- 2026-08-22 `atcoder/abc472/f`: F - Centroid of a Slice
+- 2026-08-22 `atcoder/abc472/e`: E - Odd Cycle
+- 2026-08-22 `atcoder/abc472/d`: D - Bomber Mad
+- 2026-08-22 `atcoder/abc472/c`: C - On a Diet
+- 2026-08-22 `atcoder/abc472/b`: B - Break a Stick
+- 2026-08-22 `atcoder/abc472/a`: A - A
 - 2026-08-21 `qoj/2041/11363`: H. Ornaments on a Tree
 - 2026-08-21 `qoj/2041/11359`: D. Geometry Rush
 - 2026-08-21 `qoj/2041/11356`: A. A Totient Quotient
