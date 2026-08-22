@@ -1,6 +1,6 @@
 # Recent
 
-Latest 550 problems.
+Latest 555 problems.
 Selection rule: all problems added within 30 days of the latest addition, or the latest 100 problems, whichever is larger.
 
 This public list is generated from the full repository and includes only the addition date, problem ID, and problem title.
@@ -14,6 +14,11 @@ The complete list is available only in the full repository for eligible paid spo
 - 2026-08-22 `nowcoder/133883/f`: F. Tree shifts there
 - 2026-08-22 `nowcoder/133883/d`: D. Sea, you & copriMe II
 - 2026-08-22 `nowcoder/133883/c`: C. Fraction on a Ring
+- 2026-08-22 `codeforces/132/e`: E. Bits of merry old England
+- 2026-08-22 `codeforces/132/d`: D. Constants in the language of Shakespeare
+- 2026-08-22 `codeforces/132/c`: C. Logo Turtle
+- 2026-08-22 `codeforces/132/b`: B. Piet
+- 2026-08-22 `codeforces/132/a`: A. Turing Tape
 - 2026-08-22 `atcoder/abc472/g`: G - Cascading Grid
 - 2026-08-22 `atcoder/abc472/f`: F - Centroid of a Slice
 - 2026-08-22 `atcoder/abc472/e`: E - Odd Cycle

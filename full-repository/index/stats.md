@@ -1,10 +1,10 @@
 # Stats
 
-- problems: 1096
-- tagged problems: 715
-- difficulty entries: 1096
-- contests/sites: 161
-- AI translations: 1096 / 1096
+- problems: 1101
+- tagged problems: 717
+- difficulty entries: 1101
+- contests/sites: 162
+- AI translations: 1101 / 1101
 - stale AI translations: 0
 
 ## Monthly additions
@@ -15,16 +15,16 @@ Based on `logged_at` in `memo.md`.
 |---|---:|---:|
 | 2026-06 | 104 | 104 |
 | 2026-07 | 574 | 678 |
-| 2026-08 | 418 | 1096 |
+| 2026-08 | 423 | 1101 |
 
 ## Difficulty distribution
 
 | difficulty | problems |
 |---:|---:|
 | D1 | 118 |
-| D2 | 174 |
-| D3 | 260 |
-| D4 | 239 |
+| D2 | 176 |
+| D3 | 262 |
+| D4 | 240 |
 | D5 | 149 |
 | D6 | 80 |
 | D7 | 53 |
@@ -37,7 +37,7 @@ Based on `logged_at` in `memo.md`.
 
 | favorite | problems |
 |---:|---:|
-| F0 | 975 |
+| F0 | 980 |
 | F1 | 87 |
 | F2 | 23 |
 | F3 | 11 |
