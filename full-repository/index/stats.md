@@ -38,6 +38,6 @@ Based on `logged_at` in `memo.md`.
 | favorite | problems |
 |---:|---:|
 | F0 | 968 |
-| F1 | 86 |
-| F2 | 24 |
+| F1 | 87 |
+| F2 | 23 |
 | F3 | 11 |
