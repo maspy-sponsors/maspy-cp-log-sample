@@ -1,12 +1,18 @@
 # Recent
 
-Latest 576 problems.
+Latest 574 problems.
 Selection rule: all problems added within 30 days of the latest addition, or the latest 100 problems, whichever is larger.
 
 This public list is generated from the full repository and includes only the addition date, problem ID, and problem title.
 Difficulty ratings, favorite ratings, solution tags, and links to solution notes are omitted.
 The complete list is available only in the full repository for eligible paid sponsors.
 
+- 2026-08-24 `repovive/20/f`: 20F. Perfectly Hidden
+- 2026-08-24 `repovive/20/e`: 20E. Tree on a Polygon
+- 2026-08-24 `repovive/20/d`: 20D. Density Two
+- 2026-08-24 `repovive/20/c`: 20C. No Self-Purchase
+- 2026-08-24 `repovive/20/b`: 20B. Timeless Overtakes
+- 2026-08-24 `repovive/20/a`: 20A. Pair Deletion
 - 2026-08-23 `qoj/2041/11367`: L. Solar Farm
 - 2026-08-23 `qoj/2041/11364`: I. Polygon Partition
 - 2026-08-23 `qoj/1129/5750`: M. Siteswap
@@ -575,11 +581,3 @@ The complete list is available only in the full repository for eligible paid spo
 - 2026-07-26 `codeforces/2/c`: C. Commentator problem
 - 2026-07-26 `codeforces/2/b`: B. The least round way
 - 2026-07-26 `codeforces/2/a`: A. Winner
-- 2026-07-25 `codeforces/2237/i2`: I2. DBFS Order (Hard Version)
-- 2026-07-25 `atcoder/abc468/g`: G - Restricted Permutation
-- 2026-07-25 `atcoder/abc468/f`: F - Chmax
-- 2026-07-25 `atcoder/abc468/e`: E - Sum of Average
-- 2026-07-25 `atcoder/abc468/d`: D - Pre-Palindrome
-- 2026-07-25 `atcoder/abc468/c`: C - Between P and Q
-- 2026-07-25 `atcoder/abc468/b`: B - Corridor Watch
-- 2026-07-25 `atcoder/abc468/a`: A - Maximal Value
