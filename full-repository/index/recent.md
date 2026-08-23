@@ -1,6 +1,6 @@
 # Recent
 
-Latest 565 problems.
+Latest 576 problems.
 Selection rule: all problems added within 30 days of the latest addition, or the latest 100 problems, whichever is larger.
 
 This public list is generated from the full repository and includes only the addition date, problem ID, and problem title.
@@ -11,10 +11,21 @@ The complete list is available only in the full repository for eligible paid spo
 - 2026-08-23 `qoj/2041/11364`: I. Polygon Partition
 - 2026-08-23 `qoj/1129/5750`: M. Siteswap
 - 2026-08-23 `qoj/1129/5748`: K. Determinant, or...?
+- 2026-08-23 `qoj/1129/5747`: J. Persian Casino
+- 2026-08-23 `qoj/1129/5746`: I. DAG Generation
+- 2026-08-23 `qoj/1129/5745`: H. Graph Isomorphism
 - 2026-08-23 `qoj/1129/5744`: G. Palindromic Differences
+- 2026-08-23 `qoj/1129/5743`: F. Palindromic Polynomial
 - 2026-08-23 `qoj/1129/5742`: E. Garbage Disposal
 - 2026-08-23 `qoj/1129/5738`: A. Square Sum
 - 2026-08-23 `qoj/1106/5529`: M. Most Annoying Constructive Problem
+- 2026-08-23 `codeforces/1380/g`: G. Circular Dungeon
+- 2026-08-23 `codeforces/1380/f`: F. Strange Addition
+- 2026-08-23 `codeforces/1380/e`: E. Merging Towers
+- 2026-08-23 `codeforces/1380/d`: D. Berserk And Fireball
+- 2026-08-23 `codeforces/1380/c`: C. Create The Teams
+- 2026-08-23 `codeforces/1380/b`: B. Universal Solution
+- 2026-08-23 `codeforces/1380/a`: A. Three Indices
 - 2026-08-23 `atcoder/jsc2026-final/jsc2026_final_g`: G - Glass Overflow
 - 2026-08-23 `atcoder/jsc2026-final/jsc2026_final_f`: F - Four Shelters
 - 2026-08-23 `atcoder/jsc2026-final/jsc2026_final_e`: E - Ensmile
