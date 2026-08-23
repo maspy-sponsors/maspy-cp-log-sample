@@ -1,12 +1,27 @@
 # Recent
 
-Latest 555 problems.
+Latest 565 problems.
 Selection rule: all problems added within 30 days of the latest addition, or the latest 100 problems, whichever is larger.
 
 This public list is generated from the full repository and includes only the addition date, problem ID, and problem title.
 Difficulty ratings, favorite ratings, solution tags, and links to solution notes are omitted.
 The complete list is available only in the full repository for eligible paid sponsors.
 
+- 2026-08-23 `qoj/2041/11367`: L. Solar Farm
+- 2026-08-23 `qoj/2041/11364`: I. Polygon Partition
+- 2026-08-23 `qoj/1129/5750`: M. Siteswap
+- 2026-08-23 `qoj/1129/5748`: K. Determinant, or...?
+- 2026-08-23 `qoj/1129/5744`: G. Palindromic Differences
+- 2026-08-23 `qoj/1129/5742`: E. Garbage Disposal
+- 2026-08-23 `qoj/1129/5738`: A. Square Sum
+- 2026-08-23 `qoj/1106/5529`: M. Most Annoying Constructive Problem
+- 2026-08-23 `atcoder/jsc2026-final/jsc2026_final_g`: G - Glass Overflow
+- 2026-08-23 `atcoder/jsc2026-final/jsc2026_final_f`: F - Four Shelters
+- 2026-08-23 `atcoder/jsc2026-final/jsc2026_final_e`: E - Ensmile
+- 2026-08-23 `atcoder/jsc2026-final/jsc2026_final_d`: D - Debt Cancellation
+- 2026-08-23 `atcoder/jsc2026-final/jsc2026_final_c`: C - Coin Bird
+- 2026-08-23 `atcoder/jsc2026-final/jsc2026_final_b`: B - Binary Flood
+- 2026-08-23 `atcoder/jsc2026-final/jsc2026_final_a`: A - Avoid Consecutives
 - 2026-08-22 `qoj/2041/11368`: M. This Is Sparta!
 - 2026-08-22 `qoj/2041/11365`: J. Popping Balloons
 - 2026-08-22 `qoj/2041/11361`: F. Mob Grinder
@@ -557,8 +572,3 @@ The complete list is available only in the full repository for eligible paid spo
 - 2026-07-25 `atcoder/abc468/c`: C - Between P and Q
 - 2026-07-25 `atcoder/abc468/b`: B - Corridor Watch
 - 2026-07-25 `atcoder/abc468/a`: A - Maximal Value
-- 2026-07-24 `nowcoder/133878/i`: I. Swap master
-- 2026-07-24 `nowcoder/133878/h`: H. Season
-- 2026-07-24 `nowcoder/133878/g`: G. Matrix Marking
-- 2026-07-24 `nowcoder/133878/f`: F. Not Aqre 2
-- 2026-07-24 `codeforces/2245/h`: H. Connect Connect See
