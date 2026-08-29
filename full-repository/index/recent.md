@@ -7,6 +7,29 @@ This public list is generated from the full repository and includes only the add
 Difficulty ratings, favorite ratings, solution tags, and links to solution notes are omitted.
 The complete list is available only in the full repository for eligible paid sponsors.
 
+- 2026-08-30 `codeforces/2258/f`: F. Plus Minus Tree
+- 2026-08-30 `codeforces/2258/e`: E. DivMEX
+- 2026-08-30 `codeforces/2258/d`: D. Magic Tiles
+- 2026-08-30 `codeforces/2258/c`: C. Far Cities
+- 2026-08-30 `codeforces/2258/b2`: B2. Carrot Chopdown (Hard Version)
+- 2026-08-30 `codeforces/2258/a`: A. Odd Eraser
+- 2026-08-29 `codeforces/1993/f2`: F2. Dyn-scripted Robot (Hard Version)
+- 2026-08-29 `codeforces/1993/e`: E. Xor-Grid Problem
+- 2026-08-29 `codeforces/1993/d`: D. Med-imize
+- 2026-08-29 `codeforces/1993/c`: C. Light Switches
+- 2026-08-29 `codeforces/1993/b`: B. Parity and Sum
+- 2026-08-29 `codeforces/1993/a`: A. Question Marks
+- 2026-08-29 `codeforces/1680/f`: F. Lenient Vertex Cover
+- 2026-08-29 `codeforces/1680/e`: E. Moving Chips
+- 2026-08-29 `codeforces/1680/d`: D. Dog Walking
+- 2026-08-29 `codeforces/1680/c`: C. Binary String
+- 2026-08-29 `codeforces/1680/b`: B. Robots
+- 2026-08-29 `codeforces/1680/a`: A. Minimums and Maximums
+- 2026-08-29 `codeforces/555/e`: E. Case of Computer Network
+- 2026-08-29 `codeforces/555/d`: D. Case of a Top Secret
+- 2026-08-29 `codeforces/555/c`: C. Case of Chocolate
+- 2026-08-29 `codeforces/555/b`: B. Case of Fugitive
+- 2026-08-29 `codeforces/555/a`: A. Case of Matryoshkas
 - 2026-08-28 `yukicoder/3653`: No.3653 Space-Time Courier
 - 2026-08-28 `yukicoder/3652`: No.3652 Range Bracket Sequence
 - 2026-08-28 `yukicoder/3651`: No.3651 K-th Sum of Divisors
@@ -476,26 +499,3 @@ The complete list is available only in the full repository for eligible paid spo
 - 2026-08-01 `nowcoder/133880/b`: B. Enlarged Badge
 - 2026-08-01 `nowcoder/133880/a`: A. Echo Prefixes
 - 2026-08-01 `atcoder/agc006/d`: D - Median Pyramid Hard
-- 2026-07-31 `nowcoder/133879/k`: K. Decomposition Trees
-- 2026-07-31 `nowcoder/133879/i`: Rounddog II
-- 2026-07-31 `nowcoder/133879/e`: E. DPRS
-- 2026-07-31 `nowcoder/133879/d`: D. The Game
-- 2026-07-31 `nowcoder/133879/c`: C. Retest Queue
-- 2026-07-31 `codeforces/2196/f`: F. Indivisible
-- 2026-07-31 `codeforces/2196/e2`: E2. Fuzzy Concatenation (Hard version)
-- 2026-07-31 `codeforces/2196/d`: D. Double Bracket Sequence
-- 2026-07-31 `codeforces/2196/c2`: C2. Interactive Graph (Hard Version)
-- 2026-07-31 `codeforces/2196/b`: B. Another Problem about Beautiful Pairs
-- 2026-07-31 `codeforces/2196/a`: A. Game with a Fraction
-- 2026-07-31 `codeforces/1726/h`: H. Mainak and the Bleeding Polygon
-- 2026-07-31 `codeforces/1726/g`: G. A Certain Magical Party
-- 2026-07-31 `codeforces/1726/e`: E. Almost Perfect
-- 2026-07-31 `codeforces/1726/d`: D. Edge Split
-- 2026-07-31 `codeforces/1726/c`: C. Jatayu's Balanced Bracket Sequence
-- 2026-07-31 `codeforces/1726/b`: B. Mainak and Interesting Sequence
-- 2026-07-31 `codeforces/1726/a`: A. Mainak and Array
-- 2026-07-31 `codeforces/18/e`: E. Flag 2
-- 2026-07-31 `codeforces/18/d`: D. Seller Bob
-- 2026-07-31 `codeforces/18/c`: C. Stripe
-- 2026-07-31 `codeforces/18/b`: B. Platforms
-- 2026-07-31 `codeforces/18/a`: A. Triangle
