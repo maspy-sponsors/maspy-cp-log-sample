@@ -7,6 +7,18 @@ This public list is generated from the full repository and includes only the add
 Difficulty ratings, favorite ratings, solution tags, and links to solution notes are omitted.
 The complete list is available only in the full repository for eligible paid sponsors.
 
+- 2026-08-31 `repovive/21/g`: 21G. Tree Broadcast
+- 2026-08-31 `repovive/21/f`: 21F. Sorting the Pieces
+- 2026-08-31 `repovive/21/e`: 21E. Big Pick
+- 2026-08-31 `repovive/21/d`: 21D. One-Way Parking
+- 2026-08-31 `repovive/21/c`: 21C. Final Cut
+- 2026-08-31 `repovive/21/b`: 21B. Adjacent Maximums
+- 2026-08-31 `repovive/21/a`: 21A. Right Gifts
+- 2026-08-31 `atcoder/arc228/e`: E - Pair of Permutations
+- 2026-08-31 `atcoder/arc228/d`: D - Amidakuji 2
+- 2026-08-31 `atcoder/arc228/c`: C - Partially Sort
+- 2026-08-31 `atcoder/arc228/b`: B - Minimize Topological Order
+- 2026-08-31 `atcoder/arc228/a`: A - Row and Col swap
 - 2026-08-30 `nowcoder/133884/j`: J. Start to the End
 - 2026-08-30 `codeforces/2258/f`: F. Plus Minus Tree
 - 2026-08-30 `codeforces/2258/e`: E. DivMEX
@@ -516,15 +528,3 @@ The complete list is available only in the full repository for eligible paid spo
 - 2026-08-02 `atcoder/abc449/c`: C - Comfortable Distance
 - 2026-08-02 `atcoder/abc449/b`: B - Deconstruct Chocolate
 - 2026-08-02 `atcoder/abc449/a`: A - π
-- 2026-08-01 `nowcoder/133880/n`: N. Welcome to HIT
-- 2026-08-01 `nowcoder/133880/l`: L. Matrix
-- 2026-08-01 `nowcoder/133880/k`: K. Sequence（Mex Version）
-- 2026-08-01 `nowcoder/133880/j`: J. Sequence（Median Version）
-- 2026-08-01 `nowcoder/133880/i`: Sequence Operation 2
-- 2026-08-01 `nowcoder/133880/g`: Bipartite Graph
-- 2026-08-01 `nowcoder/133880/e`: E. Koishi and Function
-- 2026-08-01 `nowcoder/133880/d`: D. Half-plane Cover
-- 2026-08-01 `nowcoder/133880/c`: C. Number
-- 2026-08-01 `nowcoder/133880/b`: B. Enlarged Badge
-- 2026-08-01 `nowcoder/133880/a`: A. Echo Prefixes
-- 2026-08-01 `atcoder/agc006/d`: D - Median Pyramid Hard
