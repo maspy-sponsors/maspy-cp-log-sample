@@ -1,18 +1,47 @@
 # Recent
 
-Latest 492 problems.
+Latest 521 problems.
 Selection rule: all problems added within 30 days of the latest addition, or the latest 100 problems, whichever is larger.
 
 This public list is generated from the full repository and includes only the addition date, problem ID, and problem title.
 Difficulty ratings, favorite ratings, solution tags, and links to solution notes are omitted.
 The complete list is available only in the full repository for eligible paid sponsors.
 
+- 2026-08-30 `nowcoder/133884/j`: J. Start to the End
 - 2026-08-30 `codeforces/2258/f`: F. Plus Minus Tree
 - 2026-08-30 `codeforces/2258/e`: E. DivMEX
 - 2026-08-30 `codeforces/2258/d`: D. Magic Tiles
 - 2026-08-30 `codeforces/2258/c`: C. Far Cities
 - 2026-08-30 `codeforces/2258/b2`: B2. Carrot Chopdown (Hard Version)
 - 2026-08-30 `codeforces/2258/a`: A. Odd Eraser
+- 2026-08-30 `codeforces/2042/f`: F. Two Subarrays
+- 2026-08-30 `codeforces/2042/e`: E. Vertex Pairs
+- 2026-08-30 `codeforces/2042/d`: D. Recommendations
+- 2026-08-30 `codeforces/2042/c`: C. Competitive Fishing
+- 2026-08-30 `codeforces/2042/b`: B. Game with Colored Marbles
+- 2026-08-30 `codeforces/2042/a`: A. Greedy Monocarp
+- 2026-08-30 `atcoder/abc473/g`: G - Wipeout
+- 2026-08-30 `atcoder/abc473/f`: F - A/AB Insertion
+- 2026-08-30 `atcoder/abc473/e`: E - K-Divisible Subarrays
+- 2026-08-30 `atcoder/abc473/c`: C - Change Schools
+- 2026-08-30 `atcoder/abc473/b`: B - Old Maid
+- 2026-08-30 `atcoder/abc473/a`: A - Second Half Sum
+- 2026-08-30 `atcoder/abc185/f`: F - Range Xor Query
+- 2026-08-30 `atcoder/abc185/e`: E - Sequence Matching
+- 2026-08-30 `atcoder/abc185/d`: D - Stamp
+- 2026-08-30 `atcoder/abc185/c`: C - Duodecim Ferra
+- 2026-08-30 `atcoder/abc185/b`: B - Smartphone Addiction
+- 2026-08-30 `atcoder/abc185/a`: A - ABC Preparation
+- 2026-08-30 `atcoder/abc157/f`: F - Yakiniku Optimization Problem
+- 2026-08-30 `atcoder/abc157/e`: E - Simple String Queries
+- 2026-08-30 `atcoder/abc157/d`: D - Friend Suggestions
+- 2026-08-30 `atcoder/abc157/c`: C - Guess The Number
+- 2026-08-30 `atcoder/abc157/b`: B - Bingo
+- 2026-08-30 `atcoder/abc157/a`: A - Duplex Printing
+- 2026-08-30 `atcoder/abc125/d`: D - Flipping Signs
+- 2026-08-30 `atcoder/abc125/c`: C - GCD on Blackboard
+- 2026-08-30 `atcoder/abc125/b`: B - Resale
+- 2026-08-30 `atcoder/abc125/a`: A - Biscuit Generator
 - 2026-08-29 `codeforces/1993/f2`: F2. Dyn-scripted Robot (Hard Version)
 - 2026-08-29 `codeforces/1993/e`: E. Xor-Grid Problem
 - 2026-08-29 `codeforces/1993/d`: D. Med-imize
