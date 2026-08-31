@@ -1,6 +1,6 @@
 # Recent
 
-Latest 521 problems.
+Latest 544 problems.
 Selection rule: all problems added within 30 days of the latest addition, or the latest 100 problems, whichever is larger.
 
 This public list is generated from the full repository and includes only the addition date, problem ID, and problem title.
@@ -14,11 +14,34 @@ The complete list is available only in the full repository for eligible paid spo
 - 2026-08-31 `repovive/21/c`: 21C. Final Cut
 - 2026-08-31 `repovive/21/b`: 21B. Adjacent Maximums
 - 2026-08-31 `repovive/21/a`: 21A. Right Gifts
+- 2026-08-31 `qoj/2551/14140`: K. k Operations
+- 2026-08-31 `qoj/2551/14139`: J. JamBrains
+- 2026-08-31 `qoj/2551/14138`: I. Infrared
+- 2026-08-31 `qoj/2551/14137`: H. Heure de Rush
+- 2026-08-31 `qoj/2551/14136`: G. Goofy Songs
+- 2026-08-31 `qoj/2551/14135`: F. Framboise 2
+- 2026-08-31 `qoj/2551/14132`: C. Classement Nationale
+- 2026-08-31 `qoj/2551/14131`: B. Balatro
+- 2026-08-31 `qoj/2551/14130`: A. Apple Tree
+- 2026-08-31 `qoj/2539/14431`: F. Yet Another MST Problem
+- 2026-08-31 `codeforces/1837/f`: F. Editorial for Two
+- 2026-08-31 `codeforces/1837/e`: E. Playoff Fixing
+- 2026-08-31 `codeforces/1837/d`: D. Bracket Coloring
+- 2026-08-31 `codeforces/1837/c`: C. Best Binary String
+- 2026-08-31 `codeforces/1837/b`: B. Comparison String
+- 2026-08-31 `codeforces/1837/a`: A. Grasshopper on a Line
 - 2026-08-31 `atcoder/arc228/e`: E - Pair of Permutations
 - 2026-08-31 `atcoder/arc228/d`: D - Amidakuji 2
 - 2026-08-31 `atcoder/arc228/c`: C - Partially Sort
 - 2026-08-31 `atcoder/arc228/b`: B - Minimize Topological Order
 - 2026-08-31 `atcoder/arc228/a`: A - Row and Col swap
+- 2026-08-31 `atcoder/abc343/g`: G - Compress Strings
+- 2026-08-31 `atcoder/abc343/f`: F - Second Largest Query
+- 2026-08-31 `atcoder/abc343/e`: E - 7x7x7
+- 2026-08-31 `atcoder/abc343/d`: D - Diversity of Scores
+- 2026-08-31 `atcoder/abc343/c`: C - 343
+- 2026-08-31 `atcoder/abc343/b`: B - Adjacency Matrix
+- 2026-08-31 `atcoder/abc343/a`: A - Wrong Answer
 - 2026-08-30 `nowcoder/133884/j`: J. Start to the End
 - 2026-08-30 `codeforces/2258/f`: F. Plus Minus Tree
 - 2026-08-30 `codeforces/2258/e`: E. DivMEX
