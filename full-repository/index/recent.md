@@ -1,12 +1,36 @@
 # Recent
 
-Latest 544 problems.
+Latest 541 problems.
 Selection rule: all problems added within 30 days of the latest addition, or the latest 100 problems, whichever is larger.
 
 This public list is generated from the full repository and includes only the addition date, problem ID, and problem title.
 Difficulty ratings, favorite ratings, solution tags, and links to solution notes are omitted.
 The complete list is available only in the full repository for eligible paid sponsors.
 
+- 2026-09-01 `qoj/2668/15453`: J. Jury of AMPPZ
+- 2026-09-01 `qoj/2539/14436`: K. Robot Construction
+- 2026-09-01 `qoj/2539/14433`: H. Misread Problem
+- 2026-09-01 `qoj/2539/14430`: E. Coffee Shops
+- 2026-09-01 `qoj/2539/14428`: C. Staple Stable
+- 2026-09-01 `qoj/2539/14427`: B. Domain Compression
+- 2026-09-01 `codeforces/1245/f`: F. Daniel and Spring Cleaning
+- 2026-09-01 `codeforces/1245/e`: E. Hyakugoku and Ladders
+- 2026-09-01 `codeforces/1245/d`: D. Shichikuji and Power Grid
+- 2026-09-01 `codeforces/1245/c`: C. Constanze's Machine
+- 2026-09-01 `codeforces/1245/b`: B. Restricted RPS
+- 2026-09-01 `codeforces/1245/a`: A. Good ol' Numbers Coloring
+- 2026-09-01 `codeforces/1027/g`: G. X-mouse in the Campus
+- 2026-09-01 `codeforces/1027/f`: F. Session in BSU
+- 2026-09-01 `codeforces/1027/e`: E. Inverse Coloring
+- 2026-09-01 `codeforces/1027/d`: D. Mouse Hunt
+- 2026-09-01 `codeforces/1027/c`: C. Minimum Value Rectangle
+- 2026-09-01 `codeforces/1027/b`: B. Numbers on the Chessboard
+- 2026-09-01 `codeforces/1027/a`: A. Palindromic Twist
+- 2026-09-01 `codeforces/736/e`: E. Chess Championship
+- 2026-09-01 `codeforces/736/d`: D. Permutations
+- 2026-09-01 `codeforces/736/c`: C. Ostap and Tree
+- 2026-09-01 `codeforces/736/b`: B. Taxes
+- 2026-09-01 `codeforces/736/a`: A. Tennis Championship
 - 2026-08-31 `repovive/21/g`: 21G. Tree Broadcast
 - 2026-08-31 `repovive/21/f`: 21F. Sorting the Pieces
 - 2026-08-31 `repovive/21/e`: 21E. Big Pick
@@ -14,12 +38,17 @@ The complete list is available only in the full repository for eligible paid spo
 - 2026-08-31 `repovive/21/c`: 21C. Final Cut
 - 2026-08-31 `repovive/21/b`: 21B. Adjacent Maximums
 - 2026-08-31 `repovive/21/a`: 21A. Right Gifts
+- 2026-08-31 `qoj/2668/15454`: K. Kids' Blocks
+- 2026-08-31 `qoj/2668/15451`: H. Hacking
+- 2026-08-31 `qoj/2668/15448`: E. Enigma
+- 2026-08-31 `qoj/2668/15444`: A. AIMPPZ
 - 2026-08-31 `qoj/2551/14140`: K. k Operations
 - 2026-08-31 `qoj/2551/14139`: J. JamBrains
 - 2026-08-31 `qoj/2551/14138`: I. Infrared
 - 2026-08-31 `qoj/2551/14137`: H. Heure de Rush
 - 2026-08-31 `qoj/2551/14136`: G. Goofy Songs
 - 2026-08-31 `qoj/2551/14135`: F. Framboise 2
+- 2026-08-31 `qoj/2551/14133`: D. Digit Division
 - 2026-08-31 `qoj/2551/14132`: C. Classement Nationale
 - 2026-08-31 `qoj/2551/14131`: B. Balatro
 - 2026-08-31 `qoj/2551/14130`: A. Apple Tree
@@ -519,35 +548,3 @@ The complete list is available only in the full repository for eligible paid spo
 - 2026-08-03 `atcoder/abc432/c`: C - Candy Tribulation
 - 2026-08-03 `atcoder/abc432/b`: B - Permute to Minimize
 - 2026-08-03 `atcoder/abc432/a`: A - Permute to Maximize
-- 2026-08-02 `qoj/1576/8512`: H. Harmonic Operations
-- 2026-08-02 `nowcoder/133878/j`: J. Tree.zip
-- 2026-08-02 `nowcoder/133877/l`: L. Lazy Shuffling
-- 2026-08-02 `nowcoder/133877/b`: B. Bitwise Maximization
-- 2026-08-02 `nowcoder/133876/c`: C. Fish Eating
-- 2026-08-02 `codeforces/2248/g`: G. No Balance Left
-- 2026-08-02 `codeforces/2248/f`: F. Matrix Elimination
-- 2026-08-02 `codeforces/2248/e`: E. Excuse for Breaks
-- 2026-08-02 `codeforces/2248/d`: D. Good Pair Queries
-- 2026-08-02 `codeforces/2248/c`: C. Maximize the Score
-- 2026-08-02 `codeforces/2248/b`: B. Merge to Match
-- 2026-08-02 `codeforces/2248/a`: A. You Delete, I Delete
-- 2026-08-02 `codeforces/660/f`: F. Bear and Bowling 4
-- 2026-08-02 `codeforces/660/e`: E. Different Subsets For All Tuples
-- 2026-08-02 `codeforces/660/d`: D. Number of Parallelograms
-- 2026-08-02 `codeforces/660/c`: C. Hard Process
-- 2026-08-02 `codeforces/660/b`: B. Seating On Bus
-- 2026-08-02 `codeforces/660/a`: A. Co-prime Array
-- 2026-08-02 `atcoder/abc469/g`: G - K-nacci Operations
-- 2026-08-02 `atcoder/abc469/f`: F - GCD Maximum Spanning Tree
-- 2026-08-02 `atcoder/abc469/e`: E - Pro Exam Eligibility
-- 2026-08-02 `atcoder/abc469/d`: D - The Big Two
-- 2026-08-02 `atcoder/abc469/c`: C - Cantrip
-- 2026-08-02 `atcoder/abc469/b`: B - Isolated Seats
-- 2026-08-02 `atcoder/abc469/a`: A - Train Car
-- 2026-08-02 `atcoder/abc449/g`: G - Many Repunit Sum 2
-- 2026-08-02 `atcoder/abc449/f`: F - Grid Clipping
-- 2026-08-02 `atcoder/abc449/e`: E - A += v
-- 2026-08-02 `atcoder/abc449/d`: D - Make Target 2
-- 2026-08-02 `atcoder/abc449/c`: C - Comfortable Distance
-- 2026-08-02 `atcoder/abc449/b`: B - Deconstruct Chocolate
-- 2026-08-02 `atcoder/abc449/a`: A - π
