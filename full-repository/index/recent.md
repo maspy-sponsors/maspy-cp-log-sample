@@ -1,6 +1,6 @@
 # Recent
 
-Latest 528 problems.
+Latest 533 problems.
 Selection rule: all problems added within 30 days of the latest addition, or the latest 100 problems, whichever is larger.
 
 This public list is generated from the full repository and includes only the addition date, problem ID, and problem title.
@@ -14,6 +14,11 @@ The complete list is available only in the full repository for eligible paid spo
 - 2026-09-02 `qoj/2828/16116`: B. AND Reconstruction
 - 2026-09-02 `qoj/2828/16115`: A. Sum Game
 - 2026-09-02 `qoj/1070/5260`: L. The Game
+- 2026-09-02 `qoj/1070/5259`: K – Skills in Pills
+- 2026-09-02 `qoj/1070/5254`: F. Differences
+- 2026-09-02 `qoj/1070/5253`: E. Denormalization
+- 2026-09-02 `qoj/1070/5251`: C. Constellations
+- 2026-09-02 `qoj/1070/5250`: B. Combination Locks
 - 2026-09-01 `qoj/2668/15453`: J. Jury of AMPPZ
 - 2026-09-01 `qoj/2539/14436`: K. Robot Construction
 - 2026-09-01 `qoj/2539/14433`: H. Misread Problem
