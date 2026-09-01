@@ -1,12 +1,19 @@
 # Recent
 
-Latest 541 problems.
+Latest 528 problems.
 Selection rule: all problems added within 30 days of the latest addition, or the latest 100 problems, whichever is larger.
 
 This public list is generated from the full repository and includes only the addition date, problem ID, and problem title.
 Difficulty ratings, favorite ratings, solution tags, and links to solution notes are omitted.
 The complete list is available only in the full repository for eligible paid sponsors.
 
+- 2026-09-02 `qoj/2828/16125`: K. Connect the Points
+- 2026-09-02 `qoj/2828/16121`: G. Intervals from Triplets
+- 2026-09-02 `qoj/2828/16120`: F. Language Barrier
+- 2026-09-02 `qoj/2828/16119`: E. Phone Company
+- 2026-09-02 `qoj/2828/16116`: B. AND Reconstruction
+- 2026-09-02 `qoj/2828/16115`: A. Sum Game
+- 2026-09-02 `qoj/1070/5260`: L. The Game
 - 2026-09-01 `qoj/2668/15453`: J. Jury of AMPPZ
 - 2026-09-01 `qoj/2539/14436`: K. Robot Construction
 - 2026-09-01 `qoj/2539/14433`: H. Misread Problem
@@ -31,6 +38,11 @@ The complete list is available only in the full repository for eligible paid spo
 - 2026-09-01 `codeforces/736/c`: C. Ostap and Tree
 - 2026-09-01 `codeforces/736/b`: B. Taxes
 - 2026-09-01 `codeforces/736/a`: A. Tennis Championship
+- 2026-09-01 `codeforces/339/e`: E. Three Swaps
+- 2026-09-01 `codeforces/339/d`: D. Xenia and Bit Operations
+- 2026-09-01 `codeforces/339/c`: C. Xenia and Weights
+- 2026-09-01 `codeforces/339/b`: B. Xenia and Ringroad
+- 2026-09-01 `codeforces/339/a`: A. Helpful Maths
 - 2026-08-31 `repovive/21/g`: 21G. Tree Broadcast
 - 2026-08-31 `repovive/21/f`: 21F. Sorting the Pieces
 - 2026-08-31 `repovive/21/e`: 21E. Big Pick
@@ -523,28 +535,3 @@ The complete list is available only in the full repository for eligible paid spo
 - 2026-08-04 `codeforces/370/c`: C. Mittens
 - 2026-08-04 `codeforces/370/b`: B. Berland Bingo
 - 2026-08-04 `codeforces/370/a`: A. Rook, Bishop and King
-- 2026-08-03 `qoj/1093/5426`: M. Drain the Water Tank
-- 2026-08-03 `qoj/1093/5425`: L. Proposition Composition
-- 2026-08-03 `qoj/1093/5424`: K. NaN in a Heap
-- 2026-08-03 `qoj/1093/5423`: J. Perfect Matching
-- 2026-08-03 `qoj/1093/5422`: I. Perfect Palindrome
-- 2026-08-03 `qoj/1093/5421`: H. Factories Once More
-- 2026-08-03 `qoj/1093/5420`: G. Inscryption
-- 2026-08-03 `qoj/1093/5419`: F. Triangles
-- 2026-08-03 `qoj/1093/5418`: E. Color the Tree
-- 2026-08-03 `qoj/1093/5417`: D. Chat Program
-- 2026-08-03 `qoj/1093/5416`: C. Fabulous Fungus Frenzy
-- 2026-08-03 `qoj/1093/5415`: B. Ropeway
-- 2026-08-03 `qoj/1093/5414`: A. Stop, Yesterday Please No More
-- 2026-08-03 `codeforces/809/e`: E. Surprise me!
-- 2026-08-03 `codeforces/809/d`: D. Hitchhiking in the Baltic States
-- 2026-08-03 `codeforces/809/c`: C. Find a car
-- 2026-08-03 `codeforces/809/b`: B. Glad to see you!
-- 2026-08-03 `codeforces/809/a`: A. Do you want a date?
-- 2026-08-03 `atcoder/abc432/g`: G - Sum of Binom(A, B)
-- 2026-08-03 `atcoder/abc432/f`: F - Candy Redistribution
-- 2026-08-03 `atcoder/abc432/e`: E - Clamp
-- 2026-08-03 `atcoder/abc432/d`: D - Suddenly, A Tempest
-- 2026-08-03 `atcoder/abc432/c`: C - Candy Tribulation
-- 2026-08-03 `atcoder/abc432/b`: B - Permute to Minimize
-- 2026-08-03 `atcoder/abc432/a`: A - Permute to Maximize
