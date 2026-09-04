@@ -1,12 +1,27 @@
 # Recent
 
-Latest 533 problems.
+Latest 505 problems.
 Selection rule: all problems added within 30 days of the latest addition, or the latest 100 problems, whichever is larger.
 
 This public list is generated from the full repository and includes only the addition date, problem ID, and problem title.
 Difficulty ratings, favorite ratings, solution tags, and links to solution notes are omitted.
 The complete list is available only in the full repository for eligible paid sponsors.
 
+- 2026-09-04 `codeforces/609/f`: F. Frogs and mosquitoes
+- 2026-09-04 `codeforces/609/e`: E. Minimum spanning tree for each edge
+- 2026-09-04 `codeforces/609/d`: D. Gadgets for dollars and pounds
+- 2026-09-04 `codeforces/609/c`: C. Load Balancing
+- 2026-09-04 `codeforces/609/b`: B. The Best Gift
+- 2026-09-04 `codeforces/609/a`: A. USB Flash Drives
+- 2026-09-03 `nowcoder/140119/l`: L. XOR Team
+- 2026-09-03 `nowcoder/140119/i`: I. Slay the Spire
+- 2026-09-03 `nowcoder/140119/h`: H. Set
+- 2026-09-03 `nowcoder/140119/f`: F. Light the Lamp
+- 2026-09-03 `nowcoder/140119/d`: D. Escape Root
+- 2026-09-03 `nowcoder/140119/b`: Bingo Game
+- 2026-09-03 `nowcoder/140119/a`: A. Another Searching Problem
+- 2026-09-03 `nowcoder/133883/b`: B. Deep Finesse
+- 2026-09-03 `codeforces/598/f`: F. Cut Length
 - 2026-09-02 `qoj/2828/16125`: K. Connect the Points
 - 2026-09-02 `qoj/2828/16121`: G. Intervals from Triplets
 - 2026-09-02 `qoj/2828/16120`: F. Language Barrier
@@ -19,6 +34,11 @@ The complete list is available only in the full repository for eligible paid spo
 - 2026-09-02 `qoj/1070/5253`: E. Denormalization
 - 2026-09-02 `qoj/1070/5251`: C. Constellations
 - 2026-09-02 `qoj/1070/5250`: B. Combination Locks
+- 2026-09-02 `codeforces/598/e`: E. Chocolate Bar
+- 2026-09-02 `codeforces/598/d`: D. Igor In the Museum
+- 2026-09-02 `codeforces/598/c`: C. Nearest vectors
+- 2026-09-02 `codeforces/598/b`: B. Queries on a String
+- 2026-09-02 `codeforces/598/a`: A. Tricky Sum
 - 2026-09-01 `qoj/2668/15453`: J. Jury of AMPPZ
 - 2026-09-01 `qoj/2539/14436`: K. Robot Construction
 - 2026-09-01 `qoj/2539/14433`: H. Misread Problem
@@ -492,51 +512,3 @@ The complete list is available only in the full repository for eligible paid spo
 - 2026-08-06 `nowcoder/133881/i`: I. Integer Function
 - 2026-08-06 `nowcoder/133881/h`: H. Hard Problem
 - 2026-08-06 `nowcoder/133881/d`: D. Divisibility
-- 2026-08-05 `nowcoder/133881/g`: G. Game on a Graph
-- 2026-08-05 `nowcoder/133881/f`: F. Full Alphabet
-- 2026-08-05 `nowcoder/133881/c`: C. Cutting Trees
-- 2026-08-05 `nowcoder/133881/a`: A Permutation Problem
-- 2026-08-05 `nowcoder/133878/d`: D. Longest Run of Ones
-- 2026-08-05 `nowcoder/133877/k`: K. Kindergarten
-- 2026-08-05 `nowcoder/133877/h`: H. Hyperspace Pairing
-- 2026-08-05 `nowcoder/133877/e`: E. Easy Puzzle
-- 2026-08-05 `codeforces/2254/g`: G. Nightcrawler
-- 2026-08-05 `codeforces/2254/f`: F. Whiplash
-- 2026-08-05 `codeforces/2254/e`: E. Chronostasis
-- 2026-08-05 `codeforces/2254/d`: D. Silhouette
-- 2026-08-05 `codeforces/2254/c2`: C2. Marenol (hard version)
-- 2026-08-05 `codeforces/2254/b`: B. Evanescent
-- 2026-08-05 `codeforces/2254/a`: A. Riptide
-- 2026-08-04 `qoj/3799/18432`: E. Rook
-- 2026-08-04 `qoj/3799/18430`: C. Believe in You
-- 2026-08-04 `nowcoder/133879/h`: H. String
-- 2026-08-04 `nowcoder/133876/l`: Substrings of Substrings
-- 2026-08-04 `nowcoder/133876/i`: I. Combination of Two Nice Problems
-- 2026-08-04 `nowcoder/133876/d`: D. Something Different
-- 2026-08-04 `nowcoder/133876/b`: B. Cast off as Cast
-- 2026-08-04 `codeforces/2140/f`: F. Sum Minimisation
-- 2026-08-04 `codeforces/2140/e2`: E2. Prime Gaming (Hard Version)
-- 2026-08-04 `codeforces/2140/d`: D. A Cruel Segment's Thesis
-- 2026-08-04 `codeforces/2140/c`: C. Ultimate Value
-- 2026-08-04 `codeforces/2140/b`: B. Another Divisibility Problem
-- 2026-08-04 `codeforces/2140/a`: A. Shift Sort
-- 2026-08-04 `codeforces/2065/h`: H. Bro Thinks He's Him
-- 2026-08-04 `codeforces/2065/g`: G. Skibidus and Capping
-- 2026-08-04 `codeforces/2065/f`: F. Skibidus and Slay
-- 2026-08-04 `codeforces/2065/e`: E. Skibidus and Rizz
-- 2026-08-04 `codeforces/2065/d`: D. Skibidus and Sigma
-- 2026-08-04 `codeforces/2065/c2`: C2. Skibidus and Fanum Tax (hard version)
-- 2026-08-04 `codeforces/2065/b`: B. Skibidus and Ohio
-- 2026-08-04 `codeforces/2065/a`: A. Skibidus and Amog'u
-- 2026-08-04 `codeforces/1874/g`: G. Jellyfish and Miku
-- 2026-08-04 `codeforces/1874/f`: F. Jellyfish and OEIS
-- 2026-08-04 `codeforces/1874/e`: E. Jellyfish and Hack
-- 2026-08-04 `codeforces/1874/d`: D. Jellyfish and Miku
-- 2026-08-04 `codeforces/1874/c`: C. Jellyfish and EVA
-- 2026-08-04 `codeforces/1874/b`: B. Jellyfish and Math
-- 2026-08-04 `codeforces/1874/a`: A. Jellyfish and Game
-- 2026-08-04 `codeforces/370/e`: E. Summer Reading
-- 2026-08-04 `codeforces/370/d`: D. Broken Monitor
-- 2026-08-04 `codeforces/370/c`: C. Mittens
-- 2026-08-04 `codeforces/370/b`: B. Berland Bingo
-- 2026-08-04 `codeforces/370/a`: A. Rook, Bishop and King
