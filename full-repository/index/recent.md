@@ -1,12 +1,26 @@
 # Recent
 
-Latest 505 problems.
+Latest 514 problems.
 Selection rule: all problems added within 30 days of the latest addition, or the latest 100 problems, whichever is larger.
 
 This public list is generated from the full repository and includes only the addition date, problem ID, and problem title.
 Difficulty ratings, favorite ratings, solution tags, and links to solution notes are omitted.
 The complete list is available only in the full repository for eligible paid sponsors.
 
+- 2026-09-05 `yukicoder/3677`: No.3677 Global Checksum
+- 2026-09-05 `yukicoder/3676`: No.3676 Cuboid Alignment
+- 2026-09-05 `yukicoder/3675`: No.3675 偏光板
+- 2026-09-05 `yukicoder/3673`: No.3673 未来予知
+- 2026-09-05 `yukicoder/3672`: No.3672 Volume 3D
+- 2026-09-05 `yukicoder/3671`: No.3671 Reusable Lazy Segment Tree
+- 2026-09-05 `yukicoder/3670`: No.3670 Fast Knapsack
+- 2026-09-05 `yukicoder/3669`: No.3669 误差绝不允许
+- 2026-09-05 `atcoder/arc229/f`: F - Angst for All Pairs 2
+- 2026-09-05 `atcoder/arc229/e`: E - Taka and Hashi
+- 2026-09-05 `atcoder/arc229/d`: D - Nim_k ?
+- 2026-09-05 `atcoder/arc229/c`: C - Sum of Average 2
+- 2026-09-05 `atcoder/arc229/b`: B - Halving Subtraction
+- 2026-09-05 `atcoder/arc229/a`: A - AtCoder Reverse Contest
 - 2026-09-04 `codeforces/609/f`: F. Frogs and mosquitoes
 - 2026-09-04 `codeforces/609/e`: E. Minimum spanning tree for each edge
 - 2026-09-04 `codeforces/609/d`: D. Gadgets for dollars and pounds
@@ -507,8 +521,3 @@ The complete list is available only in the full repository for eligible paid spo
 - 2026-08-07 `codeforces/2252/c`: C. Risky Tower
 - 2026-08-07 `codeforces/2252/b`: B. Always Changing
 - 2026-08-07 `codeforces/2252/a`: A. Boss Fight
-- 2026-08-06 `nowcoder/133881/l`: L. Longest Palindromic Substring Queries
-- 2026-08-06 `nowcoder/133881/j`: J. Just Add and Divide
-- 2026-08-06 `nowcoder/133881/i`: I. Integer Function
-- 2026-08-06 `nowcoder/133881/h`: H. Hard Problem
-- 2026-08-06 `nowcoder/133881/d`: D. Divisibility
