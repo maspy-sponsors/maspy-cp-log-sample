@@ -1,12 +1,20 @@
 # Recent
 
-Latest 514 problems.
+Latest 505 problems.
 Selection rule: all problems added within 30 days of the latest addition, or the latest 100 problems, whichever is larger.
 
 This public list is generated from the full repository and includes only the addition date, problem ID, and problem title.
 Difficulty ratings, favorite ratings, solution tags, and links to solution notes are omitted.
 The complete list is available only in the full repository for eligible paid sponsors.
 
+- 2026-09-06 `codeforces/2259/h`: H. Treasure Map Destruction (Counting Version)
+- 2026-09-06 `codeforces/2259/g`: G. Index Removal
+- 2026-09-06 `codeforces/2259/f`: F. Binary Bubble Sort Inversions
+- 2026-09-06 `codeforces/2259/e`: E. Treasure Map Destruction (Constructive Version)
+- 2026-09-06 `codeforces/2259/d`: D. MEX Multiset
+- 2026-09-06 `codeforces/2259/c`: C. 101
+- 2026-09-06 `codeforces/2259/b`: B. Minus Two
+- 2026-09-06 `codeforces/2259/a`: A. Moo Language School
 - 2026-09-05 `yukicoder/3677`: No.3677 Global Checksum
 - 2026-09-05 `yukicoder/3676`: No.3676 Cuboid Alignment
 - 2026-09-05 `yukicoder/3675`: No.3675 偏光板
@@ -504,20 +512,3 @@ The complete list is available only in the full repository for eligible paid spo
 - 2026-08-08 `atcoder/abc439/c`: C - 2026
 - 2026-08-08 `atcoder/abc439/b`: B - Happy Number
 - 2026-08-08 `atcoder/abc439/a`: A - 2^n - 2*n
-- 2026-08-07 `yukicoder/13`: No.13 囲みたい！
-- 2026-08-07 `yukicoder/12`: No.12 限定された素数
-- 2026-08-07 `yukicoder/11`: No.11 カードマッチ
-- 2026-08-07 `qoj/1096/5444`: L. Tavern Chess
-- 2026-08-07 `qoj/1096/5443`: K. Security at Museums
-- 2026-08-07 `qoj/1096/5440`: H. P-P-Palindrome
-- 2026-08-07 `qoj/1096/5438`: F. Half Mixed
-- 2026-08-07 `qoj/1096/5437`: E. Graph Completing
-- 2026-08-07 `qoj/1096/5436`: D. DRX vs. T1
-- 2026-08-07 `qoj/1096/5435`: C. Clamped Sequence
-- 2026-08-07 `qoj/1096/5433`: A. Absolute Difference
-- 2026-08-07 `codeforces/2252/f`: F. Spectral Components
-- 2026-08-07 `codeforces/2252/e`: E. Generational Triplets
-- 2026-08-07 `codeforces/2252/d`: D. Array Replacement
-- 2026-08-07 `codeforces/2252/c`: C. Risky Tower
-- 2026-08-07 `codeforces/2252/b`: B. Always Changing
-- 2026-08-07 `codeforces/2252/a`: A. Boss Fight
