@@ -1,12 +1,25 @@
 # Recent
 
-Latest 505 problems.
+Latest 462 problems.
 Selection rule: all problems added within 30 days of the latest addition, or the latest 100 problems, whichever is larger.
 
 This public list is generated from the full repository and includes only the addition date, problem ID, and problem title.
 Difficulty ratings, favorite ratings, solution tags, and links to solution notes are omitted.
 The complete list is available only in the full repository for eligible paid sponsors.
 
+- 2026-09-09 `codeforces/2260/f`: F. Edge Three-Coloring
+- 2026-09-09 `codeforces/2260/d`: D. Signs of Prefix Sums
+- 2026-09-09 `codeforces/2260/c`: C. Maximize XOR, Minimize Operations
+- 2026-09-09 `codeforces/2260/b`: B. Monocarp and Projects
+- 2026-09-09 `codeforces/2260/a`: A. Monocarp's Contest
+- 2026-09-09 `atcoder/abc474/g`: G - LRUD Moving 2
+- 2026-09-09 `atcoder/abc474/f`: F - Increment All Divisors
+- 2026-09-09 `atcoder/abc474/e`: E - One Time Coupon
+- 2026-09-09 `atcoder/abc474/d`: D - Outweigh
+- 2026-09-09 `atcoder/abc474/c`: C - Remove and Append
+- 2026-09-09 `atcoder/abc474/b`: B - Exit Order
+- 2026-09-09 `atcoder/abc474/a`: A - Not X
+- 2026-09-07 `repovive/22/f`: 22F. Shortest Wiring
 - 2026-09-06 `codeforces/2259/h`: H. Treasure Map Destruction (Counting Version)
 - 2026-09-06 `codeforces/2259/g`: G. Index Removal
 - 2026-09-06 `codeforces/2259/f`: F. Binary Bubble Sort Inversions
@@ -456,59 +469,3 @@ The complete list is available only in the full repository for eligible paid spo
 - 2026-08-11 `codeforces/512/c`: C. Fox And Dinner
 - 2026-08-11 `codeforces/512/b`: B. Fox And Jumping
 - 2026-08-11 `codeforces/512/a`: A. Fox And Names
-- 2026-08-10 `codeforces/2255/e2`: E2. What Will Remain at the End? (Hard Version)
-- 2026-08-10 `codeforces/2255/d`: D. How Long Until Nothing Remains?
-- 2026-08-10 `codeforces/2255/c`: C. Even If the World Turns
-- 2026-08-10 `codeforces/2255/b`: B. A Ribbon for Tomorrow
-- 2026-08-10 `codeforces/2255/a`: A. Hot Potatoes at the Fairy Warehouse
-- 2026-08-09 `qoj/1096/5445`: M. Vulpecula
-- 2026-08-09 `qoj/1096/5442`: J. Referee Without Red
-- 2026-08-09 `qoj/1096/5441`: I. Quartz Collection
-- 2026-08-09 `qoj/1096/5434`: B. Binary Substrings
-- 2026-08-09 `nowcoder/133877/j`: J. Just Round It
-- 2026-08-09 `nowcoder/133877/d`: D. Delivering Newspapers
-- 2026-08-09 `nowcoder/133877/a`: A. Annoying Traffic
-- 2026-08-09 `codeforces/2253/f`: F. 4-beauty
-- 2026-08-09 `codeforces/2253/e`: E. Diameter Intersections
-- 2026-08-09 `codeforces/2253/d`: D. Hypercarp and Interdimensional Jumps
-- 2026-08-09 `codeforces/2253/c`: C. Sum of Distinct Values in a Matrix
-- 2026-08-09 `codeforces/2253/b`: B. Hypercarp and the Control Panel
-- 2026-08-09 `codeforces/2253/a`: A. The Best Card
-- 2026-08-09 `codeforces/1254/e`: E. Send Tree to Charlie
-- 2026-08-09 `codeforces/1254/d`: D. Tree Queries
-- 2026-08-09 `codeforces/1254/c`: C. Point Ordering
-- 2026-08-09 `codeforces/1254/b2`: B2. Send Boxes to Alice (Hard Version)
-- 2026-08-09 `codeforces/1254/a`: A. Feeding Chicken
-- 2026-08-09 `atcoder/arc226/e`: E - Cellular Messenger
-- 2026-08-09 `atcoder/arc226/d`: D - Penta-Queue
-- 2026-08-09 `atcoder/arc226/c`: C - Square Corner Packing
-- 2026-08-09 `atcoder/arc226/b`: B - Bin-ary Packing
-- 2026-08-09 `atcoder/arc226/a`: A - Meeting Division
-- 2026-08-08 `yukicoder/1526`: No.1526 Sum of Mex 2
-- 2026-08-08 `qoj/1096/5439`: G. Meet in the Middle
-- 2026-08-08 `nowcoder/133882/h`: H. Modulo Triples
-- 2026-08-08 `nowcoder/133882/g`: G. Both of You, Dance Like You Want to Win!
-- 2026-08-08 `nowcoder/133882/b`: B. Simple Math 5
-- 2026-08-08 `codeforces/250/e`: E. Mad Joe
-- 2026-08-08 `codeforces/250/d`: D. Building Bridge
-- 2026-08-08 `codeforces/250/c`: C. Movie Critics
-- 2026-08-08 `codeforces/250/b`: B. Restoring IPv6
-- 2026-08-08 `codeforces/250/a`: A. Paper Work
-- 2026-08-08 `codeforces/3/d`: D. Least Cost Bracket Sequence
-- 2026-08-08 `codeforces/3/c`: C. Tic-tac-toe
-- 2026-08-08 `codeforces/3/b`: B. Lorry
-- 2026-08-08 `codeforces/3/a`: A. Shortest path of the king
-- 2026-08-08 `atcoder/abc470/g`: G - Σex
-- 2026-08-08 `atcoder/abc470/f`: F - Googol Swaps
-- 2026-08-08 `atcoder/abc470/e`: E - Concentration
-- 2026-08-08 `atcoder/abc470/d`: D - Inverse and Swap
-- 2026-08-08 `atcoder/abc470/c`: C - Inc, Dec, Xor
-- 2026-08-08 `atcoder/abc470/b`: B - Monocolor
-- 2026-08-08 `atcoder/abc470/a`: A - Fizz
-- 2026-08-08 `atcoder/abc439/g`: G - Sugoroku 6
-- 2026-08-08 `atcoder/abc439/f`: F - Beautiful Kadomatsu
-- 2026-08-08 `atcoder/abc439/e`: E - Kite
-- 2026-08-08 `atcoder/abc439/d`: D - Kadomatsu Subsequence
-- 2026-08-08 `atcoder/abc439/c`: C - 2026
-- 2026-08-08 `atcoder/abc439/b`: B - Happy Number
-- 2026-08-08 `atcoder/abc439/a`: A - 2^n - 2*n
