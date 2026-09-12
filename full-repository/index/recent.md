@@ -1,12 +1,13 @@
 # Recent
 
-Latest 462 problems.
+Latest 388 problems.
 Selection rule: all problems added within 30 days of the latest addition, or the latest 100 problems, whichever is larger.
 
 This public list is generated from the full repository and includes only the addition date, problem ID, and problem title.
 Difficulty ratings, favorite ratings, solution tags, and links to solution notes are omitted.
 The complete list is available only in the full repository for eligible paid sponsors.
 
+- 2026-09-13 `codeforces/2262/e`: E. Paired Bracket Sequences
 - 2026-09-09 `codeforces/2260/f`: F. Edge Three-Coloring
 - 2026-09-09 `codeforces/2260/d`: D. Signs of Prefix Sums
 - 2026-09-09 `codeforces/2260/c`: C. Maximize XOR, Minimize Operations
@@ -394,78 +395,3 @@ The complete list is available only in the full repository for eligible paid spo
 - 2026-08-15 `atcoder/abc471/c`: C - Cookies and Greedy Takahashi
 - 2026-08-15 `atcoder/abc471/b`: B - Survey Tabulation
 - 2026-08-15 `atcoder/abc471/a`: A - Nine or Nein
-- 2026-08-14 `yukicoder/3629`: No.3629 Maximize Subsequense Mex
-- 2026-08-14 `yukicoder/3628`: No.3628 Sum of Superfibonacci Numbers
-- 2026-08-14 `yukicoder/3627`: No.3627 Share the Median
-- 2026-08-14 `yukicoder/3626`: No.3626 Not a Prefix
-- 2026-08-14 `yukicoder/3625`: No.3625 Find Superfibonacci Number
-- 2026-08-14 `yukicoder/3624`: No.3624 Product
-- 2026-08-14 `yukicoder/3623`: No.3623 2-Letter Shiritori 2
-- 2026-08-14 `yukicoder/3622`: No.3622 Perfect Matching of Crab
-- 2026-08-14 `qoj/1106/5525`: I. Increasing Grid
-- 2026-08-14 `qoj/1106/5521`: E. Excellent XOR Problem
-- 2026-08-14 `qoj/1106/5518`: B. Binary Arrays and Sliding Sums
-- 2026-08-14 `qoj/1106/5517`: A. Adjacent Product Sum
-- 2026-08-14 `qoj/1103/5511`: M. Minor Evil
-- 2026-08-14 `qoj/1103/5510`: L. Line Replacements
-- 2026-08-14 `qoj/1103/5508`: J. Job for a Hobbit
-- 2026-08-14 `qoj/1103/5506`: H. Hyperloop
-- 2026-08-14 `qoj/1103/5504`: F. Flower Garden
-- 2026-08-14 `qoj/1103/5502`: D. Dazzling Mountain
-- 2026-08-14 `qoj/1103/5500`: B. Bars
-- 2026-08-14 `qoj/1103/5499`: A. Aliases
-- 2026-08-13 `qoj/1103/5509`: K. Kooky Tic-Tac-Toe
-- 2026-08-13 `qoj/1103/5507`: I. Investors
-- 2026-08-13 `qoj/1103/5505`: G. Great Chase
-- 2026-08-13 `qoj/1103/5503`: E. Euclidean Algorithm
-- 2026-08-13 `qoj/1103/5501`: C. Ctrl+C Ctrl+V
-- 2026-08-13 `qoj/1099/5463`: I. Range Closest Pair of Points Query
-- 2026-08-13 `nowcoder/133882/l`: L. Bobo's Lucky Modulo
-- 2026-08-13 `nowcoder/133882/k`: K. D-Mail Institution Codes
-- 2026-08-13 `nowcoder/133882/d`: Tenkaichi Budōkai
-- 2026-08-13 `nowcoder/133882/c`: C. Pokémon GET daze!
-- 2026-08-13 `nowcoder/133882/a`: A. Infiltrate Angel's Domain
-- 2026-08-13 `codeforces/2141/i`: I. Color the Tree
-- 2026-08-13 `codeforces/2141/h`: H. Merging Vertices in a Graph
-- 2026-08-13 `codeforces/2141/g`: G. Good Robot Paths
-- 2026-08-13 `codeforces/2141/f`: F. Array Reduction
-- 2026-08-13 `codeforces/2141/e`: E. Perfect Cut
-- 2026-08-13 `codeforces/2141/d`: D. Avoid Minimums
-- 2026-08-13 `codeforces/2141/c`: C. Minimum on Subarrays
-- 2026-08-13 `codeforces/2141/b`: B. Games
-- 2026-08-13 `codeforces/2141/a`: A. Furniture Store
-- 2026-08-13 `codeforces/14/e`: E. Camels
-- 2026-08-13 `codeforces/14/d`: D. Two Paths
-- 2026-08-13 `codeforces/14/c`: C. Four Segments
-- 2026-08-13 `codeforces/14/b`: B. Young Photographer
-- 2026-08-13 `codeforces/14/a`: A. Letter
-- 2026-08-12 `qoj/3799/18436`: I. Nailoong vs. Bombloong 2
-- 2026-08-12 `qoj/3799/18433`: F. Lottery
-- 2026-08-12 `qoj/1099/5464`: J. Dice Game
-- 2026-08-12 `nowcoder/133879/l`: L. Geometry
-- 2026-08-12 `nowcoder/133879/g`: G. Fading Memories
-- 2026-08-11 `yukicoder/3621`: No.3621 Find Schröder Coordinate in Nonresonant Case
-- 2026-08-11 `yukicoder/3620`: No.3620 Compositional Power with Schröder Coordinate 2
-- 2026-08-11 `yukicoder/3619`: No.3619 Compositional Power with Schröder Coordinate
-- 2026-08-11 `qoj/1099/5466`: L. Permutation Compression
-- 2026-08-11 `qoj/1099/5465`: K. Maximum GCD
-- 2026-08-11 `qoj/1099/5462`: H. Another Goose Goose Duck Problem
-- 2026-08-11 `qoj/1099/5461`: G. Paddle Star
-- 2026-08-11 `qoj/1099/5460`: F. Sum of Numbers
-- 2026-08-11 `qoj/1099/5459`: E. Goose, goose, DUCK?
-- 2026-08-11 `qoj/1099/5458`: D. Shortest Path Query
-- 2026-08-11 `qoj/1099/5457`: C. Painting Grid
-- 2026-08-11 `qoj/1099/5456`: B. Big Picture
-- 2026-08-11 `qoj/1099/5455`: A. TreeScript
-- 2026-08-11 `nowcoder/133878/e`: E. Minesweeper
-- 2026-08-11 `nowcoder/133878/c`: C. Cakeshop
-- 2026-08-11 `codeforces/821/e`: E. Okabe and El Psy Kongroo
-- 2026-08-11 `codeforces/821/d`: D. Okabe and City
-- 2026-08-11 `codeforces/821/c`: C. Okabe and Boxes
-- 2026-08-11 `codeforces/821/b`: B. Okabe and Banana Trees
-- 2026-08-11 `codeforces/821/a`: A. Okabe and Future Gadget Laboratory
-- 2026-08-11 `codeforces/512/e`: E. Fox And Polygon
-- 2026-08-11 `codeforces/512/d`: D. Fox And Travelling
-- 2026-08-11 `codeforces/512/c`: C. Fox And Dinner
-- 2026-08-11 `codeforces/512/b`: B. Fox And Jumping
-- 2026-08-11 `codeforces/512/a`: A. Fox And Names
