@@ -1,6 +1,6 @@
 # Recent
 
-Latest 388 problems.
+Latest 391 problems.
 Selection rule: all problems added within 30 days of the latest addition, or the latest 100 problems, whichever is larger.
 
 This public list is generated from the full repository and includes only the addition date, problem ID, and problem title.
@@ -8,6 +8,9 @@ Difficulty ratings, favorite ratings, solution tags, and links to solution notes
 The complete list is available only in the full repository for eligible paid sponsors.
 
 - 2026-09-13 `codeforces/2262/e`: E. Paired Bracket Sequences
+- 2026-09-13 `codeforces/2262/c`: C. Traveling the World
+- 2026-09-13 `codeforces/2262/b`: B. Culling Game
+- 2026-09-13 `codeforces/2262/a2`: A2. Floor of MEX (Hard Version)
 - 2026-09-09 `codeforces/2260/f`: F. Edge Three-Coloring
 - 2026-09-09 `codeforces/2260/d`: D. Signs of Prefix Sums
 - 2026-09-09 `codeforces/2260/c`: C. Maximize XOR, Minimize Operations
