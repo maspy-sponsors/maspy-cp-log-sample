@@ -1,6 +1,6 @@
 # Recent
 
-Latest 385 problems.
+Latest 390 problems.
 Selection rule: all problems added within 30 days of the latest addition, or the latest 100 problems, whichever is larger.
 
 This public list is generated from the full repository and includes only the addition date, problem ID, and problem title.
@@ -8,6 +8,11 @@ Difficulty ratings, favorite ratings, solution tags, and links to solution notes
 The complete list is available only in the full repository for eligible paid sponsors.
 
 - 2026-09-14 `codeforces/2264/f`: F. Deranged Calculator
+- 2026-09-14 `codeforces/2264/e2`: E2. A Prime Flood (Hard Version)
+- 2026-09-14 `codeforces/2264/d`: D. Dr. Agos's Dark Mode
+- 2026-09-14 `codeforces/2264/c`: C. Madamant's Skating Dynasty
+- 2026-09-14 `codeforces/2264/b`: B. Knife's Pill Farm
+- 2026-09-14 `codeforces/2264/a`: A. Rumb Needs a Hand
 - 2026-09-14 `codeforces/235/c`: C. Cyclical Quest
 - 2026-09-14 `atcoder/abc433/g`: G - Substring Game
 - 2026-09-14 `atcoder/abc433/f`: F - 1122 Subsequence 2
