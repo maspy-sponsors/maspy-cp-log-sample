@@ -1,16 +1,34 @@
 # Recent
 
-Latest 391 problems.
+Latest 385 problems.
 Selection rule: all problems added within 30 days of the latest addition, or the latest 100 problems, whichever is larger.
 
 This public list is generated from the full repository and includes only the addition date, problem ID, and problem title.
 Difficulty ratings, favorite ratings, solution tags, and links to solution notes are omitted.
 The complete list is available only in the full repository for eligible paid sponsors.
 
+- 2026-09-14 `codeforces/2264/f`: F. Deranged Calculator
+- 2026-09-14 `codeforces/235/c`: C. Cyclical Quest
+- 2026-09-14 `atcoder/abc433/g`: G - Substring Game
+- 2026-09-14 `atcoder/abc433/f`: F - 1122 Subsequence 2
+- 2026-09-14 `atcoder/abc433/e`: E - Max Matrix 2
+- 2026-09-14 `atcoder/abc433/d`: D - 183183
+- 2026-09-14 `atcoder/abc433/c`: C - 1122 Substring 2
+- 2026-09-14 `atcoder/abc433/b`: B - Nearest Taller
+- 2026-09-14 `atcoder/abc433/a`: A - Happy Birthday! 4
+- 2026-09-13 `nowcoder/133883/m`: M. KV Cache
+- 2026-09-13 `nowcoder/133883/i`: I. Bridge VI
+- 2026-09-13 `nowcoder/133883/h`: H. It's Magic, Not a Trick!
 - 2026-09-13 `codeforces/2262/e`: E. Paired Bracket Sequences
 - 2026-09-13 `codeforces/2262/c`: C. Traveling the World
 - 2026-09-13 `codeforces/2262/b`: B. Culling Game
 - 2026-09-13 `codeforces/2262/a2`: A2. Floor of MEX (Hard Version)
+- 2026-09-13 `codeforces/612/f`: F. Simba on the Circle
+- 2026-09-13 `codeforces/612/e`: E. Square Root of Permutation
+- 2026-09-13 `codeforces/612/d`: D. The Union of k-Segments
+- 2026-09-13 `codeforces/612/c`: C. Replace To Make Regular Bracket Sequence
+- 2026-09-13 `codeforces/612/b`: B. HDD is Outdated Technology
+- 2026-09-13 `codeforces/612/a`: A. The Text Splitting
 - 2026-09-09 `codeforces/2260/f`: F. Edge Three-Coloring
 - 2026-09-09 `codeforces/2260/d`: D. Signs of Prefix Sums
 - 2026-09-09 `codeforces/2260/c`: C. Maximize XOR, Minimize Operations
@@ -374,27 +392,3 @@ The complete list is available only in the full repository for eligible paid spo
 - 2026-08-16 `atcoder/arc227/c`: C - Follow the Letters
 - 2026-08-16 `atcoder/arc227/b`: B - Know Your Place
 - 2026-08-16 `atcoder/arc227/a`: A - Fermat Point of Binary Strings
-- 2026-08-15 `qoj/1106/5527`: Problem K. King of Swapping
-- 2026-08-15 `qoj/1106/5526`: J. Jewel of Data Structure Problems
-- 2026-08-15 `qoj/1106/5523`: G. Graph Problem With Small n
-- 2026-08-15 `qoj/1106/5522`: F. F*** 3-Colorable Graphs
-- 2026-08-15 `qoj/1106/5520`: D. Distance Parities
-- 2026-08-15 `nowcoder/133880/f`: F. Four
-- 2026-08-15 `codeforces/713/e`: E. Sonya Partymaker
-- 2026-08-15 `codeforces/713/d`: D. Animals and Puzzle
-- 2026-08-15 `codeforces/713/c`: C. Sonya and Problem Without a Legend
-- 2026-08-15 `codeforces/713/b`: B. Searching Rectangles
-- 2026-08-15 `codeforces/713/a`: A. Sonya and Queries
-- 2026-08-15 `codeforces/585/f`: F. Digits of Number Pi
-- 2026-08-15 `codeforces/585/e`: E. Present for Vitalik the Philatelist
-- 2026-08-15 `codeforces/585/d`: D. Lizard Era: Beginning
-- 2026-08-15 `codeforces/585/c`: C. Alice, Bob, Oranges and Apples
-- 2026-08-15 `codeforces/585/b`: B. Phillip and Trains
-- 2026-08-15 `codeforces/585/a`: A. Gennady the Dentist
-- 2026-08-15 `atcoder/abc471/g`: G - Caeser Syllables
-- 2026-08-15 `atcoder/abc471/f`: F - Concat (maximize)
-- 2026-08-15 `atcoder/abc471/e`: E - Sum of Square of Sum
-- 2026-08-15 `atcoder/abc471/d`: D - Chargers
-- 2026-08-15 `atcoder/abc471/c`: C - Cookies and Greedy Takahashi
-- 2026-08-15 `atcoder/abc471/b`: B - Survey Tabulation
-- 2026-08-15 `atcoder/abc471/a`: A - Nine or Nein
