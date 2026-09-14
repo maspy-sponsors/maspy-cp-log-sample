@@ -1,6 +1,6 @@
 # Recent
 
-Latest 390 problems.
+Latest 394 problems.
 Selection rule: all problems added within 30 days of the latest addition, or the latest 100 problems, whichever is larger.
 
 This public list is generated from the full repository and includes only the addition date, problem ID, and problem title.
@@ -13,7 +13,11 @@ The complete list is available only in the full repository for eligible paid spo
 - 2026-09-14 `codeforces/2264/c`: C. Madamant's Skating Dynasty
 - 2026-09-14 `codeforces/2264/b`: B. Knife's Pill Farm
 - 2026-09-14 `codeforces/2264/a`: A. Rumb Needs a Hand
+- 2026-09-14 `codeforces/235/e`: E. Number Challenge
+- 2026-09-14 `codeforces/235/d`: D. Graph Game
 - 2026-09-14 `codeforces/235/c`: C. Cyclical Quest
+- 2026-09-14 `codeforces/235/b`: B. Let's Play Osu!
+- 2026-09-14 `codeforces/235/a`: A. LCM Challenge
 - 2026-09-14 `atcoder/abc433/g`: G - Substring Game
 - 2026-09-14 `atcoder/abc433/f`: F - 1122 Subsequence 2
 - 2026-09-14 `atcoder/abc433/e`: E - Max Matrix 2
