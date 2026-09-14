@@ -1,18 +1,30 @@
 # Recent
 
-Latest 394 problems.
+Latest 406 problems.
 Selection rule: all problems added within 30 days of the latest addition, or the latest 100 problems, whichever is larger.
 
 This public list is generated from the full repository and includes only the addition date, problem ID, and problem title.
 Difficulty ratings, favorite ratings, solution tags, and links to solution notes are omitted.
 The complete list is available only in the full repository for eligible paid sponsors.
 
+- 2026-09-14 `nowcoder/133883/e`: E. Prefix Codes
 - 2026-09-14 `codeforces/2264/f`: F. Deranged Calculator
 - 2026-09-14 `codeforces/2264/e2`: E2. A Prime Flood (Hard Version)
 - 2026-09-14 `codeforces/2264/d`: D. Dr. Agos's Dark Mode
 - 2026-09-14 `codeforces/2264/c`: C. Madamant's Skating Dynasty
 - 2026-09-14 `codeforces/2264/b`: B. Knife's Pill Farm
 - 2026-09-14 `codeforces/2264/a`: A. Rumb Needs a Hand
+- 2026-09-14 `codeforces/452/f`: F. Permutation
+- 2026-09-14 `codeforces/452/e`: E. Three strings
+- 2026-09-14 `codeforces/452/d`: D. Washer, Dryer, Folder
+- 2026-09-14 `codeforces/452/c`: C. Magic Trick
+- 2026-09-14 `codeforces/452/b`: B. 4-point polyline
+- 2026-09-14 `codeforces/452/a`: A. Eevee
+- 2026-09-14 `codeforces/427/e`: E. Police Patrol
+- 2026-09-14 `codeforces/427/d`: D. Match & Catch
+- 2026-09-14 `codeforces/427/c`: C. Checkposts
+- 2026-09-14 `codeforces/427/b`: B. Prison Transfer
+- 2026-09-14 `codeforces/427/a`: A. Police Recruits
 - 2026-09-14 `codeforces/235/e`: E. Number Challenge
 - 2026-09-14 `codeforces/235/d`: D. Graph Game
 - 2026-09-14 `codeforces/235/c`: C. Cyclical Quest
