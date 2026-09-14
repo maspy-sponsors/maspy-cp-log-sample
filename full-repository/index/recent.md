@@ -1,12 +1,36 @@
 # Recent
 
-Latest 406 problems.
+Latest 404 problems.
 Selection rule: all problems added within 30 days of the latest addition, or the latest 100 problems, whichever is larger.
 
 This public list is generated from the full repository and includes only the addition date, problem ID, and problem title.
 Difficulty ratings, favorite ratings, solution tags, and links to solution notes are omitted.
 The complete list is available only in the full repository for eligible paid sponsors.
 
+- 2026-09-15 `codeforces/2203/f`: F. Binary Search with One Swap
+- 2026-09-15 `codeforces/2203/e`: E. Probabilistic Card Game
+- 2026-09-15 `codeforces/2203/d`: D. Divisibility Game
+- 2026-09-15 `codeforces/2203/c`: C. Test Generator
+- 2026-09-15 `codeforces/2203/b`: B. Beautiful Numbers
+- 2026-09-15 `codeforces/2203/a`: A. Towers of Boxes
+- 2026-09-15 `codeforces/622/f`: F. The Sum of the k-th Powers
+- 2026-09-15 `codeforces/622/e`: E. Ants in Leaves
+- 2026-09-15 `codeforces/622/d`: D. Optimal Number Permutation
+- 2026-09-15 `codeforces/622/c`: C. Not Equal on a Segment
+- 2026-09-15 `codeforces/622/b`: B. The Time
+- 2026-09-15 `codeforces/622/a`: A. Infinite Sequence
+- 2026-09-15 `codeforces/620/f`: F. Xors on Segments
+- 2026-09-15 `codeforces/620/e`: E. New Year Tree
+- 2026-09-15 `codeforces/620/d`: D. Professor GukiZ and Two Arrays
+- 2026-09-15 `codeforces/620/c`: C. Pearls in a Row
+- 2026-09-15 `codeforces/620/b`: B. Grandfather Dovlet’s calculator
+- 2026-09-15 `codeforces/620/a`: A. Professor GukiZ's Robot
+- 2026-09-15 `codeforces/616/f`: F. Expensive Strings
+- 2026-09-15 `codeforces/616/e`: E. Sum of Remainders
+- 2026-09-15 `codeforces/616/d`: D. Longest k-Good Segment
+- 2026-09-15 `codeforces/616/c`: C. The Labyrinth
+- 2026-09-15 `codeforces/616/b`: B. Dinner with Emma
+- 2026-09-15 `codeforces/616/a`: A. Comparing Two Long Integers
 - 2026-09-14 `nowcoder/133883/e`: E. Prefix Codes
 - 2026-09-14 `codeforces/2264/f`: F. Deranged Calculator
 - 2026-09-14 `codeforces/2264/e2`: E2. A Prime Flood (Hard Version)
@@ -387,29 +411,3 @@ The complete list is available only in the full repository for eligible paid spo
 - 2026-08-17 `atcoder/arc227/f`: F - Erase and Raise
 - 2026-08-17 `atcoder/arc227/e`: E - Shift and XOR Switches
 - 2026-08-17 `atcoder/arc227/d`: D - Median of Binary Strings
-- 2026-08-16 `qoj/1124/5672`: M. Connectivity Problem
-- 2026-08-16 `qoj/1124/5669`: J. Traveling in Jade City
-- 2026-08-16 `qoj/1124/5668`: I. Cell Nuclei Detection
-- 2026-08-16 `qoj/1124/5667`: H. Meeting Places
-- 2026-08-16 `qoj/1124/5666`: G. Repetitive Elements
-- 2026-08-16 `qoj/1124/5665`: F. AA Country and King Dreamoon
-- 2026-08-16 `qoj/1124/5664`: E. Printing Stickers
-- 2026-08-16 `qoj/1124/5663`: D. Tangle: A DAG for storing transactions
-- 2026-08-16 `qoj/1124/5662`: C. Distance Calculator
-- 2026-08-16 `qoj/1124/5661`: B. Multi-Ladders
-- 2026-08-16 `qoj/1124/5660`: A. Simplified Genome Translation
-- 2026-08-16 `qoj/1111/5575`: J. Knight’s Tour Redux
-- 2026-08-16 `qoj/1111/5574`: Problem I. Julienne the Deck
-- 2026-08-16 `qoj/1111/5572`: G. Gridlandia
-- 2026-08-16 `qoj/1111/5571`: F. Five Letter Warning
-- 2026-08-16 `qoj/1111/5569`: D. Distinct Subsequences
-- 2026-08-16 `qoj/1111/5568`: C. Cyclic Shifts
-- 2026-08-16 `qoj/1111/5566`: A. And Xor Tree
-- 2026-08-16 `qoj/1106/5530`: N. No Zero-Sum Subsegment
-- 2026-08-16 `qoj/1106/5528`: Problem L. Least Annoying Constructive Problem
-- 2026-08-16 `qoj/1106/5524`: H. Help Me to Get This Published
-- 2026-08-16 `qoj/1106/5519`: Problem C. Count Hamiltonian Cycles
-- 2026-08-16 `nowcoder/133880/h`: H. Count it
-- 2026-08-16 `atcoder/arc227/c`: C - Follow the Letters
-- 2026-08-16 `atcoder/arc227/b`: B - Know Your Place
-- 2026-08-16 `atcoder/arc227/a`: A - Fermat Point of Binary Strings
