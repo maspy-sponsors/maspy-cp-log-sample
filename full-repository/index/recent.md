@@ -1,12 +1,29 @@
 # Recent
 
-Latest 404 problems.
+Latest 411 problems.
 Selection rule: all problems added within 30 days of the latest addition, or the latest 100 problems, whichever is larger.
 
 This public list is generated from the full repository and includes only the addition date, problem ID, and problem title.
 Difficulty ratings, favorite ratings, solution tags, and links to solution notes are omitted.
 The complete list is available only in the full repository for eligible paid sponsors.
 
+- 2026-09-16 `qoj/2814/16011`: L. Letters on T-shirts
+- 2026-09-16 `qoj/2814/16010`: K. Key Properties
+- 2026-09-16 `qoj/2814/16006`: G. Game of Darts
+- 2026-09-16 `qoj/2814/16005`: F. Foxes
+- 2026-09-16 `qoj/2814/16003`: D. DNA
+- 2026-09-16 `codeforces/778/e`: E. Selling Numbers
+- 2026-09-16 `codeforces/778/d`: D. Parquet Re-laying
+- 2026-09-16 `codeforces/778/c`: C. Peterson Polyglot
+- 2026-09-16 `codeforces/778/b`: B. Bitwise Formula
+- 2026-09-16 `codeforces/778/a`: A. String Game
+- 2026-09-16 `codeforces/628/f`: F. Bear and Fair Set
+- 2026-09-16 `codeforces/628/e`: E. Zbazi in Zeydabad
+- 2026-09-16 `codeforces/628/d`: D. Magic Numbers
+- 2026-09-16 `codeforces/628/c`: C. Bear and String Distance
+- 2026-09-16 `codeforces/628/b`: B. New Skateboard
+- 2026-09-16 `codeforces/628/a`: A. Tennis Tournament
+- 2026-09-15 `nowcoder/133883/k`: K. Al Fine II
 - 2026-09-15 `codeforces/2203/f`: F. Binary Search with One Swap
 - 2026-09-15 `codeforces/2203/e`: E. Probabilistic Card Game
 - 2026-09-15 `codeforces/2203/d`: D. Divisibility Game
@@ -401,13 +418,3 @@ The complete list is available only in the full repository for eligible paid spo
 - 2026-08-18 `codeforces/2257/c`: C. Spying on the Beaver
 - 2026-08-18 `codeforces/2257/b`: B. Gigantomachy
 - 2026-08-18 `codeforces/2257/a`: A. Creating Abbreviations
-- 2026-08-17 `qoj/1124/5671`: L. Programmable Virus
-- 2026-08-17 `codeforces/2170/f`: F. Build XOR on a Segment
-- 2026-08-17 `codeforces/2170/e`: E. Binary Strings and Blocks
-- 2026-08-17 `codeforces/2170/d`: D. Almost Roman
-- 2026-08-17 `codeforces/2170/c`: C. Quotient and Remainder
-- 2026-08-17 `codeforces/2170/b`: B. Addition on a Segment
-- 2026-08-17 `codeforces/2170/a`: A. Maximum Neighborhood
-- 2026-08-17 `atcoder/arc227/f`: F - Erase and Raise
-- 2026-08-17 `atcoder/arc227/e`: E - Shift and XOR Switches
-- 2026-08-17 `atcoder/arc227/d`: D - Median of Binary Strings
