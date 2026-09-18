@@ -1,12 +1,24 @@
 # Recent
 
-Latest 411 problems.
+Latest 397 problems.
 Selection rule: all problems added within 30 days of the latest addition, or the latest 100 problems, whichever is larger.
 
 This public list is generated from the full repository and includes only the addition date, problem ID, and problem title.
 Difficulty ratings, favorite ratings, solution tags, and links to solution notes are omitted.
 The complete list is available only in the full repository for eligible paid sponsors.
 
+- 2026-09-18 `yukicoder/3720`: No.3720 Balanced Reduction
+- 2026-09-18 `yukicoder/3719`: No.3719 Share the Tree
+- 2026-09-18 `yukicoder/3718`: No.3718 XOR Escape
+- 2026-09-18 `yukicoder/3717`: No.3717 GCD LCM GCD
+- 2026-09-18 `yukicoder/3716`: No.3716 Keep it Integer
+- 2026-09-18 `yukicoder/3715`: No.3715 Tomorrow is MONDAY!!!!!!
+- 2026-09-18 `yukicoder/3714`: No.3714 Prefix Team Name
+- 2026-09-17 `codeforces/571/e`: E. Geometric Progressions
+- 2026-09-17 `codeforces/571/d`: D. Campus
+- 2026-09-17 `codeforces/571/c`: C. CNF 2
+- 2026-09-17 `codeforces/571/b`: B. Minimization
+- 2026-09-17 `codeforces/571/a`: A. Lengthening Sticks
 - 2026-09-16 `qoj/2814/16011`: L. Letters on T-shirts
 - 2026-09-16 `qoj/2814/16010`: K. Key Properties
 - 2026-09-16 `qoj/2814/16006`: G. Game of Darts
@@ -392,29 +404,3 @@ The complete list is available only in the full repository for eligible paid spo
 - 2026-08-20 `codeforces/884/c`: C. Bertown Subway
 - 2026-08-20 `codeforces/884/b`: B. Japanese Crosswords Strike Back
 - 2026-08-20 `codeforces/884/a`: A. Book Reading
-- 2026-08-19 `nowcoder/133885/i`: I. Choose a Name
-- 2026-08-19 `nowcoder/133885/h`: H. Closing the Gap... Approximately
-- 2026-08-19 `nowcoder/133885/g`: G. Yet Another A Plus B Problem
-- 2026-08-19 `nowcoder/133885/e`: F. Splendor
-- 2026-08-19 `codeforces/1039/e`: E. Summer Oenothera Exhibition
-- 2026-08-19 `codeforces/1039/d`: D. You Are Given a Tree
-- 2026-08-19 `codeforces/1039/c`: C. Network Safety
-- 2026-08-19 `codeforces/1039/b`: B. Subway Pursuit
-- 2026-08-19 `codeforces/1039/a`: A. Timetable
-- 2026-08-19 `codeforces/413/e`: E. Maze 2D
-- 2026-08-19 `codeforces/413/d`: D. 2048
-- 2026-08-19 `codeforces/413/c`: C. Jeopardy!
-- 2026-08-19 `codeforces/413/b`: B. Spyke Chatting
-- 2026-08-19 `codeforces/413/a`: A. Data Recovery
-- 2026-08-19 `codeforces/333/e`: E. Summer Earnings
-- 2026-08-19 `codeforces/333/d`: D. Characteristics of Rectangles
-- 2026-08-19 `codeforces/333/c`: C. Lucky Tickets
-- 2026-08-19 `codeforces/333/b`: B. Chips
-- 2026-08-19 `codeforces/333/a`: A. Secrets
-- 2026-08-18 `nowcoder/133880/m`: M. Je t'aime encore
-- 2026-08-18 `codeforces/2257/f2`: F2. Beaver's Jumping Track (Hard Version)
-- 2026-08-18 `codeforces/2257/e`: E. Busy Beaver
-- 2026-08-18 `codeforces/2257/d`: D. Bermuda Rectangle
-- 2026-08-18 `codeforces/2257/c`: C. Spying on the Beaver
-- 2026-08-18 `codeforces/2257/b`: B. Gigantomachy
-- 2026-08-18 `codeforces/2257/a`: A. Creating Abbreviations
