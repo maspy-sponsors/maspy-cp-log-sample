@@ -1,6 +1,6 @@
 # Recent
 
-Latest 359 problems.
+Latest 371 problems.
 Selection rule: all problems added within 30 days of the latest addition, or the latest 100 problems, whichever is larger.
 
 This public list is generated from the full repository and includes only the addition date, problem ID, and problem title.
@@ -13,6 +13,18 @@ The complete list is available only in the full repository for eligible paid spo
 - 2026-09-19 `codeforces/1545/c`: C. AquaMoon and Permutations
 - 2026-09-19 `codeforces/1545/b`: B. AquaMoon and Chess
 - 2026-09-19 `codeforces/1545/a`: A. AquaMoon and Strange Sort
+- 2026-09-19 `codeforces/536/e`: E. Tavas on the Path
+- 2026-09-19 `codeforces/536/d`: D. Tavas in Kansas
+- 2026-09-19 `codeforces/536/c`: C. Tavas and Pashmaks
+- 2026-09-19 `codeforces/536/b`: B. Tavas and Malekas
+- 2026-09-19 `codeforces/536/a`: A. Tavas and Karafs
+- 2026-09-19 `atcoder/abc476/g`: G - Increasing Popcount
+- 2026-09-19 `atcoder/abc476/f`: F - Chebyshev Cafe
+- 2026-09-19 `atcoder/abc476/e`: E - Min-Max Swap
+- 2026-09-19 `atcoder/abc476/d`: D - Automat
+- 2026-09-19 `atcoder/abc476/c`: C - Third Largest Number
+- 2026-09-19 `atcoder/abc476/b`: B - Wild Card
+- 2026-09-19 `atcoder/abc476/a`: A - Appender
 - 2026-09-18 `yukicoder/3720`: No.3720 Balanced Reduction
 - 2026-09-18 `yukicoder/3719`: No.3719 Share the Tree
 - 2026-09-18 `yukicoder/3718`: No.3718 XOR Escape
