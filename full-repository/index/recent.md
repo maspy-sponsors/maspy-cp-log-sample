@@ -1,12 +1,18 @@
 # Recent
 
-Latest 397 problems.
+Latest 359 problems.
 Selection rule: all problems added within 30 days of the latest addition, or the latest 100 problems, whichever is larger.
 
 This public list is generated from the full repository and includes only the addition date, problem ID, and problem title.
 Difficulty ratings, favorite ratings, solution tags, and links to solution notes are omitted.
 The complete list is available only in the full repository for eligible paid sponsors.
 
+- 2026-09-19 `codeforces/1545/f`: F. AquaMoon and Potatoes
+- 2026-09-19 `codeforces/1545/e2`: E2. AquaMoon and Time Stop (hard version)
+- 2026-09-19 `codeforces/1545/d`: D. AquaMoon and Wrong Coordinate
+- 2026-09-19 `codeforces/1545/c`: C. AquaMoon and Permutations
+- 2026-09-19 `codeforces/1545/b`: B. AquaMoon and Chess
+- 2026-09-19 `codeforces/1545/a`: A. AquaMoon and Strange Sort
 - 2026-09-18 `yukicoder/3720`: No.3720 Balanced Reduction
 - 2026-09-18 `yukicoder/3719`: No.3719 Share the Tree
 - 2026-09-18 `yukicoder/3718`: No.3718 XOR Escape
@@ -360,47 +366,3 @@ The complete list is available only in the full repository for eligible paid spo
 - 2026-08-21 `qoj/2041/11359`: D. Geometry Rush
 - 2026-08-21 `qoj/2041/11356`: A. A Totient Quotient
 - 2026-08-21 `nowcoder/133881/b`: B1702FC
-- 2026-08-20 `qoj/2041/11366`: K. SLA Tomography
-- 2026-08-20 `qoj/2041/11360`: E. Humans vs AI
-- 2026-08-20 `qoj/2041/11357`: B. Circle of Leaf
-- 2026-08-20 `qoj/1124/5670`: K. Group Guests
-- 2026-08-20 `nowcoder/133885/l`: L. Reaper
-- 2026-08-20 `nowcoder/133885/k`: K. Team Formation
-- 2026-08-20 `nowcoder/133885/j`: J. Joyride
-- 2026-08-20 `nowcoder/133885/f`: F. Occurrences
-- 2026-08-20 `nowcoder/133885/d`: D. Strict Majority
-- 2026-08-20 `nowcoder/133885/c`: C. Slot Machine 2
-- 2026-08-20 `nowcoder/133885/b`: B. Slot Machine
-- 2026-08-20 `nowcoder/133885/a`: A. Natsuhikage
-- 2026-08-20 `codeforces/2184/g`: G. Nastiness of Segments
-- 2026-08-20 `codeforces/2184/f`: F. Cherry Tree
-- 2026-08-20 `codeforces/2184/e`: E. Exquisite Array
-- 2026-08-20 `codeforces/2184/d`: D. Unfair Game
-- 2026-08-20 `codeforces/2184/c`: C. Huge Pile
-- 2026-08-20 `codeforces/2184/b`: B. Hourglass
-- 2026-08-20 `codeforces/2184/a`: A. Social Experiment
-- 2026-08-20 `codeforces/2145/g`: G. Cost of Coloring
-- 2026-08-20 `codeforces/2145/f`: F. Long Journey
-- 2026-08-20 `codeforces/2145/e`: E. Predicting Popularity
-- 2026-08-20 `codeforces/2145/d`: D. Inversion Value of a Permutation
-- 2026-08-20 `codeforces/2145/c`: C. Monocarp's String
-- 2026-08-20 `codeforces/2145/b`: B. Deck of Cards
-- 2026-08-20 `codeforces/2145/a`: A. Candies for Nephews
-- 2026-08-20 `codeforces/1403/c`: C. Chess Rush
-- 2026-08-20 `codeforces/1403/b`: B. Spring cleaning
-- 2026-08-20 `codeforces/1403/a`: A. The Potion of Great Power
-- 2026-08-20 `codeforces/1402/c`: C. Star Trek
-- 2026-08-20 `codeforces/1402/b`: B. Roads
-- 2026-08-20 `codeforces/1402/a`: A. Fancy Fence
-- 2026-08-20 `codeforces/1176/f`: F. Destroy it!
-- 2026-08-20 `codeforces/1176/e`: E. Cover it!
-- 2026-08-20 `codeforces/1176/d`: D. Recover it!
-- 2026-08-20 `codeforces/1176/c`: C. Lose it!
-- 2026-08-20 `codeforces/1176/b`: B. Merge it!
-- 2026-08-20 `codeforces/1176/a`: A. Divide it!
-- 2026-08-20 `codeforces/884/f`: F. Anti-Palindromize
-- 2026-08-20 `codeforces/884/e`: E. Binary Matrix
-- 2026-08-20 `codeforces/884/d`: D. Boxes And Balls
-- 2026-08-20 `codeforces/884/c`: C. Bertown Subway
-- 2026-08-20 `codeforces/884/b`: B. Japanese Crosswords Strike Back
-- 2026-08-20 `codeforces/884/a`: A. Book Reading
