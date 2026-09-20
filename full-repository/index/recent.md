@@ -1,12 +1,15 @@
 # Recent
 
-Latest 379 problems.
+Latest 382 problems.
 Selection rule: all problems added within 30 days of the latest addition, or the latest 100 problems, whichever is larger.
 
 This public list is generated from the full repository and includes only the addition date, problem ID, and problem title.
 Difficulty ratings, favorite ratings, solution tags, and links to solution notes are omitted.
 The complete list is available only in the full repository for eligible paid sponsors.
 
+- 2026-09-21 `repovive/24/d`: 24D. One Ball Stays
+- 2026-09-21 `repovive/24/b`: 24B. Sauce Circle
+- 2026-09-21 `repovive/24/a`: 24A. Tissue Rush
 - 2026-09-21 `atcoder/arc230/e`: E - Minister
 - 2026-09-20 `qoj/4126/20261`: N. Native Niuean
 - 2026-09-20 `qoj/4126/20259`: L. Leave Triple & Link Tree
