@@ -1,12 +1,31 @@
 # Recent
 
-Latest 371 problems.
+Latest 386 problems.
 Selection rule: all problems added within 30 days of the latest addition, or the latest 100 problems, whichever is larger.
 
 This public list is generated from the full repository and includes only the addition date, problem ID, and problem title.
 Difficulty ratings, favorite ratings, solution tags, and links to solution notes are omitted.
 The complete list is available only in the full repository for eligible paid sponsors.
 
+- 2026-09-20 `codeforces/1090/m`: M. The Pleasant Walk
+- 2026-09-20 `codeforces/1090/l`: Problem A. Berland University
+- 2026-09-20 `codeforces/1090/k`: Problem A. Right Expansion Of The Mind
+- 2026-09-20 `codeforces/1090/j`: J. Two Prefixes
+- 2026-09-20 `codeforces/1090/i`: Problem A. Minimal Product
+- 2026-09-20 `codeforces/1090/h`: Problem A. Linearization
+- 2026-09-20 `codeforces/1090/g`: Problem A. Combostone
+- 2026-09-20 `codeforces/1090/f`: Problem A. How to Learn You Score
+- 2026-09-20 `codeforces/1090/e`: Problem A. Horseback Riding
+- 2026-09-20 `codeforces/1090/d`: D. Similar Arrays
+- 2026-09-20 `codeforces/1090/c`: C. New Year Presents
+- 2026-09-20 `codeforces/1090/b`: Problem A. LaTeX Expert
+- 2026-09-20 `codeforces/1090/a`: A. Company Merging
+- 2026-09-20 `codeforces/939/f`: F. Cutlet
+- 2026-09-20 `codeforces/939/e`: E. Maximize!
+- 2026-09-20 `codeforces/939/d`: D. Love Rescue
+- 2026-09-20 `codeforces/939/c`: C. Convenient For Everybody
+- 2026-09-20 `codeforces/939/b`: B. Hamster Farm
+- 2026-09-20 `codeforces/939/a`: A. Love Triangle
 - 2026-09-19 `codeforces/1545/f`: F. AquaMoon and Potatoes
 - 2026-09-19 `codeforces/1545/e2`: E2. AquaMoon and Time Stop (hard version)
 - 2026-09-19 `codeforces/1545/d`: D. AquaMoon and Wrong Coordinate
@@ -374,7 +393,3 @@ The complete list is available only in the full repository for eligible paid spo
 - 2026-08-22 `atcoder/abc472/c`: C - On a Diet
 - 2026-08-22 `atcoder/abc472/b`: B - Break a Stick
 - 2026-08-22 `atcoder/abc472/a`: A - A
-- 2026-08-21 `qoj/2041/11363`: H. Ornaments on a Tree
-- 2026-08-21 `qoj/2041/11359`: D. Geometry Rush
-- 2026-08-21 `qoj/2041/11356`: A. A Totient Quotient
-- 2026-08-21 `nowcoder/133881/b`: B1702FC
