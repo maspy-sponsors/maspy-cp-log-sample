@@ -1,12 +1,13 @@
 # Recent
 
-Latest 393 problems.
+Latest 379 problems.
 Selection rule: all problems added within 30 days of the latest addition, or the latest 100 problems, whichever is larger.
 
 This public list is generated from the full repository and includes only the addition date, problem ID, and problem title.
 Difficulty ratings, favorite ratings, solution tags, and links to solution notes are omitted.
 The complete list is available only in the full repository for eligible paid sponsors.
 
+- 2026-09-21 `atcoder/arc230/e`: E - Minister
 - 2026-09-20 `qoj/4126/20261`: N. Native Niuean
 - 2026-09-20 `qoj/4126/20259`: L. Leave Triple & Link Tree
 - 2026-09-20 `qoj/4126/20256`: I. Incident in the Bakery
@@ -33,6 +34,10 @@ The complete list is available only in the full repository for eligible paid spo
 - 2026-09-20 `codeforces/939/c`: C. Convenient For Everybody
 - 2026-09-20 `codeforces/939/b`: B. Hamster Farm
 - 2026-09-20 `codeforces/939/a`: A. Love Triangle
+- 2026-09-20 `atcoder/arc230/d`: D - Min Max Matrix
+- 2026-09-20 `atcoder/arc230/c`: C - Buildings
+- 2026-09-20 `atcoder/arc230/b`: B - Chmax and Chmin
+- 2026-09-20 `atcoder/arc230/a`: A - Meeting on Tree
 - 2026-09-19 `codeforces/1545/f`: F. AquaMoon and Potatoes
 - 2026-09-19 `codeforces/1545/e2`: E2. AquaMoon and Time Stop (hard version)
 - 2026-09-19 `codeforces/1545/d`: D. AquaMoon and Wrong Coordinate
@@ -381,22 +386,3 @@ The complete list is available only in the full repository for eligible paid spo
 - 2026-08-23 `atcoder/jsc2026-final/jsc2026_final_c`: C - Coin Bird
 - 2026-08-23 `atcoder/jsc2026-final/jsc2026_final_b`: B - Binary Flood
 - 2026-08-23 `atcoder/jsc2026-final/jsc2026_final_a`: A - Avoid Consecutives
-- 2026-08-22 `qoj/2041/11368`: M. This Is Sparta!
-- 2026-08-22 `qoj/2041/11365`: J. Popping Balloons
-- 2026-08-22 `qoj/2041/11361`: F. Mob Grinder
-- 2026-08-22 `nowcoder/133883/g`: G. Multiplication
-- 2026-08-22 `nowcoder/133883/f`: F. Tree shifts there
-- 2026-08-22 `nowcoder/133883/d`: D. Sea, you & copriMe II
-- 2026-08-22 `nowcoder/133883/c`: C. Fraction on a Ring
-- 2026-08-22 `codeforces/132/e`: E. Bits of merry old England
-- 2026-08-22 `codeforces/132/d`: D. Constants in the language of Shakespeare
-- 2026-08-22 `codeforces/132/c`: C. Logo Turtle
-- 2026-08-22 `codeforces/132/b`: B. Piet
-- 2026-08-22 `codeforces/132/a`: A. Turing Tape
-- 2026-08-22 `atcoder/abc472/g`: G - Cascading Grid
-- 2026-08-22 `atcoder/abc472/f`: F - Centroid of a Slice
-- 2026-08-22 `atcoder/abc472/e`: E - Odd Cycle
-- 2026-08-22 `atcoder/abc472/d`: D - Bomber Mad
-- 2026-08-22 `atcoder/abc472/c`: C - On a Diet
-- 2026-08-22 `atcoder/abc472/b`: B - Break a Stick
-- 2026-08-22 `atcoder/abc472/a`: A - A
