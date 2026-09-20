@@ -1,12 +1,14 @@
 # Recent
 
-Latest 382 problems.
+Latest 384 problems.
 Selection rule: all problems added within 30 days of the latest addition, or the latest 100 problems, whichever is larger.
 
 This public list is generated from the full repository and includes only the addition date, problem ID, and problem title.
 Difficulty ratings, favorite ratings, solution tags, and links to solution notes are omitted.
 The complete list is available only in the full repository for eligible paid sponsors.
 
+- 2026-09-21 `repovive/24/f`: 24F. Surviving Symbols
+- 2026-09-21 `repovive/24/e`: 24E. Tea or Coffee First
 - 2026-09-21 `repovive/24/d`: 24D. One Ball Stays
 - 2026-09-21 `repovive/24/b`: 24B. Sauce Circle
 - 2026-09-21 `repovive/24/a`: 24A. Tissue Rush
