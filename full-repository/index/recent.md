@@ -1,12 +1,19 @@
 # Recent
 
-Latest 386 problems.
+Latest 393 problems.
 Selection rule: all problems added within 30 days of the latest addition, or the latest 100 problems, whichever is larger.
 
 This public list is generated from the full repository and includes only the addition date, problem ID, and problem title.
 Difficulty ratings, favorite ratings, solution tags, and links to solution notes are omitted.
 The complete list is available only in the full repository for eligible paid sponsors.
 
+- 2026-09-20 `qoj/4126/20261`: N. Native Niuean
+- 2026-09-20 `qoj/4126/20259`: L. Leave Triple & Link Tree
+- 2026-09-20 `qoj/4126/20256`: I. Incident in the Bakery
+- 2026-09-20 `qoj/4126/20252`: E. Easter Eggs
+- 2026-09-20 `qoj/4126/20249`: B. Beggar Robin
+- 2026-09-20 `qoj/2668/15452`: I. ICPC Isolation
+- 2026-09-20 `nowcoder/133884/e`: E. Grand Mex 2
 - 2026-09-20 `codeforces/1090/m`: M. The Pleasant Walk
 - 2026-09-20 `codeforces/1090/l`: Problem A. Berland University
 - 2026-09-20 `codeforces/1090/k`: Problem A. Right Expansion Of The Mind
