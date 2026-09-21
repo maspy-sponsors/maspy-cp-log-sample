@@ -1,6 +1,6 @@
 # Recent
 
-Latest 396 problems.
+Latest 402 problems.
 Selection rule: all problems added within 30 days of the latest addition, or the latest 100 problems, whichever is larger.
 
 This public list is generated from the full repository and includes only the addition date, problem ID, and problem title.
@@ -13,6 +13,12 @@ The complete list is available only in the full repository for eligible paid spo
 - 2026-09-21 `repovive/24/c`: 24C. Last Sip
 - 2026-09-21 `repovive/24/b`: 24B. Sauce Circle
 - 2026-09-21 `repovive/24/a`: 24A. Tissue Rush
+- 2026-09-21 `qoj/4126/20258`: K. Kitchen Knives
+- 2026-09-21 `qoj/4126/20254`: G. Game Show: XOR Edition
+- 2026-09-21 `qoj/4126/20253`: F. Fresh Cartridges
+- 2026-09-21 `qoj/4126/20251`: D. Digesting
+- 2026-09-21 `qoj/4126/20250`: C. Cost of Conflicts
+- 2026-09-21 `qoj/4126/20248`: A. Astana Hard Metro
 - 2026-09-21 `codeforces/933/e`: E. A Preponderant Reunion
 - 2026-09-21 `codeforces/933/d`: D. A Creative Cutout
 - 2026-09-21 `codeforces/933/c`: C. A Colourful Prospect
