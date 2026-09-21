@@ -1,6 +1,6 @@
 # Recent
 
-Latest 389 problems.
+Latest 396 problems.
 Selection rule: all problems added within 30 days of the latest addition, or the latest 100 problems, whichever is larger.
 
 This public list is generated from the full repository and includes only the addition date, problem ID, and problem title.
@@ -13,10 +13,17 @@ The complete list is available only in the full repository for eligible paid spo
 - 2026-09-21 `repovive/24/c`: 24C. Last Sip
 - 2026-09-21 `repovive/24/b`: 24B. Sauce Circle
 - 2026-09-21 `repovive/24/a`: 24A. Tissue Rush
+- 2026-09-21 `codeforces/933/e`: E. A Preponderant Reunion
 - 2026-09-21 `codeforces/933/d`: D. A Creative Cutout
 - 2026-09-21 `codeforces/933/c`: C. A Colourful Prospect
 - 2026-09-21 `codeforces/933/b`: B. A Determined Cleanup
 - 2026-09-21 `codeforces/933/a`: A. A Twisty Movement
+- 2026-09-21 `codeforces/632/f`: F. Magic Matrix
+- 2026-09-21 `codeforces/632/e`: E. Thief in a Shop
+- 2026-09-21 `codeforces/632/d`: D. Longest Subsequence
+- 2026-09-21 `codeforces/632/c`: C. The Smallest String Concatenation
+- 2026-09-21 `codeforces/632/b`: B. Alice, Bob, Two Teams
+- 2026-09-21 `codeforces/632/a`: A. Grandma Laura and Apples
 - 2026-09-21 `atcoder/arc230/e`: E - Minister
 - 2026-09-20 `qoj/4126/20261`: N. Native Niuean
 - 2026-09-20 `qoj/4126/20259`: L. Leave Triple & Link Tree
