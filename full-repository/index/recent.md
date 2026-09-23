@@ -1,12 +1,14 @@
 # Recent
 
-Latest 402 problems.
+Latest 372 problems.
 Selection rule: all problems added within 30 days of the latest addition, or the latest 100 problems, whichever is larger.
 
 This public list is generated from the full repository and includes only the addition date, problem ID, and problem title.
 Difficulty ratings, favorite ratings, solution tags, and links to solution notes are omitted.
 The complete list is available only in the full repository for eligible paid sponsors.
 
+- 2026-09-23 `qoj/4126/20257`: J. Jaded Juice
+- 2026-09-22 `qoj/4126/20255`: H. Hockey Hog
 - 2026-09-21 `repovive/24/f`: 24F. Surviving Symbols
 - 2026-09-21 `repovive/24/e`: 24E. Tea or Coffee First
 - 2026-09-21 `repovive/24/d`: 24D. One Ball Stays
@@ -377,35 +379,3 @@ The complete list is available only in the full repository for eligible paid spo
 - 2026-08-28 `codeforces/1620/c`: C. BA-String
 - 2026-08-28 `codeforces/1620/b`: B. Triangles on a Rectangle
 - 2026-08-28 `codeforces/1620/a`: A. Equal or Not Equal
-- 2026-08-24 `repovive/20/f`: 20F. Perfectly Hidden
-- 2026-08-24 `repovive/20/e`: 20E. Tree on a Polygon
-- 2026-08-24 `repovive/20/d`: 20D. Density Two
-- 2026-08-24 `repovive/20/c`: 20C. No Self-Purchase
-- 2026-08-24 `repovive/20/b`: 20B. Timeless Overtakes
-- 2026-08-24 `repovive/20/a`: 20A. Pair Deletion
-- 2026-08-23 `qoj/2041/11367`: L. Solar Farm
-- 2026-08-23 `qoj/2041/11364`: I. Polygon Partition
-- 2026-08-23 `qoj/1129/5750`: M. Siteswap
-- 2026-08-23 `qoj/1129/5748`: K. Determinant, or...?
-- 2026-08-23 `qoj/1129/5747`: J. Persian Casino
-- 2026-08-23 `qoj/1129/5746`: I. DAG Generation
-- 2026-08-23 `qoj/1129/5745`: H. Graph Isomorphism
-- 2026-08-23 `qoj/1129/5744`: G. Palindromic Differences
-- 2026-08-23 `qoj/1129/5743`: F. Palindromic Polynomial
-- 2026-08-23 `qoj/1129/5742`: E. Garbage Disposal
-- 2026-08-23 `qoj/1129/5738`: A. Square Sum
-- 2026-08-23 `qoj/1106/5529`: M. Most Annoying Constructive Problem
-- 2026-08-23 `codeforces/1380/g`: G. Circular Dungeon
-- 2026-08-23 `codeforces/1380/f`: F. Strange Addition
-- 2026-08-23 `codeforces/1380/e`: E. Merging Towers
-- 2026-08-23 `codeforces/1380/d`: D. Berserk And Fireball
-- 2026-08-23 `codeforces/1380/c`: C. Create The Teams
-- 2026-08-23 `codeforces/1380/b`: B. Universal Solution
-- 2026-08-23 `codeforces/1380/a`: A. Three Indices
-- 2026-08-23 `atcoder/jsc2026-final/jsc2026_final_g`: G - Glass Overflow
-- 2026-08-23 `atcoder/jsc2026-final/jsc2026_final_f`: F - Four Shelters
-- 2026-08-23 `atcoder/jsc2026-final/jsc2026_final_e`: E - Ensmile
-- 2026-08-23 `atcoder/jsc2026-final/jsc2026_final_d`: D - Debt Cancellation
-- 2026-08-23 `atcoder/jsc2026-final/jsc2026_final_c`: C - Coin Bird
-- 2026-08-23 `atcoder/jsc2026-final/jsc2026_final_b`: B - Binary Flood
-- 2026-08-23 `atcoder/jsc2026-final/jsc2026_final_a`: A - Avoid Consecutives
