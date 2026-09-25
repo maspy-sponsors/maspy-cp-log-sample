@@ -1,12 +1,15 @@
 # Recent
 
-Latest 420 problems.
+Latest 423 problems.
 Selection rule: all problems added within 30 days of the latest addition, or the latest 100 problems, whichever is larger.
 
 This public list is generated from the full repository and includes only the addition date, problem ID, and problem title.
 Difficulty ratings, favorite ratings, solution tags, and links to solution notes are omitted.
 The complete list is available only in the full repository for eligible paid sponsors.
 
+- 2026-09-25 `qoj/3426/17266`: G. Guaranteed Medal
+- 2026-09-25 `qoj/3426/17265`: F. Forgot to Refuel
+- 2026-09-25 `qoj/3426/17264`: E. Encountering a Friend
 - 2026-09-25 `qoj/2908/15322`: I. Round screws
 - 2026-09-25 `qoj/2908/15321`: H. AGI
 - 2026-09-25 `qoj/2908/15320`: G. Gemcrate
