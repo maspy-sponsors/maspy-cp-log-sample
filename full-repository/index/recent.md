@@ -1,13 +1,46 @@
 # Recent
 
-Latest 372 problems.
+Latest 405 problems.
 Selection rule: all problems added within 30 days of the latest addition, or the latest 100 problems, whichever is larger.
 
 This public list is generated from the full repository and includes only the addition date, problem ID, and problem title.
 Difficulty ratings, favorite ratings, solution tags, and links to solution notes are omitted.
 The complete list is available only in the full repository for eligible paid sponsors.
 
+- 2026-09-25 `qoj/2828/16118`: D. Two Options
+- 2026-09-25 `qoj/2828/16117`: C. XOR-Excluding Sets
+- 2026-09-25 `qoj/1873/9772`: E. Permutation Routing
+- 2026-09-25 `qoj/1873/9768`: A. A + B = C Problem
+- 2026-09-25 `nowcoder/140119/c`: C. Drifting Toward a Promised Sky 2
+- 2026-09-25 `codeforces/1555/f`: F. Good Graph
+- 2026-09-25 `codeforces/1555/e`: E. Boring Segments
+- 2026-09-25 `codeforces/1555/d`: D. Say No to Palindromes
+- 2026-09-25 `codeforces/1555/c`: C. Coin Rows
+- 2026-09-25 `codeforces/1555/b`: B. Two Tables
+- 2026-09-25 `codeforces/1555/a`: A. PizzaForces
+- 2026-09-25 `codeforces/1359/f`: F. RC Kaboom Show
+- 2026-09-25 `codeforces/1359/e`: E. Modular Stability
+- 2026-09-25 `codeforces/1359/d`: D. Yet Another Yet Another Task
+- 2026-09-25 `codeforces/1359/c`: C. Mixing Water
+- 2026-09-25 `codeforces/1359/b`: B. New Theatre Square
+- 2026-09-25 `codeforces/1359/a`: A. Berland Poker
+- 2026-09-25 `codeforces/922/f`: F. Divisibility
+- 2026-09-25 `codeforces/922/e`: E. Birds
+- 2026-09-25 `codeforces/922/d`: D. Robot Vacuum Cleaner
+- 2026-09-25 `codeforces/922/c`: C. Cave Painting
+- 2026-09-25 `codeforces/922/b`: B. Magic Forest
+- 2026-09-25 `codeforces/922/a`: A. Cloning Toys
+- 2026-09-24 `qoj/1873/9774`: G. Same Sum
+- 2026-09-24 `qoj/1873/9773`: F. Infinite Loop
+- 2026-09-24 `qoj/1873/9770`: C. Middle Point
 - 2026-09-23 `qoj/4126/20257`: J. Jaded Juice
+- 2026-09-23 `codeforces/1487/g`: G. String Counting
+- 2026-09-23 `codeforces/1487/f`: F. Ones
+- 2026-09-23 `codeforces/1487/e`: E. Cheap Dinner
+- 2026-09-23 `codeforces/1487/d`: D. Pythagorean Triples
+- 2026-09-23 `codeforces/1487/c`: C. Minimum Ties
+- 2026-09-23 `codeforces/1487/b`: B. Cat Cycle
+- 2026-09-23 `codeforces/1487/a`: A. Arena
 - 2026-09-22 `qoj/4126/20255`: H. Hockey Hog
 - 2026-09-21 `repovive/24/f`: 24F. Surviving Symbols
 - 2026-09-21 `repovive/24/e`: 24E. Tea or Coffee First
