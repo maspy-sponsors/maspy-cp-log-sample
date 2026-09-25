@@ -1,6 +1,6 @@
 # Recent
 
-Latest 415 problems.
+Latest 420 problems.
 Selection rule: all problems added within 30 days of the latest addition, or the latest 100 problems, whichever is larger.
 
 This public list is generated from the full repository and includes only the addition date, problem ID, and problem title.
@@ -22,6 +22,11 @@ The complete list is available only in the full repository for eligible paid spo
 - 2026-09-25 `qoj/1873/9772`: E. Permutation Routing
 - 2026-09-25 `qoj/1873/9768`: A. A + B = C Problem
 - 2026-09-25 `nowcoder/140119/c`: C. Drifting Toward a Promised Sky 2
+- 2026-09-25 `codeforces/1733/e`: E. Conveyor
+- 2026-09-25 `codeforces/1733/d2`: D2. Zero-One (Hard Version)
+- 2026-09-25 `codeforces/1733/c`: C. Parity Shuffle Sorting
+- 2026-09-25 `codeforces/1733/b`: B. Rule of League
+- 2026-09-25 `codeforces/1733/a`: A. Consecutive Sum
 - 2026-09-25 `codeforces/1555/f`: F. Good Graph
 - 2026-09-25 `codeforces/1555/e`: E. Boring Segments
 - 2026-09-25 `codeforces/1555/d`: D. Say No to Palindromes
