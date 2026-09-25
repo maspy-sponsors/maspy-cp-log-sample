@@ -1,12 +1,14 @@
 # Recent
 
-Latest 423 problems.
+Latest 427 problems.
 Selection rule: all problems added within 30 days of the latest addition, or the latest 100 problems, whichever is larger.
 
 This public list is generated from the full repository and includes only the addition date, problem ID, and problem title.
 Difficulty ratings, favorite ratings, solution tags, and links to solution notes are omitted.
 The complete list is available only in the full repository for eligible paid sponsors.
 
+- 2026-09-25 `qoj/3426/17272`: M. May We Answer Your Questions Right?
+- 2026-09-25 `qoj/3426/17269`: J. Jolly Wheel
 - 2026-09-25 `qoj/3426/17266`: G. Guaranteed Medal
 - 2026-09-25 `qoj/3426/17265`: F. Forgot to Refuel
 - 2026-09-25 `qoj/3426/17264`: E. Encountering a Friend
@@ -23,8 +25,10 @@ The complete list is available only in the full repository for eligible paid spo
 - 2026-09-25 `qoj/2668/15446`: C. Count Triangular Sequences
 - 2026-09-25 `qoj/2041/11362`: G. Most Scenic Cycle
 - 2026-09-25 `qoj/1873/9772`: E. Permutation Routing
+- 2026-09-25 `qoj/1873/9769`: B. Rolling Stones
 - 2026-09-25 `qoj/1873/9768`: A. A + B = C Problem
 - 2026-09-25 `nowcoder/140119/c`: C. Drifting Toward a Promised Sky 2
+- 2026-09-25 `nowcoder/133883/j`: J. Oni's Ring
 - 2026-09-25 `codeforces/1733/e`: E. Conveyor
 - 2026-09-25 `codeforces/1733/d2`: D2. Zero-One (Hard Version)
 - 2026-09-25 `codeforces/1733/c`: C. Parity Shuffle Sorting
