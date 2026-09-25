@@ -1,12 +1,19 @@
 # Recent
 
-Latest 427 problems.
+Latest 434 problems.
 Selection rule: all problems added within 30 days of the latest addition, or the latest 100 problems, whichever is larger.
 
 This public list is generated from the full repository and includes only the addition date, problem ID, and problem title.
 Difficulty ratings, favorite ratings, solution tags, and links to solution notes are omitted.
 The complete list is available only in the full repository for eligible paid sponsors.
 
+- 2026-09-26 `codeforces/2267/g`: G. New LRT
+- 2026-09-26 `codeforces/2267/f2`: F2. XOR Transformations (Hard Version)
+- 2026-09-26 `codeforces/2267/e`: E. Clean Substrings
+- 2026-09-26 `codeforces/2267/d`: D. Backrooms Hill
+- 2026-09-26 `codeforces/2267/c`: C. GCD Treasury
+- 2026-09-26 `codeforces/2267/b`: B. Fashionable Array
+- 2026-09-26 `codeforces/2267/a`: A. Turn Into a Palindrome
 - 2026-09-25 `qoj/3426/17272`: M. May We Answer Your Questions Right?
 - 2026-09-25 `qoj/3426/17269`: J. Jolly Wheel
 - 2026-09-25 `qoj/3426/17266`: G. Guaranteed Medal
