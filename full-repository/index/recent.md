@@ -1,14 +1,24 @@
 # Recent
 
-Latest 405 problems.
+Latest 415 problems.
 Selection rule: all problems added within 30 days of the latest addition, or the latest 100 problems, whichever is larger.
 
 This public list is generated from the full repository and includes only the addition date, problem ID, and problem title.
 Difficulty ratings, favorite ratings, solution tags, and links to solution notes are omitted.
 The complete list is available only in the full repository for eligible paid sponsors.
 
+- 2026-09-25 `qoj/2908/15322`: I. Round screws
+- 2026-09-25 `qoj/2908/15321`: H. AGI
+- 2026-09-25 `qoj/2908/15320`: G. Gemcrate
+- 2026-09-25 `qoj/2908/15319`: F. Flower's land 4
+- 2026-09-25 `qoj/2908/15318`: E. Flower's land 3
+- 2026-09-25 `qoj/2908/15317`: D. Not a subset sum
 - 2026-09-25 `qoj/2828/16118`: D. Two Options
 - 2026-09-25 `qoj/2828/16117`: C. XOR-Excluding Sets
+- 2026-09-25 `qoj/2668/15455`: L. Linear Averaging
+- 2026-09-25 `qoj/2668/15449`: F. Finances
+- 2026-09-25 `qoj/2668/15446`: C. Count Triangular Sequences
+- 2026-09-25 `qoj/2041/11362`: G. Most Scenic Cycle
 - 2026-09-25 `qoj/1873/9772`: E. Permutation Routing
 - 2026-09-25 `qoj/1873/9768`: A. A + B = C Problem
 - 2026-09-25 `nowcoder/140119/c`: C. Drifting Toward a Promised Sky 2
