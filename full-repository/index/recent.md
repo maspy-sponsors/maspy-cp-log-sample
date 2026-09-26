@@ -1,12 +1,20 @@
 # Recent
 
-Latest 434 problems.
+Latest 454 problems.
 Selection rule: all problems added within 30 days of the latest addition, or the latest 100 problems, whichever is larger.
 
 This public list is generated from the full repository and includes only the addition date, problem ID, and problem title.
 Difficulty ratings, favorite ratings, solution tags, and links to solution notes are omitted.
 The complete list is available only in the full repository for eligible paid sponsors.
 
+- 2026-09-26 `qoj/1993/10712`: L. Empty Triangles
+- 2026-09-26 `qoj/1993/10709`: I. Random Remainders
+- 2026-09-26 `qoj/1993/10708`: H. Decent Path Around Bajtów
+- 2026-09-26 `qoj/1993/10707`: G. Road Trip
+- 2026-09-26 `qoj/1993/10705`: E. Gambling
+- 2026-09-26 `qoj/1993/10704`: D. Money in the Hat
+- 2026-09-26 `qoj/1993/10703`: C. Diamonds and the Genie
+- 2026-09-26 `qoj/1873/9780`: M. Rejection Sampling
 - 2026-09-26 `codeforces/2267/g`: G. New LRT
 - 2026-09-26 `codeforces/2267/f2`: F2. XOR Transformations (Hard Version)
 - 2026-09-26 `codeforces/2267/e`: E. Clean Substrings
@@ -14,6 +22,18 @@ The complete list is available only in the full repository for eligible paid spo
 - 2026-09-26 `codeforces/2267/c`: C. GCD Treasury
 - 2026-09-26 `codeforces/2267/b`: B. Fashionable Array
 - 2026-09-26 `codeforces/2267/a`: A. Turn Into a Palindrome
+- 2026-09-26 `codeforces/200/e`: E. Tractor College
+- 2026-09-26 `codeforces/200/d`: D. Programming Language
+- 2026-09-26 `codeforces/200/c`: C. Football Championship
+- 2026-09-26 `codeforces/200/b`: B. Drinks
+- 2026-09-26 `codeforces/200/a`: A. Cinema
+- 2026-09-26 `atcoder/abc477/g`: G - Frequency Query on Tree
+- 2026-09-26 `atcoder/abc477/f`: F - Count Cells in a Window
+- 2026-09-26 `atcoder/abc477/e`: E - Wheel Distance
+- 2026-09-26 `atcoder/abc477/d`: D - Masking Tape
+- 2026-09-26 `atcoder/abc477/c`: C - Range Search Query
+- 2026-09-26 `atcoder/abc477/b`: B - Standing Outliers
+- 2026-09-26 `atcoder/abc477/a`: A - Traffic Light
 - 2026-09-25 `qoj/3426/17272`: M. May We Answer Your Questions Right?
 - 2026-09-25 `qoj/3426/17269`: J. Jolly Wheel
 - 2026-09-25 `qoj/3426/17266`: G. Guaranteed Medal
