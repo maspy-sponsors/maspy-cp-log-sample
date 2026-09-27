@@ -1,12 +1,14 @@
 # Recent
 
-Latest 453 problems.
+Latest 441 problems.
 Selection rule: all problems added within 30 days of the latest addition, or the latest 100 problems, whichever is larger.
 
 This public list is generated from the full repository and includes only the addition date, problem ID, and problem title.
 Difficulty ratings, favorite ratings, solution tags, and links to solution notes are omitted.
 The complete list is available only in the full repository for eligible paid sponsors.
 
+- 2026-09-28 `qoj/4207/21380`: H. Harmonizing Charges
+- 2026-09-28 `qoj/4207/20718`: D. Dodge the Car
 - 2026-09-27 `tlx/compfest-18-scpc-final-mirror/h`: H. Investigating Medians
 - 2026-09-27 `tlx/compfest-18-scpc-final-mirror/g`: G. Great Prime Festival
 - 2026-09-27 `tlx/compfest-18-scpc-final-mirror/e`: E. Laying Flowers
@@ -14,6 +16,9 @@ The complete list is available only in the full repository for eligible paid spo
 - 2026-09-27 `tlx/compfest-18-scpc-final-mirror/c`: C. A Fate-Defying Chanek
 - 2026-09-27 `tlx/compfest-18-scpc-final-mirror/b`: B. Morning Sun
 - 2026-09-27 `tlx/compfest-18-scpc-final-mirror/a`: A. Hope from Light of Wisdom
+- 2026-09-27 `qoj/4207/21381`: K. Killer Die
+- 2026-09-27 `qoj/4207/20723`: I. Integer Triple
+- 2026-09-27 `qoj/4207/20717`: C. Cross the Road
 - 2026-09-27 `qoj/1207/6317`: A. XOR Tree Path
 - 2026-09-27 `codeforces/1338/e`: E. JYPnation
 - 2026-09-27 `codeforces/1338/d`: D. Nested Rubber Bands
@@ -443,20 +448,3 @@ The complete list is available only in the full repository for eligible paid spo
 - 2026-08-30 `atcoder/abc125/c`: C - GCD on Blackboard
 - 2026-08-30 `atcoder/abc125/b`: B - Resale
 - 2026-08-30 `atcoder/abc125/a`: A - Biscuit Generator
-- 2026-08-29 `codeforces/1993/f2`: F2. Dyn-scripted Robot (Hard Version)
-- 2026-08-29 `codeforces/1993/e`: E. Xor-Grid Problem
-- 2026-08-29 `codeforces/1993/d`: D. Med-imize
-- 2026-08-29 `codeforces/1993/c`: C. Light Switches
-- 2026-08-29 `codeforces/1993/b`: B. Parity and Sum
-- 2026-08-29 `codeforces/1993/a`: A. Question Marks
-- 2026-08-29 `codeforces/1680/f`: F. Lenient Vertex Cover
-- 2026-08-29 `codeforces/1680/e`: E. Moving Chips
-- 2026-08-29 `codeforces/1680/d`: D. Dog Walking
-- 2026-08-29 `codeforces/1680/c`: C. Binary String
-- 2026-08-29 `codeforces/1680/b`: B. Robots
-- 2026-08-29 `codeforces/1680/a`: A. Minimums and Maximums
-- 2026-08-29 `codeforces/555/e`: E. Case of Computer Network
-- 2026-08-29 `codeforces/555/d`: D. Case of a Top Secret
-- 2026-08-29 `codeforces/555/c`: C. Case of Chocolate
-- 2026-08-29 `codeforces/555/b`: B. Case of Fugitive
-- 2026-08-29 `codeforces/555/a`: A. Case of Matryoshkas
