@@ -1,6 +1,6 @@
 # Recent
 
-Latest 441 problems.
+Latest 444 problems.
 Selection rule: all problems added within 30 days of the latest addition, or the latest 100 problems, whichever is larger.
 
 This public list is generated from the full repository and includes only the addition date, problem ID, and problem title.
@@ -9,6 +9,9 @@ The complete list is available only in the full repository for eligible paid spo
 
 - 2026-09-28 `qoj/4207/21380`: H. Harmonizing Charges
 - 2026-09-28 `qoj/4207/20718`: D. Dodge the Car
+- 2026-09-28 `atcoder/agc078/c`: C - AB vs. BA
+- 2026-09-28 `atcoder/agc078/b`: B - L Robust IS
+- 2026-09-28 `atcoder/agc078/a`: A - Rearrange ABC
 - 2026-09-27 `tlx/compfest-18-scpc-final-mirror/h`: H. Investigating Medians
 - 2026-09-27 `tlx/compfest-18-scpc-final-mirror/g`: G. Great Prime Festival
 - 2026-09-27 `tlx/compfest-18-scpc-final-mirror/e`: E. Laying Flowers
