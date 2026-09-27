@@ -1,12 +1,25 @@
 # Recent
 
-Latest 454 problems.
+Latest 453 problems.
 Selection rule: all problems added within 30 days of the latest addition, or the latest 100 problems, whichever is larger.
 
 This public list is generated from the full repository and includes only the addition date, problem ID, and problem title.
 Difficulty ratings, favorite ratings, solution tags, and links to solution notes are omitted.
 The complete list is available only in the full repository for eligible paid sponsors.
 
+- 2026-09-27 `tlx/compfest-18-scpc-final-mirror/h`: H. Investigating Medians
+- 2026-09-27 `tlx/compfest-18-scpc-final-mirror/g`: G. Great Prime Festival
+- 2026-09-27 `tlx/compfest-18-scpc-final-mirror/e`: E. Laying Flowers
+- 2026-09-27 `tlx/compfest-18-scpc-final-mirror/d`: D. Break the Bill
+- 2026-09-27 `tlx/compfest-18-scpc-final-mirror/c`: C. A Fate-Defying Chanek
+- 2026-09-27 `tlx/compfest-18-scpc-final-mirror/b`: B. Morning Sun
+- 2026-09-27 `tlx/compfest-18-scpc-final-mirror/a`: A. Hope from Light of Wisdom
+- 2026-09-27 `qoj/1207/6317`: A. XOR Tree Path
+- 2026-09-27 `codeforces/1338/e`: E. JYPnation
+- 2026-09-27 `codeforces/1338/d`: D. Nested Rubber Bands
+- 2026-09-27 `codeforces/1338/c`: C. Perfect Triples
+- 2026-09-27 `codeforces/1338/b`: B. Edge Weight Assignment
+- 2026-09-27 `codeforces/1338/a`: A. Powered Addition
 - 2026-09-26 `qoj/1993/10712`: L. Empty Triangles
 - 2026-09-26 `qoj/1993/10709`: I. Random Remainders
 - 2026-09-26 `qoj/1993/10708`: H. Decent Path Around Bajtów
@@ -447,17 +460,3 @@ The complete list is available only in the full repository for eligible paid spo
 - 2026-08-29 `codeforces/555/c`: C. Case of Chocolate
 - 2026-08-29 `codeforces/555/b`: B. Case of Fugitive
 - 2026-08-29 `codeforces/555/a`: A. Case of Matryoshkas
-- 2026-08-28 `yukicoder/3653`: No.3653 Space-Time Courier
-- 2026-08-28 `yukicoder/3652`: No.3652 Range Bracket Sequence
-- 2026-08-28 `yukicoder/3651`: No.3651 K-th Sum of Divisors
-- 2026-08-28 `yukicoder/3650`: No.3650 Teleportation Cycles
-- 2026-08-28 `yukicoder/3649`: No.3649 Top View of Jenga
-- 2026-08-28 `yukicoder/3648`: No.3648 Overbooked Meeting Rooms
-- 2026-08-28 `yukicoder/3647`: No.3647 Initial Maker
-- 2026-08-28 `codeforces/1620/g`: G. Subsequences Galore
-- 2026-08-28 `codeforces/1620/f`: F. Bipartite Array
-- 2026-08-28 `codeforces/1620/e`: E. Replace the Numbers
-- 2026-08-28 `codeforces/1620/d`: D. Exact Change
-- 2026-08-28 `codeforces/1620/c`: C. BA-String
-- 2026-08-28 `codeforces/1620/b`: B. Triangles on a Rectangle
-- 2026-08-28 `codeforces/1620/a`: A. Equal or Not Equal
