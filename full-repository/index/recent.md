@@ -1,12 +1,47 @@
 # Recent
 
-Latest 444 problems.
+Latest 343 problems.
 Selection rule: all problems added within 30 days of the latest addition, or the latest 100 problems, whichever is larger.
 
 This public list is generated from the full repository and includes only the addition date, problem ID, and problem title.
 Difficulty ratings, favorite ratings, solution tags, and links to solution notes are omitted.
 The complete list is available only in the full repository for eligible paid sponsors.
 
+- 2026-10-04 `qoj/3384/17167`: G. Traffic Lights
+- 2026-10-04 `codeforces/500/g`: G. New Year Running
+- 2026-10-04 `codeforces/500/e`: E. New Year Domino
+- 2026-10-04 `codeforces/500/d`: D. New Year Santa Network
+- 2026-10-04 `codeforces/500/c`: C. New Year Book Reading
+- 2026-10-04 `codeforces/500/b`: B. New Year Permutation
+- 2026-10-04 `codeforces/500/a`: A. New Year Transportation
+- 2026-10-04 `codeforces/444/e`: E. DZY Loves Planting
+- 2026-10-04 `codeforces/444/d`: D. DZY Loves Strings
+- 2026-10-04 `codeforces/444/b`: B. DZY Loves FFT
+- 2026-10-04 `codeforces/444/a`: A. DZY Loves Physics
+- 2026-10-04 `codeforces/292/e`: E. Copying Data
+- 2026-10-04 `codeforces/292/d`: D. Connected Components
+- 2026-10-04 `codeforces/292/c`: C. Beautiful IP Addresses
+- 2026-10-04 `codeforces/292/b`: B. Network Topology
+- 2026-10-04 `codeforces/292/a`: A. SMSC
+- 2026-10-04 `codeforces/225/e`: E. Unsolvable
+- 2026-10-04 `codeforces/225/d`: D. Snake
+- 2026-10-04 `codeforces/225/c`: C. Barcode
+- 2026-10-04 `codeforces/225/b`: B. Well-known Numbers
+- 2026-10-04 `codeforces/225/a`: A. Dice Tower
+- 2026-10-04 `codeforces/5/e`: E. Bindian Signalizing
+- 2026-10-04 `codeforces/5/d`: D. Follow Traffic Rules
+- 2026-10-04 `codeforces/5/c`: C. Longest Regular Bracket Sequence
+- 2026-10-04 `codeforces/5/b`: B. Center Alignment
+- 2026-10-04 `codeforces/5/a`: A. Chat Server's Outgoing Traffic
+- 2026-10-04 `atcoder/arc231/f`: F - Two Unbalanced Subtrees
+- 2026-10-04 `atcoder/arc231/e`: E - Odd Inversion
+- 2026-10-04 `atcoder/arc231/d`: D - Choose Your Role
+- 2026-10-04 `atcoder/arc231/c`: C - One Sky, Many Stars
+- 2026-10-04 `atcoder/arc231/b`: B - Three Mex
+- 2026-10-04 `atcoder/arc231/a`: A - Two Dimensional Invader
+- 2026-10-04 `atcoder/abc426/g`: G - Range Knapsack Query
+- 2026-10-02 `qoj/4207/20727`: M. Median Equals X
+- 2026-10-01 `qoj/4207/20719`: E. EPS.AC
 - 2026-09-28 `qoj/4207/21380`: H. Harmonizing Charges
 - 2026-09-28 `qoj/4207/20718`: D. Dodge the Car
 - 2026-09-28 `atcoder/agc078/c`: C - AB vs. BA
@@ -315,139 +350,3 @@ The complete list is available only in the full repository for eligible paid spo
 - 2026-09-05 `atcoder/arc229/c`: C - Sum of Average 2
 - 2026-09-05 `atcoder/arc229/b`: B - Halving Subtraction
 - 2026-09-05 `atcoder/arc229/a`: A - AtCoder Reverse Contest
-- 2026-09-04 `codeforces/609/f`: F. Frogs and mosquitoes
-- 2026-09-04 `codeforces/609/e`: E. Minimum spanning tree for each edge
-- 2026-09-04 `codeforces/609/d`: D. Gadgets for dollars and pounds
-- 2026-09-04 `codeforces/609/c`: C. Load Balancing
-- 2026-09-04 `codeforces/609/b`: B. The Best Gift
-- 2026-09-04 `codeforces/609/a`: A. USB Flash Drives
-- 2026-09-03 `nowcoder/140119/l`: L. XOR Team
-- 2026-09-03 `nowcoder/140119/i`: I. Slay the Spire
-- 2026-09-03 `nowcoder/140119/h`: H. Set
-- 2026-09-03 `nowcoder/140119/f`: F. Light the Lamp
-- 2026-09-03 `nowcoder/140119/d`: D. Escape Root
-- 2026-09-03 `nowcoder/140119/b`: Bingo Game
-- 2026-09-03 `nowcoder/140119/a`: A. Another Searching Problem
-- 2026-09-03 `nowcoder/133883/b`: B. Deep Finesse
-- 2026-09-03 `codeforces/598/f`: F. Cut Length
-- 2026-09-02 `qoj/2828/16125`: K. Connect the Points
-- 2026-09-02 `qoj/2828/16121`: G. Intervals from Triplets
-- 2026-09-02 `qoj/2828/16120`: F. Language Barrier
-- 2026-09-02 `qoj/2828/16119`: E. Phone Company
-- 2026-09-02 `qoj/2828/16116`: B. AND Reconstruction
-- 2026-09-02 `qoj/2828/16115`: A. Sum Game
-- 2026-09-02 `qoj/1070/5260`: L. The Game
-- 2026-09-02 `qoj/1070/5259`: K – Skills in Pills
-- 2026-09-02 `qoj/1070/5254`: F. Differences
-- 2026-09-02 `qoj/1070/5253`: E. Denormalization
-- 2026-09-02 `qoj/1070/5251`: C. Constellations
-- 2026-09-02 `qoj/1070/5250`: B. Combination Locks
-- 2026-09-02 `codeforces/598/e`: E. Chocolate Bar
-- 2026-09-02 `codeforces/598/d`: D. Igor In the Museum
-- 2026-09-02 `codeforces/598/c`: C. Nearest vectors
-- 2026-09-02 `codeforces/598/b`: B. Queries on a String
-- 2026-09-02 `codeforces/598/a`: A. Tricky Sum
-- 2026-09-01 `qoj/2668/15453`: J. Jury of AMPPZ
-- 2026-09-01 `qoj/2539/14436`: K. Robot Construction
-- 2026-09-01 `qoj/2539/14433`: H. Misread Problem
-- 2026-09-01 `qoj/2539/14430`: E. Coffee Shops
-- 2026-09-01 `qoj/2539/14428`: C. Staple Stable
-- 2026-09-01 `qoj/2539/14427`: B. Domain Compression
-- 2026-09-01 `codeforces/1245/f`: F. Daniel and Spring Cleaning
-- 2026-09-01 `codeforces/1245/e`: E. Hyakugoku and Ladders
-- 2026-09-01 `codeforces/1245/d`: D. Shichikuji and Power Grid
-- 2026-09-01 `codeforces/1245/c`: C. Constanze's Machine
-- 2026-09-01 `codeforces/1245/b`: B. Restricted RPS
-- 2026-09-01 `codeforces/1245/a`: A. Good ol' Numbers Coloring
-- 2026-09-01 `codeforces/1027/g`: G. X-mouse in the Campus
-- 2026-09-01 `codeforces/1027/f`: F. Session in BSU
-- 2026-09-01 `codeforces/1027/e`: E. Inverse Coloring
-- 2026-09-01 `codeforces/1027/d`: D. Mouse Hunt
-- 2026-09-01 `codeforces/1027/c`: C. Minimum Value Rectangle
-- 2026-09-01 `codeforces/1027/b`: B. Numbers on the Chessboard
-- 2026-09-01 `codeforces/1027/a`: A. Palindromic Twist
-- 2026-09-01 `codeforces/736/e`: E. Chess Championship
-- 2026-09-01 `codeforces/736/d`: D. Permutations
-- 2026-09-01 `codeforces/736/c`: C. Ostap and Tree
-- 2026-09-01 `codeforces/736/b`: B. Taxes
-- 2026-09-01 `codeforces/736/a`: A. Tennis Championship
-- 2026-09-01 `codeforces/339/e`: E. Three Swaps
-- 2026-09-01 `codeforces/339/d`: D. Xenia and Bit Operations
-- 2026-09-01 `codeforces/339/c`: C. Xenia and Weights
-- 2026-09-01 `codeforces/339/b`: B. Xenia and Ringroad
-- 2026-09-01 `codeforces/339/a`: A. Helpful Maths
-- 2026-08-31 `repovive/21/g`: 21G. Tree Broadcast
-- 2026-08-31 `repovive/21/f`: 21F. Sorting the Pieces
-- 2026-08-31 `repovive/21/e`: 21E. Big Pick
-- 2026-08-31 `repovive/21/d`: 21D. One-Way Parking
-- 2026-08-31 `repovive/21/c`: 21C. Final Cut
-- 2026-08-31 `repovive/21/b`: 21B. Adjacent Maximums
-- 2026-08-31 `repovive/21/a`: 21A. Right Gifts
-- 2026-08-31 `qoj/2668/15454`: K. Kids' Blocks
-- 2026-08-31 `qoj/2668/15451`: H. Hacking
-- 2026-08-31 `qoj/2668/15448`: E. Enigma
-- 2026-08-31 `qoj/2668/15444`: A. AIMPPZ
-- 2026-08-31 `qoj/2551/14140`: K. k Operations
-- 2026-08-31 `qoj/2551/14139`: J. JamBrains
-- 2026-08-31 `qoj/2551/14138`: I. Infrared
-- 2026-08-31 `qoj/2551/14137`: H. Heure de Rush
-- 2026-08-31 `qoj/2551/14136`: G. Goofy Songs
-- 2026-08-31 `qoj/2551/14135`: F. Framboise 2
-- 2026-08-31 `qoj/2551/14133`: D. Digit Division
-- 2026-08-31 `qoj/2551/14132`: C. Classement Nationale
-- 2026-08-31 `qoj/2551/14131`: B. Balatro
-- 2026-08-31 `qoj/2551/14130`: A. Apple Tree
-- 2026-08-31 `qoj/2539/14431`: F. Yet Another MST Problem
-- 2026-08-31 `codeforces/1837/f`: F. Editorial for Two
-- 2026-08-31 `codeforces/1837/e`: E. Playoff Fixing
-- 2026-08-31 `codeforces/1837/d`: D. Bracket Coloring
-- 2026-08-31 `codeforces/1837/c`: C. Best Binary String
-- 2026-08-31 `codeforces/1837/b`: B. Comparison String
-- 2026-08-31 `codeforces/1837/a`: A. Grasshopper on a Line
-- 2026-08-31 `atcoder/arc228/e`: E - Pair of Permutations
-- 2026-08-31 `atcoder/arc228/d`: D - Amidakuji 2
-- 2026-08-31 `atcoder/arc228/c`: C - Partially Sort
-- 2026-08-31 `atcoder/arc228/b`: B - Minimize Topological Order
-- 2026-08-31 `atcoder/arc228/a`: A - Row and Col swap
-- 2026-08-31 `atcoder/abc343/g`: G - Compress Strings
-- 2026-08-31 `atcoder/abc343/f`: F - Second Largest Query
-- 2026-08-31 `atcoder/abc343/e`: E - 7x7x7
-- 2026-08-31 `atcoder/abc343/d`: D - Diversity of Scores
-- 2026-08-31 `atcoder/abc343/c`: C - 343
-- 2026-08-31 `atcoder/abc343/b`: B - Adjacency Matrix
-- 2026-08-31 `atcoder/abc343/a`: A - Wrong Answer
-- 2026-08-30 `nowcoder/133884/j`: J. Start to the End
-- 2026-08-30 `codeforces/2258/f`: F. Plus Minus Tree
-- 2026-08-30 `codeforces/2258/e`: E. DivMEX
-- 2026-08-30 `codeforces/2258/d`: D. Magic Tiles
-- 2026-08-30 `codeforces/2258/c`: C. Far Cities
-- 2026-08-30 `codeforces/2258/b2`: B2. Carrot Chopdown (Hard Version)
-- 2026-08-30 `codeforces/2258/a`: A. Odd Eraser
-- 2026-08-30 `codeforces/2042/f`: F. Two Subarrays
-- 2026-08-30 `codeforces/2042/e`: E. Vertex Pairs
-- 2026-08-30 `codeforces/2042/d`: D. Recommendations
-- 2026-08-30 `codeforces/2042/c`: C. Competitive Fishing
-- 2026-08-30 `codeforces/2042/b`: B. Game with Colored Marbles
-- 2026-08-30 `codeforces/2042/a`: A. Greedy Monocarp
-- 2026-08-30 `atcoder/abc473/g`: G - Wipeout
-- 2026-08-30 `atcoder/abc473/f`: F - A/AB Insertion
-- 2026-08-30 `atcoder/abc473/e`: E - K-Divisible Subarrays
-- 2026-08-30 `atcoder/abc473/c`: C - Change Schools
-- 2026-08-30 `atcoder/abc473/b`: B - Old Maid
-- 2026-08-30 `atcoder/abc473/a`: A - Second Half Sum
-- 2026-08-30 `atcoder/abc185/f`: F - Range Xor Query
-- 2026-08-30 `atcoder/abc185/e`: E - Sequence Matching
-- 2026-08-30 `atcoder/abc185/d`: D - Stamp
-- 2026-08-30 `atcoder/abc185/c`: C - Duodecim Ferra
-- 2026-08-30 `atcoder/abc185/b`: B - Smartphone Addiction
-- 2026-08-30 `atcoder/abc185/a`: A - ABC Preparation
-- 2026-08-30 `atcoder/abc157/f`: F - Yakiniku Optimization Problem
-- 2026-08-30 `atcoder/abc157/e`: E - Simple String Queries
-- 2026-08-30 `atcoder/abc157/d`: D - Friend Suggestions
-- 2026-08-30 `atcoder/abc157/c`: C - Guess The Number
-- 2026-08-30 `atcoder/abc157/b`: B - Bingo
-- 2026-08-30 `atcoder/abc157/a`: A - Duplex Printing
-- 2026-08-30 `atcoder/abc125/d`: D - Flipping Signs
-- 2026-08-30 `atcoder/abc125/c`: C - GCD on Blackboard
-- 2026-08-30 `atcoder/abc125/b`: B - Resale
-- 2026-08-30 `atcoder/abc125/a`: A - Biscuit Generator
