@@ -1,12 +1,29 @@
 # Recent
 
-Latest 343 problems.
+Latest 346 problems.
 Selection rule: all problems added within 30 days of the latest addition, or the latest 100 problems, whichever is larger.
 
 This public list is generated from the full repository and includes only the addition date, problem ID, and problem title.
 Difficulty ratings, favorite ratings, solution tags, and links to solution notes are omitted.
 The complete list is available only in the full repository for eligible paid sponsors.
 
+- 2026-10-05 `qoj/4565/20740`: L. Leaf Meeting
+- 2026-10-05 `qoj/4565/20736`: H. Hamiltonian LCM
+- 2026-10-05 `qoj/4565/20735`: G. Game
+- 2026-10-05 `qoj/4565/20733`: E. Equal Totients
+- 2026-10-05 `qoj/4565/20731`: C. Circle Construction
+- 2026-10-05 `qoj/3384/17172`: L. Triangles
+- 2026-10-05 `qoj/3384/17171`: K. Traversal of a Triangular Grid
+- 2026-10-05 `qoj/3384/17169`: I. Wooden Checker
+- 2026-10-05 `qoj/3384/17168`: H. Sweet Remainders!
+- 2026-10-05 `qoj/3384/17163`: C. String Workshop
+- 2026-10-05 `codeforces/1598/g`: G. The Sum of Good Numbers
+- 2026-10-05 `codeforces/1598/f`: F. RBS
+- 2026-10-05 `codeforces/1598/e`: E. Staircases
+- 2026-10-05 `codeforces/1598/d`: D. Training Session
+- 2026-10-05 `codeforces/1598/c`: C. Delete Two Elements
+- 2026-10-05 `codeforces/1598/b`: B. Groups
+- 2026-10-05 `codeforces/1598/a`: A. Computer Game
 - 2026-10-04 `qoj/3384/17167`: G. Traffic Lights
 - 2026-10-04 `codeforces/500/g`: G. New Year Running
 - 2026-10-04 `codeforces/500/e`: E. New Year Domino
@@ -336,17 +353,3 @@ The complete list is available only in the full repository for eligible paid spo
 - 2026-09-06 `codeforces/2259/c`: C. 101
 - 2026-09-06 `codeforces/2259/b`: B. Minus Two
 - 2026-09-06 `codeforces/2259/a`: A. Moo Language School
-- 2026-09-05 `yukicoder/3677`: No.3677 Global Checksum
-- 2026-09-05 `yukicoder/3676`: No.3676 Cuboid Alignment
-- 2026-09-05 `yukicoder/3675`: No.3675 偏光板
-- 2026-09-05 `yukicoder/3673`: No.3673 未来予知
-- 2026-09-05 `yukicoder/3672`: No.3672 Volume 3D
-- 2026-09-05 `yukicoder/3671`: No.3671 Reusable Lazy Segment Tree
-- 2026-09-05 `yukicoder/3670`: No.3670 Fast Knapsack
-- 2026-09-05 `yukicoder/3669`: No.3669 误差绝不允许
-- 2026-09-05 `atcoder/arc229/f`: F - Angst for All Pairs 2
-- 2026-09-05 `atcoder/arc229/e`: E - Taka and Hashi
-- 2026-09-05 `atcoder/arc229/d`: D - Nim_k ?
-- 2026-09-05 `atcoder/arc229/c`: C - Sum of Average 2
-- 2026-09-05 `atcoder/arc229/b`: B - Halving Subtraction
-- 2026-09-05 `atcoder/arc229/a`: A - AtCoder Reverse Contest
