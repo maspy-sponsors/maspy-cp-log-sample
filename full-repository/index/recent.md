@@ -1,12 +1,13 @@
 # Recent
 
-Latest 346 problems.
+Latest 339 problems.
 Selection rule: all problems added within 30 days of the latest addition, or the latest 100 problems, whichever is larger.
 
 This public list is generated from the full repository and includes only the addition date, problem ID, and problem title.
 Difficulty ratings, favorite ratings, solution tags, and links to solution notes are omitted.
 The complete list is available only in the full repository for eligible paid sponsors.
 
+- 2026-10-06 `codeforces/1172/a`: A. Nauuo and Cards
 - 2026-10-05 `qoj/4565/20740`: L. Leaf Meeting
 - 2026-10-05 `qoj/4565/20736`: H. Hamiltonian LCM
 - 2026-10-05 `qoj/4565/20735`: G. Game
@@ -345,11 +346,3 @@ The complete list is available only in the full repository for eligible paid spo
 - 2026-09-09 `atcoder/abc474/b`: B - Exit Order
 - 2026-09-09 `atcoder/abc474/a`: A - Not X
 - 2026-09-07 `repovive/22/f`: 22F. Shortest Wiring
-- 2026-09-06 `codeforces/2259/h`: H. Treasure Map Destruction (Counting Version)
-- 2026-09-06 `codeforces/2259/g`: G. Index Removal
-- 2026-09-06 `codeforces/2259/f`: F. Binary Bubble Sort Inversions
-- 2026-09-06 `codeforces/2259/e`: E. Treasure Map Destruction (Constructive Version)
-- 2026-09-06 `codeforces/2259/d`: D. MEX Multiset
-- 2026-09-06 `codeforces/2259/c`: C. 101
-- 2026-09-06 `codeforces/2259/b`: B. Minus Two
-- 2026-09-06 `codeforces/2259/a`: A. Moo Language School
