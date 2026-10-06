@@ -1,6 +1,6 @@
 # Recent
 
-Latest 340 problems.
+Latest 341 problems.
 Selection rule: all problems added within 30 days of the latest addition, or the latest 100 problems, whichever is larger.
 
 This public list is generated from the full repository and includes only the addition date, problem ID, and problem title.
@@ -8,6 +8,7 @@ Difficulty ratings, favorite ratings, solution tags, and links to solution notes
 The complete list is available only in the full repository for eligible paid sponsors.
 
 - 2026-10-06 `qoj/4565/20741`: M. Matching Substrings
+- 2026-10-06 `qoj/4565/20732`: D. Dynamic Adjustment
 - 2026-10-06 `codeforces/1172/a`: A. Nauuo and Cards
 - 2026-10-05 `qoj/4565/20740`: L. Leaf Meeting
 - 2026-10-05 `qoj/4565/20736`: H. Hamiltonian LCM
