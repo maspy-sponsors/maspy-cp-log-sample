@@ -1,12 +1,20 @@
 # Recent
 
-Latest 341 problems.
+Latest 348 problems.
 Selection rule: all problems added within 30 days of the latest addition, or the latest 100 problems, whichever is larger.
 
 This public list is generated from the full repository and includes only the addition date, problem ID, and problem title.
 Difficulty ratings, favorite ratings, solution tags, and links to solution notes are omitted.
 The complete list is available only in the full repository for eligible paid sponsors.
 
+- 2026-10-07 `qoj/4565/20739`: K. Keep Colors Apart
+- 2026-10-07 `atcoder/abc363/g`: G - Dynamic Scheduling
+- 2026-10-07 `atcoder/abc363/f`: F - Palindromic Expression
+- 2026-10-07 `atcoder/abc363/e`: E - Sinking Land
+- 2026-10-07 `atcoder/abc363/d`: D - Palindromic Number
+- 2026-10-07 `atcoder/abc363/c`: C - Avoid K Palindrome 2
+- 2026-10-07 `atcoder/abc363/b`: B - Japanese Cursed Doll
+- 2026-10-07 `atcoder/abc363/a`: A - Piling Up
 - 2026-10-06 `qoj/4565/20741`: M. Matching Substrings
 - 2026-10-06 `qoj/4565/20732`: D. Dynamic Adjustment
 - 2026-10-06 `codeforces/1172/a`: A. Nauuo and Cards
@@ -347,4 +355,3 @@ The complete list is available only in the full repository for eligible paid spo
 - 2026-09-09 `atcoder/abc474/c`: C - Remove and Append
 - 2026-09-09 `atcoder/abc474/b`: B - Exit Order
 - 2026-09-09 `atcoder/abc474/a`: A - Not X
-- 2026-09-07 `repovive/22/f`: 22F. Shortest Wiring
