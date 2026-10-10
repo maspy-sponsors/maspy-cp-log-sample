@@ -1,15 +1,30 @@
 # Recent
 
-Latest 357 problems.
+Latest 360 problems.
 Selection rule: all problems added within 30 days of the latest addition, or the latest 100 problems, whichever is larger.
 
 This public list is generated from the full repository and includes only the addition date, problem ID, and problem title.
 Difficulty ratings, favorite ratings, solution tags, and links to solution notes are omitted.
 The complete list is available only in the full repository for eligible paid sponsors.
 
+- 2026-10-11 `atcoder/arc232/e`: E - Doubling
+- 2026-10-11 `atcoder/arc232/c`: C - All Add or Single Negate
+- 2026-10-11 `atcoder/arc232/b`: B - Two Flips
+- 2026-10-11 `atcoder/arc232/a`: A - Two in the Range
+- 2026-10-09 `qoj/2559/14425`: K. Game on Board
+- 2026-10-09 `qoj/2559/14424`: J. One Permutation
+- 2026-10-09 `codeforces/2275/h`: H. A Problem to Warm Up the Eyebrows
+- 2026-10-09 `codeforces/2275/g`: G. Copper Squander
+- 2026-10-09 `codeforces/2275/f`: F. Tea Blend
+- 2026-10-09 `codeforces/2275/e`: E. Repentance Is Already on the Way
+- 2026-10-09 `codeforces/2275/d`: D. Precision Alignment
+- 2026-10-09 `codeforces/2275/c`: C. Unrequited Love
+- 2026-10-09 `codeforces/2275/b`: B. Did Not Go to Print
+- 2026-10-09 `codeforces/2275/a`: A. In Search of Convenience
 - 2026-10-08 `qoj/4565/20738`: J. Jump Cycle
 - 2026-10-08 `qoj/4565/20737`: I. Interval MST
 - 2026-10-08 `qoj/4565/20729`: A. Adjacent Decrements
+- 2026-10-08 `qoj/2559/14421`: G. Far Away
 - 2026-10-08 `codeforces/1641/f`: F. Covering Circle
 - 2026-10-08 `codeforces/1641/e`: E. Special Positions
 - 2026-10-08 `codeforces/1641/d`: D. Two Arrays
@@ -352,15 +367,3 @@ The complete list is available only in the full repository for eligible paid spo
 - 2026-09-13 `codeforces/612/c`: C. Replace To Make Regular Bracket Sequence
 - 2026-09-13 `codeforces/612/b`: B. HDD is Outdated Technology
 - 2026-09-13 `codeforces/612/a`: A. The Text Splitting
-- 2026-09-09 `codeforces/2260/f`: F. Edge Three-Coloring
-- 2026-09-09 `codeforces/2260/d`: D. Signs of Prefix Sums
-- 2026-09-09 `codeforces/2260/c`: C. Maximize XOR, Minimize Operations
-- 2026-09-09 `codeforces/2260/b`: B. Monocarp and Projects
-- 2026-09-09 `codeforces/2260/a`: A. Monocarp's Contest
-- 2026-09-09 `atcoder/abc474/g`: G - LRUD Moving 2
-- 2026-09-09 `atcoder/abc474/f`: F - Increment All Divisors
-- 2026-09-09 `atcoder/abc474/e`: E - One Time Coupon
-- 2026-09-09 `atcoder/abc474/d`: D - Outweigh
-- 2026-09-09 `atcoder/abc474/c`: C - Remove and Append
-- 2026-09-09 `atcoder/abc474/b`: B - Exit Order
-- 2026-09-09 `atcoder/abc474/a`: A - Not X
