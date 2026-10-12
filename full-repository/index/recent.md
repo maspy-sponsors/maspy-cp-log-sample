@@ -1,12 +1,36 @@
 # Recent
 
-Latest 360 problems.
+Latest 384 problems.
 Selection rule: all problems added within 30 days of the latest addition, or the latest 100 problems, whichever is larger.
 
 This public list is generated from the full repository and includes only the addition date, problem ID, and problem title.
 Difficulty ratings, favorite ratings, solution tags, and links to solution notes are omitted.
 The complete list is available only in the full repository for eligible paid sponsors.
 
+- 2026-10-12 `atcoder/aalc001/x`: X - 不揃いさ
+- 2026-10-12 `atcoder/aalc001/w`: W - 隣接加算
+- 2026-10-12 `atcoder/aalc001/v`: V - 連結性 2
+- 2026-10-12 `atcoder/aalc001/u`: U - 2 番目
+- 2026-10-12 `atcoder/aalc001/t`: T - K-転倒数
+- 2026-10-12 `atcoder/aalc001/s`: S - 絶対値
+- 2026-10-12 `atcoder/aalc001/r`: R - 連結性
+- 2026-10-12 `atcoder/aalc001/q`: Q - 移動回数
+- 2026-10-12 `atcoder/aalc001/p`: P - 線引きゲーム
+- 2026-10-12 `atcoder/aalc001/o`: O - 最小値
+- 2026-10-12 `atcoder/aalc001/n`: N - 九九
+- 2026-10-12 `atcoder/aalc001/m`: M - NAND
+- 2026-10-12 `atcoder/aalc001/l`: L - 数列間の swap
+- 2026-10-12 `atcoder/aalc001/k`: K - 多重集合
+- 2026-10-12 `atcoder/aalc001/j`: J - 長い 01 列
+- 2026-10-12 `atcoder/aalc001/i`: I - 連続部分列
+- 2026-10-12 `atcoder/aalc001/h`: H - 加算と modulo 演算
+- 2026-10-12 `atcoder/aalc001/g`: G - k 乗和
+- 2026-10-12 `atcoder/aalc001/f`: F - 連
+- 2026-10-12 `atcoder/aalc001/e`: E - RGB
+- 2026-10-12 `atcoder/aalc001/d`: D - 転倒数
+- 2026-10-12 `atcoder/aalc001/c`: C - セグメント木上の二分探索
+- 2026-10-12 `atcoder/aalc001/b`: B - 遅延セグメント木
+- 2026-10-12 `atcoder/aalc001/a`: A - セグメント木
 - 2026-10-11 `atcoder/arc232/e`: E - Doubling
 - 2026-10-11 `atcoder/arc232/c`: C - All Add or Single Negate
 - 2026-10-11 `atcoder/arc232/b`: B - Two Flips
