@@ -1,12 +1,33 @@
 # Recent
 
-Latest 384 problems.
+Latest 337 problems.
 Selection rule: all problems added within 30 days of the latest addition, or the latest 100 problems, whichever is larger.
 
 This public list is generated from the full repository and includes only the addition date, problem ID, and problem title.
 Difficulty ratings, favorite ratings, solution tags, and links to solution notes are omitted.
 The complete list is available only in the full repository for eligible paid sponsors.
 
+- 2026-10-15 `codeforces/2276/f`: F. Permutation Coloring Game
+- 2026-10-15 `codeforces/2276/e`: E. Good Substrings
+- 2026-10-15 `codeforces/2276/d`: D. Caveman
+- 2026-10-15 `codeforces/2276/c`: C. Subarrays
+- 2026-10-15 `codeforces/2276/b`: B. Replace and Compress
+- 2026-10-15 `codeforces/2276/a`: A. Perfect Sandwiches
+- 2026-10-14 `qoj/2559/14418`: D. Disjoint Set Splitting
+- 2026-10-14 `codeforces/1955/h`: H. The Most Reckless Defense
+- 2026-10-14 `codeforces/1955/g`: G. GCD on a grid
+- 2026-10-14 `codeforces/1955/f`: F. Unfair Game
+- 2026-10-14 `codeforces/1955/e`: E. Long Inversions
+- 2026-10-14 `codeforces/1955/d`: D. Inaccurate Subsequence Search
+- 2026-10-14 `codeforces/1955/c`: C. Inhabitant of the Deep Sea
+- 2026-10-14 `codeforces/1955/b`: B. Progressive Square
+- 2026-10-14 `codeforces/1955/a`: A. Yogurt Sale
+- 2026-10-14 `codeforces/1700/f`: F. Puzzle
+- 2026-10-14 `codeforces/1700/e`: E. Serega the Pirate
+- 2026-10-14 `codeforces/1700/d`: D. River Locks
+- 2026-10-14 `codeforces/1700/c`: C. Helping the Nature
+- 2026-10-14 `codeforces/1700/b`: B. Palindromic Numbers
+- 2026-10-14 `codeforces/1700/a`: A. Optimal Path
 - 2026-10-12 `atcoder/aalc001/x`: X - 不揃いさ
 - 2026-10-12 `atcoder/aalc001/w`: W - 隣接加算
 - 2026-10-12 `atcoder/aalc001/v`: V - 連結性 2
@@ -323,71 +344,3 @@ The complete list is available only in the full repository for eligible paid spo
 - 2026-09-16 `codeforces/628/c`: C. Bear and String Distance
 - 2026-09-16 `codeforces/628/b`: B. New Skateboard
 - 2026-09-16 `codeforces/628/a`: A. Tennis Tournament
-- 2026-09-15 `nowcoder/133883/k`: K. Al Fine II
-- 2026-09-15 `codeforces/2203/f`: F. Binary Search with One Swap
-- 2026-09-15 `codeforces/2203/e`: E. Probabilistic Card Game
-- 2026-09-15 `codeforces/2203/d`: D. Divisibility Game
-- 2026-09-15 `codeforces/2203/c`: C. Test Generator
-- 2026-09-15 `codeforces/2203/b`: B. Beautiful Numbers
-- 2026-09-15 `codeforces/2203/a`: A. Towers of Boxes
-- 2026-09-15 `codeforces/622/f`: F. The Sum of the k-th Powers
-- 2026-09-15 `codeforces/622/e`: E. Ants in Leaves
-- 2026-09-15 `codeforces/622/d`: D. Optimal Number Permutation
-- 2026-09-15 `codeforces/622/c`: C. Not Equal on a Segment
-- 2026-09-15 `codeforces/622/b`: B. The Time
-- 2026-09-15 `codeforces/622/a`: A. Infinite Sequence
-- 2026-09-15 `codeforces/620/f`: F. Xors on Segments
-- 2026-09-15 `codeforces/620/e`: E. New Year Tree
-- 2026-09-15 `codeforces/620/d`: D. Professor GukiZ and Two Arrays
-- 2026-09-15 `codeforces/620/c`: C. Pearls in a Row
-- 2026-09-15 `codeforces/620/b`: B. Grandfather Dovlet’s calculator
-- 2026-09-15 `codeforces/620/a`: A. Professor GukiZ's Robot
-- 2026-09-15 `codeforces/616/f`: F. Expensive Strings
-- 2026-09-15 `codeforces/616/e`: E. Sum of Remainders
-- 2026-09-15 `codeforces/616/d`: D. Longest k-Good Segment
-- 2026-09-15 `codeforces/616/c`: C. The Labyrinth
-- 2026-09-15 `codeforces/616/b`: B. Dinner with Emma
-- 2026-09-15 `codeforces/616/a`: A. Comparing Two Long Integers
-- 2026-09-14 `nowcoder/133883/e`: E. Prefix Codes
-- 2026-09-14 `codeforces/2264/f`: F. Deranged Calculator
-- 2026-09-14 `codeforces/2264/e2`: E2. A Prime Flood (Hard Version)
-- 2026-09-14 `codeforces/2264/d`: D. Dr. Agos's Dark Mode
-- 2026-09-14 `codeforces/2264/c`: C. Madamant's Skating Dynasty
-- 2026-09-14 `codeforces/2264/b`: B. Knife's Pill Farm
-- 2026-09-14 `codeforces/2264/a`: A. Rumb Needs a Hand
-- 2026-09-14 `codeforces/452/f`: F. Permutation
-- 2026-09-14 `codeforces/452/e`: E. Three strings
-- 2026-09-14 `codeforces/452/d`: D. Washer, Dryer, Folder
-- 2026-09-14 `codeforces/452/c`: C. Magic Trick
-- 2026-09-14 `codeforces/452/b`: B. 4-point polyline
-- 2026-09-14 `codeforces/452/a`: A. Eevee
-- 2026-09-14 `codeforces/427/e`: E. Police Patrol
-- 2026-09-14 `codeforces/427/d`: D. Match & Catch
-- 2026-09-14 `codeforces/427/c`: C. Checkposts
-- 2026-09-14 `codeforces/427/b`: B. Prison Transfer
-- 2026-09-14 `codeforces/427/a`: A. Police Recruits
-- 2026-09-14 `codeforces/235/e`: E. Number Challenge
-- 2026-09-14 `codeforces/235/d`: D. Graph Game
-- 2026-09-14 `codeforces/235/c`: C. Cyclical Quest
-- 2026-09-14 `codeforces/235/b`: B. Let's Play Osu!
-- 2026-09-14 `codeforces/235/a`: A. LCM Challenge
-- 2026-09-14 `atcoder/abc433/g`: G - Substring Game
-- 2026-09-14 `atcoder/abc433/f`: F - 1122 Subsequence 2
-- 2026-09-14 `atcoder/abc433/e`: E - Max Matrix 2
-- 2026-09-14 `atcoder/abc433/d`: D - 183183
-- 2026-09-14 `atcoder/abc433/c`: C - 1122 Substring 2
-- 2026-09-14 `atcoder/abc433/b`: B - Nearest Taller
-- 2026-09-14 `atcoder/abc433/a`: A - Happy Birthday! 4
-- 2026-09-13 `nowcoder/133883/m`: M. KV Cache
-- 2026-09-13 `nowcoder/133883/i`: I. Bridge VI
-- 2026-09-13 `nowcoder/133883/h`: H. It's Magic, Not a Trick!
-- 2026-09-13 `codeforces/2262/e`: E. Paired Bracket Sequences
-- 2026-09-13 `codeforces/2262/c`: C. Traveling the World
-- 2026-09-13 `codeforces/2262/b`: B. Culling Game
-- 2026-09-13 `codeforces/2262/a2`: A2. Floor of MEX (Hard Version)
-- 2026-09-13 `codeforces/612/f`: F. Simba on the Circle
-- 2026-09-13 `codeforces/612/e`: E. Square Root of Permutation
-- 2026-09-13 `codeforces/612/d`: D. The Union of k-Segments
-- 2026-09-13 `codeforces/612/c`: C. Replace To Make Regular Bracket Sequence
-- 2026-09-13 `codeforces/612/b`: B. HDD is Outdated Technology
-- 2026-09-13 `codeforces/612/a`: A. The Text Splitting
