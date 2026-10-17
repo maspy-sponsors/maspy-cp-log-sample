@@ -1,6 +1,6 @@
 # Recent
 
-Latest 338 problems.
+Latest 342 problems.
 Selection rule: all problems added within 30 days of the latest addition, or the latest 100 problems, whichever is larger.
 
 This public list is generated from the full repository and includes only the addition date, problem ID, and problem title.
@@ -8,7 +8,11 @@ Difficulty ratings, favorite ratings, solution tags, and links to solution notes
 The complete list is available only in the full repository for eligible paid sponsors.
 
 - 2026-10-18 `codeforces/2261/g`: G. 1 2 3 and XOR, Where Did Everybody Go?
+- 2026-10-18 `codeforces/2261/e`: E. What Does the Cow Say?
 - 2026-10-18 `codeforces/2261/d2`: D2. Come Be My Friend, Don't Be So Scared (Hard Version)
+- 2026-10-18 `codeforces/2261/c`: C. I Know About a Million Things
+- 2026-10-18 `codeforces/2261/b`: B. What's the Capital of France?
+- 2026-10-18 `codeforces/2261/a`: A. Hey, It's Me, Souvlakity
 - 2026-10-17 `qoj/4207/20724`: J. Jobs through Pipelines
 - 2026-10-17 `qoj/4207/20721`: G. Growing Prefix Span
 - 2026-10-17 `qoj/4207/20720`: F. Flight of the Night Butterfly
