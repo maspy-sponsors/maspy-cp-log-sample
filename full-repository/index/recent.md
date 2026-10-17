@@ -1,12 +1,14 @@
 # Recent
 
-Latest 343 problems.
+Latest 338 problems.
 Selection rule: all problems added within 30 days of the latest addition, or the latest 100 problems, whichever is larger.
 
 This public list is generated from the full repository and includes only the addition date, problem ID, and problem title.
 Difficulty ratings, favorite ratings, solution tags, and links to solution notes are omitted.
 The complete list is available only in the full repository for eligible paid sponsors.
 
+- 2026-10-18 `codeforces/2261/g`: G. 1 2 3 and XOR, Where Did Everybody Go?
+- 2026-10-18 `codeforces/2261/d2`: D2. Come Be My Friend, Don't Be So Scared (Hard Version)
 - 2026-10-17 `qoj/4207/20724`: J. Jobs through Pipelines
 - 2026-10-17 `qoj/4207/20721`: G. Growing Prefix Span
 - 2026-10-17 `qoj/4207/20720`: F. Flight of the Night Butterfly
@@ -343,10 +345,3 @@ The complete list is available only in the full repository for eligible paid spo
 - 2026-09-19 `atcoder/abc476/c`: C - Third Largest Number
 - 2026-09-19 `atcoder/abc476/b`: B - Wild Card
 - 2026-09-19 `atcoder/abc476/a`: A - Appender
-- 2026-09-18 `yukicoder/3720`: No.3720 Balanced Reduction
-- 2026-09-18 `yukicoder/3719`: No.3719 Share the Tree
-- 2026-09-18 `yukicoder/3718`: No.3718 XOR Escape
-- 2026-09-18 `yukicoder/3717`: No.3717 GCD LCM GCD
-- 2026-09-18 `yukicoder/3716`: No.3716 Keep it Integer
-- 2026-09-18 `yukicoder/3715`: No.3715 Tomorrow is MONDAY!!!!!!
-- 2026-09-18 `yukicoder/3714`: No.3714 Prefix Team Name
