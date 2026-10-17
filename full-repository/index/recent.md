@@ -1,12 +1,27 @@
 # Recent
 
-Latest 337 problems.
+Latest 331 problems.
 Selection rule: all problems added within 30 days of the latest addition, or the latest 100 problems, whichever is larger.
 
 This public list is generated from the full repository and includes only the addition date, problem ID, and problem title.
 Difficulty ratings, favorite ratings, solution tags, and links to solution notes are omitted.
 The complete list is available only in the full repository for eligible paid sponsors.
 
+- 2026-10-17 `qoj/4207/20724`: J. Jobs through Pipelines
+- 2026-10-17 `qoj/4207/20721`: G. Growing Prefix Span
+- 2026-10-17 `qoj/4207/20720`: F. Flight of the Night Butterfly
+- 2026-10-16 `qoj/4207/20726`: L. Logging Compression
+- 2026-10-16 `codeforces/1236/f`: F. Alice and the Cactus
+- 2026-10-16 `codeforces/1236/e`: E. Alice and the Unfair Game
+- 2026-10-16 `codeforces/1236/d`: D. Alice and the Doll
+- 2026-10-16 `codeforces/1236/c`: C. Labs
+- 2026-10-16 `codeforces/1236/b`: B. Alice and the List of Presents
+- 2026-10-16 `codeforces/1236/a`: A. Stones
+- 2026-10-16 `codeforces/992/e`: E. Nastya and King-Shamans
+- 2026-10-16 `codeforces/992/d`: D. Nastya and a Game
+- 2026-10-16 `codeforces/992/c`: C. Nastya and a Wardrobe
+- 2026-10-16 `codeforces/992/b`: B. Nastya Studies Informatics
+- 2026-10-16 `codeforces/992/a`: A. Nastya and an Array
 - 2026-10-15 `codeforces/2276/f`: F. Permutation Coloring Game
 - 2026-10-15 `codeforces/2276/e`: E. Good Substrings
 - 2026-10-15 `codeforces/2276/d`: D. Caveman
@@ -323,24 +338,3 @@ The complete list is available only in the full repository for eligible paid spo
 - 2026-09-18 `yukicoder/3716`: No.3716 Keep it Integer
 - 2026-09-18 `yukicoder/3715`: No.3715 Tomorrow is MONDAY!!!!!!
 - 2026-09-18 `yukicoder/3714`: No.3714 Prefix Team Name
-- 2026-09-17 `codeforces/571/e`: E. Geometric Progressions
-- 2026-09-17 `codeforces/571/d`: D. Campus
-- 2026-09-17 `codeforces/571/c`: C. CNF 2
-- 2026-09-17 `codeforces/571/b`: B. Minimization
-- 2026-09-17 `codeforces/571/a`: A. Lengthening Sticks
-- 2026-09-16 `qoj/2814/16011`: L. Letters on T-shirts
-- 2026-09-16 `qoj/2814/16010`: K. Key Properties
-- 2026-09-16 `qoj/2814/16006`: G. Game of Darts
-- 2026-09-16 `qoj/2814/16005`: F. Foxes
-- 2026-09-16 `qoj/2814/16003`: D. DNA
-- 2026-09-16 `codeforces/778/e`: E. Selling Numbers
-- 2026-09-16 `codeforces/778/d`: D. Parquet Re-laying
-- 2026-09-16 `codeforces/778/c`: C. Peterson Polyglot
-- 2026-09-16 `codeforces/778/b`: B. Bitwise Formula
-- 2026-09-16 `codeforces/778/a`: A. String Game
-- 2026-09-16 `codeforces/628/f`: F. Bear and Fair Set
-- 2026-09-16 `codeforces/628/e`: E. Zbazi in Zeydabad
-- 2026-09-16 `codeforces/628/d`: D. Magic Numbers
-- 2026-09-16 `codeforces/628/c`: C. Bear and String Distance
-- 2026-09-16 `codeforces/628/b`: B. New Skateboard
-- 2026-09-16 `codeforces/628/a`: A. Tennis Tournament
