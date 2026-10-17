@@ -1,6 +1,6 @@
 # Recent
 
-Latest 341 problems.
+Latest 343 problems.
 Selection rule: all problems added within 30 days of the latest addition, or the latest 100 problems, whichever is larger.
 
 This public list is generated from the full repository and includes only the addition date, problem ID, and problem title.
@@ -13,6 +13,8 @@ The complete list is available only in the full repository for eligible paid spo
 - 2026-10-17 `qoj/3516/17417`: L. Alice and Bob
 - 2026-10-17 `qoj/3516/17415`: J. Counting Is Fun
 - 2026-10-17 `qoj/3516/17414`: I. Point Mirror
+- 2026-10-17 `qoj/3516/17409`: D. Merging Maximum
+- 2026-10-17 `qoj/3516/17406`: A. Ant and Sticks
 - 2026-10-17 `atcoder/abc480/g`: G - Zonal Score Minimization
 - 2026-10-17 `atcoder/abc480/f`: F - Cake Cutting
 - 2026-10-17 `atcoder/abc480/e`: E - Product-Bounded Arithmetic Sequences
