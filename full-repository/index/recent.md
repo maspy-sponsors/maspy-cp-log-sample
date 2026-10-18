@@ -1,12 +1,13 @@
 # Recent
 
-Latest 342 problems.
+Latest 325 problems.
 Selection rule: all problems added within 30 days of the latest addition, or the latest 100 problems, whichever is larger.
 
 This public list is generated from the full repository and includes only the addition date, problem ID, and problem title.
 Difficulty ratings, favorite ratings, solution tags, and links to solution notes are omitted.
 The complete list is available only in the full repository for eligible paid sponsors.
 
+- 2026-10-19 `qoj/4126/20260`: M. Minecraft Spiderweb
 - 2026-10-18 `codeforces/2261/g`: G. 1 2 3 and XOR, Where Did Everybody Go?
 - 2026-10-18 `codeforces/2261/e`: E. What Does the Cow Say?
 - 2026-10-18 `codeforces/2261/d2`: D2. Come Be My Friend, Don't Be So Scared (Hard Version)
@@ -331,21 +332,3 @@ The complete list is available only in the full repository for eligible paid spo
 - 2026-09-20 `atcoder/arc230/c`: C - Buildings
 - 2026-09-20 `atcoder/arc230/b`: B - Chmax and Chmin
 - 2026-09-20 `atcoder/arc230/a`: A - Meeting on Tree
-- 2026-09-19 `codeforces/1545/f`: F. AquaMoon and Potatoes
-- 2026-09-19 `codeforces/1545/e2`: E2. AquaMoon and Time Stop (hard version)
-- 2026-09-19 `codeforces/1545/d`: D. AquaMoon and Wrong Coordinate
-- 2026-09-19 `codeforces/1545/c`: C. AquaMoon and Permutations
-- 2026-09-19 `codeforces/1545/b`: B. AquaMoon and Chess
-- 2026-09-19 `codeforces/1545/a`: A. AquaMoon and Strange Sort
-- 2026-09-19 `codeforces/536/e`: E. Tavas on the Path
-- 2026-09-19 `codeforces/536/d`: D. Tavas in Kansas
-- 2026-09-19 `codeforces/536/c`: C. Tavas and Pashmaks
-- 2026-09-19 `codeforces/536/b`: B. Tavas and Malekas
-- 2026-09-19 `codeforces/536/a`: A. Tavas and Karafs
-- 2026-09-19 `atcoder/abc476/g`: G - Increasing Popcount
-- 2026-09-19 `atcoder/abc476/f`: F - Chebyshev Cafe
-- 2026-09-19 `atcoder/abc476/e`: E - Min-Max Swap
-- 2026-09-19 `atcoder/abc476/d`: D - Automat
-- 2026-09-19 `atcoder/abc476/c`: C - Third Largest Number
-- 2026-09-19 `atcoder/abc476/b`: B - Wild Card
-- 2026-09-19 `atcoder/abc476/a`: A - Appender
