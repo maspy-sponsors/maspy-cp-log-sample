@@ -1,13 +1,20 @@
 # Recent
 
-Latest 325 problems.
+Latest 278 problems.
 Selection rule: all problems added within 30 days of the latest addition, or the latest 100 problems, whichever is larger.
 
 This public list is generated from the full repository and includes only the addition date, problem ID, and problem title.
 Difficulty ratings, favorite ratings, solution tags, and links to solution notes are omitted.
 The complete list is available only in the full repository for eligible paid sponsors.
 
+- 2026-10-21 `qoj/4576/22887`: K. Iridescent Universe 3
+- 2026-10-21 `qoj/4576/22881`: E. Subset Sums
+- 2026-10-21 `qoj/4576/22880`: D. Guess the Graph
 - 2026-10-19 `qoj/4126/20260`: M. Minecraft Spiderweb
+- 2026-10-19 `qoj/3426/17270`: K. Kitchen
+- 2026-10-19 `qoj/3426/17267`: H. Helpful Bits
+- 2026-10-19 `qoj/3426/17262`: C. Cell Flip Game
+- 2026-10-19 `qoj/2661/15313`: M. Replacement
 - 2026-10-18 `codeforces/2261/g`: G. 1 2 3 and XOR, Where Did Everybody Go?
 - 2026-10-18 `codeforces/2261/e`: E. What Does the Cow Say?
 - 2026-10-18 `codeforces/2261/d2`: D2. Come Be My Friend, Don't Be So Scared (Hard Version)
@@ -278,57 +285,3 @@ The complete list is available only in the full repository for eligible paid spo
 - 2026-09-23 `codeforces/1487/b`: B. Cat Cycle
 - 2026-09-23 `codeforces/1487/a`: A. Arena
 - 2026-09-22 `qoj/4126/20255`: H. Hockey Hog
-- 2026-09-21 `repovive/24/f`: 24F. Surviving Symbols
-- 2026-09-21 `repovive/24/e`: 24E. Tea or Coffee First
-- 2026-09-21 `repovive/24/d`: 24D. One Ball Stays
-- 2026-09-21 `repovive/24/c`: 24C. Last Sip
-- 2026-09-21 `repovive/24/b`: 24B. Sauce Circle
-- 2026-09-21 `repovive/24/a`: 24A. Tissue Rush
-- 2026-09-21 `qoj/4126/20258`: K. Kitchen Knives
-- 2026-09-21 `qoj/4126/20254`: G. Game Show: XOR Edition
-- 2026-09-21 `qoj/4126/20253`: F. Fresh Cartridges
-- 2026-09-21 `qoj/4126/20251`: D. Digesting
-- 2026-09-21 `qoj/4126/20250`: C. Cost of Conflicts
-- 2026-09-21 `qoj/4126/20248`: A. Astana Hard Metro
-- 2026-09-21 `codeforces/933/e`: E. A Preponderant Reunion
-- 2026-09-21 `codeforces/933/d`: D. A Creative Cutout
-- 2026-09-21 `codeforces/933/c`: C. A Colourful Prospect
-- 2026-09-21 `codeforces/933/b`: B. A Determined Cleanup
-- 2026-09-21 `codeforces/933/a`: A. A Twisty Movement
-- 2026-09-21 `codeforces/632/f`: F. Magic Matrix
-- 2026-09-21 `codeforces/632/e`: E. Thief in a Shop
-- 2026-09-21 `codeforces/632/d`: D. Longest Subsequence
-- 2026-09-21 `codeforces/632/c`: C. The Smallest String Concatenation
-- 2026-09-21 `codeforces/632/b`: B. Alice, Bob, Two Teams
-- 2026-09-21 `codeforces/632/a`: A. Grandma Laura and Apples
-- 2026-09-21 `atcoder/arc230/e`: E - Minister
-- 2026-09-20 `qoj/4126/20261`: N. Native Niuean
-- 2026-09-20 `qoj/4126/20259`: L. Leave Triple & Link Tree
-- 2026-09-20 `qoj/4126/20256`: I. Incident in the Bakery
-- 2026-09-20 `qoj/4126/20252`: E. Easter Eggs
-- 2026-09-20 `qoj/4126/20249`: B. Beggar Robin
-- 2026-09-20 `qoj/2668/15452`: I. ICPC Isolation
-- 2026-09-20 `nowcoder/133884/e`: E. Grand Mex 2
-- 2026-09-20 `codeforces/1090/m`: M. The Pleasant Walk
-- 2026-09-20 `codeforces/1090/l`: Problem A. Berland University
-- 2026-09-20 `codeforces/1090/k`: Problem A. Right Expansion Of The Mind
-- 2026-09-20 `codeforces/1090/j`: J. Two Prefixes
-- 2026-09-20 `codeforces/1090/i`: Problem A. Minimal Product
-- 2026-09-20 `codeforces/1090/h`: Problem A. Linearization
-- 2026-09-20 `codeforces/1090/g`: Problem A. Combostone
-- 2026-09-20 `codeforces/1090/f`: Problem A. How to Learn You Score
-- 2026-09-20 `codeforces/1090/e`: Problem A. Horseback Riding
-- 2026-09-20 `codeforces/1090/d`: D. Similar Arrays
-- 2026-09-20 `codeforces/1090/c`: C. New Year Presents
-- 2026-09-20 `codeforces/1090/b`: Problem A. LaTeX Expert
-- 2026-09-20 `codeforces/1090/a`: A. Company Merging
-- 2026-09-20 `codeforces/939/f`: F. Cutlet
-- 2026-09-20 `codeforces/939/e`: E. Maximize!
-- 2026-09-20 `codeforces/939/d`: D. Love Rescue
-- 2026-09-20 `codeforces/939/c`: C. Convenient For Everybody
-- 2026-09-20 `codeforces/939/b`: B. Hamster Farm
-- 2026-09-20 `codeforces/939/a`: A. Love Triangle
-- 2026-09-20 `atcoder/arc230/d`: D - Min Max Matrix
-- 2026-09-20 `atcoder/arc230/c`: C - Buildings
-- 2026-09-20 `atcoder/arc230/b`: B - Chmax and Chmin
-- 2026-09-20 `atcoder/arc230/a`: A - Meeting on Tree
