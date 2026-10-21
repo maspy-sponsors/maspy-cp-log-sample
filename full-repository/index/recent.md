@@ -1,6 +1,6 @@
 # Recent
 
-Latest 278 problems.
+Latest 279 problems.
 Selection rule: all problems added within 30 days of the latest addition, or the latest 100 problems, whichever is larger.
 
 This public list is generated from the full repository and includes only the addition date, problem ID, and problem title.
@@ -8,6 +8,7 @@ Difficulty ratings, favorite ratings, solution tags, and links to solution notes
 The complete list is available only in the full repository for eligible paid sponsors.
 
 - 2026-10-21 `qoj/4576/22887`: K. Iridescent Universe 3
+- 2026-10-21 `qoj/4576/22884`: H. Idols and Fans
 - 2026-10-21 `qoj/4576/22881`: E. Subset Sums
 - 2026-10-21 `qoj/4576/22880`: D. Guess the Graph
 - 2026-10-19 `qoj/4126/20260`: M. Minecraft Spiderweb
