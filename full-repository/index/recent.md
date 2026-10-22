@@ -1,12 +1,28 @@
 # Recent
 
-Latest 279 problems.
+Latest 294 problems.
 Selection rule: all problems added within 30 days of the latest addition, or the latest 100 problems, whichever is larger.
 
 This public list is generated from the full repository and includes only the addition date, problem ID, and problem title.
 Difficulty ratings, favorite ratings, solution tags, and links to solution notes are omitted.
 The complete list is available only in the full repository for eligible paid sponsors.
 
+- 2026-10-22 `codeforces/1215/f`: F. Radio Stations
+- 2026-10-22 `codeforces/1215/e`: E. Marbles
+- 2026-10-22 `codeforces/1215/d`: D. Ticket Game
+- 2026-10-22 `codeforces/1215/c`: C. Swap Letters
+- 2026-10-22 `codeforces/1215/b`: B. The Number of Products
+- 2026-10-22 `codeforces/1215/a`: A. Yellow Cards
+- 2026-10-22 `codeforces/1168/e`: E. Xor Permutations
+- 2026-10-22 `codeforces/1168/d`: D. Anagram Paths
+- 2026-10-22 `codeforces/1168/c`: C. And Reachability
+- 2026-10-22 `codeforces/1168/b`: B. Good Triple
+- 2026-10-22 `codeforces/1168/a`: A. Increasing by Modulo
+- 2026-10-22 `codeforces/429/e`: E. Points and Segments
+- 2026-10-22 `codeforces/429/d`: D. Tricky Function
+- 2026-10-22 `codeforces/429/c`: C. Guess the Tree
+- 2026-10-22 `codeforces/429/b`: B. Working out
+- 2026-10-22 `codeforces/429/a`: A. Xor-tree
 - 2026-10-21 `qoj/4576/22887`: K. Iridescent Universe 3
 - 2026-10-21 `qoj/4576/22884`: H. Idols and Fans
 - 2026-10-21 `qoj/4576/22881`: E. Subset Sums
@@ -285,4 +301,3 @@ The complete list is available only in the full repository for eligible paid spo
 - 2026-09-23 `codeforces/1487/c`: C. Minimum Ties
 - 2026-09-23 `codeforces/1487/b`: B. Cat Cycle
 - 2026-09-23 `codeforces/1487/a`: A. Arena
-- 2026-09-22 `qoj/4126/20255`: H. Hockey Hog
