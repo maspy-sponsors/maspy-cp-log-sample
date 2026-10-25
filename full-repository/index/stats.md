@@ -29,8 +29,8 @@ Based on `logged_at` in `memo.md`.
 | D4 | 393 |
 | D5 | 266 |
 | D6 | 126 |
-| D7 | 68 |
-| D8 | 28 |
+| D7 | 69 |
+| D8 | 27 |
 | D9 | 6 |
 | D10 | 2 |
 | missing | 0 |
