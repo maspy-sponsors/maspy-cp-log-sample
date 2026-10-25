@@ -1,12 +1,29 @@
 # Recent
 
-Latest 294 problems.
+Latest 255 problems.
 Selection rule: all problems added within 30 days of the latest addition, or the latest 100 problems, whichever is larger.
 
 This public list is generated from the full repository and includes only the addition date, problem ID, and problem title.
 Difficulty ratings, favorite ratings, solution tags, and links to solution notes are omitted.
 The complete list is available only in the full repository for eligible paid sponsors.
 
+- 2026-10-25 `qoj/4593/20062`: L. Lucid Traveler
+- 2026-10-25 `qoj/4593/20059`: I. Incyde
+- 2026-10-25 `qoj/4593/20056`: F. False Amber
+- 2026-10-25 `codeforces/1566/h`: H. Xor-quiz
+- 2026-10-25 `codeforces/1566/g`: G. Four Vertices
+- 2026-10-25 `codeforces/1566/f`: F. Points Movement
+- 2026-10-25 `codeforces/1566/e`: E. Buds Re-hanging
+- 2026-10-25 `codeforces/1566/d2`: D2. Seating Arrangements (hard version)
+- 2026-10-25 `codeforces/1566/c`: C. MAX-MEX Cut
+- 2026-10-25 `codeforces/1566/b`: B. MIN-MEX Cut
+- 2026-10-25 `codeforces/1566/a`: A. Median Maximization
+- 2026-10-23 `yukicoder/3561`: No.3561 Collect KCPC
+- 2026-10-23 `yukicoder/3366`: No.3366 Reversible Tile:Revival
+- 2026-10-23 `yukicoder/2562`: No.2562 数字探しゲーム（緑以下コンver.）
+- 2026-10-23 `yukicoder/1826`: No.1826 Fruits Collecting
+- 2026-10-23 `yukicoder/1559`: No.1559 Next Rational
+- 2026-10-23 `yukicoder/1400`: No.1400 すごろくで世界旅行
 - 2026-10-22 `codeforces/1215/f`: F. Radio Stations
 - 2026-10-22 `codeforces/1215/e`: E. Marbles
 - 2026-10-22 `codeforces/1215/d`: D. Ticket Game
@@ -245,59 +262,3 @@ The complete list is available only in the full repository for eligible paid spo
 - 2026-09-26 `atcoder/abc477/c`: C - Range Search Query
 - 2026-09-26 `atcoder/abc477/b`: B - Standing Outliers
 - 2026-09-26 `atcoder/abc477/a`: A - Traffic Light
-- 2026-09-25 `qoj/3426/17272`: M. May We Answer Your Questions Right?
-- 2026-09-25 `qoj/3426/17269`: J. Jolly Wheel
-- 2026-09-25 `qoj/3426/17266`: G. Guaranteed Medal
-- 2026-09-25 `qoj/3426/17265`: F. Forgot to Refuel
-- 2026-09-25 `qoj/3426/17264`: E. Encountering a Friend
-- 2026-09-25 `qoj/2908/15322`: I. Round screws
-- 2026-09-25 `qoj/2908/15321`: H. AGI
-- 2026-09-25 `qoj/2908/15320`: G. Gemcrate
-- 2026-09-25 `qoj/2908/15319`: F. Flower's land 4
-- 2026-09-25 `qoj/2908/15318`: E. Flower's land 3
-- 2026-09-25 `qoj/2908/15317`: D. Not a subset sum
-- 2026-09-25 `qoj/2828/16118`: D. Two Options
-- 2026-09-25 `qoj/2828/16117`: C. XOR-Excluding Sets
-- 2026-09-25 `qoj/2668/15455`: L. Linear Averaging
-- 2026-09-25 `qoj/2668/15449`: F. Finances
-- 2026-09-25 `qoj/2668/15446`: C. Count Triangular Sequences
-- 2026-09-25 `qoj/2041/11362`: G. Most Scenic Cycle
-- 2026-09-25 `qoj/1873/9772`: E. Permutation Routing
-- 2026-09-25 `qoj/1873/9769`: B. Rolling Stones
-- 2026-09-25 `qoj/1873/9768`: A. A + B = C Problem
-- 2026-09-25 `nowcoder/140119/c`: C. Drifting Toward a Promised Sky 2
-- 2026-09-25 `nowcoder/133883/j`: J. Oni's Ring
-- 2026-09-25 `codeforces/1733/e`: E. Conveyor
-- 2026-09-25 `codeforces/1733/d2`: D2. Zero-One (Hard Version)
-- 2026-09-25 `codeforces/1733/c`: C. Parity Shuffle Sorting
-- 2026-09-25 `codeforces/1733/b`: B. Rule of League
-- 2026-09-25 `codeforces/1733/a`: A. Consecutive Sum
-- 2026-09-25 `codeforces/1555/f`: F. Good Graph
-- 2026-09-25 `codeforces/1555/e`: E. Boring Segments
-- 2026-09-25 `codeforces/1555/d`: D. Say No to Palindromes
-- 2026-09-25 `codeforces/1555/c`: C. Coin Rows
-- 2026-09-25 `codeforces/1555/b`: B. Two Tables
-- 2026-09-25 `codeforces/1555/a`: A. PizzaForces
-- 2026-09-25 `codeforces/1359/f`: F. RC Kaboom Show
-- 2026-09-25 `codeforces/1359/e`: E. Modular Stability
-- 2026-09-25 `codeforces/1359/d`: D. Yet Another Yet Another Task
-- 2026-09-25 `codeforces/1359/c`: C. Mixing Water
-- 2026-09-25 `codeforces/1359/b`: B. New Theatre Square
-- 2026-09-25 `codeforces/1359/a`: A. Berland Poker
-- 2026-09-25 `codeforces/922/f`: F. Divisibility
-- 2026-09-25 `codeforces/922/e`: E. Birds
-- 2026-09-25 `codeforces/922/d`: D. Robot Vacuum Cleaner
-- 2026-09-25 `codeforces/922/c`: C. Cave Painting
-- 2026-09-25 `codeforces/922/b`: B. Magic Forest
-- 2026-09-25 `codeforces/922/a`: A. Cloning Toys
-- 2026-09-24 `qoj/1873/9774`: G. Same Sum
-- 2026-09-24 `qoj/1873/9773`: F. Infinite Loop
-- 2026-09-24 `qoj/1873/9770`: C. Middle Point
-- 2026-09-23 `qoj/4126/20257`: J. Jaded Juice
-- 2026-09-23 `codeforces/1487/g`: G. String Counting
-- 2026-09-23 `codeforces/1487/f`: F. Ones
-- 2026-09-23 `codeforces/1487/e`: E. Cheap Dinner
-- 2026-09-23 `codeforces/1487/d`: D. Pythagorean Triples
-- 2026-09-23 `codeforces/1487/c`: C. Minimum Ties
-- 2026-09-23 `codeforces/1487/b`: B. Cat Cycle
-- 2026-09-23 `codeforces/1487/a`: A. Arena
