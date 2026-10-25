@@ -1,6 +1,6 @@
 # Recent
 
-Latest 255 problems.
+Latest 259 problems.
 Selection rule: all problems added within 30 days of the latest addition, or the latest 100 problems, whichever is larger.
 
 This public list is generated from the full repository and includes only the addition date, problem ID, and problem title.
@@ -18,6 +18,10 @@ The complete list is available only in the full repository for eligible paid spo
 - 2026-10-25 `codeforces/1566/c`: C. MAX-MEX Cut
 - 2026-10-25 `codeforces/1566/b`: B. MIN-MEX Cut
 - 2026-10-25 `codeforces/1566/a`: A. Median Maximization
+- 2026-10-25 `atcoder/arc233/d`: D - Zigzag Code for Cubic Functions
+- 2026-10-25 `atcoder/arc233/c`: C - Equal Degree Deletion
+- 2026-10-25 `atcoder/arc233/b`: B - Count of Euclid Function Call
+- 2026-10-25 `atcoder/arc233/a`: A - Strange Subset Sum
 - 2026-10-23 `yukicoder/3561`: No.3561 Collect KCPC
 - 2026-10-23 `yukicoder/3366`: No.3366 Reversible Tile:Revival
 - 2026-10-23 `yukicoder/2562`: No.2562 数字探しゲーム（緑以下コンver.）
