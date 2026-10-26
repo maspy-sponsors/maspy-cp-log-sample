@@ -7,12 +7,28 @@ This public list is generated from the full repository and includes only the add
 Difficulty ratings, favorite ratings, solution tags, and links to solution notes are omitted.
 The complete list is available only in the full repository for eligible paid sponsors.
 
+- 2026-10-27 `codeforces/2272/g`: G. Ranges
+- 2026-10-27 `codeforces/2272/f`: F. Tree Reduction Game
+- 2026-10-27 `codeforces/2272/e`: E. Memory Cell Interception
+- 2026-10-27 `codeforces/2272/d`: D. Connecting the Conflicts
+- 2026-10-27 `codeforces/2272/c`: C. Yet Another Black Cell Problem
+- 2026-10-27 `codeforces/2272/b`: B. Frogs Jump
+- 2026-10-27 `codeforces/2272/a`: A. Maximize One MEX
 - 2026-10-26 `tlx/inc-2026-mirror/f`: F. The Wedding of the Fox
 - 2026-10-26 `tlx/inc-2026-mirror/e`: E. Wunkus
 - 2026-10-26 `tlx/inc-2026-mirror/d`: D. Deliberating Independence
 - 2026-10-26 `tlx/inc-2026-mirror/c`: C. 3-A. Nihilation
 - 2026-10-26 `tlx/inc-2026-mirror/b`: B. Skysplitter
 - 2026-10-26 `tlx/inc-2026-mirror/a`: A. Call for Tasks
+- 2026-10-26 `qoj/4593/20063`: M. Melodiniq
+- 2026-10-26 `qoj/4593/20060`: J. Journey
+- 2026-10-26 `qoj/4593/20058`: H. Hydra
+- 2026-10-26 `qoj/4593/20053`: C. Cryptarithm
+- 2026-10-26 `codeforces/280/e`: E. Sequence Transformation
+- 2026-10-26 `codeforces/280/d`: D. k-Maximum Subsequence Sum
+- 2026-10-26 `codeforces/280/c`: C. Game on Tree
+- 2026-10-26 `codeforces/280/b`: B. Maximum Xor Secondary
+- 2026-10-26 `codeforces/280/a`: A. Rectangle Puzzle
 - 2026-10-25 `qoj/4593/20062`: L. Lucid Traveler
 - 2026-10-25 `qoj/4593/20059`: I. Incyde
 - 2026-10-25 `qoj/4593/20056`: F. False Amber
@@ -229,19 +245,3 @@ The complete list is available only in the full repository for eligible paid spo
 - 2026-09-28 `atcoder/agc078/c`: C - AB vs. BA
 - 2026-09-28 `atcoder/agc078/b`: B - L Robust IS
 - 2026-09-28 `atcoder/agc078/a`: A - Rearrange ABC
-- 2026-09-27 `tlx/compfest-18-scpc-final-mirror/h`: H. Investigating Medians
-- 2026-09-27 `tlx/compfest-18-scpc-final-mirror/g`: G. Great Prime Festival
-- 2026-09-27 `tlx/compfest-18-scpc-final-mirror/e`: E. Laying Flowers
-- 2026-09-27 `tlx/compfest-18-scpc-final-mirror/d`: D. Break the Bill
-- 2026-09-27 `tlx/compfest-18-scpc-final-mirror/c`: C. A Fate-Defying Chanek
-- 2026-09-27 `tlx/compfest-18-scpc-final-mirror/b`: B. Morning Sun
-- 2026-09-27 `tlx/compfest-18-scpc-final-mirror/a`: A. Hope from Light of Wisdom
-- 2026-09-27 `qoj/4207/21381`: K. Killer Die
-- 2026-09-27 `qoj/4207/20723`: I. Integer Triple
-- 2026-09-27 `qoj/4207/20717`: C. Cross the Road
-- 2026-09-27 `qoj/1207/6317`: A. XOR Tree Path
-- 2026-09-27 `codeforces/1338/e`: E. JYPnation
-- 2026-09-27 `codeforces/1338/d`: D. Nested Rubber Bands
-- 2026-09-27 `codeforces/1338/c`: C. Perfect Triples
-- 2026-09-27 `codeforces/1338/b`: B. Edge Weight Assignment
-- 2026-09-27 `codeforces/1338/a`: A. Powered Addition
