@@ -1,12 +1,69 @@
 # Recent
 
-Latest 238 problems.
+Latest 288 problems.
 Selection rule: all problems added within 30 days of the latest addition, or the latest 100 problems, whichever is larger.
 
 This public list is generated from the full repository and includes only the addition date, problem ID, and problem title.
 Difficulty ratings, favorite ratings, solution tags, and links to solution notes are omitted.
 The complete list is available only in the full repository for eligible paid sponsors.
 
+- 2026-11-02 `repovive/30/e`: 30E. Hidden Edges
+- 2026-11-02 `repovive/30/d`: 30D. Stable Hooks
+- 2026-11-02 `repovive/30/c`: 30C. Ancient Columns
+- 2026-11-02 `repovive/30/b`: 30B. Watering Schedule
+- 2026-11-02 `repovive/30/a`: 30A. Monochrome Boxes
+- 2026-11-01 `codeforces/121/e`: E. Lucky Array
+- 2026-11-01 `codeforces/121/d`: D. Lucky Segments
+- 2026-11-01 `codeforces/121/c`: C. Lucky Permutation
+- 2026-11-01 `codeforces/121/b`: B. Lucky Transformation
+- 2026-11-01 `codeforces/121/a`: A. Lucky Sum
+- 2026-11-01 `atcoder/nupc2024/p`: P - 偶数けんけん
+- 2026-11-01 `atcoder/nupc2024/i`: I - Eat and Build
+- 2026-11-01 `atcoder/nupc2024/g`: G - Super 累積 XOR
+- 2026-11-01 `atcoder/nupc2024/e`: E - Exponential
+- 2026-11-01 `atcoder/nupc2024/b`: B - おつり
+- 2026-11-01 `atcoder/nupc2024/a`: A - Equalization
+- 2026-10-31 `atcoder/pakencamp-2024-day1/pakencamp_2024_day1_r`: R - Maximum Water Flow
+- 2026-10-31 `atcoder/abc457/g`: G - Catch All Apples
+- 2026-10-30 `atcoder/tupc2022/g`: G - All Pairs
+- 2026-10-30 `atcoder/tupc2022/f`: F - Block Rotation
+- 2026-10-30 `atcoder/tupc2022/e`: E - 00-11 Rotation
+- 2026-10-30 `atcoder/tupc2022/d`: D - Zeta Sum
+- 2026-10-30 `atcoder/tupc2022/c`: C - Flip Grid
+- 2026-10-30 `atcoder/tupc2022/b`: B - Snowy Aobayama
+- 2026-10-30 `atcoder/tupc2022/a`: A - Sum Sort
+- 2026-10-30 `atcoder/pakencamp-2024-day1/pakencamp_2024_day1_o`: O - Triangle
+- 2026-10-30 `atcoder/pakencamp-2024-day1/pakencamp_2024_day1_n`: N - Go to School
+- 2026-10-30 `atcoder/pakencamp-2024-day1/pakencamp_2024_day1_l`: L - Taxi of Paken Kingdom
+- 2026-10-30 `atcoder/pakencamp-2024-day1/pakencamp_2024_day1_j`: J - Stamp
+- 2026-10-30 `atcoder/pakencamp-2024-day1/pakencamp_2024_day1_i`: I - ×2±1
+- 2026-10-30 `atcoder/pakencamp-2024-day1/pakencamp_2024_day1_h`: H - Buttons
+- 2026-10-30 `atcoder/pakencamp-2024-day1/pakencamp_2024_day1_g`: G - Sequence
+- 2026-10-30 `atcoder/pakencamp-2024-day1/pakencamp_2024_day1_f`: F - Degree
+- 2026-10-30 `atcoder/pakencamp-2024-day1/pakencamp_2024_day1_e`: E - Goats
+- 2026-10-30 `atcoder/pakencamp-2024-day1/pakencamp_2024_day1_d`: D - Coprime Shortest Path
+- 2026-10-30 `atcoder/pakencamp-2024-day1/pakencamp_2024_day1_c`: C - One Half
+- 2026-10-30 `atcoder/pakencamp-2024-day1/pakencamp_2024_day1_b`: B - Pakencamp
+- 2026-10-30 `atcoder/pakencamp-2024-day1/pakencamp_2024_day1_a`: A - Ikaho
+- 2026-10-30 `atcoder/highrate2025-parallel/highrate2025_e`: E - ブースの配置
+- 2026-10-30 `atcoder/highrate2025-parallel/highrate2025_d`: D - みかんの取り合い
+- 2026-10-30 `atcoder/highrate2025-parallel/highrate2025_c`: C - 陣法魔
+- 2026-10-30 `atcoder/highrate2025-parallel/highrate2025_b`: B - 三乗根
+- 2026-10-30 `atcoder/highrate2025-parallel/highrate2025_a`: A - 全完しないと出られない部屋
+- 2026-10-30 `atcoder/abc383/g`: G - Bar Cover
+- 2026-10-30 `atcoder/abc383/f`: F - Diversity
+- 2026-10-30 `atcoder/abc383/e`: E - Sum of Max Matching
+- 2026-10-30 `atcoder/abc383/d`: D - 9 Divisors
+- 2026-10-30 `atcoder/abc383/c`: C - Humidifier 3
+- 2026-10-30 `atcoder/abc383/b`: B - Humidifier 2
+- 2026-10-30 `atcoder/abc383/a`: A - Humidifier 1
+- 2026-10-29 `codeforces/1425/i`: I. Impressive Harvesting of The Orchard
+- 2026-10-29 `codeforces/1425/f`: F. Flamingoes of Mystery
+- 2026-10-29 `codeforces/1425/e`: E. Excitation of Atoms
+- 2026-10-29 `codeforces/1425/d`: D. Danger of Mad Snakes
+- 2026-10-29 `codeforces/1425/c`: C. Captain of Knights
+- 2026-10-29 `codeforces/1425/b`: B. Blue and Red of Our Faculty!
+- 2026-10-29 `codeforces/1425/a`: A. Arena of Greed
 - 2026-10-27 `codeforces/2272/g`: G. Ranges
 - 2026-10-27 `codeforces/2272/f`: F. Tree Reduction Game
 - 2026-10-27 `codeforces/2272/e`: E. Memory Cell Interception
@@ -238,10 +295,3 @@ The complete list is available only in the full repository for eligible paid spo
 - 2026-10-04 `atcoder/arc231/b`: B - Three Mex
 - 2026-10-04 `atcoder/arc231/a`: A - Two Dimensional Invader
 - 2026-10-04 `atcoder/abc426/g`: G - Range Knapsack Query
-- 2026-10-02 `qoj/4207/20727`: M. Median Equals X
-- 2026-10-01 `qoj/4207/20719`: E. EPS.AC
-- 2026-09-28 `qoj/4207/21380`: H. Harmonizing Charges
-- 2026-09-28 `qoj/4207/20718`: D. Dodge the Car
-- 2026-09-28 `atcoder/agc078/c`: C - AB vs. BA
-- 2026-09-28 `atcoder/agc078/b`: B - L Robust IS
-- 2026-09-28 `atcoder/agc078/a`: A - Rearrange ABC
