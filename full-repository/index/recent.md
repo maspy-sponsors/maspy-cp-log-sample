@@ -1,17 +1,74 @@
 # Recent
 
-Latest 288 problems.
+Latest 292 problems.
 Selection rule: all problems added within 30 days of the latest addition, or the latest 100 problems, whichever is larger.
 
 This public list is generated from the full repository and includes only the addition date, problem ID, and problem title.
 Difficulty ratings, favorite ratings, solution tags, and links to solution notes are omitted.
 The complete list is available only in the full repository for eligible paid sponsors.
 
+- 2026-11-05 `codeforces/2283/g`: G. Order Statistics on the Graph
+- 2026-11-05 `codeforces/2283/f`: F. Minimize the Graph
+- 2026-11-05 `codeforces/2283/e`: E. Partition of a Binary String
+- 2026-11-05 `codeforces/2283/d`: D. Black, Gray and White
+- 2026-11-05 `codeforces/2283/c`: C. Big XOR
+- 2026-11-05 `codeforces/2283/b`: B. Rhythmic String
+- 2026-11-05 `codeforces/2283/a`: A. Numbers on the Board
+- 2026-11-04 `qoj/4207/21379`: B. Best Trades Again
+- 2026-11-04 `qoj/4207/20715`: A. All the Trades Are the Best
+- 2026-11-03 `codeforces/180/f`: F. Mathematical Analysis Rocks!
+- 2026-11-03 `codeforces/180/e`: E. Cubes
+- 2026-11-03 `codeforces/180/d`: D. Name
+- 2026-11-03 `codeforces/180/c`: C. Letter
+- 2026-11-03 `codeforces/180/b`: B. Divisibility Rules
+- 2026-11-03 `codeforces/180/a`: A. Defragmentation
+- 2026-11-03 `codeforces/108/e`: E. Arrangement
+- 2026-11-03 `codeforces/108/d`: D. Basketball Team
+- 2026-11-03 `codeforces/108/c`: C. Dorm Water Supply
+- 2026-11-03 `codeforces/108/b`: B. Datatypes
+- 2026-11-03 `codeforces/108/a`: A. Palindromic Times
+- 2026-11-03 `atcoder/guildfes-2026-final/guildfes_2026_final_g`: G - EGFグリッド
+- 2026-11-03 `atcoder/guildfes-2026-final/guildfes_2026_final_f`: F - EGFパス
+- 2026-11-03 `atcoder/guildfes-2026-final/guildfes_2026_final_e`: E - EGFクエリ
+- 2026-11-03 `atcoder/guildfes-2026-final/guildfes_2026_final_d`: D - EGFイニシャル
+- 2026-11-03 `atcoder/guildfes-2026-final/guildfes_2026_final_c`: C - EGFカウント
+- 2026-11-03 `atcoder/guildfes-2026-final/guildfes_2026_final_b`: B - EGF置換
+- 2026-11-03 `atcoder/guildfes-2026-final/guildfes_2026_final_a`: A - EGFスワップ
+- 2026-11-03 `atcoder/abc438/g`: G - Sum of Min
+- 2026-11-03 `atcoder/abc438/f`: F - Sum of Mex
+- 2026-11-03 `atcoder/abc438/e`: E - Heavy Buckets
+- 2026-11-03 `atcoder/abc438/d`: D - Tail of Snake
+- 2026-11-03 `atcoder/abc438/c`: C - 1D puyopuyo
+- 2026-11-03 `atcoder/abc438/b`: B - Substring 2
+- 2026-11-03 `atcoder/abc438/a`: A - First Contest of the Year
 - 2026-11-02 `repovive/30/e`: 30E. Hidden Edges
 - 2026-11-02 `repovive/30/d`: 30D. Stable Hooks
 - 2026-11-02 `repovive/30/c`: 30C. Ancient Columns
 - 2026-11-02 `repovive/30/b`: 30B. Watering Schedule
 - 2026-11-02 `repovive/30/a`: 30A. Monochrome Boxes
+- 2026-11-02 `codeforces/1078/e`: E. Negative Time Summation
+- 2026-11-02 `codeforces/1078/d`: D. Chattering
+- 2026-11-02 `codeforces/1078/c`: C. Vasya and Maximum Matching
+- 2026-11-02 `codeforces/1078/b`: B. The Unbearable Lightness of Weights
+- 2026-11-02 `codeforces/1078/a`: A. Barcelonian Distance
+- 2026-11-02 `codeforces/261/e`: E. Maxim and Calculator
+- 2026-11-02 `codeforces/261/d`: D. Maxim and Increasing Subsequence
+- 2026-11-02 `codeforces/261/c`: C. Maxim and Matrix
+- 2026-11-02 `codeforces/261/b`: B. Maxim and Restaurant
+- 2026-11-02 `codeforces/261/a`: A. Maxim and Discounts
+- 2026-11-02 `atcoder/past24-open/past24_m`: M - 挿入と削除
+- 2026-11-02 `atcoder/past24-open/past24_l`: L - 最小全域木
+- 2026-11-02 `atcoder/past24-open/past24_k`: K - 球拾い
+- 2026-11-02 `atcoder/past24-open/past24_j`: J - 等距離三角形
+- 2026-11-02 `atcoder/past24-open/past24_i`: I - カットオフ
+- 2026-11-02 `atcoder/past24-open/past24_h`: H - 正方形の集合体
+- 2026-11-02 `atcoder/past24-open/past24_g`: G - 行や列の交換
+- 2026-11-02 `atcoder/past24-open/past24_f`: F - 累計数
+- 2026-11-02 `atcoder/past24-open/past24_e`: E - 1つだけ
+- 2026-11-02 `atcoder/past24-open/past24_d`: D - 画像の縮小
+- 2026-11-02 `atcoder/past24-open/past24_c`: C - コンプリート
+- 2026-11-02 `atcoder/past24-open/past24_b`: B - アメの分配
+- 2026-11-02 `atcoder/past24-open/past24_a`: A - 重心
 - 2026-11-01 `codeforces/121/e`: E. Lucky Array
 - 2026-11-01 `codeforces/121/d`: D. Lucky Segments
 - 2026-11-01 `codeforces/121/c`: C. Lucky Permutation
@@ -242,56 +299,3 @@ The complete list is available only in the full repository for eligible paid spo
 - 2026-10-07 `atcoder/abc363/c`: C - Avoid K Palindrome 2
 - 2026-10-07 `atcoder/abc363/b`: B - Japanese Cursed Doll
 - 2026-10-07 `atcoder/abc363/a`: A - Piling Up
-- 2026-10-06 `qoj/4565/20741`: M. Matching Substrings
-- 2026-10-06 `qoj/4565/20732`: D. Dynamic Adjustment
-- 2026-10-06 `codeforces/1172/a`: A. Nauuo and Cards
-- 2026-10-05 `qoj/4565/20740`: L. Leaf Meeting
-- 2026-10-05 `qoj/4565/20736`: H. Hamiltonian LCM
-- 2026-10-05 `qoj/4565/20735`: G. Game
-- 2026-10-05 `qoj/4565/20733`: E. Equal Totients
-- 2026-10-05 `qoj/4565/20731`: C. Circle Construction
-- 2026-10-05 `qoj/3384/17172`: L. Triangles
-- 2026-10-05 `qoj/3384/17171`: K. Traversal of a Triangular Grid
-- 2026-10-05 `qoj/3384/17169`: I. Wooden Checker
-- 2026-10-05 `qoj/3384/17168`: H. Sweet Remainders!
-- 2026-10-05 `qoj/3384/17163`: C. String Workshop
-- 2026-10-05 `codeforces/1598/g`: G. The Sum of Good Numbers
-- 2026-10-05 `codeforces/1598/f`: F. RBS
-- 2026-10-05 `codeforces/1598/e`: E. Staircases
-- 2026-10-05 `codeforces/1598/d`: D. Training Session
-- 2026-10-05 `codeforces/1598/c`: C. Delete Two Elements
-- 2026-10-05 `codeforces/1598/b`: B. Groups
-- 2026-10-05 `codeforces/1598/a`: A. Computer Game
-- 2026-10-04 `qoj/3384/17167`: G. Traffic Lights
-- 2026-10-04 `codeforces/500/g`: G. New Year Running
-- 2026-10-04 `codeforces/500/e`: E. New Year Domino
-- 2026-10-04 `codeforces/500/d`: D. New Year Santa Network
-- 2026-10-04 `codeforces/500/c`: C. New Year Book Reading
-- 2026-10-04 `codeforces/500/b`: B. New Year Permutation
-- 2026-10-04 `codeforces/500/a`: A. New Year Transportation
-- 2026-10-04 `codeforces/444/e`: E. DZY Loves Planting
-- 2026-10-04 `codeforces/444/d`: D. DZY Loves Strings
-- 2026-10-04 `codeforces/444/b`: B. DZY Loves FFT
-- 2026-10-04 `codeforces/444/a`: A. DZY Loves Physics
-- 2026-10-04 `codeforces/292/e`: E. Copying Data
-- 2026-10-04 `codeforces/292/d`: D. Connected Components
-- 2026-10-04 `codeforces/292/c`: C. Beautiful IP Addresses
-- 2026-10-04 `codeforces/292/b`: B. Network Topology
-- 2026-10-04 `codeforces/292/a`: A. SMSC
-- 2026-10-04 `codeforces/225/e`: E. Unsolvable
-- 2026-10-04 `codeforces/225/d`: D. Snake
-- 2026-10-04 `codeforces/225/c`: C. Barcode
-- 2026-10-04 `codeforces/225/b`: B. Well-known Numbers
-- 2026-10-04 `codeforces/225/a`: A. Dice Tower
-- 2026-10-04 `codeforces/5/e`: E. Bindian Signalizing
-- 2026-10-04 `codeforces/5/d`: D. Follow Traffic Rules
-- 2026-10-04 `codeforces/5/c`: C. Longest Regular Bracket Sequence
-- 2026-10-04 `codeforces/5/b`: B. Center Alignment
-- 2026-10-04 `codeforces/5/a`: A. Chat Server's Outgoing Traffic
-- 2026-10-04 `atcoder/arc231/f`: F - Two Unbalanced Subtrees
-- 2026-10-04 `atcoder/arc231/e`: E - Odd Inversion
-- 2026-10-04 `atcoder/arc231/d`: D - Choose Your Role
-- 2026-10-04 `atcoder/arc231/c`: C - One Sky, Many Stars
-- 2026-10-04 `atcoder/arc231/b`: B - Three Mex
-- 2026-10-04 `atcoder/arc231/a`: A - Two Dimensional Invader
-- 2026-10-04 `atcoder/abc426/g`: G - Range Knapsack Query
