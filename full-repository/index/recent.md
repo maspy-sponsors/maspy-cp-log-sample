@@ -1,12 +1,26 @@
 # Recent
 
-Latest 292 problems.
+Latest 288 problems.
 Selection rule: all problems added within 30 days of the latest addition, or the latest 100 problems, whichever is larger.
 
 This public list is generated from the full repository and includes only the addition date, problem ID, and problem title.
 Difficulty ratings, favorite ratings, solution tags, and links to solution notes are omitted.
 The complete list is available only in the full repository for eligible paid sponsors.
 
+- 2026-11-07 `codeforces/2284/f`: F. Fun Times
+- 2026-11-07 `codeforces/2284/e`: E. My Mind Is Going
+- 2026-11-07 `codeforces/2284/d`: D. The Theorem of Two Cans
+- 2026-11-07 `codeforces/2284/c2`: C2. Disgusting + GCD (Checker Version)
+- 2026-11-07 `codeforces/2284/c1`: C1. Disgusting + GCD (Constructive Version)
+- 2026-11-07 `codeforces/2284/b`: B. Introduction to the Niche Internet
+- 2026-11-07 `codeforces/2284/a2`: A2. 15K4JR3B (Hard Version)
+- 2026-11-06 `codeforces/1470/f`: F. Strange Covering
+- 2026-11-06 `codeforces/1470/e`: E. Strange Permutation
+- 2026-11-06 `codeforces/1470/d`: D. Strange Housing
+- 2026-11-06 `codeforces/1470/c`: C. Strange Shuffle
+- 2026-11-06 `codeforces/1470/b`: B. Strange Definition
+- 2026-11-06 `codeforces/1470/a`: A. Strange Birthday Party
+- 2026-11-06 `atcoder/joisc2018/j`: J - 飴 (Candies)
 - 2026-11-05 `codeforces/2283/g`: G. Order Statistics on the Graph
 - 2026-11-05 `codeforces/2283/f`: F. Minimize the Graph
 - 2026-11-05 `codeforces/2283/e`: E. Partition of a Binary String
@@ -281,21 +295,3 @@ The complete list is available only in the full repository for eligible paid spo
 - 2026-10-09 `codeforces/2275/c`: C. Unrequited Love
 - 2026-10-09 `codeforces/2275/b`: B. Did Not Go to Print
 - 2026-10-09 `codeforces/2275/a`: A. In Search of Convenience
-- 2026-10-08 `qoj/4565/20738`: J. Jump Cycle
-- 2026-10-08 `qoj/4565/20737`: I. Interval MST
-- 2026-10-08 `qoj/4565/20729`: A. Adjacent Decrements
-- 2026-10-08 `qoj/2559/14421`: G. Far Away
-- 2026-10-08 `codeforces/1641/f`: F. Covering Circle
-- 2026-10-08 `codeforces/1641/e`: E. Special Positions
-- 2026-10-08 `codeforces/1641/d`: D. Two Arrays
-- 2026-10-08 `codeforces/1641/c`: C. Anonymity Is Important
-- 2026-10-08 `codeforces/1641/b`: B. Repetitions Decoding
-- 2026-10-08 `codeforces/1641/a`: A. Great Sequence
-- 2026-10-07 `qoj/4565/20739`: K. Keep Colors Apart
-- 2026-10-07 `atcoder/abc363/g`: G - Dynamic Scheduling
-- 2026-10-07 `atcoder/abc363/f`: F - Palindromic Expression
-- 2026-10-07 `atcoder/abc363/e`: E - Sinking Land
-- 2026-10-07 `atcoder/abc363/d`: D - Palindromic Number
-- 2026-10-07 `atcoder/abc363/c`: C - Avoid K Palindrome 2
-- 2026-10-07 `atcoder/abc363/b`: B - Japanese Cursed Doll
-- 2026-10-07 `atcoder/abc363/a`: A - Piling Up
