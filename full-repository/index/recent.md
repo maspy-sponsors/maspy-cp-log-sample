@@ -1,12 +1,16 @@
 # Recent
 
-Latest 288 problems.
+Latest 282 problems.
 Selection rule: all problems added within 30 days of the latest addition, or the latest 100 problems, whichever is larger.
 
 This public list is generated from the full repository and includes only the addition date, problem ID, and problem title.
 Difficulty ratings, favorite ratings, solution tags, and links to solution notes are omitted.
 The complete list is available only in the full repository for eligible paid sponsors.
 
+- 2026-11-09 `atcoder/agc079/c`: C - Sort by Queue and Reverse
+- 2026-11-08 `atcoder/bogosortcontest_div2/c`: C - tatesoto string
+- 2026-11-08 `atcoder/bogosortcontest_div2/b`: B - Erase Mountain
+- 2026-11-08 `atcoder/bogosortcontest_div2/a`: A - Help bogosort
 - 2026-11-07 `codeforces/2284/f`: F. Fun Times
 - 2026-11-07 `codeforces/2284/e`: E. My Mind Is Going
 - 2026-11-07 `codeforces/2284/d`: D. The Theorem of Two Cans
@@ -285,13 +289,3 @@ The complete list is available only in the full repository for eligible paid spo
 - 2026-10-11 `atcoder/arc232/c`: C - All Add or Single Negate
 - 2026-10-11 `atcoder/arc232/b`: B - Two Flips
 - 2026-10-11 `atcoder/arc232/a`: A - Two in the Range
-- 2026-10-09 `qoj/2559/14425`: K. Game on Board
-- 2026-10-09 `qoj/2559/14424`: J. One Permutation
-- 2026-10-09 `codeforces/2275/h`: H. A Problem to Warm Up the Eyebrows
-- 2026-10-09 `codeforces/2275/g`: G. Copper Squander
-- 2026-10-09 `codeforces/2275/f`: F. Tea Blend
-- 2026-10-09 `codeforces/2275/e`: E. Repentance Is Already on the Way
-- 2026-10-09 `codeforces/2275/d`: D. Precision Alignment
-- 2026-10-09 `codeforces/2275/c`: C. Unrequited Love
-- 2026-10-09 `codeforces/2275/b`: B. Did Not Go to Print
-- 2026-10-09 `codeforces/2275/a`: A. In Search of Convenience
