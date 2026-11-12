@@ -1,12 +1,51 @@
 # Recent
 
-Latest 282 problems.
+Latest 278 problems.
 Selection rule: all problems added within 30 days of the latest addition, or the latest 100 problems, whichever is larger.
 
 This public list is generated from the full repository and includes only the addition date, problem ID, and problem title.
 Difficulty ratings, favorite ratings, solution tags, and links to solution notes are omitted.
 The complete list is available only in the full repository for eligible paid sponsors.
 
+- 2026-11-13 `codeforces/2290/h`: H. Extra Road
+- 2026-11-13 `codeforces/2290/g2`: G2. Lakeside Trail (Hard Version)
+- 2026-11-13 `codeforces/2290/f`: F. Value Counters
+- 2026-11-13 `codeforces/2290/e`: E. Avalanche
+- 2026-11-13 `codeforces/2290/d`: D. Letters Down
+- 2026-11-13 `codeforces/2290/c`: C. Books on a Shelf
+- 2026-11-13 `codeforces/2290/b`: B. Stubborn Pen
+- 2026-11-13 `codeforces/2290/a`: A. Three Piles
+- 2026-11-12 `codeforces/1313/e`: E. Concatenation with intersection
+- 2026-11-12 `codeforces/1313/d`: D. Happy New Year
+- 2026-11-12 `codeforces/1313/c2`: C2. Skyscrapers (hard version)
+- 2026-11-12 `codeforces/1313/b`: B. Different Rules
+- 2026-11-12 `codeforces/1313/a`: A. Fast Food Restaurant
+- 2026-11-12 `codeforces/306/d`: D. Polygon
+- 2026-11-12 `codeforces/306/c`: C. White, Black and White Again
+- 2026-11-12 `codeforces/306/b`: B. Optimizer
+- 2026-11-12 `codeforces/306/a`: A. Candies
+- 2026-11-12 `codeforces/44/j`: J. Triminoes
+- 2026-11-12 `codeforces/44/i`: I. Toys
+- 2026-11-12 `codeforces/44/h`: H. Phone Number
+- 2026-11-12 `codeforces/44/g`: G. Shooting Gallery
+- 2026-11-12 `codeforces/44/f`: F. BerPaint
+- 2026-11-12 `codeforces/44/e`: E. Anfisa the Monkey
+- 2026-11-12 `codeforces/44/d`: D. Hyperdrive
+- 2026-11-12 `codeforces/44/c`: C. Holidays
+- 2026-11-12 `codeforces/44/b`: B. Cola
+- 2026-11-12 `codeforces/44/a`: A. Indian Summer
+- 2026-11-12 `atcoder/tupc2024/r`: R - Bracket Game
+- 2026-11-12 `atcoder/tupc2024/q`: Q - Make Intervals Disjoint
+- 2026-11-12 `atcoder/tupc2024/p`: P - Adjacent Reset
+- 2026-11-12 `atcoder/codequeen2026-final-public/codequeen2026_h`: H - 迷子の森
+- 2026-11-12 `atcoder/agc079/a`: A - Tree Contraction Sequence
+- 2026-11-12 `atcoder/abc424/g`: G - Set list
+- 2026-11-12 `atcoder/abc424/f`: F - Adding Chords
+- 2026-11-12 `atcoder/abc424/e`: E - Cut in Half
+- 2026-11-12 `atcoder/abc424/d`: D - 2x2 Erasing 2
+- 2026-11-12 `atcoder/abc424/c`: C - New Skill Acquired
+- 2026-11-12 `atcoder/abc424/b`: B - Perfect
+- 2026-11-12 `atcoder/abc424/a`: A - Isosceles
 - 2026-11-09 `atcoder/agc079/c`: C - Sort by Queue and Reverse
 - 2026-11-08 `atcoder/bogosortcontest_div2/c`: C - tatesoto string
 - 2026-11-08 `atcoder/bogosortcontest_div2/b`: B - Erase Mountain
@@ -246,46 +285,3 @@ The complete list is available only in the full repository for eligible paid spo
 - 2026-10-15 `codeforces/2276/c`: C. Subarrays
 - 2026-10-15 `codeforces/2276/b`: B. Replace and Compress
 - 2026-10-15 `codeforces/2276/a`: A. Perfect Sandwiches
-- 2026-10-14 `qoj/2559/14418`: D. Disjoint Set Splitting
-- 2026-10-14 `codeforces/1955/h`: H. The Most Reckless Defense
-- 2026-10-14 `codeforces/1955/g`: G. GCD on a grid
-- 2026-10-14 `codeforces/1955/f`: F. Unfair Game
-- 2026-10-14 `codeforces/1955/e`: E. Long Inversions
-- 2026-10-14 `codeforces/1955/d`: D. Inaccurate Subsequence Search
-- 2026-10-14 `codeforces/1955/c`: C. Inhabitant of the Deep Sea
-- 2026-10-14 `codeforces/1955/b`: B. Progressive Square
-- 2026-10-14 `codeforces/1955/a`: A. Yogurt Sale
-- 2026-10-14 `codeforces/1700/f`: F. Puzzle
-- 2026-10-14 `codeforces/1700/e`: E. Serega the Pirate
-- 2026-10-14 `codeforces/1700/d`: D. River Locks
-- 2026-10-14 `codeforces/1700/c`: C. Helping the Nature
-- 2026-10-14 `codeforces/1700/b`: B. Palindromic Numbers
-- 2026-10-14 `codeforces/1700/a`: A. Optimal Path
-- 2026-10-12 `atcoder/aalc001/x`: X - 不揃いさ
-- 2026-10-12 `atcoder/aalc001/w`: W - 隣接加算
-- 2026-10-12 `atcoder/aalc001/v`: V - 連結性 2
-- 2026-10-12 `atcoder/aalc001/u`: U - 2 番目
-- 2026-10-12 `atcoder/aalc001/t`: T - K-転倒数
-- 2026-10-12 `atcoder/aalc001/s`: S - 絶対値
-- 2026-10-12 `atcoder/aalc001/r`: R - 連結性
-- 2026-10-12 `atcoder/aalc001/q`: Q - 移動回数
-- 2026-10-12 `atcoder/aalc001/p`: P - 線引きゲーム
-- 2026-10-12 `atcoder/aalc001/o`: O - 最小値
-- 2026-10-12 `atcoder/aalc001/n`: N - 九九
-- 2026-10-12 `atcoder/aalc001/m`: M - NAND
-- 2026-10-12 `atcoder/aalc001/l`: L - 数列間の swap
-- 2026-10-12 `atcoder/aalc001/k`: K - 多重集合
-- 2026-10-12 `atcoder/aalc001/j`: J - 長い 01 列
-- 2026-10-12 `atcoder/aalc001/i`: I - 連続部分列
-- 2026-10-12 `atcoder/aalc001/h`: H - 加算と modulo 演算
-- 2026-10-12 `atcoder/aalc001/g`: G - k 乗和
-- 2026-10-12 `atcoder/aalc001/f`: F - 連
-- 2026-10-12 `atcoder/aalc001/e`: E - RGB
-- 2026-10-12 `atcoder/aalc001/d`: D - 転倒数
-- 2026-10-12 `atcoder/aalc001/c`: C - セグメント木上の二分探索
-- 2026-10-12 `atcoder/aalc001/b`: B - 遅延セグメント木
-- 2026-10-12 `atcoder/aalc001/a`: A - セグメント木
-- 2026-10-11 `atcoder/arc232/e`: E - Doubling
-- 2026-10-11 `atcoder/arc232/c`: C - All Add or Single Negate
-- 2026-10-11 `atcoder/arc232/b`: B - Two Flips
-- 2026-10-11 `atcoder/arc232/a`: A - Two in the Range
