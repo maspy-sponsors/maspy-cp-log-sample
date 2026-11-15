@@ -1,12 +1,14 @@
 # Recent
 
-Latest 343 problems.
+Latest 330 problems.
 Selection rule: all problems added within 30 days of the latest addition, or the latest 100 problems, whichever is larger.
 
 This public list is generated from the full repository and includes only the addition date, problem ID, and problem title.
 Difficulty ratings, favorite ratings, solution tags, and links to solution notes are omitted.
 The complete list is available only in the full repository for eligible paid sponsors.
 
+- 2026-11-16 `codeforces/2285/f`: F. Mooclear Reactor 3
+- 2026-11-16 `codeforces/2285/e`: E. Arithmetic Subarray
 - 2026-11-15 `codeforces/1344/f`: F. Piet's Palette
 - 2026-11-15 `codeforces/1344/e`: E. Train Tracks
 - 2026-11-15 `codeforces/1344/d`: D. Résumé Review
@@ -335,18 +337,3 @@ The complete list is available only in the full repository for eligible paid spo
 - 2026-10-18 `codeforces/2261/c`: C. I Know About a Million Things
 - 2026-10-18 `codeforces/2261/b`: B. What's the Capital of France?
 - 2026-10-18 `codeforces/2261/a`: A. Hey, It's Me, Souvlakity
-- 2026-10-17 `qoj/4207/20724`: J. Jobs through Pipelines
-- 2026-10-17 `qoj/4207/20721`: G. Growing Prefix Span
-- 2026-10-17 `qoj/4207/20720`: F. Flight of the Night Butterfly
-- 2026-10-17 `qoj/3516/17417`: L. Alice and Bob
-- 2026-10-17 `qoj/3516/17415`: J. Counting Is Fun
-- 2026-10-17 `qoj/3516/17414`: I. Point Mirror
-- 2026-10-17 `qoj/3516/17409`: D. Merging Maximum
-- 2026-10-17 `qoj/3516/17406`: A. Ant and Sticks
-- 2026-10-17 `atcoder/abc480/g`: G - Zonal Score Minimization
-- 2026-10-17 `atcoder/abc480/f`: F - Cake Cutting
-- 2026-10-17 `atcoder/abc480/e`: E - Product-Bounded Arithmetic Sequences
-- 2026-10-17 `atcoder/abc480/d`: D - Concatenation of Prefixes
-- 2026-10-17 `atcoder/abc480/c`: C - Self-Stopping Shower
-- 2026-10-17 `atcoder/abc480/b`: B - Invalid Vote
-- 2026-10-17 `atcoder/abc480/a`: A - ADjacent
