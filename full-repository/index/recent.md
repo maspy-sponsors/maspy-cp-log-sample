@@ -1,6 +1,6 @@
 # Recent
 
-Latest 330 problems.
+Latest 334 problems.
 Selection rule: all problems added within 30 days of the latest addition, or the latest 100 problems, whichever is larger.
 
 This public list is generated from the full repository and includes only the addition date, problem ID, and problem title.
@@ -9,6 +9,10 @@ The complete list is available only in the full repository for eligible paid spo
 
 - 2026-11-16 `codeforces/2285/f`: F. Mooclear Reactor 3
 - 2026-11-16 `codeforces/2285/e`: E. Arithmetic Subarray
+- 2026-11-16 `codeforces/2285/d`: D. Reverse Partition
+- 2026-11-16 `codeforces/2285/c`: C. Max Substitution
+- 2026-11-16 `codeforces/2285/b`: B. Diverse String
+- 2026-11-16 `codeforces/2285/a`: A. Composite Permutation
 - 2026-11-15 `codeforces/1344/f`: F. Piet's Palette
 - 2026-11-15 `codeforces/1344/e`: E. Train Tracks
 - 2026-11-15 `codeforces/1344/d`: D. Résumé Review
