@@ -1,12 +1,67 @@
 # Recent
 
-Latest 278 problems.
+Latest 342 problems.
 Selection rule: all problems added within 30 days of the latest addition, or the latest 100 problems, whichever is larger.
 
 This public list is generated from the full repository and includes only the addition date, problem ID, and problem title.
 Difficulty ratings, favorite ratings, solution tags, and links to solution notes are omitted.
 The complete list is available only in the full repository for eligible paid sponsors.
 
+- 2026-11-15 `codeforces/1344/f`: F. Piet's Palette
+- 2026-11-15 `codeforces/1344/e`: E. Train Tracks
+- 2026-11-15 `codeforces/1344/d`: D. Résumé Review
+- 2026-11-15 `codeforces/1344/c`: C. Quantifier Question
+- 2026-11-15 `codeforces/1344/b`: B. Monopole Magnets
+- 2026-11-15 `codeforces/1344/a`: A. Hilbert's Hotel
+- 2026-11-15 `codeforces/329/e`: E. Evil
+- 2026-11-15 `codeforces/329/d`: D. The Evil Temple and the Moving Rocks
+- 2026-11-15 `codeforces/329/c`: C. Graph Reconstruction
+- 2026-11-15 `codeforces/329/b`: B. Biridian Forest
+- 2026-11-15 `codeforces/329/a`: A. Purification
+- 2026-11-15 `atcoder/past20-open/past20_o`: O - 超過クエリ
+- 2026-11-15 `atcoder/past20-open/past20_n`: N - パワーアップ
+- 2026-11-15 `atcoder/past20-open/past20_m`: M - 結合の中央値
+- 2026-11-15 `atcoder/past20-open/past20_l`: L - 直径のペア
+- 2026-11-15 `atcoder/past20-open/past20_k`: K - 良いグリッド
+- 2026-11-15 `atcoder/past20-open/past20_j`: J - グリッドの禁止パターン
+- 2026-11-15 `atcoder/past20-open/past20_i`: I - 入れ替えパズル
+- 2026-11-15 `atcoder/past20-open/past20_h`: H - 温度管理
+- 2026-11-15 `atcoder/past20-open/past20_g`: G - ご飯とパン
+- 2026-11-15 `atcoder/past20-open/past20_f`: F - 試験の結果
+- 2026-11-15 `atcoder/past20-open/past20_e`: E - リンゴ集め
+- 2026-11-15 `atcoder/past20-open/past20_d`: D - 回転した v
+- 2026-11-15 `atcoder/past20-open/past20_c`: C - XX反転
+- 2026-11-15 `atcoder/past20-open/past20_b`: B - 電車の乗り換え
+- 2026-11-15 `atcoder/past20-open/past20_a`: A - ドルと円の比較
+- 2026-11-15 `atcoder/joi2027yo1b/joi2027_yo1b_f`: https://atcoder.jp/contests/joi2027yo1b/tasks/joi2027_yo1b_f
+- 2026-11-15 `atcoder/joi2027yo1b/joi2027_yo1b_e`: E - 文字列を探せ (Find The String)
+- 2026-11-15 `atcoder/joi2027yo1b/joi2027_yo1b_d`: D - ペア (Pairs)
+- 2026-11-15 `atcoder/joi2027yo1b/joi2027_yo1b_b`: B - けんけんぱ (KenKenPa)
+- 2026-11-15 `atcoder/joi2027yo1b/joi2027_yo1b_a`: A - かるた (Karuta)
+- 2026-11-15 `atcoder/awc0004/e`: E - 区間の合計
+- 2026-11-15 `atcoder/awc0004/d`: D - 駐車場の割り当て
+- 2026-11-15 `atcoder/awc0004/c`: C - 温度調整の最小コスト
+- 2026-11-15 `atcoder/awc0004/b`: B - バッテリー残量
+- 2026-11-15 `atcoder/awc0004/a`: A - 出発までの準備
+- 2026-11-15 `atcoder/awc0003/e`: E - 荷物の配送トラック
+- 2026-11-15 `atcoder/awc0003/d`: D - 連続練習日数
+- 2026-11-15 `atcoder/awc0003/c`: C - 特売セールの選択
+- 2026-11-15 `atcoder/awc0003/b`: B - 握手の列
+- 2026-11-15 `atcoder/awc0003/a`: A - 商品の品質評価
+- 2026-11-15 `atcoder/abc473/e`: E - K-Divisible Subarrays
+- 2026-11-15 `atcoder/abc379/g`: G - Count Grid 3-coloring
+- 2026-11-15 `atcoder/abc379/f`: F - Buildings 2
+- 2026-11-15 `atcoder/abc379/e`: E - Sum of All Substrings
+- 2026-11-15 `atcoder/abc379/d`: D - Home Garden
+- 2026-11-15 `atcoder/abc379/c`: C - Sowing Stones
+- 2026-11-15 `atcoder/abc379/b`: B - Strawberries
+- 2026-11-15 `atcoder/abc379/a`: A - Cyclic
+- 2026-11-14 `codeforces/223/e`: E. Planar Graph
+- 2026-11-14 `codeforces/223/d`: D. Spider
+- 2026-11-14 `codeforces/223/c`: C. Partial Sums
+- 2026-11-14 `codeforces/223/b`: B. Two Strings
+- 2026-11-14 `codeforces/223/a`: A. Bracket Sequence
+- 2026-11-13 `qoj/3426/17263`: D. Detecting the Missing Ship
 - 2026-11-13 `codeforces/2290/h`: H. Extra Road
 - 2026-11-13 `codeforces/2290/g2`: G2. Lakeside Trail (Hard Version)
 - 2026-11-13 `codeforces/2290/f`: F. Value Counters
@@ -15,6 +70,33 @@ The complete list is available only in the full repository for eligible paid spo
 - 2026-11-13 `codeforces/2290/c`: C. Books on a Shelf
 - 2026-11-13 `codeforces/2290/b`: B. Stubborn Pen
 - 2026-11-13 `codeforces/2290/a`: A. Three Piles
+- 2026-11-13 `codeforces/1188/e`: E. Problem from Red Panda
+- 2026-11-13 `codeforces/1188/d`: D. Make Equal
+- 2026-11-13 `codeforces/1188/c`: C. Array Beauty
+- 2026-11-13 `codeforces/1188/b`: B. Count Pairs
+- 2026-11-13 `codeforces/1188/a2`: A2. Add on a Tree: Revolution
+- 2026-11-13 `codeforces/363/e`: E. Two Circles
+- 2026-11-13 `codeforces/363/d`: D. Renting Bikes
+- 2026-11-13 `codeforces/363/c`: C. Fixing Typos
+- 2026-11-13 `codeforces/363/b`: B. Fence
+- 2026-11-13 `codeforces/363/a`: A. Soroban
+- 2026-11-13 `codeforces/22/e`: E. Scheme
+- 2026-11-13 `codeforces/22/d`: D. Segments
+- 2026-11-13 `codeforces/22/c`: C. System Administrator
+- 2026-11-13 `codeforces/22/b`: B. Bargaining Table
+- 2026-11-13 `codeforces/22/a`: A. Second Order Statistics
+- 2026-11-13 `codeforces/6/e`: E. Exposition
+- 2026-11-13 `codeforces/6/d`: D. Lizards and Basements 2
+- 2026-11-13 `codeforces/6/c`: C. Alice, Bob and Chocolate
+- 2026-11-13 `codeforces/6/b`: B. President's Office
+- 2026-11-13 `codeforces/6/a`: A. Triangle
+- 2026-11-13 `atcoder/abc429/g`: https://atcoder.jp/contests/abc429/tasks/abc429_g
+- 2026-11-13 `atcoder/abc429/f`: F - Shortest Path Query
+- 2026-11-13 `atcoder/abc429/e`: E - Hit and Away
+- 2026-11-13 `atcoder/abc429/d`: D - On AtCoder Conference
+- 2026-11-13 `atcoder/abc429/c`: C - Odd One Subsequence
+- 2026-11-13 `atcoder/abc429/b`: B - N - 1
+- 2026-11-13 `atcoder/abc429/a`: A - Too Many Requests
 - 2026-11-12 `codeforces/1313/e`: E. Concatenation with intersection
 - 2026-11-12 `codeforces/1313/d`: D. Happy New Year
 - 2026-11-12 `codeforces/1313/c2`: C2. Skyscrapers (hard version)
@@ -267,21 +349,3 @@ The complete list is available only in the full repository for eligible paid spo
 - 2026-10-17 `atcoder/abc480/c`: C - Self-Stopping Shower
 - 2026-10-17 `atcoder/abc480/b`: B - Invalid Vote
 - 2026-10-17 `atcoder/abc480/a`: A - ADjacent
-- 2026-10-16 `qoj/4207/20726`: L. Logging Compression
-- 2026-10-16 `codeforces/1236/f`: F. Alice and the Cactus
-- 2026-10-16 `codeforces/1236/e`: E. Alice and the Unfair Game
-- 2026-10-16 `codeforces/1236/d`: D. Alice and the Doll
-- 2026-10-16 `codeforces/1236/c`: C. Labs
-- 2026-10-16 `codeforces/1236/b`: B. Alice and the List of Presents
-- 2026-10-16 `codeforces/1236/a`: A. Stones
-- 2026-10-16 `codeforces/992/e`: E. Nastya and King-Shamans
-- 2026-10-16 `codeforces/992/d`: D. Nastya and a Game
-- 2026-10-16 `codeforces/992/c`: C. Nastya and a Wardrobe
-- 2026-10-16 `codeforces/992/b`: B. Nastya Studies Informatics
-- 2026-10-16 `codeforces/992/a`: A. Nastya and an Array
-- 2026-10-15 `codeforces/2276/f`: F. Permutation Coloring Game
-- 2026-10-15 `codeforces/2276/e`: E. Good Substrings
-- 2026-10-15 `codeforces/2276/d`: D. Caveman
-- 2026-10-15 `codeforces/2276/c`: C. Subarrays
-- 2026-10-15 `codeforces/2276/b`: B. Replace and Compress
-- 2026-10-15 `codeforces/2276/a`: A. Perfect Sandwiches
