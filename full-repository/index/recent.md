@@ -1,6 +1,6 @@
 # Recent
 
-Latest 342 problems.
+Latest 343 problems.
 Selection rule: all problems added within 30 days of the latest addition, or the latest 100 problems, whichever is larger.
 
 This public list is generated from the full repository and includes only the addition date, problem ID, and problem title.
@@ -49,6 +49,7 @@ The complete list is available only in the full repository for eligible paid spo
 - 2026-11-15 `atcoder/awc0003/b`: B - 握手の列
 - 2026-11-15 `atcoder/awc0003/a`: A - 商品の品質評価
 - 2026-11-15 `atcoder/abc473/e`: E - K-Divisible Subarrays
+- 2026-11-15 `atcoder/abc473/d`: D - Coefficient Stair
 - 2026-11-15 `atcoder/abc379/g`: G - Count Grid 3-coloring
 - 2026-11-15 `atcoder/abc379/f`: F - Buildings 2
 - 2026-11-15 `atcoder/abc379/e`: E - Sum of All Substrings
