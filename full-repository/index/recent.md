@@ -1,6 +1,6 @@
 # Recent
 
-Latest 412 problems.
+Latest 419 problems.
 Selection rule: all problems added within 30 days of the latest addition, or the latest 100 problems, whichever is larger.
 
 This public list is generated from the full repository and includes only the addition date, problem ID, and problem title.
@@ -12,6 +12,13 @@ The complete list is available only in the full repository for eligible paid spo
 - 2026-11-23 `atcoder/awc0009/c`: C - りんご収穫
 - 2026-11-23 `atcoder/awc0009/b`: B - ダンジョン探索
 - 2026-11-23 `atcoder/awc0009/a`: A - お買い物の合計金額
+- 2026-11-23 `atcoder/abc420/g`: G - sqrt(n²+n+X)
+- 2026-11-23 `atcoder/abc420/f`: F - kirinuki
+- 2026-11-23 `atcoder/abc420/e`: E - Reachability Query
+- 2026-11-23 `atcoder/abc420/d`: D - Toggle Maze
+- 2026-11-23 `atcoder/abc420/c`: C - Sum of Min Query
+- 2026-11-23 `atcoder/abc420/b`: B - Most Minority
+- 2026-11-23 `atcoder/abc420/a`: A - What month is it?
 - 2026-11-22 `codeforces/788/e`: E. New task
 - 2026-11-22 `codeforces/788/d`: D. Finding lines
 - 2026-11-22 `codeforces/788/c`: C. The Great Mixing
