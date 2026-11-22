@@ -1,12 +1,17 @@
 # Recent
 
-Latest 407 problems.
+Latest 412 problems.
 Selection rule: all problems added within 30 days of the latest addition, or the latest 100 problems, whichever is larger.
 
 This public list is generated from the full repository and includes only the addition date, problem ID, and problem title.
 Difficulty ratings, favorite ratings, solution tags, and links to solution notes are omitted.
 The complete list is available only in the full repository for eligible paid sponsors.
 
+- 2026-11-23 `atcoder/awc0009/e`: E - 気温の変動調査
+- 2026-11-23 `atcoder/awc0009/d`: D - 花の種まき
+- 2026-11-23 `atcoder/awc0009/c`: C - りんご収穫
+- 2026-11-23 `atcoder/awc0009/b`: B - ダンジョン探索
+- 2026-11-23 `atcoder/awc0009/a`: A - お買い物の合計金額
 - 2026-11-22 `codeforces/788/e`: E. New task
 - 2026-11-22 `codeforces/788/d`: D. Finding lines
 - 2026-11-22 `codeforces/788/c`: C. The Great Mixing
