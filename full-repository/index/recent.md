@@ -1,18 +1,128 @@
 # Recent
 
-Latest 334 problems.
+Latest 407 problems.
 Selection rule: all problems added within 30 days of the latest addition, or the latest 100 problems, whichever is larger.
 
 This public list is generated from the full repository and includes only the addition date, problem ID, and problem title.
 Difficulty ratings, favorite ratings, solution tags, and links to solution notes are omitted.
 The complete list is available only in the full repository for eligible paid sponsors.
 
+- 2026-11-22 `codeforces/788/e`: E. New task
+- 2026-11-22 `codeforces/788/d`: D. Finding lines
+- 2026-11-22 `codeforces/788/c`: C. The Great Mixing
+- 2026-11-22 `codeforces/788/b`: B. Weird journey
+- 2026-11-22 `codeforces/788/a`: A. Functions again
+- 2026-11-22 `atcoder/past19-open/past19_o`: O - 15パズル
+- 2026-11-22 `atcoder/past19-open/past19_n`: N - 有限べき級数
+- 2026-11-22 `atcoder/past19-open/past19_m`: M - DAG ゲーム
+- 2026-11-22 `atcoder/past19-open/past19_l`: L - 最長のジグザグ
+- 2026-11-22 `atcoder/past19-open/past19_k`: K - 隣接禁止
+- 2026-11-22 `atcoder/past19-open/past19_j`: J - 3 人組
+- 2026-11-22 `atcoder/past19-open/past19_i`: I - 道の沈没
+- 2026-11-22 `atcoder/past19-open/past19_h`: H - 加算と乗算
+- 2026-11-22 `atcoder/past19-open/past19_g`: G - 結合律
+- 2026-11-22 `atcoder/past19-open/past19_f`: F - ドミノ倒し
+- 2026-11-22 `atcoder/past19-open/past19_e`: E - コメントの除去
+- 2026-11-22 `atcoder/past19-open/past19_d`: D - コンテスト
+- 2026-11-22 `atcoder/past19-open/past19_c`: C - 良さそうな数
+- 2026-11-22 `atcoder/past19-open/past19_b`: B - 入金と出金
+- 2026-11-22 `atcoder/past19-open/past19_a`: A - 毎時運行
+- 2026-11-22 `atcoder/awc0008/e`: E - 本棚の整理
+- 2026-11-22 `atcoder/awc0008/d`: D - 果樹園の収穫
+- 2026-11-22 `atcoder/awc0008/c`: C - センサーデータの異常検知
+- 2026-11-22 `atcoder/awc0008/b`: B - 海から見える建物
+- 2026-11-22 `atcoder/awc0008/a`: A - 花壇の植え付け
+- 2026-11-22 `atcoder/awc0007/e`: E - 倉庫ロボットの配送
+- 2026-11-22 `atcoder/awc0007/d`: D - 広告エリアの重複調査
+- 2026-11-22 `atcoder/awc0007/c`: C - グループ対抗勝ち抜き戦
+- 2026-11-22 `atcoder/awc0007/b`: B - 共同研究できる研究室
+- 2026-11-22 `atcoder/awc0007/a`: A - 配送トラックの選択
+- 2026-11-22 `atcoder/awc0006/e`: E - 店舗売上管理
+- 2026-11-22 `atcoder/awc0006/d`: D - 警備員の配置
+- 2026-11-22 `atcoder/awc0006/c`: C - エアコンの温度調整
+- 2026-11-22 `atcoder/awc0006/b`: B - 効率の良いクエスト
+- 2026-11-22 `atcoder/awc0006/a`: A - 的当てゲーム
+- 2026-11-22 `atcoder/arc234/d`: D - Greedy Balancer
+- 2026-11-22 `atcoder/arc234/c`: C - Blindfolded Cubing
+- 2026-11-22 `atcoder/arc234/b`: B - Three Vertices
+- 2026-11-22 `atcoder/arc234/a`: A - Reverse, Recurse
+- 2026-11-22 `atcoder/abc415/g`: https://atcoder.jp/contests/abc415/tasks/abc415_g
+- 2026-11-22 `atcoder/abc415/f`: F - Max Combo
+- 2026-11-22 `atcoder/abc415/e`: E - Hungry Takahashi
+- 2026-11-22 `atcoder/abc415/d`: D - Get Many Stickers
+- 2026-11-22 `atcoder/abc415/c`: C - Mixture
+- 2026-11-22 `atcoder/abc415/a`: A - Unsupported Type
+- 2026-11-21 `atcoder/awc0205/e`: E - 燃料補給の旅
+- 2026-11-21 `atcoder/awc0205/d`: D - 接続容器の色配置
+- 2026-11-21 `atcoder/awc0205/c`: C - 果樹園の収穫計画
+- 2026-11-21 `atcoder/awc0205/b`: B - 変わらなかった時間
+- 2026-11-21 `atcoder/awc0205/a`: A - 布団の組
+- 2026-11-21 `atcoder/awc0005/e`: E - 山の高さ調査
+- 2026-11-21 `atcoder/awc0005/d`: D - 配達ルートの分割
+- 2026-11-21 `atcoder/awc0005/c`: C - 階段状の花壇
+- 2026-11-21 `atcoder/awc0005/b`: B - 成績表の更新
+- 2026-11-21 `atcoder/awc0005/a`: A - 倍数の報酬
+- 2026-11-20 `atcoder/awc0204/e`: E - 偶数個のスイッチで変える方眼
+- 2026-11-20 `atcoder/awc0204/d`: D - 展示台の高さと製作料金
+- 2026-11-20 `atcoder/awc0204/c`: C - 価格改定
+- 2026-11-20 `atcoder/awc0204/b`: B - 最初の仮眠
+- 2026-11-20 `atcoder/awc0204/a`: A - 電流は流れるか
+- 2026-11-20 `atcoder/awc0203/e`: E - 三本先を切り離す閉鎖
+- 2026-11-20 `atcoder/awc0203/d`: D - 三本のひもと偶数個の切れ端
+- 2026-11-20 `atcoder/awc0203/c`: C - 最も売れる期間
+- 2026-11-20 `atcoder/awc0203/b`: B - ビルの高さ
+- 2026-11-20 `atcoder/awc0203/a`: A - 錬金術の材料
+- 2026-11-20 `atcoder/awc0202/e`: E - 配達ロボットの巡回
+- 2026-11-20 `atcoder/awc0202/d`: D - 警備の配置
+- 2026-11-20 `atcoder/awc0202/c`: C - 電車の連結順序
+- 2026-11-20 `atcoder/awc0202/b`: B - K 回目の出航
+- 2026-11-20 `atcoder/awc0202/a`: A - 朗読の評価
+- 2026-11-20 `atcoder/abc376/g`: G - Treasure Hunting
+- 2026-11-20 `atcoder/abc376/f`: F - Hands on Ring (Hard)
+- 2026-11-20 `atcoder/abc376/e`: E - Max × Sum
+- 2026-11-20 `atcoder/abc376/d`: D - Cycle
+- 2026-11-20 `atcoder/abc376/c`: C - Prepare Another Box
+- 2026-11-20 `atcoder/abc376/b`: B - Hands on Ring (Easy)
+- 2026-11-20 `atcoder/abc376/a`: A - Candy Button
+- 2026-11-18 `codeforces/827/f`: F. Dirty Arkady's Kitchen
+- 2026-11-18 `codeforces/827/e`: E. Rusty String
+- 2026-11-18 `codeforces/827/d`: D. Best Edge Weight
+- 2026-11-18 `codeforces/827/c`: C. DNA Evolution
+- 2026-11-18 `codeforces/827/b`: B. High Load
+- 2026-11-18 `codeforces/827/a`: A. String Reconstruction
+- 2026-11-18 `codeforces/702/f`: F. T-Shirts
+- 2026-11-18 `codeforces/702/e`: E. Analysis of Pathes in Functional Graph
+- 2026-11-18 `codeforces/702/d`: D. Road to Post Office
+- 2026-11-18 `codeforces/702/c`: C. Cellular Network
+- 2026-11-18 `codeforces/702/b`: B. Powers of Two
+- 2026-11-18 `codeforces/702/a`: A. Maximum Increase
+- 2026-11-17 `codeforces/1446/f`: F. Line Distance
+- 2026-11-17 `codeforces/1446/e`: E. Long Recovery
+- 2026-11-17 `atcoder/awc0201/e`: E - 荷物の運搬
+- 2026-11-17 `atcoder/awc0201/d`: D - アイテムの整理
+- 2026-11-17 `atcoder/awc0201/c`: C - 水の流れ
+- 2026-11-17 `atcoder/awc0201/b`: B - 折れたネガ
+- 2026-11-17 `atcoder/awc0201/a`: A - 給料と返済
+- 2026-11-17 `atcoder/awc0045/e`: E - 区間の評価値
+- 2026-11-17 `atcoder/awc0045/d`: D - 細胞分裂
+- 2026-11-17 `atcoder/awc0045/c`: C - 水やり当番
+- 2026-11-17 `atcoder/awc0045/b`: B - 本棚の並び順
+- 2026-11-17 `atcoder/awc0045/a`: A - イベント払い戻し
 - 2026-11-16 `codeforces/2285/f`: F. Mooclear Reactor 3
 - 2026-11-16 `codeforces/2285/e`: E. Arithmetic Subarray
 - 2026-11-16 `codeforces/2285/d`: D. Reverse Partition
 - 2026-11-16 `codeforces/2285/c`: C. Max Substitution
 - 2026-11-16 `codeforces/2285/b`: B. Diverse String
 - 2026-11-16 `codeforces/2285/a`: A. Composite Permutation
+- 2026-11-16 `codeforces/2163/e`: E. Plegma
+- 2026-11-16 `codeforces/2163/d2`: D2. Diadrash (Hard Version)
+- 2026-11-16 `codeforces/2163/c`: C. Monopati
+- 2026-11-16 `codeforces/2163/b`: B. Siga ta Kymata
+- 2026-11-16 `codeforces/2163/a`: A. Souvlaki VS. Kalamaki
+- 2026-11-16 `codeforces/1446/d2`: D2. Frequency Problem (Hard Version)
+- 2026-11-16 `codeforces/1446/c`: C. Xor Tree
+- 2026-11-16 `codeforces/1446/b`: B. Catching Cheaters
+- 2026-11-16 `codeforces/1446/a`: A. Knapsack
 - 2026-11-15 `codeforces/1344/f`: F. Piet's Palette
 - 2026-11-15 `codeforces/1344/e`: E. Train Tracks
 - 2026-11-15 `codeforces/1344/d`: D. Résumé Review
@@ -304,40 +414,3 @@ The complete list is available only in the full repository for eligible paid spo
 - 2026-10-25 `atcoder/arc233/c`: C - Equal Degree Deletion
 - 2026-10-25 `atcoder/arc233/b`: B - Count of Euclid Function Call
 - 2026-10-25 `atcoder/arc233/a`: A - Strange Subset Sum
-- 2026-10-23 `yukicoder/3561`: No.3561 Collect KCPC
-- 2026-10-23 `yukicoder/3366`: No.3366 Reversible Tile:Revival
-- 2026-10-23 `yukicoder/2562`: No.2562 数字探しゲーム（緑以下コンver.）
-- 2026-10-23 `yukicoder/1826`: No.1826 Fruits Collecting
-- 2026-10-23 `yukicoder/1559`: No.1559 Next Rational
-- 2026-10-23 `yukicoder/1400`: No.1400 すごろくで世界旅行
-- 2026-10-22 `codeforces/1215/f`: F. Radio Stations
-- 2026-10-22 `codeforces/1215/e`: E. Marbles
-- 2026-10-22 `codeforces/1215/d`: D. Ticket Game
-- 2026-10-22 `codeforces/1215/c`: C. Swap Letters
-- 2026-10-22 `codeforces/1215/b`: B. The Number of Products
-- 2026-10-22 `codeforces/1215/a`: A. Yellow Cards
-- 2026-10-22 `codeforces/1168/e`: E. Xor Permutations
-- 2026-10-22 `codeforces/1168/d`: D. Anagram Paths
-- 2026-10-22 `codeforces/1168/c`: C. And Reachability
-- 2026-10-22 `codeforces/1168/b`: B. Good Triple
-- 2026-10-22 `codeforces/1168/a`: A. Increasing by Modulo
-- 2026-10-22 `codeforces/429/e`: E. Points and Segments
-- 2026-10-22 `codeforces/429/d`: D. Tricky Function
-- 2026-10-22 `codeforces/429/c`: C. Guess the Tree
-- 2026-10-22 `codeforces/429/b`: B. Working out
-- 2026-10-22 `codeforces/429/a`: A. Xor-tree
-- 2026-10-21 `qoj/4576/22887`: K. Iridescent Universe 3
-- 2026-10-21 `qoj/4576/22884`: H. Idols and Fans
-- 2026-10-21 `qoj/4576/22881`: E. Subset Sums
-- 2026-10-21 `qoj/4576/22880`: D. Guess the Graph
-- 2026-10-19 `qoj/4126/20260`: M. Minecraft Spiderweb
-- 2026-10-19 `qoj/3426/17270`: K. Kitchen
-- 2026-10-19 `qoj/3426/17267`: H. Helpful Bits
-- 2026-10-19 `qoj/3426/17262`: C. Cell Flip Game
-- 2026-10-19 `qoj/2661/15313`: M. Replacement
-- 2026-10-18 `codeforces/2261/g`: G. 1 2 3 and XOR, Where Did Everybody Go?
-- 2026-10-18 `codeforces/2261/e`: E. What Does the Cow Say?
-- 2026-10-18 `codeforces/2261/d2`: D2. Come Be My Friend, Don't Be So Scared (Hard Version)
-- 2026-10-18 `codeforces/2261/c`: C. I Know About a Million Things
-- 2026-10-18 `codeforces/2261/b`: B. What's the Capital of France?
-- 2026-10-18 `codeforces/2261/a`: A. Hey, It's Me, Souvlakity
