@@ -1,17 +1,39 @@
 # Recent
 
-Latest 419 problems.
+Latest 426 problems.
 Selection rule: all problems added within 30 days of the latest addition, or the latest 100 problems, whichever is larger.
 
 This public list is generated from the full repository and includes only the addition date, problem ID, and problem title.
 Difficulty ratings, favorite ratings, solution tags, and links to solution notes are omitted.
 The complete list is available only in the full repository for eligible paid sponsors.
 
+- 2026-11-24 `atcoder/scpc2026-div1/scpc2026_div1_l`: L - Lulu, the Magician
+- 2026-11-24 `atcoder/scpc2026-div1/scpc2026_div1_k`: K - Storing Roll Cake
+- 2026-11-24 `atcoder/scpc2026-div1/scpc2026_div1_j`: J - ChannelTalk Workflow
+- 2026-11-24 `atcoder/scpc2026-div1/scpc2026_div1_i`: I - Tree, Game, and Query
+- 2026-11-24 `atcoder/scpc2026-div1/scpc2026_div1_d`: D - Mobilint Tensor Scheduling (ARIES)
+- 2026-11-24 `atcoder/scpc2026-div1/scpc2026_div1_c`: C - SCSC Magical Garden
+- 2026-11-24 `atcoder/scpc2026-div1/scpc2026_div1_b`: B - Sushisushi Ruins
+- 2026-11-24 `atcoder/scpc2026-div1/scpc2026_div1_a`: A - CUBRID HA Load Balance
+- 2026-11-23 `atcoder/scpc2026-div1/scpc2026_div1_g`: G - 오fill
+- 2026-11-23 `atcoder/scpc2026-div1/scpc2026_div1_f`: F - Connecting Chips
+- 2026-11-23 `atcoder/awc0010/e`: E - 展示会のブース配置
+- 2026-11-23 `atcoder/awc0010/d`: D - 岩の破壊
+- 2026-11-23 `atcoder/awc0010/c`: C - 山小屋の連絡路
+- 2026-11-23 `atcoder/awc0010/b`: B - ピアノ練習
+- 2026-11-23 `atcoder/awc0010/a`: A - サーバーへのリクエスト分散
 - 2026-11-23 `atcoder/awc0009/e`: E - 気温の変動調査
 - 2026-11-23 `atcoder/awc0009/d`: D - 花の種まき
 - 2026-11-23 `atcoder/awc0009/c`: C - りんご収穫
 - 2026-11-23 `atcoder/awc0009/b`: B - ダンジョン探索
 - 2026-11-23 `atcoder/awc0009/a`: A - お買い物の合計金額
+- 2026-11-23 `atcoder/abc441/g`: G - Takoyaki and Flip
+- 2026-11-23 `atcoder/abc441/f`: F - Must Buy
+- 2026-11-23 `atcoder/abc441/e`: E - A > B substring
+- 2026-11-23 `atcoder/abc441/d`: D - Paid Walk
+- 2026-11-23 `atcoder/abc441/c`: C - Sake or Water
+- 2026-11-23 `atcoder/abc441/b`: B - Two Languages
+- 2026-11-23 `atcoder/abc441/a`: A - Black Square
 - 2026-11-23 `atcoder/abc420/g`: G - sqrt(n²+n+X)
 - 2026-11-23 `atcoder/abc420/f`: F - kirinuki
 - 2026-11-23 `atcoder/abc420/e`: E - Reachability Query
@@ -411,18 +433,3 @@ The complete list is available only in the full repository for eligible paid spo
 - 2026-10-26 `codeforces/280/c`: C. Game on Tree
 - 2026-10-26 `codeforces/280/b`: B. Maximum Xor Secondary
 - 2026-10-26 `codeforces/280/a`: A. Rectangle Puzzle
-- 2026-10-25 `qoj/4593/20062`: L. Lucid Traveler
-- 2026-10-25 `qoj/4593/20059`: I. Incyde
-- 2026-10-25 `qoj/4593/20056`: F. False Amber
-- 2026-10-25 `codeforces/1566/h`: H. Xor-quiz
-- 2026-10-25 `codeforces/1566/g`: G. Four Vertices
-- 2026-10-25 `codeforces/1566/f`: F. Points Movement
-- 2026-10-25 `codeforces/1566/e`: E. Buds Re-hanging
-- 2026-10-25 `codeforces/1566/d2`: D2. Seating Arrangements (hard version)
-- 2026-10-25 `codeforces/1566/c`: C. MAX-MEX Cut
-- 2026-10-25 `codeforces/1566/b`: B. MIN-MEX Cut
-- 2026-10-25 `codeforces/1566/a`: A. Median Maximization
-- 2026-10-25 `atcoder/arc233/d`: D - Zigzag Code for Cubic Functions
-- 2026-10-25 `atcoder/arc233/c`: C - Equal Degree Deletion
-- 2026-10-25 `atcoder/arc233/b`: B - Count of Euclid Function Call
-- 2026-10-25 `atcoder/arc233/a`: A - Strange Subset Sum
