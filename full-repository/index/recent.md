@@ -1,12 +1,17 @@
 # Recent
 
-Latest 426 problems.
+Latest 461 problems.
 Selection rule: all problems added within 30 days of the latest addition, or the latest 100 problems, whichever is larger.
 
 This public list is generated from the full repository and includes only the addition date, problem ID, and problem title.
 Difficulty ratings, favorite ratings, solution tags, and links to solution notes are omitted.
 The complete list is available only in the full repository for eligible paid sponsors.
 
+- 2026-11-24 `codeforces/348/e`: E. Pilgrims
+- 2026-11-24 `codeforces/348/d`: D. Turtles
+- 2026-11-24 `codeforces/348/c`: C. Subset Sums
+- 2026-11-24 `codeforces/348/b`: B. Apple Tree
+- 2026-11-24 `codeforces/348/a`: A. Mafia
 - 2026-11-24 `atcoder/scpc2026-div1/scpc2026_div1_l`: L - Lulu, the Magician
 - 2026-11-24 `atcoder/scpc2026-div1/scpc2026_div1_k`: K - Storing Roll Cake
 - 2026-11-24 `atcoder/scpc2026-div1/scpc2026_div1_j`: J - ChannelTalk Workflow
@@ -15,6 +20,36 @@ The complete list is available only in the full repository for eligible paid spo
 - 2026-11-24 `atcoder/scpc2026-div1/scpc2026_div1_c`: C - SCSC Magical Garden
 - 2026-11-24 `atcoder/scpc2026-div1/scpc2026_div1_b`: B - Sushisushi Ruins
 - 2026-11-24 `atcoder/scpc2026-div1/scpc2026_div1_a`: A - CUBRID HA Load Balance
+- 2026-11-24 `atcoder/pakencamp-2023-day2/pakencamp_2023_day2_h`: H - Two PCities
+- 2026-11-24 `atcoder/pakencamp-2023-day2/pakencamp_2023_day2_g`: G - Reducing x K
+- 2026-11-24 `atcoder/pakencamp-2023-day2/pakencamp_2023_day2_f`: F - Make it incomplete
+- 2026-11-24 `atcoder/pakencamp-2023-day2/pakencamp_2023_day2_e`: E - Is Either 1?
+- 2026-11-24 `atcoder/pakencamp-2023-day2/pakencamp_2023_day2_d`: D - Many Dungeons
+- 2026-11-24 `atcoder/pakencamp-2023-day2/pakencamp_2023_day2_c`: C - Arithmetic Progression and ...
+- 2026-11-24 `atcoder/pakencamp-2023-day2/pakencamp_2023_day2_b`: B - Salesman X
+- 2026-11-24 `atcoder/codequeen2025-final-public/codequeen2025_final_h`: H - ライブ
+- 2026-11-24 `atcoder/codequeen2025-final-public/codequeen2025_final_g`: G - 全国ツアー
+- 2026-11-24 `atcoder/codequeen2025-final-public/codequeen2025_final_f`: F - アクリルスタンド
+- 2026-11-24 `atcoder/codequeen2025-final-public/codequeen2025_final_e`: E - ブレスレット
+- 2026-11-24 `atcoder/codequeen2025-final-public/codequeen2025_final_d`: D - 特訓
+- 2026-11-24 `atcoder/codequeen2025-final-public/codequeen2025_final_c`: C - 整理券
+- 2026-11-24 `atcoder/codequeen2025-final-public/codequeen2025_final_b`: B - カップリング選抜
+- 2026-11-24 `atcoder/codequeen2025-final-public/codequeen2025_final_a`: A - ファンレター
+- 2026-11-24 `atcoder/awc0206/e`: E - ジャンプアクション
+- 2026-11-24 `atcoder/awc0206/d`: D - 素材が減る放送局
+- 2026-11-24 `atcoder/awc0206/c`: C - 電子すごろく
+- 2026-11-24 `atcoder/awc0206/b`: B - 式場の空席
+- 2026-11-24 `atcoder/awc0206/a`: A - ボウリングの記録
+- 2026-11-24 `atcoder/awc0012/e`: E - 石渡りゲーム
+- 2026-11-24 `atcoder/awc0012/d`: D - 迷路からの脱出
+- 2026-11-24 `atcoder/awc0012/c`: C - チーム編成
+- 2026-11-24 `atcoder/awc0012/b`: B - 工場の品質検査
+- 2026-11-24 `atcoder/awc0012/a`: A - 台風の被害調査
+- 2026-11-24 `atcoder/awc0011/e`: E - 宝箱の選択
+- 2026-11-24 `atcoder/awc0011/d`: D - 家系図と遺産
+- 2026-11-24 `atcoder/awc0011/c`: C - チームの最大人数
+- 2026-11-24 `atcoder/awc0011/b`: B - モザイクアートの作成
+- 2026-11-24 `atcoder/awc0011/a`: A - 桜並木の散歩
 - 2026-11-23 `atcoder/scpc2026-div1/scpc2026_div1_g`: G - 오fill
 - 2026-11-23 `atcoder/scpc2026-div1/scpc2026_div1_f`: F - Connecting Chips
 - 2026-11-23 `atcoder/awc0010/e`: E - 展示会のブース配置
